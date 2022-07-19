@@ -1,0 +1,10 @@
+huggingface-hub==0.0.8
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+tensorflow-addons==0.11.2
+tensorflow-gpu==2.3.0
+tensorflow-probability==0.11.1
+tokenizers==0.10.2
+tqdm==4.56.0
+transformers==4.6.1
+deasy-learning-generic>=0.1
