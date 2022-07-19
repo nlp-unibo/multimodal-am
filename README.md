@@ -17,7 +17,7 @@ The corpora can be retrieved from the following links:
 
 * UKDebates (in this repo is named as `arg_aaai2016`): http://argumentationmining.disi.unibo.it/aaai2016.html
 * M-Arg: https://github.com/rafamestre/m-arg_multimodal-argumentation-dataset
-* MM-USElecDeb60to16: **LINK**
+* MM-USElecDeb60to16: **to be released**
 
 ## Displaying Configurations
 
