@@ -8,22 +8,13 @@
     number of chunks into which the original audio file of the debate was divided. The alignment was performed with 
     _aeneas_. For more details on the structure of _.json_ files, please visit the 
     [aenas documentation](https://www.readbeyond.it/aeneas/docs/).
-  - [audio_clips](files/audio_clips): the folder is empty. After the clips have been generated, this folder will contain
-    several sub-folders (one per debate), each of which will contain as many clips as there are text samples in the 
-    dataset for the specific debate.
   - [datasets](files/datasets): the folder contains several sub-folders (one per debate). Each sub-folder contains 
     several _.csv_ files representing the intermediate results of the final dataset construction process. In addition, 
     for each debate there is a _duplicates.txt_ file containing the duplicated sentences and the number of occurrences.
     In addition, there is a YesWeCan folder containing the contents of the original dataset
     ([USElecDeb60to16](https://github.com/ElecDeb60To16/Dataset)). 
-  - [debates_audio_recordings](files/debates_audio_recordings): folder is empty and will be populated with several 
-    sub-folders (one per debate). Each subfolder will contain:
-    - a _splits_ subfolder containing the new audio files after 
-      splitting into chunks
-    - a version of the audio file __trim.wav_ corresponding to the trimmed version of the original 
-    - audio file, and the original audio file
   - [MM-USElecDeb60to16](files/MM-USElecDeb60to16): is the official dataset folder. It currently contains the _.csv_ 
-    file corresponding to the new dataset and an empty `audio_clips` folder that will be populated after downloading 
+    file corresponding to the new dataset and a `audio_clips` folder that will be created/populated after downloading 
     and processing the audio files with the files in the `files/audio_clips` folder. 
   - [transcripts](files/transcripts): the folder contains several sub-folders (one per debate). Each sub-folder contains: 
     - the original transcript
@@ -49,8 +40,18 @@
 ## Usage
 - Download the folder `multimodal-debates`
 - Install all the required packages. List of required packages can be found at `requirements.txt`(files/requirements.txt)
-- Run [audio_pipepline.py](files/audio_pipeline.py)
-- The dataset will be available in the following folder [MM-USElecDeb60to16](files/MM-USElecDeb60to16)
+- Run [audio_pipepline.py](files/audio_pipeline.py). While running the script, several folders will be created: 
+  - [audio_clips](files/audio_clips): After the clips have been generated, this folder will contain
+    several sub-folders (one per debate), each of which will contain as many clips as there are text samples in the 
+    dataset for the specific debate.
+  - [debates_audio_recordings](files/debates_audio_recordings): folder is empty and will be populated with several 
+    sub-folders (one per debate). Each subfolder will contain:
+    - a _splits_ subfolder containing the new audio files after 
+      splitting into chunks
+    - a version of the audio file __trim.wav_ corresponding to the trimmed version of the original 
+    - audio file, and the original audio file
+    
+- The dataset will be available in the following folder [MM-USElecDeb60to16](files/MM-USElecDeb60to16). 
 
 ## Dataset Description
 In addition to the information present in the original dataset (please, see 
