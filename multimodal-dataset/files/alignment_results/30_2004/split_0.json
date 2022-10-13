@@ -1,0 +1,2224 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "5.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from Case Western Reserve University's Veale Center here in Cleveland, Ohio."
+   ]
+  },
+  {
+   "begin": "5.960",
+   "children": [],
+   "end": "21.640",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Gwen Ifill of \"The NewsHour\" and \"Washington Week\" on PBS, and I welcome you to the first and the only vice presidential debate between Vice President Dick Cheney, the Republican nominee, and Senator John Edwards, the Democratic nominee."
+   ]
+  },
+  {
+   "begin": "21.640",
+   "children": [],
+   "end": "25.000",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "These debates are sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "25.000",
+   "children": [],
+   "end": "32.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Tonight's will last 90 minutes, following detailed rules of engagement worked out by representatives of the candidates."
+   ]
+  },
+  {
+   "begin": "32.640",
+   "children": [],
+   "end": "38.880",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "I have agreed to enforce the rules they have devised for themselves to the best of my ability."
+   ]
+  },
+  {
+   "begin": "38.880",
+   "children": [],
+   "end": "46.240",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "The questions tonight will be divided between foreign and domestic policy, but the specific topics were chosen by me."
+   ]
+  },
+  {
+   "begin": "46.240",
+   "children": [],
+   "end": "49.320",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The candidates have not been told what they are."
+   ]
+  },
+  {
+   "begin": "49.320",
+   "children": [],
+   "end": "59.840",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "The rules: For each question, there can be only a two- minute response, a 90-second rebuttal and, at my discretion, a discussion extension of one minute."
+   ]
+  },
+  {
+   "begin": "59.840",
+   "children": [],
+   "end": "70.320",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "A green light will come on when 30 seconds remain in any given answer, yellow at 15 seconds, red at five seconds, and then flashing red means time's up."
+   ]
+  },
+  {
+   "begin": "70.320",
+   "children": [],
+   "end": "74.080",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "There's also a back-up buzzer system, if needed."
+   ]
+  },
+  {
+   "begin": "74.080",
+   "children": [],
+   "end": "77.080",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Candidates may not direct questions to one another."
+   ]
+  },
+  {
+   "begin": "77.080",
+   "children": [],
+   "end": "81.480",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "There will be two-minute closing statements, but no opening statements."
+   ]
+  },
+  {
+   "begin": "81.480",
+   "children": [],
+   "end": "87.240",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "There is an audience here in the hall, but they have been instructed to remain silent throughout."
+   ]
+  },
+  {
+   "begin": "87.240",
+   "children": [],
+   "end": "94.520",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "The order of the first question was determined by the candidates in advance, and the first one goes to Vice President Cheney."
+   ]
+  },
+  {
+   "begin": "94.520",
+   "children": [],
+   "end": "100.480",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Vice President Cheney, there have been new developments in Iraq, especially having to do with the administration's handling."
+   ]
+  },
+  {
+   "begin": "100.480",
+   "children": [],
+   "end": "108.880",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Paul Bremer, the former head of the Coalition Provisional Authority, gave a speech in which he said that we have never had enough troops on the ground, or we've never had enough troops on the ground."
+   ]
+  },
+  {
+   "begin": "108.880",
+   "children": [],
+   "end": "115.800",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "Donald Rumsfeld said he has not seen any hard evidence of a link between Al Qaida and Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "115.800",
+   "children": [],
+   "end": "126.520",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Was this approved -- of a report that you requested that you received a week ago that showed there was no connection between Abu Musab al-Zarqawi and Saddam Hussein?"
+   ]
+  },
+  {
+   "begin": "126.520",
+   "children": [],
+   "end": "131.080",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Gwen, I want to thank you, and I want to thank the folks here at Case Western Reserve for hosting this tonight."
+   ]
+  },
+  {
+   "begin": "131.080",
+   "children": [],
+   "end": "134.400",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "It's a very important event, and they've done a superb job of putting it together."
+   ]
+  },
+  {
+   "begin": "134.400",
+   "children": [],
+   "end": "140.560",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "It's important to look at all of our developments in Iraq within the broader context of the global war on terror."
+   ]
+  },
+  {
+   "begin": "140.560",
+   "children": [],
+   "end": "158.920",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "And, after 9/11, it became clear that we had to do several things to have a successful strategy to win the global war on terror, specifically that we had to go after the terrorists wherever we might find them, that we also had to go after state sponsors of terror, those who might provide sanctuary or safe harbor for terror."
+   ]
+  },
+  {
+   "begin": "158.920",
+   "children": [],
+   "end": "172.920",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "And we also then finally had to stand up democracies in their stead afterwards, because that was the only way to guarantee that these states would not again become safe harbors for terror or for the development of deadly weapons."
+   ]
+  },
+  {
+   "begin": "172.920",
+   "children": [],
+   "end": "191.600",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Concern about Iraq specifically focused on the fact that Saddam Hussein had been, for years, listed on the state sponsor of terror, that they he had established relationships with Abu Nidal, who operated out of Baghdad; he paid $25,000 to the families of suicide bombers; and he had an established relationship with Al Qaida."
+   ]
+  },
+  {
+   "begin": "191.600",
+   "children": [],
+   "end": "200.800",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Specifically, look at George Tenet, the CIA director's testimony before the Committee on Foreign Relations two years ago when he talked about a 10-year relationship."
+   ]
+  },
+  {
+   "begin": "200.800",
+   "children": [],
+   "end": "214.040",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "The effort that we've mounted with respect to Iraq focused specifically on the possibility that this was the most likely nexus between the terrorists and weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "214.040",
+   "children": [],
+   "end": "224.080",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "The biggest threat we faced today is the possibility of terrorists smuggling a nuclear weapon or a biological agent into one of our own cities and threatening the lives of hundreds of thousands of Americans."
+   ]
+  },
+  {
+   "begin": "224.080",
+   "children": [],
+   "end": "226.880",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "What we did in Iraq was exactly the right thing to do."
+   ]
+  },
+  {
+   "begin": "226.880",
+   "children": [],
+   "end": "231.560",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "If I had it to recommend all over again, I would recommend exactly the same course of action."
+   ]
+  },
+  {
+   "begin": "231.560",
+   "children": [],
+   "end": "237.560",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "The world is far safer today because Saddam Hussein is in jail, his government is no longer in power."
+   ]
+  },
+  {
+   "begin": "237.560",
+   "children": [],
+   "end": "239.640",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "And we did exactly the right thing."
+   ]
+  },
+  {
+   "begin": "239.640",
+   "children": [],
+   "end": "241.720",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Senator Edwards, you have 90 seconds to respond."
+   ]
+  },
+  {
+   "begin": "241.720",
+   "children": [],
+   "end": "242.120",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "242.120",
+   "children": [],
+   "end": "244.000",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "Thank you, Gwen, for moderating this debate."
+   ]
+  },
+  {
+   "begin": "244.000",
+   "children": [],
+   "end": "249.880",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Thank you to the folks of Case Western and all the people in Ohio for having us here."
+   ]
+  },
+  {
+   "begin": "249.880",
+   "children": [],
+   "end": "254.320",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, you are still not being straight with the American people."
+   ]
+  },
+  {
+   "begin": "254.320",
+   "children": [],
+   "end": "266.800",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "I mean, the reality you and George Bush continue to tell people, first, that things are going well in Iraq -- the American people don't need us to explain this to them, they see it on their television every single day."
+   ]
+  },
+  {
+   "begin": "266.800",
+   "children": [],
+   "end": "277.000",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "We lost more troops in September than we lost in August; lost more in August than we lost in July; lost more in July than we lost in June."
+   ]
+  },
+  {
+   "begin": "277.000",
+   "children": [],
+   "end": "281.080",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "The truth is, our men and women in uniform have been heroic."
+   ]
+  },
+  {
+   "begin": "281.080",
+   "children": [],
+   "end": "284.960",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Our military has done everything they've been asked to do."
+   ]
+  },
+  {
+   "begin": "284.960",
+   "children": [],
+   "end": "287.960",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "And it's not just me that sees the mess in Iraq."
+   ]
+  },
+  {
+   "begin": "287.960",
+   "children": [],
+   "end": "297.000",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "There are Republican leaders, like John McCain, like Richard Lugar, like Chuck Hagel, who have said Iraq is a mess and it's getting worse."
+   ]
+  },
+  {
+   "begin": "297.000",
+   "children": [],
+   "end": "302.680",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "And when they were asked why, Richard Lugar said because of the incompetence of the administration."
+   ]
+  },
+  {
+   "begin": "302.680",
+   "children": [],
+   "end": "308.240",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "What Paul Bremer said yesterday is they didn't have enough troops to secure the country."
+   ]
+  },
+  {
+   "begin": "308.240",
+   "children": [],
+   "end": "311.680",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "They also didn't have a plan to win the peace."
+   ]
+  },
+  {
+   "begin": "311.680",
+   "children": [],
+   "end": "315.720",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "They also didn't put the alliances together to make this successful."
+   ]
+  },
+  {
+   "begin": "315.720",
+   "children": [],
+   "end": "317.160",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "We need a fresh start."
+   ]
+  },
+  {
+   "begin": "317.160",
+   "children": [],
+   "end": "322.680",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "We need a president who will speed up the training of the Iraqis, get more staff in for doing that."
+   ]
+  },
+  {
+   "begin": "322.680",
+   "children": [],
+   "end": "327.440",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "We need to speed up the reconstruction so the Iraqis see some tangible benefit."
+   ]
+  },
+  {
+   "begin": "327.440",
+   "children": [],
+   "end": "332.520",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "We need a new president who has the credibility, which John Kerry has, to bring others into this effort."
+   ]
+  },
+  {
+   "begin": "332.520",
+   "children": [],
+   "end": "334.880",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "You have 30 seconds to respond, Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "334.880",
+   "children": [],
+   "end": "337.200",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "We've made significant progress in Iraq."
+   ]
+  },
+  {
+   "begin": "337.200",
+   "children": [],
+   "end": "340.720",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "We've stood up a new government that's been in power now only 90 days."
+   ]
+  },
+  {
+   "begin": "340.720",
+   "children": [],
+   "end": "352.840",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "The notion of additional troops is talked about frequently, but the point of success in Iraq will be reached when we have turned governance over to the Iraqi people; they have been able to establish a democratic government."
+   ]
+  },
+  {
+   "begin": "352.840",
+   "children": [],
+   "end": "354.040",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "They're well on their way to doing that."
+   ]
+  },
+  {
+   "begin": "354.040",
+   "children": [],
+   "end": "357.200",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "They will have free elections next January for the first time in history."
+   ]
+  },
+  {
+   "begin": "357.200",
+   "children": [],
+   "end": "361.920",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "We also are actively, rapidly training Iraqis to take on the security responsibility."
+   ]
+  },
+  {
+   "begin": "361.920",
+   "children": [],
+   "end": "365.360",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Those two steps are crucial to success in Iraq."
+   ]
+  },
+  {
+   "begin": "365.360",
+   "children": [],
+   "end": "366.920",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "They're well in hand, well under way."
+   ]
+  },
+  {
+   "begin": "366.920",
+   "children": [],
+   "end": "369.720",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And I'm confident that, in fact, we'll get the job done."
+   ]
+  },
+  {
+   "begin": "369.720",
+   "children": [],
+   "end": "371.360",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "You have 30 seconds, Senator."
+   ]
+  },
+  {
+   "begin": "371.360",
+   "children": [],
+   "end": "371.640",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "371.640",
+   "children": [],
+   "end": "377.600",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, there is no connection between the attacks of September 11th and Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "377.600",
+   "children": [],
+   "end": "379.840",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "The 9/11 Commission has said it."
+   ]
+  },
+  {
+   "begin": "379.840",
+   "children": [],
+   "end": "382.760",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Your own secretary of state has said it."
+   ]
+  },
+  {
+   "begin": "382.760",
+   "children": [],
+   "end": "386.280",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "And you've gone around the country suggesting that there is some connection."
+   ]
+  },
+  {
+   "begin": "386.280",
+   "children": [],
+   "end": "387.280",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "There is not."
+   ]
+  },
+  {
+   "begin": "387.280",
+   "children": [],
+   "end": "394.840",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "And in fact the CIA is now about to report that the connection between Al Qaida and Saddam Hussein is tenuous at best."
+   ]
+  },
+  {
+   "begin": "394.840",
+   "children": [],
+   "end": "400.920",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "And, in fact, the secretary of defense said yesterday that he knows of no hard evidence of the connection."
+   ]
+  },
+  {
+   "begin": "400.920",
+   "children": [],
+   "end": "403.520",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "We need to be straight with the American people."
+   ]
+  },
+  {
+   "begin": "403.520",
+   "children": [],
+   "end": "405.440",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "ime for a new question but the same topic."
+   ]
+  },
+  {
+   "begin": "405.440",
+   "children": [],
+   "end": "407.240",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "And this time to you, Senator Edwards."
+   ]
+  },
+  {
+   "begin": "407.240",
+   "children": [],
+   "end": "412.720",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "You and Senator Kerry have said that the war in Iraq is the wrong war at the wrong time."
+   ]
+  },
+  {
+   "begin": "412.720",
+   "children": [],
+   "end": "417.920",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Does that mean that if you had been president and vice president that Saddam Hussein would still be in power?"
+   ]
+  },
+  {
+   "begin": "417.920",
+   "children": [],
+   "end": "422.440",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "Here's what it means: It means that Saddam Hussein needed to be confronted."
+   ]
+  },
+  {
+   "begin": "422.440",
+   "children": [],
+   "end": "424.720",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "John Kerry and I have consistently said that."
+   ]
+  },
+  {
+   "begin": "424.720",
+   "children": [],
+   "end": "426.920",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "That's why we voted for the resolution."
+   ]
+  },
+  {
+   "begin": "426.920",
+   "children": [],
+   "end": "429.440",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "But it also means it needed to be done the right way."
+   ]
+  },
+  {
+   "begin": "429.440",
+   "children": [],
+   "end": "449.120",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "And doing it the right way meant that we were prepared; that we gave the weapons inspectors time to find out what we now know, that in fact there were no weapons of mass destruction; that we didn't take our eye off the ball, which are Al Qaida, Osama bin Laden, the people who attacked us on September the 11th."
+   ]
+  },
+  {
+   "begin": "449.120",
+   "children": [],
+   "end": "452.440",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Now, remember, we went into Afghanistan, which, by the way, was the right thing to do."
+   ]
+  },
+  {
+   "begin": "452.440",
+   "children": [],
+   "end": "453.520",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "That was the right decision."
+   ]
+  },
+  {
+   "begin": "453.520",
+   "children": [],
+   "end": "456.200",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "And our military performed terrifically there."
+   ]
+  },
+  {
+   "begin": "456.200",
+   "children": [],
+   "end": "460.160",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "But we had Osama bin Laden cornered at Tora Bora."
+   ]
+  },
+  {
+   "begin": "460.160",
+   "children": [],
+   "end": "465.040",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "We had the 10th Mountain Division up in Uzbekistan available."
+   ]
+  },
+  {
+   "begin": "465.040",
+   "children": [],
+   "end": "467.480",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "We had the finest military in the world on the ground."
+   ]
+  },
+  {
+   "begin": "467.480",
+   "children": [],
+   "end": "469.880",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "And what did we do?"
+   ]
+  },
+  {
+   "begin": "469.880",
+   "children": [],
+   "end": "475.880",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "We turned -- this is the man who masterminded the greatest mass murder and terrorist attack in American history."
+   ]
+  },
+  {
+   "begin": "475.880",
+   "children": [],
+   "end": "478.400",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "And what did the administration decide to do?"
+   ]
+  },
+  {
+   "begin": "478.400",
+   "children": [],
+   "end": "492.000",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "They gave the responsibility of capturing and/or killing Saddam -- I mean Osama bin Laden to Afghan warlords who, just a few weeks before, had been working with Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "492.000",
+   "children": [],
+   "end": "497.120",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Our point in this is not complicated: We were attacked by Al Qaida and Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "497.120",
+   "children": [],
+   "end": "508.320",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "We went into Afghanistan and very quickly the administration made a decision to divert attention from that and instead began to plan for the invasion of Iraq."
+   ]
+  },
+  {
+   "begin": "508.320",
+   "children": [],
+   "end": "511.440",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "And these connections -- I want the American people to hear this very clearly."
+   ]
+  },
+  {
+   "begin": "511.440",
+   "children": [],
+   "end": "514.680",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Listen carefully to what the vice president is saying."
+   ]
+  },
+  {
+   "begin": "514.680",
+   "children": [],
+   "end": "521.080",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "Because there is no connection between Saddam Hussein and the attacks of September 11th -- period."
+   ]
+  },
+  {
+   "begin": "521.080",
+   "children": [],
+   "end": "524.080",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "The 9/11 Commission has said that's true."
+   ]
+  },
+  {
+   "begin": "524.080",
+   "children": [],
+   "end": "526.000",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "Colin Powell has said it's true."
+   ]
+  },
+  {
+   "begin": "526.000",
+   "children": [],
+   "end": "528.920",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "But the vice president keeps suggesting that there is."
+   ]
+  },
+  {
+   "begin": "528.920",
+   "children": [],
+   "end": "529.920",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "There is not."
+   ]
+  },
+  {
+   "begin": "529.920",
+   "children": [],
+   "end": "533.840",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "And, in fact, any connection with Al Qaida is tenuous at best."
+   ]
+  },
+  {
+   "begin": "533.840",
+   "children": [],
+   "end": "536.400",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, you have 90 seconds to respond."
+   ]
+  },
+  {
+   "begin": "536.400",
+   "children": [],
+   "end": "537.560",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "The senator has got his facts wrong."
+   ]
+  },
+  {
+   "begin": "537.560",
+   "children": [],
+   "end": "546.920",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I have not suggested there's a connection between Iraq and 9/11, but there's clearly an established Iraqi track record with terror."
+   ]
+  },
+  {
+   "begin": "546.920",
+   "children": [],
+   "end": "557.360",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "And the point is that that's the place where you're most likely to see the terrorists come together with weapons of mass destruction, the deadly technologies that Saddam Hussein had developed and used over the years."
+   ]
+  },
+  {
+   "begin": "557.360",
+   "children": [],
+   "end": "563.680",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "Now, the fact of the matter is, the big difference here, Gwen, is they are not prepared to deal with states that sponsor terror."
+   ]
+  },
+  {
+   "begin": "563.680",
+   "children": [],
+   "end": "567.520",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "They've got a very limited view about how to use US."
+   ]
+  },
+  {
+   "begin": "567.520",
+   "children": [],
+   "end": "570.120",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "military forces to defend America."
+   ]
+  },
+  {
+   "begin": "570.120",
+   "children": [],
+   "end": "575.040",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "We heard Senator Kerry say the other night that there ought to be some kind of global test before ."
+   ]
+  },
+  {
+   "begin": "575.040",
+   "children": [],
+   "end": "578.680",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "troops are deployed preemptively to protect the United States."
+   ]
+  },
+  {
+   "begin": "578.680",
+   "children": [],
+   "end": "586.640",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "That's part of a track record that goes back to the 1970s when he ran for Congress the first time and said troops should not be deployed without U.N. approval."
+   ]
+  },
+  {
+   "begin": "586.640",
+   "children": [],
+   "end": "592.360",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "Then, in the mid-'80s, he ran on the basis of cutting most of our major defense programs."
+   ]
+  },
+  {
+   "begin": "592.360",
+   "children": [],
+   "end": "595.200",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "In 1991, he voted against Desert Storm."
+   ]
+  },
+  {
+   "begin": "595.200",
+   "children": [],
+   "end": "601.080",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "It's a consistent pattern over time of always being on the wrong side of defense issues."
+   ]
+  },
+  {
+   "begin": "601.080",
+   "children": [],
+   "end": "611.200",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "A little tough talk in the midst of a campaign or as part of a presidential debate cannot obscure a record of 30 years of being on the wrong side of defense issues."
+   ]
+  },
+  {
+   "begin": "611.200",
+   "children": [],
+   "end": "626.000",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "And they give absolutely no indication, based on that record, of being wiling to go forward and aggressively pursue the war on terror with a kind of strategy that will work, that will defeat our enemies and will guarantee that the United States doesn't again get attacked by the likes of Al Qaida."
+   ]
+  },
+  {
+   "begin": "626.000",
+   "children": [],
+   "end": "631.000",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "You will respond to that topic, but first I want to ask you for two minutes, Vice President Cheney."
+   ]
+  },
+  {
+   "begin": "631.000",
+   "children": [],
+   "end": "633.600",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Tonight we mentioned Afghanistan."
+   ]
+  },
+  {
+   "begin": "633.600",
+   "children": [],
+   "end": "638.680",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "We believe that Osama bin Laden is hiding perhaps in a cave somewhere along the Afghan-Pakistan border."
+   ]
+  },
+  {
+   "begin": "638.680",
+   "children": [],
+   "end": "645.600",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "If you get a second term, what is your plan to capture him and then to neutralize those who have sprung up to replace him?"
+   ]
+  },
+  {
+   "begin": "645.600",
+   "children": [],
+   "end": "649.880",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Gwen, we've never let up on Osama bin Laden from day one."
+   ]
+  },
+  {
+   "begin": "649.880",
+   "children": [],
+   "end": "651.880",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "We've actively and aggressively pursued him."
+   ]
+  },
+  {
+   "begin": "651.880",
+   "children": [],
+   "end": "658.200",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "We've captured or killed thousands of Al Qaida in various places around the world and especially in Afghanistan."
+   ]
+  },
+  {
+   "begin": "658.200",
+   "children": [],
+   "end": "662.560",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "We'll continue to very aggressively pursue him, and I'm confident eventually we'll get him."
+   ]
+  },
+  {
+   "begin": "662.560",
+   "children": [],
+   "end": "677.200",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "The key to success in Afghanistan has been, again, to go in and go after the terrorists, which we've done, and also take down the Taliban regime which allowed them to function there, in effect sponsors, if you will, of the Al Qaida organization."
+   ]
+  },
+  {
+   "begin": "677.200",
+   "children": [],
+   "end": "687.680",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "John Edwards, two and a half years ago, six months after we went into Afghanistan announced that it was chaotic, the situation was deteriorating, the warlords were about to take over."
+   ]
+  },
+  {
+   "begin": "687.680",
+   "children": [],
+   "end": "695.640",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Here we are, two and a half years later, we're four days away from a democratic election, the first one in history in Afghanistan."
+   ]
+  },
+  {
+   "begin": "695.640",
+   "children": [],
+   "end": "699.120",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "We've got 10 million voters who have registered to vote, nearly half of them women."
+   ]
+  },
+  {
+   "begin": "699.120",
+   "children": [],
+   "end": "705.680",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "That election will put in place a democratically elected government that will take over next December."
+   ]
+  },
+  {
+   "begin": "705.680",
+   "children": [],
+   "end": "713.720",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "We've made enormous progress in Afghanistan, in exactly the right direction, in spite of what John Edwards said two and a half years ago."
+   ]
+  },
+  {
+   "begin": "713.720",
+   "children": [],
+   "end": "714.680",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "He just got it wrong."
+   ]
+  },
+  {
+   "begin": "714.680",
+   "children": [],
+   "end": "723.240",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "The fact is, as we go forward in Afghanistan, we will pursue Osama bin Laden and the terrorists as long as necessary."
+   ]
+  },
+  {
+   "begin": "723.240",
+   "children": [],
+   "end": "728.320",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "We're standing up Afghan security forces so they can take on responsibility for their own security."
+   ]
+  },
+  {
+   "begin": "728.320",
+   "children": [],
+   "end": "729.000",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "We'll keep US."
+   ]
+  },
+  {
+   "begin": "729.000",
+   "children": [],
+   "end": "737.120",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "forces there -- we have about 16,000 there today -- as long as necessary, to assist the Afghans in terms of dealing with their security situation."
+   ]
+  },
+  {
+   "begin": "737.120",
+   "children": [],
+   "end": "739.400",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "But they're making significant progress."
+   ]
+  },
+  {
+   "begin": "739.400",
+   "children": [],
+   "end": "742.120",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "We have President Karzai, who is in power."
+   ]
+  },
+  {
+   "begin": "742.120",
+   "children": [],
+   "end": "746.600",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "They have done wonders writing their own constitution for the first time ever."
+   ]
+  },
+  {
+   "begin": "746.600",
+   "children": [],
+   "end": "748.080",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Schools are open."
+   ]
+  },
+  {
+   "begin": "748.080",
+   "children": [],
+   "end": "749.520",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Young girls are going to school."
+   ]
+  },
+  {
+   "begin": "749.520",
+   "children": [],
+   "end": "751.000",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "Women are going to vote."
+   ]
+  },
+  {
+   "begin": "751.000",
+   "children": [],
+   "end": "753.000",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Women are even eligible to run for office."
+   ]
+  },
+  {
+   "begin": "753.000",
+   "children": [],
+   "end": "755.120",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "This is major, major progress."
+   ]
+  },
+  {
+   "begin": "755.120",
+   "children": [],
+   "end": "758.880",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "There will be democracy in Afghanistan, make no doubt about it."
+   ]
+  },
+  {
+   "begin": "758.880",
+   "children": [],
+   "end": "761.160",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Freedom is the best antidote to terror."
+   ]
+  },
+  {
+   "begin": "761.160",
+   "children": [],
+   "end": "763.600",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "Senator Edwards, you have 90 seconds."
+   ]
+  },
+  {
+   "begin": "763.600",
+   "children": [],
+   "end": "765.240",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Someone did get it wrong."
+   ]
+  },
+  {
+   "begin": "765.240",
+   "children": [],
+   "end": "767.640",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "But it wasn't John Kerry and John Edwards."
+   ]
+  },
+  {
+   "begin": "767.640",
+   "children": [],
+   "end": "768.400",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "They got it wrong."
+   ]
+  },
+  {
+   "begin": "768.400",
+   "children": [],
+   "end": "774.400",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "When we had Osama bin Laden cornered, they left the job to the Afghan warlords."
+   ]
+  },
+  {
+   "begin": "774.400",
+   "children": [],
+   "end": "781.720",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "They then diverted their attention from the very people who attacked us, who were at the center of the war on terror, and so Osama bin Laden is still at large."
+   ]
+  },
+  {
+   "begin": "781.720",
+   "children": [],
+   "end": "787.080",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Now, I want to go back to something the vice president said just a minute ago, because these distortions are continuing."
+   ]
+  },
+  {
+   "begin": "787.080",
+   "children": [],
+   "end": "790.720",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "He said that -- made mention of this global test."
+   ]
+  },
+  {
+   "begin": "790.720",
+   "children": [],
+   "end": "803.440",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "What John Kerry said -- and it's just as clear as day to anybody who was listening -- he said: We will find terrorists where they are and kill them before they ever do harm to the American people, first."
+   ]
+  },
+  {
+   "begin": "803.440",
+   "children": [],
+   "end": "805.280",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "We will keep this country safe."
+   ]
+  },
+  {
+   "begin": "805.280",
+   "children": [],
+   "end": "810.320",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "He defended this country as a young man, he will defend this country as president of the United States."
+   ]
+  },
+  {
+   "begin": "810.320",
+   "children": [],
+   "end": "818.480",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "He also said very clearly that he will never give any country veto power over the security of the United States of America."
+   ]
+  },
+  {
+   "begin": "818.480",
+   "children": [],
+   "end": "822.760",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Now, I know the vice president would like to pretend that wasn't said, and the president would too."
+   ]
+  },
+  {
+   "begin": "822.760",
+   "children": [],
+   "end": "825.520",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "But the reality is it was said."
+   ]
+  },
+  {
+   "begin": "825.520",
+   "children": [],
+   "end": "832.760",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "Here's what's actually happened in Afghanistan, regardless of this rosy scenario that they paint on Afghanistan, just like they do with Iraq."
+   ]
+  },
+  {
+   "begin": "832.760",
+   "children": [],
+   "end": "838.080",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "What's actually happened is they're now providing 75 percent of the world's opium."
+   ]
+  },
+  {
+   "begin": "838.080",
+   "children": [],
+   "end": "846.800",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "Not only are they providing 75 percent of the world's opium, large-cut parts of the country are under the control of drug lords and warlords."
+   ]
+  },
+  {
+   "begin": "846.800",
+   "children": [],
+   "end": "849.800",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Big parts of the country are still insecure."
+   ]
+  },
+  {
+   "begin": "849.800",
+   "children": [],
+   "end": "859.720",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "And the reality is the part of Afghanistan, eastern Afghanistan, where Osama bin Laden is, is one of the hardest places to control and the most insecure, Gwen."
+   ]
+  },
+  {
+   "begin": "859.720",
+   "children": [],
+   "end": "861.440",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, 30 seconds."
+   ]
+  },
+  {
+   "begin": "861.440",
+   "children": [],
+   "end": "864.360",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Twenty years ago we had a similar situation in El Salvador."
+   ]
+  },
+  {
+   "begin": "864.360",
+   "children": [],
+   "end": "872.160",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "We had -- guerrilla insurgency controlled roughly a third of the country, 75,000 people dead, and we held free elections."
+   ]
+  },
+  {
+   "begin": "872.160",
+   "children": [],
+   "end": "875.520",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "I was there as an observer on behalf of the Congress."
+   ]
+  },
+  {
+   "begin": "875.520",
+   "children": [],
+   "end": "880.920",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "The human drive for freedom, the determination of these people to vote, was unbelievable."
+   ]
+  },
+  {
+   "begin": "880.920",
+   "children": [],
+   "end": "888.320",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "And the terrorists would come in and shoot up polling places; as soon as they left, the voters would come back and get in line and would not be denied the right to vote."
+   ]
+  },
+  {
+   "begin": "888.320",
+   "children": [],
+   "end": "891.800",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "And today El Salvador is a whale of a lot better because we held free elections."
+   ]
+  },
+  {
+   "begin": "891.800",
+   "children": [],
+   "end": "893.600",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "The power of that concept is enormous."
+   ]
+  },
+  {
+   "begin": "893.600",
+   "children": [],
+   "end": "897.400",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "And it will apply in Afghanistan, and it will apply as well in Iraq."
+   ]
+  },
+  {
+   "begin": "897.400",
+   "children": [],
+   "end": "902.200",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "The vice president just said that we should focus on state sponsors of terrorism."
+   ]
+  },
+  {
+   "begin": "902.200",
+   "children": [],
+   "end": "904.800",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Iran has moved forward with its nuclear weapons program."
+   ]
+  },
+  {
+   "begin": "904.800",
+   "children": [],
+   "end": "908.120",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "They're more dangerous today than they were four years ago."
+   ]
+  },
+  {
+   "begin": "908.120",
+   "children": [],
+   "end": "914.720",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons."
+   ]
+  },
+  {
+   "begin": "914.720",
+   "children": [],
+   "end": "924.320",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet."
+   ]
+  },
+  {
+   "begin": "924.320",
+   "children": [],
+   "end": "925.720",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "It's a mistake."
+   ]
+  },
+  {
+   "begin": "925.720",
+   "children": [],
+   "end": "929.080",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "We should not only not lift them, we should strengthen those sanctions."
+   ]
+  },
+  {
+   "begin": "929.080",
+   "children": [],
+   "end": "938.240",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "New question to you, Senator Edwards, but I don't want to let go of the global test question first, because I want people to understand exactly what it is, as you said, that Senator Kerry did say."
+   ]
+  },
+  {
+   "begin": "938.240",
+   "children": [],
+   "end": "954.760",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "He said, \"You've got to do\" -- you know, he was asked about preemptive action at the last debate -- he said, \"You've got to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and can prove to the world that you did it for legitimate reasons.\""
+   ]
+  },
+  {
+   "begin": "954.760",
+   "children": [],
+   "end": "957.000",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "What is a global test if it's not a global veto?"
+   ]
+  },
+  {
+   "begin": "957.000",
+   "children": [],
+   "end": "972.040",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "Well, let me say, first, he said in the same segment -- I don't remember precisely where it was connected with what you just read -- but he said, point blank, \"We will never give anyone a veto over the security of the United States of America.\""
+   ]
+  },
+  {
+   "begin": "972.040",
+   "children": [],
+   "end": "981.720",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "What he's saying is we're going to go back to the proud tradition of the United States of America and presidents of the United States of America for the last 50 to 75 years."
+   ]
+  },
+  {
+   "begin": "981.720",
+   "children": [],
+   "end": "985.040",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "First, we're going to actually tell the American people the truth."
+   ]
+  },
+  {
+   "begin": "985.040",
+   "children": [],
+   "end": "987.640",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "We're going to tell them the truth about what's happening."
+   ]
+  },
+  {
+   "begin": "987.640",
+   "children": [],
+   "end": "993.120",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "We're not going to suggest to them that things are going well in Iraq or anyplace else when, in fact, they're not."
+   ]
+  },
+  {
+   "begin": "993.120",
+   "children": [],
+   "end": "1000.200",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "We're going to make sure that the American people know the truth about why we are using force and what the explanation for it is."
+   ]
+  },
+  {
+   "begin": "1000.200",
+   "children": [],
+   "end": "1002.000",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "And it's not just the American people."
+   ]
+  },
+  {
+   "begin": "1002.000",
+   "children": [],
+   "end": "1006.080",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "We're also going to make sure that we tell the world the truth."
+   ]
+  },
+  {
+   "begin": "1006.080",
+   "children": [],
+   "end": "1018.080",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "Because the reality is, for America to lead, for America to do what it's done for 50 years before this president and vice president came into office, it is critical that we be credible."
+   ]
+  },
+  {
+   "begin": "1018.080",
+   "children": [],
+   "end": "1032.360",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "It is critical that they believe that when America takes action, they can trust what we're doing, what we say, what we say at the United Nations, what we say in direct conversations with leaders of the world -- of other countries."
+   ]
+  },
+  {
+   "begin": "1032.360",
+   "children": [],
+   "end": "1039.720",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "They need to know that the credibility of the United States is always good, because they will not follow us without that."
+   ]
+  },
+  {
+   "begin": "1039.720",
+   "children": [],
+   "end": "1043.680",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "And unfortunately, we're seeing the consequences of that right now."
+   ]
+  },
+  {
+   "begin": "1043.680",
+   "children": [],
+   "end": "1049.280",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "It's one of the reasons that we're having so much difficulty getting others involved in the effort in Iraq."
+   ]
+  },
+  {
+   "begin": "1049.280",
+   "children": [],
+   "end": "1052.880",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "You know, we've taken 90 percent of the coalition casualties."
+   ]
+  },
+  {
+   "begin": "1052.880",
+   "children": [],
+   "end": "1058.200",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "American taxpayers have borne 90 percent of the costs of the effort in Iraq."
+   ]
+  },
+  {
+   "begin": "1058.200",
+   "children": [],
+   "end": "1063.560",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "And we see the result of there not being a coalition: The first Gulf war cost America $5 billion."
+   ]
+  },
+  {
+   "begin": "1063.560",
+   "children": [],
+   "end": "1066.600",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "We're at $200 billion and counting."
+   ]
+  },
+  {
+   "begin": "1066.600",
+   "children": [],
+   "end": "1074.880",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "John Kerry will never give up control over the security of the United States of America to any other country."
+   ]
+  },
+  {
+   "begin": "1074.880",
+   "children": [],
+   "end": "1078.920",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "We will not outsource our responsibility to keep this country safe."
+   ]
+  },
+  {
+   "begin": "1078.920",
+   "children": [],
+   "end": "1082.560",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, you have 90 seconds to respond."
+   ]
+  },
+  {
+   "begin": "1082.560",
+   "children": [],
+   "end": "1086.720",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "Well, Gwen, the 90 percent figure is just dead wrong."
+   ]
+  },
+  {
+   "begin": "1086.720",
+   "children": [],
+   "end": "1099.200",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "When you include the Iraqi security forces that have suffered casualties, as well as the allies, they've taken almost 50 percent of the casualties in operations in Iraq, which leaves the US."
+   ]
+  },
+  {
+   "begin": "1099.200",
+   "children": [],
+   "end": "1100.760",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "with 50 percent, not 90 percent."
+   ]
+  },
+  {
+   "begin": "1100.760",
+   "children": [],
+   "end": "1104.520",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "With respect to the cost, it wasn't $200 billion."
+   ]
+  },
+  {
+   "begin": "1104.520",
+   "children": [],
+   "end": "1106.280",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "You probably weren't there to vote for that."
+   ]
+  },
+  {
+   "begin": "1106.280",
+   "children": [],
+   "end": "1110.120",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "But $120 billion is, in fact, what has been allocated to Iraq."
+   ]
+  },
+  {
+   "begin": "1110.120",
+   "children": [],
+   "end": "1113.920",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "The rest of it's for Afghanistan and the global war on terror."
+   ]
+  },
+  {
+   "begin": "1113.920",
+   "children": [],
+   "end": "1121.760",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "The allies have stepped forward and agreed to reduce and forgive Iraqi debt to the tune of nearly $80 billion by one estimate."
+   ]
+  },
+  {
+   "begin": "1121.760",
+   "children": [],
+   "end": "1135.040",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "That, plus $14 billion they promised in terms of direct aid, puts the overall allied contribution financially at about $95 billion, not to the $120 billion we've got, but, you know, better than 40 percent."
+   ]
+  },
+  {
+   "begin": "1135.040",
+   "children": [],
+   "end": "1136.560",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "So your facts are just wrong, Senator."
+   ]
+  },
+  {
+   "begin": "1136.560",
+   "children": [],
+   "end": "1141.200",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "You also have a situation where you talk about credibility."
+   ]
+  },
+  {
+   "begin": "1141.200",
+   "children": [],
+   "end": "1149.280",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "It's awfully hard to convey a sense of credibility to allies when you voted for the war and then you declared: Wrong war, wrong place, wrong time."
+   ]
+  },
+  {
+   "begin": "1149.280",
+   "children": [],
+   "end": "1157.960",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "You voted for the war, and then you voted against supporting the troops when they needed the equipment, the fuel, the spare parts and the ammunition and the body armor."
+   ]
+  },
+  {
+   "begin": "1157.960",
+   "children": [],
+   "end": "1167.920",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "You're not credible on Iraq because of the enormous inconsistencies that John Kerry and you have cited time after time after time during the course of the campaign."
+   ]
+  },
+  {
+   "begin": "1167.920",
+   "children": [],
+   "end": "1171.440",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "Whatever the political pressures of the moment requires, that's where you're at."
+   ]
+  },
+  {
+   "begin": "1171.440",
+   "children": [],
+   "end": "1179.000",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "But you've not been consistent, and there's no indication at all that John Kerry has the conviction to successfully carry through on the war on terror."
+   ]
+  },
+  {
+   "begin": "1179.000",
+   "children": [],
+   "end": "1180.600",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "May I respond briefly?"
+   ]
+  },
+  {
+   "begin": "1180.600",
+   "children": [],
+   "end": "1184.400",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "What the vice president has just said is just a complete distortion."
+   ]
+  },
+  {
+   "begin": "1184.400",
+   "children": [],
+   "end": "1187.200",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "The American people saw John Kerry on Thursday night."
+   ]
+  },
+  {
+   "begin": "1187.200",
+   "children": [],
+   "end": "1191.000",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "They don't need the vice president or the president to tell them what they saw."
+   ]
+  },
+  {
+   "begin": "1191.000",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "They saw a man who was strong, who had conviction, who is resolute, who made it very clear that he will do"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.840",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Center in Philadelphia, Pennsylvania."
+   ]
+  },
+  {
+   "begin": "3.840",
+   "children": [],
+   "end": "16.000",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Dorothy Ridings, president of the League of Women Voters, the sponsor of tonight's vice-presidential debate between Republican George Bush and Democrat Geraldine Ferraro."
+   ]
+  },
+  {
+   "begin": "16.000",
+   "children": [],
+   "end": "41.080",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Our panelists for tonight's debate are John Mashek, correspondent for U.S. News &amp; World Report; Jack White, correspondent for Time magazine; Norma Quarles, correspondent for NBC News; and Robert Boyd, Washington bureau chief for Knight-Ridder Newspapers."
+   ]
+  },
+  {
+   "begin": "41.080",
+   "children": [],
+   "end": "47.280",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Sander Vanocur, senior political correspondent for ABC News, is our moderator tonight."
+   ]
+  },
+  {
+   "begin": "47.280",
+   "children": [],
+   "end": "48.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Sandy."
+   ]
+  },
+  {
+   "begin": "48.280",
+   "children": [],
+   "end": "49.440",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "Thank you, Dorothy."
+   ]
+  },
+  {
+   "begin": "49.440",
+   "children": [],
+   "end": "52.480",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "A few words about the order of our format tonight."
+   ]
+  },
+  {
+   "begin": "52.480",
+   "children": [],
+   "end": "56.040",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "The order of questioning was determined by a toss of the coin."
+   ]
+  },
+  {
+   "begin": "56.040",
+   "children": [],
+   "end": "58.040",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Congresswoman Ferraro won the toss."
+   ]
+  },
+  {
+   "begin": "58.040",
+   "children": [],
+   "end": "59.760",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "She elected to speak last."
+   ]
+  },
+  {
+   "begin": "59.760",
+   "children": [],
+   "end": "63.080",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Therefore Vice President Bush will get the first question."
+   ]
+  },
+  {
+   "begin": "63.080",
+   "children": [],
+   "end": "67.680",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "The debate will be built upon a series of questions from the four reporters on the panel."
+   ]
+  },
+  {
+   "begin": "67.680",
+   "children": [],
+   "end": "76.320",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "A reporter will ask a candidate a question, a follow-up question and then the same to the other candidate; then each candidate will get to rebut the other."
+   ]
+  },
+  {
+   "begin": "76.320",
+   "children": [],
+   "end": "78.760",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "The debate will be divided into two parts."
+   ]
+  },
+  {
+   "begin": "78.760",
+   "children": [],
+   "end": "84.440",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "There'll be a section, the first: one, on domestic affairs; the second on foreign affairs."
+   ]
+  },
+  {
+   "begin": "84.440",
+   "children": [],
+   "end": "87.400",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Now the manner of address was decided by the candidates."
+   ]
+  },
+  {
+   "begin": "87.400",
+   "children": [],
+   "end": "92.040",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "Therefore it will be Vice President Bush, Congresswoman Ferraro."
+   ]
+  },
+  {
+   "begin": "92.040",
+   "children": [],
+   "end": "94.800",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "And we begin our questioning with Mr. Mashek."
+   ]
+  },
+  {
+   "begin": "94.800",
+   "children": [],
+   "end": "100.080",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "John Adams, our nation's first vice-president, once said: \"Today I am nothing."
+   ]
+  },
+  {
+   "begin": "100.080",
+   "children": [],
+   "end": "102.480",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Tomorrow I may be everything.\""
+   ]
+  },
+  {
+   "begin": "102.480",
+   "children": [],
+   "end": "111.120",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "With that in mind, I'd like to ask the following question: Vice President Bush, four years ago, you ran against Mr. Reagan for the Republican nomination."
+   ]
+  },
+  {
+   "begin": "111.120",
+   "children": [],
+   "end": "120.040",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "You disagreed with him on such issues as the Equal Rights Amendment, abortion, and you labeled his economic policies as voodoo."
+   ]
+  },
+  {
+   "begin": "120.040",
+   "children": [],
+   "end": "122.720",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Now you apparently agree with him on every issue."
+   ]
+  },
+  {
+   "begin": "122.720",
+   "children": [],
+   "end": "131.680",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "If you should be called upon to assume the presidency, would you follow Mr. Reagan's policies down the line or would you revert to some of your own ideas."
+   ]
+  },
+  {
+   "begin": "131.680",
+   "children": [],
+   "end": "137.280",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Well, I don't think there's a great difference, Mr. Mashek, between my views and President Reagan's."
+   ]
+  },
+  {
+   "begin": "137.280",
+   "children": [],
+   "end": "142.400",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "One of the reasons I think we're an effective team is that I believe firmly in his leadership."
+   ]
+  },
+  {
+   "begin": "142.400",
+   "children": [],
+   "end": "144.960",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "He's really turned this country around."
+   ]
+  },
+  {
+   "begin": "144.960",
+   "children": [],
+   "end": "147.400",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "We agree on the economic program."
+   ]
+  },
+  {
+   "begin": "147.400",
+   "children": [],
+   "end": "158.400",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "When we came into office, why, inflation was 21, 12 1/2 percent interest was wiping out every single American were 21 1/2 percent if you can believe it."
+   ]
+  },
+  {
+   "begin": "158.400",
+   "children": [],
+   "end": "160.480",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Productivity was down."
+   ]
+  },
+  {
+   "begin": "160.480",
+   "children": [],
+   "end": "162.040",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "Savings was down."
+   ]
+  },
+  {
+   "begin": "162.040",
+   "children": [],
+   "end": "163.200",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "There was despair."
+   ]
+  },
+  {
+   "begin": "163.200",
+   "children": [],
+   "end": "167.920",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "In fact, the leadership of the country told the people that there was a malaise out there."
+   ]
+  },
+  {
+   "begin": "167.920",
+   "children": [],
+   "end": "172.560",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And this president turned it around and I've been with him every step of the way."
+   ]
+  },
+  {
+   "begin": "172.560",
+   "children": [],
+   "end": "178.280",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "And of course I would continue those kinds of programs because it's brought America back."
+   ]
+  },
+  {
+   "begin": "178.280",
+   "children": [],
+   "end": "179.640",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "America's better off."
+   ]
+  },
+  {
+   "begin": "179.640",
+   "children": [],
+   "end": "181.440",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "People are going back to work."
+   ]
+  },
+  {
+   "begin": "181.440",
+   "children": [],
+   "end": "191.000",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "And why Mr. Monad can't understand that there's a new enthusiasm in this country, that America is back, there's new strong leadership, I don't know."
+   ]
+  },
+  {
+   "begin": "191.000",
+   "children": [],
+   "end": "193.160",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "He has one answer to the problem."
+   ]
+  },
+  {
+   "begin": "193.160",
+   "children": [],
+   "end": "194.560",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Raise everybody's taxes."
+   ]
+  },
+  {
+   "begin": "194.560",
+   "children": [],
+   "end": "199.800",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "He looked right into that lens and he said out there in San Francisco, he said, \"I'm gonna raise your taxes.\""
+   ]
+  },
+  {
+   "begin": "199.800",
+   "children": [],
+   "end": "204.360",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Well he's had a lot of experience in that and he's sure gonna go ahead and do it."
+   ]
+  },
+  {
+   "begin": "204.360",
+   "children": [],
+   "end": "216.760",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "But I remember a statement of Lyndon Johnson's when he was looking around, why his party people weren't supporting him, and he said, \"Hey, they painted their tails white and they ran with the antelopes.\""
+   ]
+  },
+  {
+   "begin": "216.760",
+   "children": [],
+   "end": "220.320",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "There's a lot of Democratic white tails running with the antelopes."
+   ]
+  },
+  {
+   "begin": "220.320",
+   "children": [],
+   "end": "227.480",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "Not one single Democrat has introduced the Mondale tax bill into the Congress."
+   ]
+  },
+  {
+   "begin": "227.480",
+   "children": [],
+   "end": "232.040",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "Of course I support the president's economic program and I support him in everything else."
+   ]
+  },
+  {
+   "begin": "232.040",
+   "children": [],
+   "end": "242.320",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "And I'm not sure, because of my concept of the vice presidency, that if I didn't, I'd go doing what Mr. Mondale has done with Jimmy Carter; jump away from him."
+   ]
+  },
+  {
+   "begin": "242.320",
+   "children": [],
+   "end": "247.560",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "I couldn't do that to Ronald Reagan, now, next year or any other time."
+   ]
+  },
+  {
+   "begin": "247.560",
+   "children": [],
+   "end": "249.160",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "I have too much trust in him."
+   ]
+  },
+  {
+   "begin": "249.160",
+   "children": [],
+   "end": "252.240",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "I have too much friendship for him."
+   ]
+  },
+  {
+   "begin": "252.240",
+   "children": [],
+   "end": "254.680",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "And I'd feel very uncomfortable doing that."
+   ]
+  },
+  {
+   "begin": "254.680",
+   "children": [],
+   "end": "263.240",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Well some Republicans have criticized Mr. Mondale for now claiming he disagreed privately with Jimmy Carter's decision to impose the grain embargo."
+   ]
+  },
+  {
+   "begin": "263.240",
+   "children": [],
+   "end": "268.840",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "Have you ever disagreed with any decision of the Reagan Administration and its inner circles?"
+   ]
+  },
+  {
+   "begin": "268.840",
+   "children": [],
+   "end": "274.040",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "And in following that up, where in your judgment does loyalty end and principle begin?"
+   ]
+  },
+  {
+   "begin": "274.040",
+   "children": [],
+   "end": "280.480",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "I owe my president my judgment and then I owe him loyalty."
+   ]
+  },
+  {
+   "begin": "280.480",
+   "children": [],
+   "end": "289.720",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "You can't have the president of the United States out there looking over his shoulder wondering whether his vice president is going to be supporting him."
+   ]
+  },
+  {
+   "begin": "289.720",
+   "children": [],
+   "end": "298.440",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Mrs. Ferraro has quite a few differences with Vice-President Mondale and I understood it when she changed her position on tuition tax credits."
+   ]
+  },
+  {
+   "begin": "298.440",
+   "children": [],
+   "end": "305.480",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "They're different on busing; she voted to extend the grain embargo; he now says that he was against it."
+   ]
+  },
+  {
+   "begin": "305.480",
+   "children": [],
+   "end": "310.560",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "If they win - and I hope they don't - but if they win, she'll have to accommodate some views."
+   ]
+  },
+  {
+   "begin": "310.560",
+   "children": [],
+   "end": "315.720",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "But she'll give him the same kind of loyalty that I'm giving President Reagan."
+   ]
+  },
+  {
+   "begin": "315.720",
+   "children": [],
+   "end": "317.480",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "One, we're not far apart on anything."
+   ]
+  },
+  {
+   "begin": "317.480",
+   "children": [],
+   "end": "322.600",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Two, I can walk into that Oval Office anytime and give him my judgment and he might agree or he might not."
+   ]
+  },
+  {
+   "begin": "322.600",
+   "children": [],
+   "end": "332.280",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "But he also knows I won't be talking about it to the press or I won't be knifing him in the back by leaking to make me look good and complicate the problems of the president of the United States."
+   ]
+  },
+  {
+   "begin": "332.280",
+   "children": [],
+   "end": "346.760",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Congresswoman Ferraro, your opponent has served in the House Of Representatives, he's been ambassador to the United Nations, ambassador to China, director of the Central Intelligence Agency and now he's been vice president for four years."
+   ]
+  },
+  {
+   "begin": "346.760",
+   "children": [],
+   "end": "351.440",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "How does your three terms in the House of Representatives stack up against experience like that?"
+   ]
+  },
+  {
+   "begin": "351.440",
+   "children": [],
+   "end": "356.120",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Well, let me first say that I wasn't born at the age of forty-three when I entered Congress."
+   ]
+  },
+  {
+   "begin": "356.120",
+   "children": [],
+   "end": "358.480",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "I did have a life before that as well."
+   ]
+  },
+  {
+   "begin": "358.480",
+   "children": [],
+   "end": "364.120",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "I was a prosecutor for almost five years in the district attorney's office in Queens County and I was a teacher."
+   ]
+  },
+  {
+   "begin": "364.120",
+   "children": [],
+   "end": "372.720",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "There's not only what is on your paper resume that makes you qualified to run for or to hold office."
+   ]
+  },
+  {
+   "begin": "372.720",
+   "children": [],
+   "end": "376.800",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "It's how you approach problems and what your values are."
+   ]
+  },
+  {
+   "begin": "376.800",
+   "children": [],
+   "end": "392.840",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "I think if one is taking a look at my career they'll see that I level with the people; that I approach problems analytically; that I am able to assess the various facts with reference to a problem, and I can make the hard decisions."
+   ]
+  },
+  {
+   "begin": "392.840",
+   "children": [],
+   "end": "400.160",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "I'm intrigued when I hear Vice-President Bush talk about his support of the president's economic program and how everything is just going so beautifully."
+   ]
+  },
+  {
+   "begin": "400.160",
+   "children": [],
+   "end": "410.480",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "I, too, recall when Vice President Bush was running in the primary against President Reagan and he called the program voodoo economics, and it was and it is."
+   ]
+  },
+  {
+   "begin": "410.480",
+   "children": [],
+   "end": "430.920",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "We are facing absolutely massive deficits; this administration has chosen to ignore it; the president has failed to put forth a plan to deal with those deficits and if everything believes that everything is corning up roses, perhaps the vice-president should join me as I travel around the country and speak to people."
+   ]
+  },
+  {
+   "begin": "430.920",
+   "children": [],
+   "end": "441.600",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "People in Johnstown, Pennsylvania, are not terribly thrilled with what's happening in the economy because they're standing in the light of a closed plant because they've lost their jobs."
+   ]
+  },
+  {
+   "begin": "441.600",
+   "children": [],
+   "end": "447.240",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "The people in Youngstown, Ohio, have stores that are boarded up because the economy is not doing well."
+   ]
+  },
+  {
+   "begin": "447.240",
+   "children": [],
+   "end": "451.120",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "It's not only the old industries that are failing, it's also the new ones."
+   ]
+  },
+  {
+   "begin": "451.120",
+   "children": [],
+   "end": "459.240",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "In San Jose, California, they're complaining because they can't export their high-tech qualities - goods - to Japan and other countries."
+   ]
+  },
+  {
+   "begin": "459.240",
+   "children": [],
+   "end": "466.960",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "The people in the Northwest - in the state of Washington and Oregon - are complaining about what's happening to the timber industry and to the agriculture industry."
+   ]
+  },
+  {
+   "begin": "466.960",
+   "children": [],
+   "end": "474.440",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "So, so things are not as great as the administration is wanting us to believe in their television commercials."
+   ]
+  },
+  {
+   "begin": "474.440",
+   "children": [],
+   "end": "485.200",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "My feeling, quite frankly, is that I have enough experience to see the problems, address them and make the tough decisions and level with people with reference to those problems."
+   ]
+  },
+  {
+   "begin": "485.200",
+   "children": [],
+   "end": "497.840",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Despite the historic aspects of your candidacy, how do you account for the fact that a majority of women - at least according to the polls - favor the Reagan-Bush ticket over the Mondale-Ferraro ticket?"
+   ]
+  },
+  {
+   "begin": "497.840",
+   "children": [],
+   "end": "498.520",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "I don't."
+   ]
+  },
+  {
+   "begin": "498.520",
+   "children": [],
+   "end": "511.920",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "Let me say that I'm not a believer in polls and let me say further that what we are talking about are problems that are facing the entire nation."
+   ]
+  },
+  {
+   "begin": "511.920",
+   "children": [],
+   "end": "514.360",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "They're not just problems facing women."
+   ]
+  },
+  {
+   "begin": "514.360",
+   "children": [],
+   "end": "520.960",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "The issues in this campaign are the war-peace issues; the problems of deficits; the problems of trade deficits."
+   ]
+  },
+  {
+   "begin": "520.960",
+   "children": [],
+   "end": "525.120",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "We are now facing a $120 billion trade deficit in this country."
+   ]
+  },
+  {
+   "begin": "525.120",
+   "children": [],
+   "end": "527.120",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "We're facing problems of the environment."
+   ]
+  },
+  {
+   "begin": "527.120",
+   "children": [],
+   "end": "541.800",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "I think what we're going to be doing over the next several weeks - and I'm absolutely delighted that the League is sponsoring these debates and that we are, we are able to now speak to the American public and address the issues in a way such as this."
+   ]
+  },
+  {
+   "begin": "541.800",
+   "children": [],
+   "end": "543.760",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "I think you're going to see a change in those polls."
+   ]
+  },
+  {
+   "begin": "543.760",
+   "children": [],
+   "end": "547.360",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "Vice President Bush, you have one minute to rebuttal."
+   ]
+  },
+  {
+   "begin": "547.360",
+   "children": [],
+   "end": "554.960",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "Well, I was glad to get that vote of confidence from Mrs. Ferraro in my economic judgment."
+   ]
+  },
+  {
+   "begin": "554.960",
+   "children": [],
+   "end": "558.400",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "So let me make a statement on the economy."
+   ]
+  },
+  {
+   "begin": "558.400",
+   "children": [],
+   "end": "568.120",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "The other clay she was in a plant and she said to the workers, Why are you all voting for, why are so many of you voting for the Reagan-Bush ticket."
+   ]
+  },
+  {
+   "begin": "568.120",
+   "children": [],
+   "end": "572.280",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "And there was a long, deathly silence and she said come on, we delivered."
+   ]
+  },
+  {
+   "begin": "572.280",
+   "children": [],
+   "end": "574.520",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "That's the problem."
+   ]
+  },
+  {
+   "begin": "574.520",
+   "children": [],
+   "end": "579.040",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "And I'm not blaming her except for the liberal voting record in the House."
+   ]
+  },
+  {
+   "begin": "579.040",
+   "children": [],
+   "end": "579.880",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "They delivered."
+   ]
+  },
+  {
+   "begin": "579.880",
+   "children": [],
+   "end": "582.920",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "They delivered 21 \u00c2\u00ae percent interest rates."
+   ]
+  },
+  {
+   "begin": "582.920",
+   "children": [],
+   "end": "585.440",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "They delivered what they called malaise."
+   ]
+  },
+  {
+   "begin": "585.440",
+   "children": [],
+   "end": "588.520",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "They delivered interest rates that were right off the charts."
+   ]
+  },
+  {
+   "begin": "588.520",
+   "children": [],
+   "end": "594.320",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "They delivered take-home pay, checks that were shrinking, and we've delivered optimism."
+   ]
+  },
+  {
+   "begin": "594.320",
+   "children": [],
+   "end": "598.720",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "People are going back to work; 6 million of them."
+   ]
+  },
+  {
+   "begin": "598.720",
+   "children": [],
+   "end": "602.240",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "And 300,000 jobs a month being created."
+   ]
+  },
+  {
+   "begin": "602.240",
+   "children": [],
+   "end": "605.280",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "That's why there was that deathly silence out there in that plant."
+   ]
+  },
+  {
+   "begin": "605.280",
+   "children": [],
+   "end": "607.160",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "They delivered the wrong thing."
+   ]
+  },
+  {
+   "begin": "607.160",
+   "children": [],
+   "end": "609.560",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "Ronald Reagan is delivering leadership."
+   ]
+  },
+  {
+   "begin": "609.560",
+   "children": [],
+   "end": "615.000",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "Congresswoman Ferraro, one-minute rebuttal."
+   ]
+  },
+  {
+   "begin": "615.000",
+   "children": [],
+   "end": "620.040",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "I, I think what I'm going to have to do is I'm going to start correcting the vice-president's statistics."
+   ]
+  },
+  {
+   "begin": "620.040",
+   "children": [],
+   "end": "625.200",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "There are 6 million more people who have jobs and that's supposed to happen in a growing economy."
+   ]
+  },
+  {
+   "begin": "625.200",
+   "children": [],
+   "end": "630.120",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "In fact in the prior administration, with all their problems, they created 10 million jobs."
+   ]
+  },
+  {
+   "begin": "630.120",
+   "children": [],
+   "end": "637.880",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "The housing interest rates during this administration, for housing for middle-class Americans, was 14.5 percent."
+   ]
+  },
+  {
+   "begin": "637.880",
+   "children": [],
+   "end": "643.920",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Under the prior administration, with all their problems, the average rate was 10.6 percent."
+   ]
+  },
+  {
+   "begin": "643.920",
+   "children": [],
+   "end": "653.960",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "If you take a look at the number of people living in poverty as a result of this administration, 6 million people, 500,000 people knocked off disability rolls."
+   ]
+  },
+  {
+   "begin": "653.960",
+   "children": [],
+   "end": "661.360",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "You know, it's, you can walk around saying things are great and that's what we're going to be hearing, we've been hearing that on those commercials for the past couple of months."
+   ]
+  },
+  {
+   "begin": "661.360",
+   "children": [],
+   "end": "663.840",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "I expect they expect the American people to believe that."
+   ]
+  },
+  {
+   "begin": "663.840",
+   "children": [],
+   "end": "668.000",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "I'll become a one-woman truth squad and we'll start tonight."
+   ]
+  },
+  {
+   "begin": "668.000",
+   "children": [],
+   "end": "668.520",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "Mr. White."
+   ]
+  },
+  {
+   "begin": "668.520",
+   "children": [],
+   "end": "672.160",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Congresswoman Ferraro, I would like to ask you about civil rights."
+   ]
+  },
+  {
+   "begin": "672.160",
+   "children": [],
+   "end": "677.160",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "You have in the past been a supporter of tuition tax credits for private parochial schools."
+   ]
+  },
+  {
+   "begin": "677.160",
+   "children": [],
+   "end": "679.560",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "And also of a constitutional amendment to ban busing."
+   ]
+  },
+  {
+   "begin": "679.560",
+   "children": [],
+   "end": "686.760",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "Both these measures are opposed not only by your running mate but by about every educational and civil rights organization in the country."
+   ]
+  },
+  {
+   "begin": "686.760",
+   "children": [],
+   "end": "691.240",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "Now that you're Mr. Mondale's running mate have you changed your position on either of those?"
+   ]
+  },
+  {
+   "begin": "691.240",
+   "children": [],
+   "end": "701.000",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "With reference to the busing vote that I cast in 1979, both Fritz Mondale and I agree on the same goal and that is nondiscrimination."
+   ]
+  },
+  {
+   "begin": "701.000",
+   "children": [],
+   "end": "705.760",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "I just don't agree on the same direction he does on how to achieve it."
+   ]
+  },
+  {
+   "begin": "705.760",
+   "children": [],
+   "end": "707.680",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "But I don't find any problem with that."
+   ]
+  },
+  {
+   "begin": "707.680",
+   "children": [],
+   "end": "713.760",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "I think that's been something that's been handled by the courts, and not being handled by Congress and will not be handled by the White House."
+   ]
+  },
+  {
+   "begin": "713.760",
+   "children": [],
+   "end": "717.600",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "But we both support nondiscrimination in housing and integration of neighborhoods."
+   ]
+  },
+  {
+   "begin": "717.600",
+   "children": [],
+   "end": "719.640",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "The goals we both set forth."
+   ]
+  },
+  {
+   "begin": "719.640",
+   "children": [],
+   "end": "725.080",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "With reference to tuition tax credits, I have represented a district in Queens which is 70 percent Catholic."
+   ]
+  },
+  {
+   "begin": "725.080",
+   "children": [],
+   "end": "726.400",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "I represented my district."
+   ]
+  },
+  {
+   "begin": "726.400",
+   "children": [],
+   "end": "737.280",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Let me say as well that I have also been a great supporter of public school education and that is something that Fritz and I feel very, very strongly about for the future of this country."
+   ]
+  },
+  {
+   "begin": "737.280",
+   "children": [],
+   "end": "746.640",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "And this administration over the past several years has gutted the educational programs available to our young people."
+   ]
+  },
+  {
+   "begin": "746.640",
+   "children": [],
+   "end": "754.960",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "It has attempted to knock out Pell Grants, which are monies to young individuals who are poor and who cannot afford to go to college."
+   ]
+  },
+  {
+   "begin": "754.960",
+   "children": [],
+   "end": "765.920",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "It has reduced by 25 percent the amount of monies going into college education and by a third those going into secondary and primary schools."
+   ]
+  },
+  {
+   "begin": "765.920",
+   "children": [],
+   "end": "774.400",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "But Fritz Mondale and I feel very strongly that if you educate your children that that's an effort and the way that you build up and make a stronger America."
+   ]
+  },
+  {
+   "begin": "774.400",
+   "children": [],
+   "end": "785.680",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "With reference to civil rights I think you've got to go beyond that and if you take a look, also, at my record in the Congress and Fritz Mondale's record, both in the Senate and as vice president, we both have extremely strong civil rights records."
+   ]
+  },
+  {
+   "begin": "785.680",
+   "children": [],
+   "end": "788.080",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "This administration does not."
+   ]
+  },
+  {
+   "begin": "788.080",
+   "children": [],
+   "end": "794.240",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "It has come in in the Bob Jones on the side of segregated academies."
+   ]
+  },
+  {
+   "begin": "794.240",
+   "children": [],
+   "end": "800.000",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "It came in in the Grove City case on the side of discrimination against women, the handicapped, and the elderly."
+   ]
+  },
+  {
+   "begin": "800.000",
+   "children": [],
+   "end": "811.840",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, in the Congress we just passed overwhelmingly the Civil Rights Bill of 1984 and this administration, the Republican-controlled Senate, just killed it in the last week or two in Congress."
+   ]
+  },
+  {
+   "begin": "811.840",
+   "children": [],
+   "end": "821.080",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "So there is a real difference between how the Mondale-Ferraro administration will address the problems of civil rights and the failure of this administration specifically in that particular area."
+   ]
+  },
+  {
+   "begin": "821.080",
+   "children": [],
+   "end": "834.480",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "In the area of affirmative action, what steps do you think government can take to increase the representation of minorities and women in the work force, and in colleges and universities, and specifically, would you support the use of quotas to achieve those goals?"
+   ]
+  },
+  {
+   "begin": "834.480",
+   "children": [],
+   "end": "837.440",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "I do not support the use of quotas."
+   ]
+  },
+  {
+   "begin": "837.440",
+   "children": [],
+   "end": "851.560",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Both Mr. Mondale and I feel very strongly about affirmative action to correct inequities, and we believe that steps should be taken both through government - for instance, the Small Business Administration."
+   ]
+  },
+  {
+   "begin": "851.560",
+   "children": [],
+   "end": "855.960",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "We have supported set-asides for minority and women's businesses."
+   ]
+  },
+  {
+   "begin": "855.960",
+   "children": [],
+   "end": "857.680",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "That's a positive thing."
+   ]
+  },
+  {
+   "begin": "857.680",
+   "children": [],
+   "end": "865.280",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "We don't feel that you're in any way hurting anybody else by reaching out with affirmative action to help those who've been disenfranchised."
+   ]
+  },
+  {
+   "begin": "865.280",
+   "children": [],
+   "end": "879.840",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "On the contrary, if you have a growing economy, if you create the jobs, if you allow for small business the opportunity with lower interest rates to reach out and grow, there will be more than enough space for everybody."
+   ]
+  },
+  {
+   "begin": "879.840",
+   "children": [],
+   "end": "884.320",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "And affirmative action is a very positive way to deal with the problems of discrimination."
+   ]
+  },
+  {
+   "begin": "884.320",
+   "children": [],
+   "end": "892.680",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "Vice-President Bush, many critics of your administration say that it is the most hostile to minorities in recent memory."
+   ]
+  },
+  {
+   "begin": "892.680",
+   "children": [],
+   "end": "907.280",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "Have you inadvertently perhaps encouraged that view by supporting tuition tax credits, the antibusing amendment, and siding with Bob Jones University in a case before the Supreme Court, your original opposition to the Voting Rights Act extension and so forth?"
+   ]
+  },
+  {
+   "begin": "907.280",
+   "children": [],
+   "end": "912.640",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "No, Mr. White, I think our record on civil rights is a good record."
+   ]
+  },
+  {
+   "begin": "912.640",
+   "children": [],
+   "end": "918.720",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "You mentioned the Voting Rights extension; it was extended for the longest period of time by President Reagan."
+   ]
+  },
+  {
+   "begin": "918.720",
+   "children": [],
+   "end": "926.960",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "But we have some problems in attracting the black vote, and I think our record deserves better."
+   ]
+  },
+  {
+   "begin": "926.960",
+   "children": [],
+   "end": "933.440",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "We have done more for black colleges than any previous administration."
+   ]
+  },
+  {
+   "begin": "933.440",
+   "children": [],
+   "end": "948.240",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "We favor enterprise zones to give - and it's been blocked by Tip O'Neill and that House of Representatives, those liberals in that House blocked a new idea to bring jobs into the black communities across the country."
+   ]
+  },
+  {
+   "begin": "948.240",
+   "children": [],
+   "end": "955.680",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "And because it's not an old handout, special federal spending program, it's blocked there - a good idea."
+   ]
+  },
+  {
+   "begin": "955.680",
+   "children": [],
+   "end": "957.440",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "And I'd like to sec that tried."
+   ]
+  },
+  {
+   "begin": "957.440",
+   "children": [],
+   "end": "965.480",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "We've brought more civil rights cases in the Justice Department than the previous administration by far."
+   ]
+  },
+  {
+   "begin": "965.480",
+   "children": [],
+   "end": "974.680",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "We believe in trying something new to help these black teenage kids; the minimum wage differential that says, \"Look,\" to an employer, \"hire these guys."
+   ]
+  },
+  {
+   "begin": "974.680",
+   "children": [],
+   "end": "978.280",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "And, yes, they're willing to work for slightly less than the minimum wage."
+   ]
+  },
+  {
+   "begin": "978.280",
+   "children": [],
+   "end": "981.920",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Give 'em a training job in the private sector.\""
+   ]
+  },
+  {
+   "begin": "981.920",
+   "children": [],
+   "end": "992.880",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "We threw out that old CETA that didn't train people for jobs that existed, simply rammed them onto the government payroll, and we put in a thing called the Job Training Partnership Act."
+   ]
+  },
+  {
+   "begin": "992.880",
+   "children": [],
+   "end": "997.320",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Wonderful new legislation that's helping blacks more and more."
+   ]
+  },
+  {
+   "begin": "997.320",
+   "children": [],
+   "end": "1000.880",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "We think of civil rights as something like crime in your neighborhoods."
+   ]
+  },
+  {
+   "begin": "1000.880",
+   "children": [],
+   "end": "1006.360",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "And, for example, when crime figures are going in the right direction that's good, that's a civil right."
+   ]
+  },
+  {
+   "begin": "1006.360",
+   "children": [],
+   "end": "1011.960",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Similarly, we think of it in terms of quality of life, and that means interest rates."
+   ]
+  },
+  {
+   "begin": "1011.960",
+   "children": [],
+   "end": "1018.600",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "You know, it's funny, Mr. Mondale talks about real interest rates."
+   ]
+  },
+  {
+   "begin": "1018.600",
+   "children": [],
+   "end": "1024.800",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "The real interest rate is what you pay when you go down and try to buy a TV set or buy a car, or do whatever it is."
+   ]
+  },
+  {
+   "begin": "1024.800",
+   "children": [],
+   "end": "1029.320",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "The interest rates when we left office were 21% percent."
+   ]
+  },
+  {
+   "begin": "1029.320",
+   "children": [],
+   "end": "1030.680",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Inflation!"
+   ]
+  },
+  {
+   "begin": "1030.680",
+   "children": [],
+   "end": "1038.120",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Is it a civil right to have the going right off the chart so you're busting every American family, those who can afford it the least?"
+   ]
+  },
+  {
+   "begin": "1038.120",
+   "children": [],
+   "end": "1039.600",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "No, we've got a good record."
+   ]
+  },
+  {
+   "begin": "1039.600",
+   "children": [],
+   "end": "1050.800",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "We've got it on civil rights legislation, minority set-asides, more help for black colleges, and we've got it in terms of an economy that's offering people opportunity and hope instead of despair."
+   ]
+  },
+  {
+   "begin": "1050.800",
+   "children": [],
+   "end": "1061.880",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Along those lines, sir, many recent studies have indicated that the poor and minorities have not really shared in the new prosperity generated by the current economic recovery."
+   ]
+  },
+  {
+   "begin": "1061.880",
+   "children": [],
+   "end": "1073.640",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Was it right for your administration to pursue policies, economic policies, that required those at the bottom of the economic ladder to wait for prosperity to trickle clown from people who are much better off than they?"
+   ]
+  },
+  {
+   "begin": "1073.640",
+   "children": [],
+   "end": "1075.960",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Mr. White, it's not trickling down."
+   ]
+  },
+  {
+   "begin": "1075.960",
+   "children": [],
+   "end": "1082.480",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "And I'm not suggesting there's no poverty, but I am suggesting the way to work out of poverty is through real opportunity."
+   ]
+  },
+  {
+   "begin": "1082.480",
+   "children": [],
+   "end": "1086.800",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "And in the meantime, the needy are getting more help."
+   ]
+  },
+  {
+   "begin": "1086.800",
+   "children": [],
+   "end": "1089.680",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Human resource spending is way, way up."
+   ]
+  },
+  {
+   "begin": "1089.680",
+   "children": [],
+   "end": "1092.720",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "Aid for Dependent Children spending is up."
+   ]
+  },
+  {
+   "begin": "1092.720",
+   "children": [],
+   "end": "1095.240",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Immunization programs are up."
+   ]
+  },
+  {
+   "begin": "1095.240",
+   "children": [],
+   "end": "1108.040",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "Almost every place you can point, contrary to Mr. Mondale's - I gotta be careful - but contrary of how he goes around just saying everything bad."
+   ]
+  },
+  {
+   "begin": "1108.040",
+   "children": [],
+   "end": "1114.240",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "If somebody sees a silver lining, he finds a big black cloud out there."
+   ]
+  },
+  {
+   "begin": "1114.240",
+   "children": [],
+   "end": "1115.960",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "Whine on harvest moon!"
+   ]
+  },
+  {
+   "begin": "1115.960",
+   "children": [],
+   "end": "1119.240",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "I mean, there's a lot going on, a lotta opportunity."
+   ]
+  },
+  {
+   "begin": "1119.240",
+   "children": [],
+   "end": "1123.640",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "Congresswoman Ferraro, your rebuttal."
+   ]
+  },
+  {
+   "begin": "1123.640",
+   "children": [],
+   "end": "1128.400",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "The vice-president indicates that the President signed the Voting Rights Act."
+   ]
+  },
+  {
+   "begin": "1128.400",
+   "children": [],
+   "end": "1138.280",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "That was after he was - he did not support it while it was in the Congress, in the Senate, it was passed despite his opposition, and he did sign it because he was required to do so."
+   ]
+  },
+  {
+   "begin": "1138.280",
+   "children": [],
+   "end": "1145.280",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "In the civil rights cases that he mentioned, the great number of cases that they have enforced, the reason they enforced them because under the law they're required to do that."
+   ]
+  },
+  {
+   "begin": "1145.280",
+   "children": [],
+   "end": "1147.480",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "And I'm delighted that the administration is following the law."
+   ]
+  },
+  {
+   "begin": "1147.480",
+   "children": [],
+   "end": "1149.560",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "With reference"
+   ]
+  },
+  {
+   "begin": "1149.560",
+   "children": [],
+   "end": "1169.360",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "Excuse me - this will be out of my time, not yours - knowing and cherishing the people of this city and knowing their restraint and diffidence about emotion especially of athletic contexts of which this is not one, I beseech you, try to hold your applause please."
+   ]
+  },
+  {
+   "begin": "1169.360",
+   "children": [],
+   "end": "1169.960",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "I'm sorry."
+   ]
+  },
+  {
+   "begin": "1169.960",
+   "children": [],
+   "end": "1179.640",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "I just have to correct in my thirty seconds that are left the comment that the vice-president made with reference specifically to a program like AFDC."
+   ]
+  },
+  {
+   "begin": "1179.640",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "If you take AFDC, if you take food stamps, if you take - oh, go down the line on poor people's programs, those are the programs that suffered considerably under this administration's first budget cuts and those are the ones that in the second part of their part of their term, we were able"
+   ]
+  }
+ ]
+}

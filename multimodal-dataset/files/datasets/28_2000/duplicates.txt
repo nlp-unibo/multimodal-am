@@ -1,0 +1,6 @@
+Thank you. : 6
+Yes, sir. : 2
+Okay. : 2
+Absolutely not. : 9
+Yes. : 3
+Let me finish. : 4

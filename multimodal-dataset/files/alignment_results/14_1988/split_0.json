@@ -1,0 +1,1794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "7.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "On behalf of the Commission on Presidential Debates, I am pleased to welcome you to this Vice Presidential debate."
+   ]
+  },
+  {
+   "begin": "7.600",
+   "children": [],
+   "end": "12.320",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Judy Woodruff of PBS' MacNeil-Lehrer News Hour and Frontline."
+   ]
+  },
+  {
+   "begin": "12.320",
+   "children": [],
+   "end": "24.160",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "My colleagues on the panel are: John Margolis of the Chicago Tribune; Tom Brokaw of NBC NEWS; and Brit Hume of ABC NEWS."
+   ]
+  },
+  {
+   "begin": "24.160",
+   "children": [],
+   "end": "28.320",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "The importance of tonight's debate is underscored by two facts."
+   ]
+  },
+  {
+   "begin": "28.320",
+   "children": [],
+   "end": "36.000",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Both George Bush and Michael Dukakis said their selections of a running mate would reveal a lot about themselves."
+   ]
+  },
+  {
+   "begin": "36.000",
+   "children": [],
+   "end": "46.800",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "And based on the history since World War II, there is almost a 50-50 chance that one of the two men here tonight will become President of the United States."
+   ]
+  },
+  {
+   "begin": "46.800",
+   "children": [],
+   "end": "59.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The candidates are Senator Dan Quayle, the Republican nominee, and Senator Lloyd Bentsen, the Democratic nominee."
+   ]
+  },
+  {
+   "begin": "59.040",
+   "children": [],
+   "end": "75.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "75.680",
+   "children": [],
+   "end": "83.960",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "For the next 90 minutes we will be questioning the candidates following a format designed and agreed to by representatives of the two campaigns."
+   ]
+  },
+  {
+   "begin": "83.960",
+   "children": [],
+   "end": "90.520",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "However, there are no restrictions on the questions that my colleagues and I may ask this evening."
+   ]
+  },
+  {
+   "begin": "90.520",
+   "children": [],
+   "end": "98.680",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "By prior agreement between the two candidates, the first question goes to Senator Quayle, and you have two minutes to respond."
+   ]
+  },
+  {
+   "begin": "98.680",
+   "children": [],
+   "end": "106.520",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "Senator, you have been criticized, as we all know, for your decision to stay out of the Vietnam War, for your poor academic record."
+   ]
+  },
+  {
+   "begin": "106.520",
+   "children": [],
+   "end": "112.040",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "But more troubling to some are some of the comments that have been made by people in your own party."
+   ]
+  },
+  {
+   "begin": "112.040",
+   "children": [],
+   "end": "118.280",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Just last week former Secretary of State Haig said that your pick was the dumbest call George Bush could have made."
+   ]
+  },
+  {
+   "begin": "118.280",
+   "children": [],
+   "end": "119.560",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Your leader in the Senate."
+   ]
+  },
+  {
+   "begin": "119.560",
+   "children": [],
+   "end": "120.200",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "120.200",
+   "children": [],
+   "end": "128.320",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "Your leader in the Senate Bob Dole said that a better qualified person could have been chosen."
+   ]
+  },
+  {
+   "begin": "128.320",
+   "children": [],
+   "end": "132.080",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Other Republicans have been far more critical in private."
+   ]
+  },
+  {
+   "begin": "132.080",
+   "children": [],
+   "end": "143.480",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Why do you think that you have not made a more substantial impression on some of these people who have been able to observe you up close?"
+   ]
+  },
+  {
+   "begin": "143.480",
+   "children": [],
+   "end": "152.320",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "The question goes to whether I am qualified to be Vice President, and in the case of a tragedy, whether I'm qualified to be President."
+   ]
+  },
+  {
+   "begin": "152.320",
+   "children": [],
+   "end": "159.000",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Qualifications for the office of Vice President or President are not age alone."
+   ]
+  },
+  {
+   "begin": "159.000",
+   "children": [],
+   "end": "164.160",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "You must look at accomplishments, and you must look at experience."
+   ]
+  },
+  {
+   "begin": "164.160",
+   "children": [],
+   "end": "169.800",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "I have more experience than others that have sought the office of Vice President."
+   ]
+  },
+  {
+   "begin": "169.800",
+   "children": [],
+   "end": "179.440",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Now let's look at qualifications, and let's look at the three biggest issues that are going to be confronting America in the next presidency."
+   ]
+  },
+  {
+   "begin": "179.440",
+   "children": [],
+   "end": "188.120",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Those three issues are national security and arms control; jobs and education; and the Federal budget deficit."
+   ]
+  },
+  {
+   "begin": "188.120",
+   "children": [],
+   "end": "195.800",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "On each one of those issues I have more experience than does the Governor of Massachusetts."
+   ]
+  },
+  {
+   "begin": "195.800",
+   "children": [],
+   "end": "205.120",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "In national security and arms control, you have to understand the difference between a ballistic missile, a warhead, what throwweight, what megatonnage is."
+   ]
+  },
+  {
+   "begin": "205.120",
+   "children": [],
+   "end": "208.200",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "You better understand about telemetry and encryption."
+   ]
+  },
+  {
+   "begin": "208.200",
+   "children": [],
+   "end": "212.440",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "And you better understand that you have to negotiate from a position of strength."
+   ]
+  },
+  {
+   "begin": "212.440",
+   "children": [],
+   "end": "217.400",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "These are important issues, because we want to have more arms control and arms reductions."
+   ]
+  },
+  {
+   "begin": "217.400",
+   "children": [],
+   "end": "231.880",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "In the area of jobs and education, I wrote the Job Training Partnership Act, a bipartisan bill, a bill that has trained and employed over three million economically disadvantaged youth and adults in this country."
+   ]
+  },
+  {
+   "begin": "231.880",
+   "children": [],
+   "end": "239.600",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "On the area of the Federal budget deficit, I have worked eight years on the Senate Budget Committee."
+   ]
+  },
+  {
+   "begin": "239.600",
+   "children": [],
+   "end": "246.160",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "And I wish that the Congress would give us the line item veto to help deal with that."
+   ]
+  },
+  {
+   "begin": "246.160",
+   "children": [],
+   "end": "256.160",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And if qualifications alone are going to be the issue in this campaign, George Bush has more qualifications than Michael Dukakis and Lloyd Bentsen combined."
+   ]
+  },
+  {
+   "begin": "256.160",
+   "children": [],
+   "end": "257.440",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "257.440",
+   "children": [],
+   "end": "273.920",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen - I'm going to interrupt at this point and ask once again that the audience please keep your responses as quiet as possible."
+   ]
+  },
+  {
+   "begin": "273.920",
+   "children": [],
+   "end": "276.720",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "We know that many of you here are for one candidate or another."
+   ]
+  },
+  {
+   "begin": "276.720",
+   "children": [],
+   "end": "288.800",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "But you are simply taking time away from your candidate, and more likely than not, you'll be causing the partisans for the other candidate to react again when their candidate speaks."
+   ]
+  },
+  {
+   "begin": "288.800",
+   "children": [],
+   "end": "289.720",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "So please."
+   ]
+  },
+  {
+   "begin": "289.720",
+   "children": [],
+   "end": "294.000",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen, you have one minute to respond."
+   ]
+  },
+  {
+   "begin": "294.000",
+   "children": [],
+   "end": "298.320",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "This debate tonight is not about the qualifications for the Vice Presidency."
+   ]
+  },
+  {
+   "begin": "298.320",
+   "children": [],
+   "end": "306.600",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "The debate is whether or not Dan Quayle and Lloyd Bentsen are qualified to be President of the United States."
+   ]
+  },
+  {
+   "begin": "306.600",
+   "children": [],
+   "end": "311.200",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Because Judy, just as you have said, that has happened too often in the past."
+   ]
+  },
+  {
+   "begin": "311.200",
+   "children": [],
+   "end": "332.320",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "And if that tragedy should occur, we have to step in there without any margin for error, without time for preparation, to take over the responsibility for the biggest job in the world, that of running this great country of ours; to take over the awesome responsibility for commanding the nuclear weaponry that this country has."
+   ]
+  },
+  {
+   "begin": "332.320",
+   "children": [],
+   "end": "341.240",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "No, the debate tonight is a debate about the presidency itself, and a presidential decision that has to be made by you."
+   ]
+  },
+  {
+   "begin": "341.240",
+   "children": [],
+   "end": "345.360",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "The stakes could not be higher."
+   ]
+  },
+  {
+   "begin": "345.360",
+   "children": [],
+   "end": "349.720",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen, a question for you, and you also have two minutes to respond."
+   ]
+  },
+  {
+   "begin": "349.720",
+   "children": [],
+   "end": "355.560",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "What bothers people is not so much your qualifications but your split on policy with Gov."
+   ]
+  },
+  {
+   "begin": "355.560",
+   "children": [],
+   "end": "356.920",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Dukakis."
+   ]
+  },
+  {
+   "begin": "356.920",
+   "children": [],
+   "end": "367.960",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "He has said that he does not want a clone of himself, but you disagree with him on some major issues: aid to the Nicaraguan Contras; the death penalty; gun control; among others."
+   ]
+  },
+  {
+   "begin": "367.960",
+   "children": [],
+   "end": "375.440",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "If you had to step into the presidency, whose agenda would you pursue, yours or his?"
+   ]
+  },
+  {
+   "begin": "375.440",
+   "children": [],
+   "end": "383.720",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Well, I am delighted to respond to that question, because we agree on so many things and the vast majority of the issues."
+   ]
+  },
+  {
+   "begin": "383.720",
+   "children": [],
+   "end": "387.040",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "We agree on the fact that we have to cut this deficit."
+   ]
+  },
+  {
+   "begin": "387.040",
+   "children": [],
+   "end": "387.640",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "And Gov."
+   ]
+  },
+  {
+   "begin": "387.640",
+   "children": [],
+   "end": "399.480",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "Dukakis has been able to cut that deficit ten budgets in a row in the State of Massachusetts, while he lowered the tax burden on their people from one of the highest to one of the lower in the United States."
+   ]
+  },
+  {
+   "begin": "399.480",
+   "children": [],
+   "end": "402.200",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "That is a major sense of achievement."
+   ]
+  },
+  {
+   "begin": "402.200",
+   "children": [],
+   "end": "403.240",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "And I admire that."
+   ]
+  },
+  {
+   "begin": "403.240",
+   "children": [],
+   "end": "405.840",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "And I'm just delighted to be on the ticket with him."
+   ]
+  },
+  {
+   "begin": "405.840",
+   "children": [],
+   "end": "406.920",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Gov."
+   ]
+  },
+  {
+   "begin": "406.920",
+   "children": [],
+   "end": "436.040",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "Dukakis and I agreed that we ought to have a trade policy for this country; that we've seen this Administration more than double the national debt, that; they've moved this country from the number one lender nation in the world to the number one debtor nation in the world under their Administration; that they have not had a trade policy; that they have let trade be a handmaiden for their foreign policy objectives of the country; that this country has exported too many jobs and not enough products."
+   ]
+  },
+  {
+   "begin": "436.040",
+   "children": [],
+   "end": "444.880",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "And as I worked to pass a trade bill through the United States Senate, they threw roadblocks in the way every step of the way."
+   ]
+  },
+  {
+   "begin": "444.880",
+   "children": [],
+   "end": "457.720",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "But we passed a trade bill that has this premise, that any country that has full access to our markets, we're entitled to full access to their markets."
+   ]
+  },
+  {
+   "begin": "457.720",
+   "children": [],
+   "end": "469.120",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Now, that means that we're going to stand tough for America, and we're going to protect those jobs, and we're going to push American products, and we're going to open up markets around the world."
+   ]
+  },
+  {
+   "begin": "469.120",
+   "children": [],
+   "end": "474.600",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "We'll show leadership in that respect, and turn this deficit and trade around."
+   ]
+  },
+  {
+   "begin": "474.600",
+   "children": [],
+   "end": "481.480",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "That's the sort of thing that Michael Dukakis and I will do to bring about a better America for all our people."
+   ]
+  },
+  {
+   "begin": "481.480",
+   "children": [],
+   "end": "485.000",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Senator Quayle, a minute to respond."
+   ]
+  },
+  {
+   "begin": "485.000",
+   "children": [],
+   "end": "488.880",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "As you notice, Senator Bentsen didn't tell you very much about what Gov."
+   ]
+  },
+  {
+   "begin": "488.880",
+   "children": [],
+   "end": "491.000",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Dukakis would do - Gov."
+   ]
+  },
+  {
+   "begin": "491.000",
+   "children": [],
+   "end": "497.080",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "Dukakis, one of the most liberal governors in the United States of America The one thing he tried to point out about Gov."
+   ]
+  },
+  {
+   "begin": "497.080",
+   "children": [],
+   "end": "498.880",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "Dukakis is that he's cut taxes."
+   ]
+  },
+  {
+   "begin": "498.880",
+   "children": [],
+   "end": "503.680",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "The fact of the matter is, Senator Bentsen, he's raised taxes five times."
+   ]
+  },
+  {
+   "begin": "503.680",
+   "children": [],
+   "end": "505.880",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "He just raised taxes this past year."
+   ]
+  },
+  {
+   "begin": "505.880",
+   "children": [],
+   "end": "509.480",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "And that's why a lot of people refer to him as Tax-hike Mike."
+   ]
+  },
+  {
+   "begin": "509.480",
+   "children": [],
+   "end": "514.280",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "That's why they refer to the State of Massachusetts as Taxachusetts."
+   ]
+  },
+  {
+   "begin": "514.280",
+   "children": [],
+   "end": "519.640",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "Because every time there's a problem, the liberal governor from Massachusetts raises taxes."
+   ]
+  },
+  {
+   "begin": "519.640",
+   "children": [],
+   "end": "523.040",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "I don't blame Senator Bentsen for not talking about Gov."
+   ]
+  },
+  {
+   "begin": "523.040",
+   "children": [],
+   "end": "523.920",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Michael Dukakis."
+   ]
+  },
+  {
+   "begin": "523.920",
+   "children": [],
+   "end": "525.680",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "He's talking more about his record."
+   ]
+  },
+  {
+   "begin": "525.680",
+   "children": [],
+   "end": "528.000",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "If I had to defend the liberal policies of Gov."
+   ]
+  },
+  {
+   "begin": "528.000",
+   "children": [],
+   "end": "530.520",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Michael Dukakis, I wouldn't talk about it either."
+   ]
+  },
+  {
+   "begin": "530.520",
+   "children": [],
+   "end": "534.160",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "John Margolis, a question for Senator Bentsen."
+   ]
+  },
+  {
+   "begin": "534.160",
+   "children": [],
+   "end": "542.520",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen, you have claimed that Vice President Bush and the Republicans will raid the Social Security Trust Fund, and you have vowed to protect it."
+   ]
+  },
+  {
+   "begin": "542.520",
+   "children": [],
+   "end": "557.200",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "But as Chairman of the Senate Finance Committee, you must know that there is something to the argument of your fellow Democrat Bob Strauss that some restraint on Social Security growth may be needed, or at least some decision to tax most Social Security benefits as regular income."
+   ]
+  },
+  {
+   "begin": "557.200",
+   "children": [],
+   "end": "564.480",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "In fact, you once voted for and spoke for a six-month delay on cost of living adjustment increases for Social Security."
+   ]
+  },
+  {
+   "begin": "564.480",
+   "children": [],
+   "end": "566.720",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Senator, aren't you and Gov."
+   ]
+  },
+  {
+   "begin": "566.720",
+   "children": [],
+   "end": "570.760",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Dukakis using this issue politically, rather than dealing with it responsibly?"
+   ]
+  },
+  {
+   "begin": "570.760",
+   "children": [],
+   "end": "579.520",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Well, I must say I hate to disappoint my good friend Bob Strauss, but we have a contract with the American people on Social Security."
+   ]
+  },
+  {
+   "begin": "579.520",
+   "children": [],
+   "end": "623.200",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "And Social Security is an issue where Senator Quayle voted eight times to cut the benefits on Social Security, where this administration came in and tried to cut the benefits, the minimum benefits, $122 a month for widows, for retirees, tried to cut the benefits for 62-year-old retirees by 40 percent, tried to do an end run on Social Security when they first came in after promising not to cut it - to cut it by some 20 billion, and while we were working together to reform the Social Security system and to be certain that that money was going to be there for people when they retired."
+   ]
+  },
+  {
+   "begin": "623.200",
+   "children": [],
+   "end": "628.280",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "At that point they tried a $40-billion end run to cut Social Security."
+   ]
+  },
+  {
+   "begin": "628.280",
+   "children": [],
+   "end": "630.160",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Now, the record is clear."
+   ]
+  },
+  {
+   "begin": "630.160",
+   "children": [],
+   "end": "637.000",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "And we saw Vice President Bush fly back from the west coast to break a tie in the United States Senate."
+   ]
+  },
+  {
+   "begin": "637.000",
+   "children": [],
+   "end": "645.080",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "He doesn't get to vote very often in the Senate, but he made a special trip to come back and vote against a cost-of-living increase."
+   ]
+  },
+  {
+   "begin": "645.080",
+   "children": [],
+   "end": "653.400",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Now, when you talk about Social Security, the people that are going to protect it are the Democrats that brought forth that program."
+   ]
+  },
+  {
+   "begin": "653.400",
+   "children": [],
+   "end": "658.920",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "And I think it's very important that we not see these kinds of end runs by this administration."
+   ]
+  },
+  {
+   "begin": "658.920",
+   "children": [],
+   "end": "665.760",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "When they talk about the fact that they are going to continue to cut this budget, I know too well what their rack record is."
+   ]
+  },
+  {
+   "begin": "665.760",
+   "children": [],
+   "end": "670.880",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "And we should be concerned with that kind of an effort once again after the election is over."
+   ]
+  },
+  {
+   "begin": "670.880",
+   "children": [],
+   "end": "673.120",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Senator Quayle, your response?"
+   ]
+  },
+  {
+   "begin": "673.120",
+   "children": [],
+   "end": "680.520",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen, you know that I did not vote to cut Social Security benefits eight times."
+   ]
+  },
+  {
+   "begin": "680.520",
+   "children": [],
+   "end": "686.760",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "What I have voted for and what Senator Bentsen has voted for is to delay the cost-of-living adjustments."
+   ]
+  },
+  {
+   "begin": "686.760",
+   "children": [],
+   "end": "692.920",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen two times in the United States Senate voted to delay the cost-of-living adjustments."
+   ]
+  },
+  {
+   "begin": "692.920",
+   "children": [],
+   "end": "700.200",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "The governor of Massachusetts at a governors' conference supported a resolution to delay the cost-of-living adjustment."
+   ]
+  },
+  {
+   "begin": "700.200",
+   "children": [],
+   "end": "704.600",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "And, John, you are right: they use this for political advantage."
+   ]
+  },
+  {
+   "begin": "704.600",
+   "children": [],
+   "end": "709.320",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "What they try to do time and time again is to scare the old people of this country."
+   ]
+  },
+  {
+   "begin": "709.320",
+   "children": [],
+   "end": "712.080",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "That's the politics of the past."
+   ]
+  },
+  {
+   "begin": "712.080",
+   "children": [],
+   "end": "721.920",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "In 1983 Republicans and Democrats dropped their political swords and in a bipartisan effort saved the Social Security system."
+   ]
+  },
+  {
+   "begin": "721.920",
+   "children": [],
+   "end": "732.080",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Republicans and Democrats banded together because we know that this program is not a Republican program, it's not a Democrat program - it's a program for older Americans."
+   ]
+  },
+  {
+   "begin": "732.080",
+   "children": [],
+   "end": "735.800",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "And that program is actuarially sound to the turn of this century."
+   ]
+  },
+  {
+   "begin": "735.800",
+   "children": [],
+   "end": "738.360",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "John, a question for Senator Quayle."
+   ]
+  },
+  {
+   "begin": "738.360",
+   "children": [],
+   "end": "745.080",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Senator, since coming to the Senate you have voted against environmental protection legislation about two-thirds of the time."
+   ]
+  },
+  {
+   "begin": "745.080",
+   "children": [],
+   "end": "752.200",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "This includes votes against pesticide controls, the toxic waste superfund, and health and safety protection from nuclear wastes."
+   ]
+  },
+  {
+   "begin": "752.200",
+   "children": [],
+   "end": "759.840",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Senator, do you consider yourself an environmentalist, and, if you do, how do you reconcile that with your voting record?"
+   ]
+  },
+  {
+   "begin": "759.840",
+   "children": [],
+   "end": "764.880",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "I have a very strong record on the environment in the United States Senate."
+   ]
+  },
+  {
+   "begin": "764.880",
+   "children": [],
+   "end": "772.240",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "(Laughter) I have a record where I voted for the superfund legislation."
+   ]
+  },
+  {
+   "begin": "772.240",
+   "children": [],
+   "end": "780.520",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "I have a record where I voted against my president on the override of the Clean Water Act."
+   ]
+  },
+  {
+   "begin": "780.520",
+   "children": [],
+   "end": "787.440",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "I have voted for the major pieces of environmental legislation that have come down and been voted on in the United States Senate."
+   ]
+  },
+  {
+   "begin": "787.440",
+   "children": [],
+   "end": "797.880",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "This administration - and I support this administration and its environmental efforts - has moved in the area for the first time to deal with the ozone problem."
+   ]
+  },
+  {
+   "begin": "797.880",
+   "children": [],
+   "end": "804.160",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "We now have an international treaty, the treaty that is commonly referred to as the Montreal Treaty."
+   ]
+  },
+  {
+   "begin": "804.160",
+   "children": [],
+   "end": "810.480",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "For the first time we are talking about the impact of CO2 to the ozone layer."
+   ]
+  },
+  {
+   "begin": "810.480",
+   "children": [],
+   "end": "813.200",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "That's progress with the environment."
+   ]
+  },
+  {
+   "begin": "813.200",
+   "children": [],
+   "end": "816.800",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "We are committed to the environment."
+   ]
+  },
+  {
+   "begin": "816.800",
+   "children": [],
+   "end": "822.280",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "I take my children hiking and fishing, walking in the woods, in the wilderness."
+   ]
+  },
+  {
+   "begin": "822.280",
+   "children": [],
+   "end": "826.320",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "Believe me, we have a commit to preserving the environment."
+   ]
+  },
+  {
+   "begin": "826.320",
+   "children": [],
+   "end": "833.840",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "You bring up the environment, you can't help but think about the environmental policy of the governor of Massachusetts."
+   ]
+  },
+  {
+   "begin": "833.840",
+   "children": [],
+   "end": "836.720",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "He talks about being an environmentalist."
+   ]
+  },
+  {
+   "begin": "836.720",
+   "children": [],
+   "end": "839.480",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Let me tell you about his environmental policy."
+   ]
+  },
+  {
+   "begin": "839.480",
+   "children": [],
+   "end": "849.080",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "The Boston Harbor - the Boston Harbor, which is the dirtiest waterway in America, tons of raw sewage go in there each and every day."
+   ]
+  },
+  {
+   "begin": "849.080",
+   "children": [],
+   "end": "852.320",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "What has the governor of Massachusetts done about that?"
+   ]
+  },
+  {
+   "begin": "852.320",
+   "children": [],
+   "end": "853.400",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Virtually nothing."
+   ]
+  },
+  {
+   "begin": "853.400",
+   "children": [],
+   "end": "860.640",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "And then he has the audacity to go down to New Jersey and tell the people of New Jersey that he's against ocean dumping."
+   ]
+  },
+  {
+   "begin": "860.640",
+   "children": [],
+   "end": "869.480",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "This is the same governor that applied for a license to dump Massachusetts sewage waste off the coast of New Jersey."
+   ]
+  },
+  {
+   "begin": "869.480",
+   "children": [],
+   "end": "871.960",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Who has the environmental record?"
+   ]
+  },
+  {
+   "begin": "871.960",
+   "children": [],
+   "end": "873.600",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Who has the environmental interest?"
+   ]
+  },
+  {
+   "begin": "873.600",
+   "children": [],
+   "end": "875.200",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "George Bush and I do."
+   ]
+  },
+  {
+   "begin": "875.200",
+   "children": [],
+   "end": "877.560",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen."
+   ]
+  },
+  {
+   "begin": "877.560",
+   "children": [],
+   "end": "879.800",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "This late conversion is interesting to me."
+   ]
+  },
+  {
+   "begin": "879.800",
+   "children": [],
+   "end": "893.400",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "(Laughter and applause) I must say, when they talk about Boston Harbor and he says he hasn't done anything, the facts are he has a $6-billion program under way on waste treatment."
+   ]
+  },
+  {
+   "begin": "893.400",
+   "children": [],
+   "end": "904.320",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "And it was this administration, their administration, that cut out the money early on to be able to clean up water, and made it impossible to move ahead at that time on Boston Harbor."
+   ]
+  },
+  {
+   "begin": "904.320",
+   "children": [],
+   "end": "910.280",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "We are the authors, the Democratic Party, of Clean Air, of Clean Water, of the superfund."
+   ]
+  },
+  {
+   "begin": "910.280",
+   "children": [],
+   "end": "915.200",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "I am one who played a very major role in passing the superfund legislation."
+   ]
+  },
+  {
+   "begin": "915.200",
+   "children": [],
+   "end": "923.400",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "And every environmental organization that I know, every major one, has now endorsed the Dukakis-Bentsen ticket."
+   ]
+  },
+  {
+   "begin": "923.400",
+   "children": [],
+   "end": "933.200",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "And I am one who has just received the environmental award in Texas for the work I've done to clean up the bays, to clean up the water, off the coast of Texas."
+   ]
+  },
+  {
+   "begin": "933.200",
+   "children": [],
+   "end": "936.960",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "No, I think we know well who's going to help clean up this environment."
+   ]
+  },
+  {
+   "begin": "936.960",
+   "children": [],
+   "end": "939.600",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "The record is there, the history is there."
+   ]
+  },
+  {
+   "begin": "939.600",
+   "children": [],
+   "end": "942.280",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "And Dukakis and Bentsen will be committed to that."
+   ]
+  },
+  {
+   "begin": "942.280",
+   "children": [],
+   "end": "942.720",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "942.720",
+   "children": [],
+   "end": "945.280",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "Tom Brokaw, a question for Senator Quayle."
+   ]
+  },
+  {
+   "begin": "945.280",
+   "children": [],
+   "end": "947.160",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "Thank you, Judy."
+   ]
+  },
+  {
+   "begin": "947.160",
+   "children": [],
+   "end": "949.920",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Senator Quayle, there's been a lot of talk during the course of this campaign about family."
+   ]
+  },
+  {
+   "begin": "949.920",
+   "children": [],
+   "end": "953.440",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "It was a principal theme, as I recall, in your acceptance speech in New Orleans."
+   ]
+  },
+  {
+   "begin": "953.440",
+   "children": [],
+   "end": "959.560",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Tonight I'd like to ask you about the sixty-five million American children who live with their families in poverty."
+   ]
+  },
+  {
+   "begin": "959.560",
+   "children": [],
+   "end": "977.240",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "I'd like for you to describe to the audience the last time that you may have visited with one of those families personally and how you explain to that family your votes against the school breakfast program, the school lunch program, and the expansion of the child immunization program."
+   ]
+  },
+  {
+   "begin": "977.240",
+   "children": [],
+   "end": "978.160",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "978.160",
+   "children": [],
+   "end": "982.920",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "I have met with those people, and I met with them in Fort Wayne, Indiana, at a food bank."
+   ]
+  },
+  {
+   "begin": "982.920",
+   "children": [],
+   "end": "1000.600",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "You may be surprised, Tom, they didn't ask me those questions on those votes, because they were glad that I took time out of my schedule to go down and to talk about how we are going to get a food bank going and making sure that a food bank goes in Fort Wayne, Indiana."
+   ]
+  },
+  {
+   "begin": "1000.600",
+   "children": [],
+   "end": "1011.760",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "And I have a very good record and a commitment to the poor, to those that don't have a family, that want to have a family."
+   ]
+  },
+  {
+   "begin": "1011.760",
+   "children": [],
+   "end": "1021.200",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "This administration, and a George Bush administration, will be committed to eradicating poverty."
+   ]
+  },
+  {
+   "begin": "1021.200",
+   "children": [],
+   "end": "1028.840",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Poverty hasn't gone up in this administration; it hasn't gone down much either, and that means we have a challenge ahead of us."
+   ]
+  },
+  {
+   "begin": "1028.840",
+   "children": [],
+   "end": "1033.160",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "But let me tell you something, what we have done for the poor."
+   ]
+  },
+  {
+   "begin": "1033.160",
+   "children": [],
+   "end": "1046.280",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "What we have done for the poor is that we in fact - the homeless bill, the McKinney Act, which is the major piece of legislation that deals with homeless - the Congress has cut the funding that the administration has recommended."
+   ]
+  },
+  {
+   "begin": "1046.280",
+   "children": [],
+   "end": "1072.240",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "The poor and the poverty - the biggest thing that we have done for poverty in America is the Tax Simplification Act of 1986: six million working poor families got off the payroll; six million people are off the taxpaying payrolls because of that tax reform, and they are keeping the tax money there."
+   ]
+  },
+  {
+   "begin": "1072.240",
+   "children": [],
+   "end": "1077.080",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "To help the poor, we'll have a commitment to the programs and those programs will go on."
+   ]
+  },
+  {
+   "begin": "1077.080",
+   "children": [],
+   "end": "1082.160",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "And we are spending more in poverty programs today than we were in 1981 - that is a fact."
+   ]
+  },
+  {
+   "begin": "1082.160",
+   "children": [],
+   "end": "1091.400",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "The poverty program we are going to concentrate on is creating jobs and opportunities, so that everyone will have the opportunities that they want.]"
+   ]
+  },
+  {
+   "begin": "1091.400",
+   "children": [],
+   "end": "1092.360",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "(Scattered applause)"
+   ]
+  },
+  {
+   "begin": "1092.360",
+   "children": [],
+   "end": "1094.400",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen, your response."
+   ]
+  },
+  {
+   "begin": "1094.400",
+   "children": [],
+   "end": "1117.880",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "I find that very interesting, because he has been of no help at all when it comes to passing the most major welfare reform bill in the history of our country, one where we are working very hard to see that people can get off welfare, break that cycle, take a step up in life, doing the kinds of things that we did there to let them have Medicaid for a year."
+   ]
+  },
+  {
+   "begin": "1117.880",
+   "children": [],
+   "end": "1120.480",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "That's a positive thing that's done."
+   ]
+  },
+  {
+   "begin": "1120.480",
+   "children": [],
+   "end": "1142.440",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "What also frustrates me with the kind of report that I have just heard here is the kind of votes that he has cast against child nutrition programs, the fact that he has voted against money that we needed for further immunization, the denial of polio shots to kids where the parents couldn't afford to get that kind of a shot."
+   ]
+  },
+  {
+   "begin": "1142.440",
+   "children": [],
+   "end": "1148.440",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Now, I don't really believe that that is identifying with the concerns of people in poverty."
+   ]
+  },
+  {
+   "begin": "1148.440",
+   "children": [],
+   "end": "1153.040",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Tom, a question for Senator Bentsen."
+   ]
+  },
+  {
+   "begin": "1153.040",
+   "children": [],
+   "end": "1159.200",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "Senator Bentsen, I'd like to take you back to the question that Judy asked you about your differences with Michael Dukakis on contra aid."
+   ]
+  },
+  {
+   "begin": "1159.200",
+   "children": [],
+   "end": "1164.240",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "After all, the contra aid is one of the cutting issues of foreign policy of this country in the last eight years."
+   ]
+  },
+  {
+   "begin": "1164.240",
+   "children": [],
+   "end": "1167.200",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "You and Michael Dukakis seem to be diametrically opposed on that."
+   ]
+  },
+  {
+   "begin": "1167.200",
+   "children": [],
+   "end": "1184.240",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "1 have been told that in a closed session of the U.S. Senate you made one of the most eloquent and statesmanlike speeches in behalf of contra aid that anyone had made in the eight years of the Reagan term, that in fact you alluded to the threat that the Sandinista regime could pose to your own state of Texas."
+   ]
+  },
+  {
+   "begin": "1184.240",
+   "children": [],
+   "end": "1190.760",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "Governor Dukakis, on the other hand, has described the contra aid policy as immoral and illegal."
+   ]
+  },
+  {
+   "begin": "1190.760",
+   "children": [],
+   "end": "1191.920",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Is he wrong?"
+   ]
+  },
+  {
+   "begin": "1191.920",
+   "children": [],
+   "end": "1194.240",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "(Scattered applause)"
+   ]
+  },
+  {
+   "begin": "1194.240",
+   "children": [],
+   "end": "1194.800",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Gov."
+   ]
+  },
+  {
+   "begin": "1194.800",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "Dukakis and I have disagreed on the contra program; no question about that."
+   ]
+  }
+ ]
+}

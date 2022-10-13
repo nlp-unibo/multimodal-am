@@ -1,0 +1,2294 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "5.920",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Clark Athletic Center at the University of Massachusetts in Boston."
+   ]
+  },
+  {
+   "begin": "5.920",
+   "children": [],
+   "end": "20.640",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Jim Lehrer of the NewsHour on PBS, and I welcome you to the first of three 90-minute debates between the Democratic candidate for president, Vice President Al Gore and the Republican candidate, Governor George W. Bush of Texas."
+   ]
+  },
+  {
+   "begin": "20.640",
+   "children": [],
+   "end": "30.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "The debates are sponsored by the Commission on Presidential Debates and they will be conducted within formats and rules agreed to between the commission and the two campaigns."
+   ]
+  },
+  {
+   "begin": "30.640",
+   "children": [],
+   "end": "33.440",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "We'll have the candidates at podiums."
+   ]
+  },
+  {
+   "begin": "33.440",
+   "children": [],
+   "end": "36.320",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "No answer to a question can exceed two minutes."
+   ]
+  },
+  {
+   "begin": "36.320",
+   "children": [],
+   "end": "38.680",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "Rebuttal is limited to one minute."
+   ]
+  },
+  {
+   "begin": "38.680",
+   "children": [],
+   "end": "45.400",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "But as moderator I have the option to follow up and to extend any particular give and take another three-and-a-half minutes."
+   ]
+  },
+  {
+   "begin": "45.400",
+   "children": [],
+   "end": "49.080",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Even then, no single answer can exceed two minutes."
+   ]
+  },
+  {
+   "begin": "49.080",
+   "children": [],
+   "end": "53.520",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "The candidates under their rules may not question each other directly."
+   ]
+  },
+  {
+   "begin": "53.520",
+   "children": [],
+   "end": "59.800",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "There will be no opening statements, but each candidate may have up to two minutes for a closing statement."
+   ]
+  },
+  {
+   "begin": "59.800",
+   "children": [],
+   "end": "63.840",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "The questions and the subjects were chosen by me alone."
+   ]
+  },
+  {
+   "begin": "63.840",
+   "children": [],
+   "end": "70.520",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "I have told no one from the two campaigns, or the Commission, or anyone else involved what they are."
+   ]
+  },
+  {
+   "begin": "70.520",
+   "children": [],
+   "end": "73.000",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "There is a small audience in the hall tonight."
+   ]
+  },
+  {
+   "begin": "73.000",
+   "children": [],
+   "end": "76.520",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "They are not here to participate, only to listen."
+   ]
+  },
+  {
+   "begin": "76.520",
+   "children": [],
+   "end": "81.640",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "I have asked, and they have agreed, to remain silent for the next 90 minutes."
+   ]
+  },
+  {
+   "begin": "81.640",
+   "children": [],
+   "end": "121.440",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Except for right now, when they will applaud as we welcome the two candidates, Governor Bush and Vice President Gore."
+   ]
+  },
+  {
+   "begin": "121.440",
+   "children": [],
+   "end": "122.240",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "122.240",
+   "children": [],
+   "end": "126.360",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "And now the first question as determined by a flip of a coin, it goes to Vice President Gore."
+   ]
+  },
+  {
+   "begin": "126.360",
+   "children": [],
+   "end": "132.760",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Vice President Gore, you have questioned whether Governor Bush has the experience to be President of the United States."
+   ]
+  },
+  {
+   "begin": "132.760",
+   "children": [],
+   "end": "135.720",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "What exactly do you mean?"
+   ]
+  },
+  {
+   "begin": "135.720",
+   "children": [],
+   "end": "143.080",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Well, Jim, first of all, I would like to thank the sponsors of this debate and the people of Boston for hosting the debate."
+   ]
+  },
+  {
+   "begin": "143.080",
+   "children": [],
+   "end": "151.480",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "I would like to thank Governor Bush for participating, and I would like to say I'm happy to be here with Tipper and our family."
+   ]
+  },
+  {
+   "begin": "151.480",
+   "children": [],
+   "end": "156.840",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "I have actually not questioned Governor Bush's experience."
+   ]
+  },
+  {
+   "begin": "156.840",
+   "children": [],
+   "end": "158.840",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "I have questioned his proposals."
+   ]
+  },
+  {
+   "begin": "158.840",
+   "children": [],
+   "end": "160.400",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "And here is why."
+   ]
+  },
+  {
+   "begin": "160.400",
+   "children": [],
+   "end": "164.680",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "I think this is a very important moment for our country."
+   ]
+  },
+  {
+   "begin": "164.680",
+   "children": [],
+   "end": "167.720",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "We have achieved extraordinary prosperity."
+   ]
+  },
+  {
+   "begin": "167.720",
+   "children": [],
+   "end": "173.040",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "And in this election, America has to make an important choice."
+   ]
+  },
+  {
+   "begin": "173.040",
+   "children": [],
+   "end": "179.120",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Will we use our prosperity to enrich not just the few, but all of our families?"
+   ]
+  },
+  {
+   "begin": "179.120",
+   "children": [],
+   "end": "182.760",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "I believe we have to make the right and responsible choices."
+   ]
+  },
+  {
+   "begin": "182.760",
+   "children": [],
+   "end": "186.720",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "If I'm entrusted with the presidency, here are the choices that I will make."
+   ]
+  },
+  {
+   "begin": "186.720",
+   "children": [],
+   "end": "189.560",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "I will balance the budget every year."
+   ]
+  },
+  {
+   "begin": "189.560",
+   "children": [],
+   "end": "192.560",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "I will pay down the national debt."
+   ]
+  },
+  {
+   "begin": "192.560",
+   "children": [],
+   "end": "197.520",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "I will put Medicare and Social Security in a lockbox and protect them."
+   ]
+  },
+  {
+   "begin": "197.520",
+   "children": [],
+   "end": "201.240",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "And I will cut taxes for middle-class families."
+   ]
+  },
+  {
+   "begin": "201.240",
+   "children": [],
+   "end": "207.480",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "I believe it's important to resist the temptation to squander our surplus."
+   ]
+  },
+  {
+   "begin": "207.480",
+   "children": [],
+   "end": "214.520",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "If we make the right choices, we can have a prosperity that endures and enriches all of our people."
+   ]
+  },
+  {
+   "begin": "214.520",
+   "children": [],
+   "end": "234.480",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "If I'm entrusted with the presidency, I will help parents and strengthen families because, you know, if we have prosperity that grows and grows, we still won't be successful unless we strengthen families by, for example, ensuring that children can always go to schools that are safe."
+   ]
+  },
+  {
+   "begin": "234.480",
+   "children": [],
+   "end": "240.120",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "By giving parents the tools to protect their children against cultural pollution."
+   ]
+  },
+  {
+   "begin": "240.120",
+   "children": [],
+   "end": "244.400",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "I will make sure that we invest in our country and our families."
+   ]
+  },
+  {
+   "begin": "244.400",
+   "children": [],
+   "end": "253.400",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "And I mean investing in education, health care, the environment, and middle-class tax cuts and retirement security."
+   ]
+  },
+  {
+   "begin": "253.400",
+   "children": [],
+   "end": "259.640",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "That is my agenda and that is why I think that it's not just a question of experience."
+   ]
+  },
+  {
+   "begin": "259.640",
+   "children": [],
+   "end": "261.880",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Governor Bush, one minute rebuttal."
+   ]
+  },
+  {
+   "begin": "261.880",
+   "children": [],
+   "end": "264.280",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "Well, we do come from different places."
+   ]
+  },
+  {
+   "begin": "264.280",
+   "children": [],
+   "end": "266.320",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "I come from West Texas."
+   ]
+  },
+  {
+   "begin": "266.320",
+   "children": [],
+   "end": "269.720",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "The governor is the chief executive officer."
+   ]
+  },
+  {
+   "begin": "269.720",
+   "children": [],
+   "end": "272.080",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "We know how to set agendas."
+   ]
+  },
+  {
+   "begin": "272.080",
+   "children": [],
+   "end": "276.280",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "I think you'll find the difference reflected in our budgets."
+   ]
+  },
+  {
+   "begin": "276.280",
+   "children": [],
+   "end": "280.160",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "I want to take one-half of the surplus and dedicate it to Social Security."
+   ]
+  },
+  {
+   "begin": "280.160",
+   "children": [],
+   "end": "288.000",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "One-quarter of the surplus for important projects, and I want to send one-quarter of the surplus back to the people who pay the bills."
+   ]
+  },
+  {
+   "begin": "288.000",
+   "children": [],
+   "end": "292.400",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "I want everybody who pays taxes to have their tax rates cut."
+   ]
+  },
+  {
+   "begin": "292.400",
+   "children": [],
+   "end": "299.440",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "And that stands in contrast to my worthy opponent's plan, which will increase the size of government dramatically."
+   ]
+  },
+  {
+   "begin": "299.440",
+   "children": [],
+   "end": "304.360",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "His plan is three times larger than President Clinton's proposed plan eight years ago."
+   ]
+  },
+  {
+   "begin": "304.360",
+   "children": [],
+   "end": "311.200",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "It is a plan that will have 200 new programs -- expanded programs and creates 20,000 new bureaucrats."
+   ]
+  },
+  {
+   "begin": "311.200",
+   "children": [],
+   "end": "312.480",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "It it empowers Washington."
+   ]
+  },
+  {
+   "begin": "312.480",
+   "children": [],
+   "end": "320.960",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Tonight you\u00e2\u20ac\u2122re going to hear that my passion and my vision is to empower Americans to be able to make decisions for themselves in their own lives."
+   ]
+  },
+  {
+   "begin": "320.960",
+   "children": [],
+   "end": "338.960",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "So I take it by your answer, then, Mr. Vice President, that in an interview recently with the \"New York Times\" when you said that you questioned whether or not Governor Bush has experience enough to be president, you were talking about strictly policy differences."
+   ]
+  },
+  {
+   "begin": "338.960",
+   "children": [],
+   "end": "340.080",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Yes, Jim."
+   ]
+  },
+  {
+   "begin": "340.080",
+   "children": [],
+   "end": "347.880",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "I said that his tax cut plan, for example, raises the question of whether it's the right choice for the country."
+   ]
+  },
+  {
+   "begin": "347.880",
+   "children": [],
+   "end": "351.000",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And let me give you an example of what I mean."
+   ]
+  },
+  {
+   "begin": "351.000",
+   "children": [],
+   "end": "368.920",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Under Governor Bush's tax cut proposal, he would spend more money on tax cuts for the wealthiest 1% than all of the new spending that he proposes for education, health care, prescription drugs and national defense all combined."
+   ]
+  },
+  {
+   "begin": "368.920",
+   "children": [],
+   "end": "372.320",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Now, I think those are the wrong priorities."
+   ]
+  },
+  {
+   "begin": "372.320",
+   "children": [],
+   "end": "383.840",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Now, under my proposal, for every dollar that I propose in spending for things like education and health care, I will put another dollar into middle class tax cuts."
+   ]
+  },
+  {
+   "begin": "383.840",
+   "children": [],
+   "end": "391.760",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "And for every dollar that I spend in those two categories, I'll put $2 toward paying down the national debt."
+   ]
+  },
+  {
+   "begin": "391.760",
+   "children": [],
+   "end": "396.480",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I think it's very important to keep the debt going down and completely eliminate it."
+   ]
+  },
+  {
+   "begin": "396.480",
+   "children": [],
+   "end": "401.680",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "And I also think it's very important to go to the next stage of welfare reform."
+   ]
+  },
+  {
+   "begin": "401.680",
+   "children": [],
+   "end": "404.760",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Our country has cut the welfare rolls in half."
+   ]
+  },
+  {
+   "begin": "404.760",
+   "children": [],
+   "end": "413.440",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "I fought hard from my days in the Senate and as vice president to cut the welfare rolls and we've moved millions of people in America into good jobs."
+   ]
+  },
+  {
+   "begin": "413.440",
+   "children": [],
+   "end": "420.040",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "But it's now time for the next stage of welfare reform, and include fathers and not only mothers."
+   ]
+  },
+  {
+   "begin": "420.040",
+   "children": [],
+   "end": "422.160",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "We're going to get a lot of those."
+   ]
+  },
+  {
+   "begin": "422.160",
+   "children": [],
+   "end": "429.760",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "Let me just say that obviously tonight we're going to hear some phony numbers about what I think and what we ought to do."
+   ]
+  },
+  {
+   "begin": "429.760",
+   "children": [],
+   "end": "439.800",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "People need to know that over the next ten years it is going to be $25 trillion of revenue that comes into our treasurey and we anticipate spending $21 trillion."
+   ]
+  },
+  {
+   "begin": "439.800",
+   "children": [],
+   "end": "446.760",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "And my plan say why don't we pass 1.3 trillion of that back to the people who pay the bills?"
+   ]
+  },
+  {
+   "begin": "446.760",
+   "children": [],
+   "end": "453.600",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Surely we can afford 5% of the $25 trillion that are coming into the treasury to the hard working people that pay the bills."
+   ]
+  },
+  {
+   "begin": "453.600",
+   "children": [],
+   "end": "455.360",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "There is a difference of opinion."
+   ]
+  },
+  {
+   "begin": "455.360",
+   "children": [],
+   "end": "460.160",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "My opponent thinks the government -- the surplus is the government's money."
+   ]
+  },
+  {
+   "begin": "460.160",
+   "children": [],
+   "end": "461.000",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "That's not what I think."
+   ]
+  },
+  {
+   "begin": "461.000",
+   "children": [],
+   "end": "469.840",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "I think it's the hard-working people of America's money and I want to share some of that money with you so you have more money to build and save and dream for your families."
+   ]
+  },
+  {
+   "begin": "469.840",
+   "children": [],
+   "end": "470.600",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "It's a difference of opinion."
+   ]
+  },
+  {
+   "begin": "470.600",
+   "children": [],
+   "end": "476.920",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "It's a difference between government making decisions for you and you getting more of your money to make decisions for yourself."
+   ]
+  },
+  {
+   "begin": "476.920",
+   "children": [],
+   "end": "480.760",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "Let me just follow up one quick question."
+   ]
+  },
+  {
+   "begin": "480.760",
+   "children": [],
+   "end": "488.920",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "When you hear Vice President Gore question your experience, do you read it the same way, that he's talking about policy differences only?"
+   ]
+  },
+  {
+   "begin": "488.920",
+   "children": [],
+   "end": "490.880",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "490.880",
+   "children": [],
+   "end": "492.080",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "I take him for his word."
+   ]
+  },
+  {
+   "begin": "492.080",
+   "children": [],
+   "end": "497.640",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Look, I fully recognize I'm not of Washington."
+   ]
+  },
+  {
+   "begin": "497.640",
+   "children": [],
+   "end": "498.720",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "I'm from Texas."
+   ]
+  },
+  {
+   "begin": "498.720",
+   "children": [],
+   "end": "502.600",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "And he's got a lot of experience, but so do I."
+   ]
+  },
+  {
+   "begin": "502.600",
+   "children": [],
+   "end": "506.320",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "And I've been the chief executive officer of the second biggest state in the union."
+   ]
+  },
+  {
+   "begin": "506.320",
+   "children": [],
+   "end": "511.240",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "I have a proud record of working with both Republicans and Democrats, which is what our nation needs."
+   ]
+  },
+  {
+   "begin": "511.240",
+   "children": [],
+   "end": "523.960",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Somebody that can come to Washington and say let's forget all the finger pointing and get positive things done on Medicare, prescription drugs, Social Security, and so I take him for his word."
+   ]
+  },
+  {
+   "begin": "523.960",
+   "children": [],
+   "end": "527.200",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "Jim, if I could just respond."
+   ]
+  },
+  {
+   "begin": "527.200",
+   "children": [],
+   "end": "528.640",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "I know that."
+   ]
+  },
+  {
+   "begin": "528.640",
+   "children": [],
+   "end": "535.880",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "The governor used the phrase phony numbers, but if you look at the plan and add the numbers up, these numbers are correct."
+   ]
+  },
+  {
+   "begin": "535.880",
+   "children": [],
+   "end": "547.440",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "He spends more money for tax cuts for the wealthiest 1% than all of his new spending proposals for health care, prescription drugs, education and national defense all combined."
+   ]
+  },
+  {
+   "begin": "547.440",
+   "children": [],
+   "end": "551.600",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "I agree that the surplus is the American people's money, it's your money."
+   ]
+  },
+  {
+   "begin": "551.600",
+   "children": [],
+   "end": "561.440",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "That's why I don't think we should give nearly half of it to the wealthiest 1%, because the other 99% have had an awful lot to do with building the surplus in our prosperity."
+   ]
+  },
+  {
+   "begin": "561.440",
+   "children": [],
+   "end": "562.960",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Three-and-a-half minutes is up."
+   ]
+  },
+  {
+   "begin": "562.960",
+   "children": [],
+   "end": "564.080",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "New question."
+   ]
+  },
+  {
+   "begin": "564.080",
+   "children": [],
+   "end": "567.480",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "I hope it\u00e2\u20ac\u2122s about wealthy people."
+   ]
+  },
+  {
+   "begin": "567.480",
+   "children": [],
+   "end": "569.680",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Governor Bush, you have a question."
+   ]
+  },
+  {
+   "begin": "569.680",
+   "children": [],
+   "end": "574.320",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "This is a companion question to the question I asked Vice President Gore."
+   ]
+  },
+  {
+   "begin": "574.320",
+   "children": [],
+   "end": "583.240",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "You have questioned whether Vice President Gore has demonstrated the leadership qualities necessary to be President of the United States."
+   ]
+  },
+  {
+   "begin": "583.240",
+   "children": [],
+   "end": "584.400",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "What do you mean by that?"
+   ]
+  },
+  {
+   "begin": "584.400",
+   "children": [],
+   "end": "585.760",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "Actually what I've said, Jim."
+   ]
+  },
+  {
+   "begin": "585.760",
+   "children": [],
+   "end": "593.720",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "I've said that eight years ago they campaigned on prescription drugs for seniors."
+   ]
+  },
+  {
+   "begin": "593.720",
+   "children": [],
+   "end": "597.240",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "And four years ago they campaigned on getting prescription drugs for seniors."
+   ]
+  },
+  {
+   "begin": "597.240",
+   "children": [],
+   "end": "602.240",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "And now they're campaigning on getting prescription drugs for seniors."
+   ]
+  },
+  {
+   "begin": "602.240",
+   "children": [],
+   "end": "606.000",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "It seems like they can't get it done."
+   ]
+  },
+  {
+   "begin": "606.000",
+   "children": [],
+   "end": "617.240",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Now, they may blame other folks, but it's time to get somebody in Washington who is going to work with both Republicans and Democrats to get some positive things done when it comes to our seniors."
+   ]
+  },
+  {
+   "begin": "617.240",
+   "children": [],
+   "end": "620.320",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "And so what I've said is that there's been some missed opportunities."
+   ]
+  },
+  {
+   "begin": "620.320",
+   "children": [],
+   "end": "622.480",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "They've had a chance."
+   ]
+  },
+  {
+   "begin": "622.480",
+   "children": [],
+   "end": "624.640",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "They've had a chance to form consensus."
+   ]
+  },
+  {
+   "begin": "624.640",
+   "children": [],
+   "end": "634.400",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "I've got a plan on Medicare, for example, that's a two-stage plan that says we'll have immediate help for seniors and what I call immediate Helping Hand, a $48 billion program."
+   ]
+  },
+  {
+   "begin": "634.400",
+   "children": [],
+   "end": "639.800",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "But I also want to say to seniors, if you're happy with Medicare the way it is, fine, you can stay in the program."
+   ]
+  },
+  {
+   "begin": "639.800",
+   "children": [],
+   "end": "646.000",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "But we're going to give you additional choices like they give federal employees in the federal employee health plan."
+   ]
+  },
+  {
+   "begin": "646.000",
+   "children": [],
+   "end": "650.160",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "They have a variety of choices to choose, so should seniors."
+   ]
+  },
+  {
+   "begin": "650.160",
+   "children": [],
+   "end": "665.320",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "And my point has been, as opposed to politicizing an issue like Medicare, in other words, holding it up as an issue, hoping somebody bites it and try to clobber them over the head with it for political purposes, this year, in the year 2000, it's time to get it done once and for all."
+   ]
+  },
+  {
+   "begin": "665.320",
+   "children": [],
+   "end": "668.560",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "That's what I've been critical about the administration for."
+   ]
+  },
+  {
+   "begin": "668.560",
+   "children": [],
+   "end": "669.960",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Same with Social Security."
+   ]
+  },
+  {
+   "begin": "669.960",
+   "children": [],
+   "end": "677.640",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "I think there was a good opportunity to bring Republicans and Democrats together to reform the Social Security system so seniors will never go without."
+   ]
+  },
+  {
+   "begin": "677.640",
+   "children": [],
+   "end": "689.360",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Those on Social Security today will have their promise made, but also to give younger workers the option at their choice of being able to manage some of their own money in the private sector to make sure there's a Social Security system around tomorrow."
+   ]
+  },
+  {
+   "begin": "689.360",
+   "children": [],
+   "end": "707.120",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "There are a lot of young workers at our rallies we go to that when they hear I'll trust them at their option to be able to manage, under certain guidelines, some of their own money to get a better rate of return so that they'll have a retirement plan in the future, they begin to nod their heads and they want a different attitude in Washington."
+   ]
+  },
+  {
+   "begin": "707.120",
+   "children": [],
+   "end": "709.600",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "One minute rebuttal."
+   ]
+  },
+  {
+   "begin": "709.600",
+   "children": [],
+   "end": "714.480",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Well, Jim, under my plan all seniors will get prescription drugs under Medicare."
+   ]
+  },
+  {
+   "begin": "714.480",
+   "children": [],
+   "end": "718.400",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "The governor has described Medicare as a government HMO."
+   ]
+  },
+  {
+   "begin": "718.400",
+   "children": [],
+   "end": "720.880",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "It's not, and let me explain the difference."
+   ]
+  },
+  {
+   "begin": "720.880",
+   "children": [],
+   "end": "727.760",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "Under the Medicare prescription drug proposal I'm making, here is how it works, you go to your own doctor."
+   ]
+  },
+  {
+   "begin": "727.760",
+   "children": [],
+   "end": "731.000",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Your doctor chooses your prescription."
+   ]
+  },
+  {
+   "begin": "731.000",
+   "children": [],
+   "end": "734.880",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "No HMO or insurance company can take those choices away from you."
+   ]
+  },
+  {
+   "begin": "734.880",
+   "children": [],
+   "end": "737.560",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Then you go to your own pharmacy."
+   ]
+  },
+  {
+   "begin": "737.560",
+   "children": [],
+   "end": "741.200",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "You fill the prescription and Medicare pays half the cost."
+   ]
+  },
+  {
+   "begin": "741.200",
+   "children": [],
+   "end": "752.400",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "If you're in a very poor family or if you have very high costs, Medicare will pay all the costs, a $25 premium, and much better benefits than you can possibly find in the private sector."
+   ]
+  },
+  {
+   "begin": "752.400",
+   "children": [],
+   "end": "754.080",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Now here is the contrast."
+   ]
+  },
+  {
+   "begin": "754.080",
+   "children": [],
+   "end": "762.480",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "95% of all seniors would get no help whatsoever under my opponent's plan for the first four or five years."
+   ]
+  },
+  {
+   "begin": "762.480",
+   "children": [],
+   "end": "774.520",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "Now, one thing I don't understand, Jim, is why is it that the wealthiest 1% get their tax cuts the first year, but 95% of seniors have to wait four to five years before they get a single penny?"
+   ]
+  },
+  {
+   "begin": "774.520",
+   "children": [],
+   "end": "780.040",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "I guess my answer to that is the man is running on Medi-scare."
+   ]
+  },
+  {
+   "begin": "780.040",
+   "children": [],
+   "end": "782.720",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Trying to frighten people in the voting booth."
+   ]
+  },
+  {
+   "begin": "782.720",
+   "children": [],
+   "end": "788.040",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "It's just not the way I think and it's not my intentions and not my plan."
+   ]
+  },
+  {
+   "begin": "788.040",
+   "children": [],
+   "end": "790.560",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "I want all seniors to have prescription drugs in Medicare."
+   ]
+  },
+  {
+   "begin": "790.560",
+   "children": [],
+   "end": "791.840",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "We need to reform Medicare."
+   ]
+  },
+  {
+   "begin": "791.840",
+   "children": [],
+   "end": "795.280",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "There\u00e2\u20ac\u2122s been opportunity to do so but this administration has failed to do it."
+   ]
+  },
+  {
+   "begin": "795.280",
+   "children": [],
+   "end": "804.400",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "And so seniors will have not only a Medicare plan where the poor seniors will have prescription drugs paid for, but there will be a variety of options."
+   ]
+  },
+  {
+   "begin": "804.400",
+   "children": [],
+   "end": "812.200",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "The current system today has meant a lot for a lot of seniors, and I really appreciate the intentions of the current system as I mentioned."
+   ]
+  },
+  {
+   "begin": "812.200",
+   "children": [],
+   "end": "814.840",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "If you're happy with the system you can stay in it."
+   ]
+  },
+  {
+   "begin": "814.840",
+   "children": [],
+   "end": "820.560",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "But there are a lot of procedures that haven't kept up in Medicare with the current times."
+   ]
+  },
+  {
+   "begin": "820.560",
+   "children": [],
+   "end": "825.680",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "No prescription drug benefits, no drug therapy, no preventative medicines, no vision care."
+   ]
+  },
+  {
+   "begin": "825.680",
+   "children": [],
+   "end": "842.360",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "We need to have a modern system to help seniors, and the idea of supporting a federally controlled 132,000-page document bureaucracy as being a compassionate way for seniors, and the only compassionate source of care for seniors is not my vision."
+   ]
+  },
+  {
+   "begin": "842.360",
+   "children": [],
+   "end": "844.760",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "I believe we ought to give seniors more options."
+   ]
+  },
+  {
+   "begin": "844.760",
+   "children": [],
+   "end": "847.120",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "I believe we ought to make the system work better."
+   ]
+  },
+  {
+   "begin": "847.120",
+   "children": [],
+   "end": "848.200",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "I know this."
+   ]
+  },
+  {
+   "begin": "848.200",
+   "children": [],
+   "end": "854.720",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "I know it will require a different kind of leader to go to Washington to say to both Republicans and Democrats, let's come together."
+   ]
+  },
+  {
+   "begin": "854.720",
+   "children": [],
+   "end": "860.520",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "You've had your chance, Vice President, you've been there for eight years and nothing has been done."
+   ]
+  },
+  {
+   "begin": "860.520",
+   "children": [],
+   "end": "872.160",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "My point is, is that my plan not only trusts seniors with options, my plan sets aside $3.4 trillion for Medicare over the next ten years."
+   ]
+  },
+  {
+   "begin": "872.160",
+   "children": [],
+   "end": "876.680",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "My plan also says it requires a new approach in Washington, D.C."
+   ]
+  },
+  {
+   "begin": "876.680",
+   "children": [],
+   "end": "880.320",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "It's going to require somebody who can work across the partisan divide."
+   ]
+  },
+  {
+   "begin": "880.320",
+   "children": [],
+   "end": "883.640",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "If I could respond to that."
+   ]
+  },
+  {
+   "begin": "883.640",
+   "children": [],
+   "end": "892.360",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Under my plan I will put Medicare in an iron clad lockbox and prevent the money from being used for anything other than Medicare."
+   ]
+  },
+  {
+   "begin": "892.360",
+   "children": [],
+   "end": "899.640",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "The governor has declined to endorse that idea even though the Republican as well as Democratic leaders in Congress have endorsed it."
+   ]
+  },
+  {
+   "begin": "899.640",
+   "children": [],
+   "end": "905.280",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "I would be interested to see if he would say this evening he'll put Medicare in a lockbox."
+   ]
+  },
+  {
+   "begin": "905.280",
+   "children": [],
+   "end": "915.240",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "I don\u00e2\u20ac\u2122t think he will because under his plan if you work out the numbers \u00c2 $100 billion comes out of Medicare just for the wealthiest 1% in the tax cut."
+   ]
+  },
+  {
+   "begin": "915.240",
+   "children": [],
+   "end": "917.200",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Now here is the difference."
+   ]
+  },
+  {
+   "begin": "917.200",
+   "children": [],
+   "end": "920.920",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Some people who say the word reform actually mean cuts."
+   ]
+  },
+  {
+   "begin": "920.920",
+   "children": [],
+   "end": "936.560",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Under the governor's plan, if you kept the same fee for service that you have now under Medicare, your premiums would go up by between 18% and 47%, and that is the study of the Congressional plan that he's modeled his proposal on by the Medicare actuaries."
+   ]
+  },
+  {
+   "begin": "936.560",
+   "children": [],
+   "end": "938.080",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Let me give you one quick example."
+   ]
+  },
+  {
+   "begin": "938.080",
+   "children": [],
+   "end": "941.880",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "There is a man here tonight named George McKinney from Milwaukee."
+   ]
+  },
+  {
+   "begin": "941.880",
+   "children": [],
+   "end": "947.640",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "He's 70 years old, has high blood pressure, his wife has heart trouble."
+   ]
+  },
+  {
+   "begin": "947.640",
+   "children": [],
+   "end": "950.560",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "They have an income of $25,000 a year."
+   ]
+  },
+  {
+   "begin": "950.560",
+   "children": [],
+   "end": "958.480",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "They can't pay for their prescription drugs and so they're some of the ones that go to Canada regularly in order to get their prescription drugs."
+   ]
+  },
+  {
+   "begin": "958.480",
+   "children": [],
+   "end": "962.160",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Under my plan, half of their costs would be paid right away."
+   ]
+  },
+  {
+   "begin": "962.160",
+   "children": [],
+   "end": "979.000",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Under Governor Bush's plan, they would get not one penny for four to five years and then they would be forced to go into an HMO or to an insurance company and ask them for coverage, but there would be no limit on the premiums or the deductibles or any of the terms and conditions."
+   ]
+  },
+  {
+   "begin": "979.000",
+   "children": [],
+   "end": "986.640",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "I cannot let this go by, the old-style Washington politics, of we're going to scare you in the voting booth."
+   ]
+  },
+  {
+   "begin": "986.640",
+   "children": [],
+   "end": "990.520",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Under my plan the man gets immediate help with prescription drugs."
+   ]
+  },
+  {
+   "begin": "990.520",
+   "children": [],
+   "end": "992.120",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "It's called Immediate Helping Hand."
+   ]
+  },
+  {
+   "begin": "992.120",
+   "children": [],
+   "end": "995.360",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "Instead of squabbling and finger pointing, he gets immediate help."
+   ]
+  },
+  {
+   "begin": "995.360",
+   "children": [],
+   "end": "996.440",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "Let me say something."
+   ]
+  },
+  {
+   "begin": "996.440",
+   "children": [],
+   "end": "1000.560",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Your \u00e2\u20ac\u201c[cross talk]"
+   ]
+  },
+  {
+   "begin": "1000.560",
+   "children": [],
+   "end": "1002.880",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Can I make another point?"
+   ]
+  },
+  {
+   "begin": "1002.880",
+   "children": [],
+   "end": "1006.960",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "They get $25,000 a year income, that makes them ineligible."
+   ]
+  },
+  {
+   "begin": "1006.960",
+   "children": [],
+   "end": "1011.520",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "Look, this is a man who has great numbers."
+   ]
+  },
+  {
+   "begin": "1011.520",
+   "children": [],
+   "end": "1013.720",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "He talks about numbers."
+   ]
+  },
+  {
+   "begin": "1013.720",
+   "children": [],
+   "end": "1019.680",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "I'm beginning to think not only did he invent the Internet, but he invented the calculator."
+   ]
+  },
+  {
+   "begin": "1019.680",
+   "children": [],
+   "end": "1021.800",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "It's fuzzy math."
+   ]
+  },
+  {
+   "begin": "1021.800",
+   "children": [],
+   "end": "1024.880",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "It's a scaring -- he's trying to scare people in the voting booth."
+   ]
+  },
+  {
+   "begin": "1024.880",
+   "children": [],
+   "end": "1029.280",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "Under my tax plan that he continues to criticize, I set one-third."
+   ]
+  },
+  {
+   "begin": "1029.280",
+   "children": [],
+   "end": "1034.120",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "The federal government should take no more than a third of anybody's check."
+   ]
+  },
+  {
+   "begin": "1034.120",
+   "children": [],
+   "end": "1038.600",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "But I also dropped the bottom rate from 15% to 10%."
+   ]
+  },
+  {
+   "begin": "1038.600",
+   "children": [],
+   "end": "1043.600",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "Because by far the vast majority of the help goes to people at the bottom end of the economic ladder."
+   ]
+  },
+  {
+   "begin": "1043.600",
+   "children": [],
+   "end": "1051.520",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "If you're a family of four in Massachusetts, making $50,000, you get a 50% cut in the federal income taxes you pay."
+   ]
+  },
+  {
+   "begin": "1051.520",
+   "children": [],
+   "end": "1053.680",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "It's from $4000 to about $2000."
+   ]
+  },
+  {
+   "begin": "1053.680",
+   "children": [],
+   "end": "1061.280",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "Now, the difference in our plans is I want that $2,000 to go to you, and the vice president would like to be spending the $2,000 on your behalf."
+   ]
+  },
+  {
+   "begin": "1061.280",
+   "children": [],
+   "end": "1062.720",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "One quick thing, gentlemen."
+   ]
+  },
+  {
+   "begin": "1062.720",
+   "children": [],
+   "end": "1063.680",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "These are your rules."
+   ]
+  },
+  {
+   "begin": "1063.680",
+   "children": [],
+   "end": "1064.480",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "I'm doing my best."
+   ]
+  },
+  {
+   "begin": "1064.480",
+   "children": [],
+   "end": "1068.120",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "We're way over the three and a half minutes."
+   ]
+  },
+  {
+   "begin": "1068.120",
+   "children": [],
+   "end": "1069.320",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "I have no problems with it."
+   ]
+  },
+  {
+   "begin": "1069.320",
+   "children": [],
+   "end": "1072.040",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "Do you want to have a quick response?"
+   ]
+  },
+  {
+   "begin": "1072.040",
+   "children": [],
+   "end": "1074.360",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "We're almost to five minutes on this."
+   ]
+  },
+  {
+   "begin": "1074.360",
+   "children": [],
+   "end": "1077.840",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "It's just clear you can go to the website and look."
+   ]
+  },
+  {
+   "begin": "1077.840",
+   "children": [],
+   "end": "1096.360",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "If you make more than $25,000 a year you don't get a penny of help under the Bush prescription drug proposal for at least four to five years, and then you're pushed into a Medicare -- into an HMO or insurance company plan, and there's no limit on the premiums or the deductibles or any of the conditions."
+   ]
+  },
+  {
+   "begin": "1096.360",
+   "children": [],
+   "end": "1099.600",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "And the insurance companies say it won't work and they won't offer these plans."
+   ]
+  },
+  {
+   "begin": "1099.600",
+   "children": [],
+   "end": "1102.240",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "Let me ask you both this and we'll move on on the subject."
+   ]
+  },
+  {
+   "begin": "1102.240",
+   "children": [],
+   "end": "1107.320",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "As a practical matter, both of you want to bring prescription drugs to seniors, correct?"
+   ]
+  },
+  {
+   "begin": "1107.320",
+   "children": [],
+   "end": "1108.280",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "Correct."
+   ]
+  },
+  {
+   "begin": "1108.280",
+   "children": [],
+   "end": "1108.880",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Correct."
+   ]
+  },
+  {
+   "begin": "1108.880",
+   "children": [],
+   "end": "1114.480",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "The difference is I want to bring it to 100% and he wants to bring it to 5%."
+   ]
+  },
+  {
+   "begin": "1114.480",
+   "children": [],
+   "end": "1119.840",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "That's totally false for him to stand up here and say that."
+   ]
+  },
+  {
+   "begin": "1119.840",
+   "children": [],
+   "end": "1122.480",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "Let me make sure the seniors hear me loud and clear."
+   ]
+  },
+  {
+   "begin": "1122.480",
+   "children": [],
+   "end": "1124.560",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "They have had their chance to get something done."
+   ]
+  },
+  {
+   "begin": "1124.560",
+   "children": [],
+   "end": "1128.040",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "I'm going to work with Democrats and Republicans to reform the system."
+   ]
+  },
+  {
+   "begin": "1128.040",
+   "children": [],
+   "end": "1137.400",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "All seniors will be covered, all poor seniors will have their prescription drugs paid for, and in the meantime, we'll have a plan to help poor seniors and in the meantime it could be one year or two years."
+   ]
+  },
+  {
+   "begin": "1137.400",
+   "children": [],
+   "end": "1141.720",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "Let me call your attention to the key word there."
+   ]
+  },
+  {
+   "begin": "1141.720",
+   "children": [],
+   "end": "1143.120",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "He said all poor seniors."
+   ]
+  },
+  {
+   "begin": "1143.120",
+   "children": [],
+   "end": "1143.360",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "Wait a minute."
+   ]
+  },
+  {
+   "begin": "1143.360",
+   "children": [],
+   "end": "1146.280",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "All seniors are covered under prescription drugs in my plan."
+   ]
+  },
+  {
+   "begin": "1146.280",
+   "children": [],
+   "end": "1146.960",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "In the first year?"
+   ]
+  },
+  {
+   "begin": "1146.960",
+   "children": [],
+   "end": "1150.040",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "If we can get it done in the first year, you bet."
+   ]
+  },
+  {
+   "begin": "1150.040",
+   "children": [],
+   "end": "1152.000",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "Yours is phased in in eight years."
+   ]
+  },
+  {
+   "begin": "1152.000",
+   "children": [],
+   "end": "1153.400",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "It's a two-phase plan."
+   ]
+  },
+  {
+   "begin": "1153.400",
+   "children": [],
+   "end": "1159.560",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "For the first four years -- it takes a year to pass it and for the first four years only the poor are covered."
+   ]
+  },
+  {
+   "begin": "1159.560",
+   "children": [],
+   "end": "1164.920",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "Middle class seniors like George McKinney and his wife are not covered for four to five years."
+   ]
+  },
+  {
+   "begin": "1164.920",
+   "children": [],
+   "end": "1165.880",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "I have an idea."
+   ]
+  },
+  {
+   "begin": "1165.880",
+   "children": [],
+   "end": "1170.760",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "If you have any more to say about this, you can say it in your closing statements and we'll move on, okay?"
+   ]
+  },
+  {
+   "begin": "1170.760",
+   "children": [],
+   "end": "1171.760",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "New question."
+   ]
+  },
+  {
+   "begin": "1171.760",
+   "children": [],
+   "end": "1173.800",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "Vice President Gore."
+   ]
+  },
+  {
+   "begin": "1173.800",
+   "children": [],
+   "end": "1185.840",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "How would you contrast your approach to preventing future oil price and supply problems like we have now to the approach of Governor Bush?"
+   ]
+  },
+  {
+   "begin": "1185.840",
+   "children": [],
+   "end": "1187.080",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "Excellent question."
+   ]
+  },
+  {
+   "begin": "1187.080",
+   "children": [],
+   "end": "1189.240",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "And here is the simple difference."
+   ]
+  },
+  {
+   "begin": "1189.240",
+   "children": [],
+   "end": "1194.760",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "My plan has not only a short-term component, but also a long-term component."
+   ]
+  },
+  {
+   "begin": "1194.760",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "And it focuses not only on increasing the supply, which I think we have to do, but also"
+   ]
+  }
+ ]
+}

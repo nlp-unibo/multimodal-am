@@ -1,0 +1,6 @@
+(Applause) : 120
+(Scattered applause) : 3
+(Laughter) : 2
+Gov. : 12
+Yes, I have. : 4
+Thank you. : 2

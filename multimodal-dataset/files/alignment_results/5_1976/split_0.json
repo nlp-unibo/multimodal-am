@@ -1,0 +1,1264 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "0.600",
+   "children": [],
+   "end": "14.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Edwin Newman, moderator of this first debate of the 1976 campaign between Gerald R. Ford of Michigan, Republican candidate for president, and Jimmy Carter of Georgia, Democratic candidate for president."
+   ]
+  },
+  {
+   "begin": "14.240",
+   "children": [],
+   "end": "18.760",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "We thank you, President Ford and we thank you, Governor Carter, for being with us tonight."
+   ]
+  },
+  {
+   "begin": "18.760",
+   "children": [],
+   "end": "25.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "There are to be three debates between the presidential candidates and one between the vice-presidential candidates."
+   ]
+  },
+  {
+   "begin": "25.840",
+   "children": [],
+   "end": "30.400",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "All are being arranged by the League of Women Voters Education Fund."
+   ]
+  },
+  {
+   "begin": "30.400",
+   "children": [],
+   "end": "46.480",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "Tonight's debate, the first between presidential candidates in sixteen years and the first ever in which an incumbent president has participated, is taking place before an audience in the Walnut Street Theater in Philadelphia, just three blocks from Independence Hall."
+   ]
+  },
+  {
+   "begin": "46.480",
+   "children": [],
+   "end": "52.960",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The television audience may reach a hundred million in the United States and many millions overseas."
+   ]
+  },
+  {
+   "begin": "52.960",
+   "children": [],
+   "end": "57.320",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Tonight's debate focuses on domestic issues and economic policy."
+   ]
+  },
+  {
+   "begin": "57.320",
+   "children": [],
+   "end": "68.520",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Questions will be put by Frank Reynolds of ABC News, James Gannon of the Wall Street Journal, and Elizabeth Drew of the New Yorker magazine."
+   ]
+  },
+  {
+   "begin": "68.520",
+   "children": [],
+   "end": "72.600",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Under the agreed rules the first question will go to Governor Carter."
+   ]
+  },
+  {
+   "begin": "72.600",
+   "children": [],
+   "end": "75.040",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "That was decided by the toss of a coin."
+   ]
+  },
+  {
+   "begin": "75.040",
+   "children": [],
+   "end": "78.200",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "He will have up to three minutes to answer."
+   ]
+  },
+  {
+   "begin": "78.200",
+   "children": [],
+   "end": "82.760",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "One follow-up question will be permitted with up to two minutes to reply."
+   ]
+  },
+  {
+   "begin": "82.760",
+   "children": [],
+   "end": "86.160",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "President Ford will then have two minutes to respond."
+   ]
+  },
+  {
+   "begin": "86.160",
+   "children": [],
+   "end": "94.760",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "The next question will go to President Ford with the same time arrangements, and questions will continue to be alternated between the candidates."
+   ]
+  },
+  {
+   "begin": "94.760",
+   "children": [],
+   "end": "99.320",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Each man will make a three-minute statement at the end, Governor Carter to go first."
+   ]
+  },
+  {
+   "begin": "99.320",
+   "children": [],
+   "end": "105.520",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "President Ford and Governor Carter do not have any notes or prepared remarks with them this evening."
+   ]
+  },
+  {
+   "begin": "105.520",
+   "children": [],
+   "end": "108.960",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Mr. Reynolds, your question for Governor Carter."
+   ]
+  },
+  {
+   "begin": "108.960",
+   "children": [],
+   "end": "111.560",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Mr. President, Governor Carter."
+   ]
+  },
+  {
+   "begin": "111.560",
+   "children": [],
+   "end": "120.160",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Governor, in an interview with the Associated Press last week, you said you believed these debates would alleviate a lot of concern that some voters have about you."
+   ]
+  },
+  {
+   "begin": "120.160",
+   "children": [],
+   "end": "128.200",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Well, one of those concerns, not an uncommon one about uh - candidates in any year, is that many voters say they don't really know where you stand."
+   ]
+  },
+  {
+   "begin": "128.200",
+   "children": [],
+   "end": "136.600",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Now, you have made jobs your number one priority and you have said you are committed to a drastic reduction in unemployment."
+   ]
+  },
+  {
+   "begin": "136.600",
+   "children": [],
+   "end": "144.840",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Can you say now, Governor, in specific terms, what your first step would be next January, if you are elected, to achieve that."
+   ]
+  },
+  {
+   "begin": "144.840",
+   "children": [],
+   "end": "145.160",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "145.160",
+   "children": [],
+   "end": "155.520",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "First of all is to recognize a tremendous economic strength in this country and to set the putting to - back to work of our people as a top priority."
+   ]
+  },
+  {
+   "begin": "155.520",
+   "children": [],
+   "end": "171.000",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "This is uh - an effort that ought to be done primarily by strong leadership in the White House, the inspiration of our people, the tapping of uh - business, agriculture, industry, labor and government at all levels to work on this uh project."
+   ]
+  },
+  {
+   "begin": "171.000",
+   "children": [],
+   "end": "177.000",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "We'll never have uh - an end to the inflationary spiral, and we'll never have a balanced budget until we get our people back to work."
+   ]
+  },
+  {
+   "begin": "177.000",
+   "children": [],
+   "end": "180.200",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "There are several things that can be done specifically that are not now being done."
+   ]
+  },
+  {
+   "begin": "180.200",
+   "children": [],
+   "end": "186.880",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "First of all, to channel research and development funds into areas that will provide uh large numbers of jobs."
+   ]
+  },
+  {
+   "begin": "186.880",
+   "children": [],
+   "end": "196.040",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Secondly, we need to have a commitment in the uh private sector uh - to cooperate with government in matters like housing."
+   ]
+  },
+  {
+   "begin": "196.040",
+   "children": [],
+   "end": "216.000",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "Here a very small investment of taxpayer's money - in the housing field can bring large numbers of extra jobs, and the guarantee of mortgage loans, and the uh - putting forward of uh - two-0-two programs for housing for older people and so forth to cut down the roughly 20 percent unemployment that now exists in the - in the construction industry."
+   ]
+  },
+  {
+   "begin": "216.000",
+   "children": [],
+   "end": "228.640",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Another thing is to deal with our - uh needs in the central cities, where the unemployment rate is extremely high: sometimes among minority groups, or those who don't speak English, or who're black, or young people, or - 40 percent of the employment."
+   ]
+  },
+  {
+   "begin": "228.640",
+   "children": [],
+   "end": "242.240",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Here a CCC type program would be appropriate to channel money into the ah - cha- in - in into the sharing with the private sector and also local and state governments to employ young people who are now out of work."
+   ]
+  },
+  {
+   "begin": "242.240",
+   "children": [],
+   "end": "257.320",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "Another very important - uh aspect of our - uh economy would be to increase production in every way possible, uh to hold down - uh taxes on individuals, and to uh shift the tax burdens onto those who have avoided paying taxes in the past."
+   ]
+  },
+  {
+   "begin": "257.320",
+   "children": [],
+   "end": "265.600",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "These uh - kinds of specific things, uh none of which are being done now, would be a great help in - in reducing uh unemployment."
+   ]
+  },
+  {
+   "begin": "265.600",
+   "children": [],
+   "end": "282.080",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "There is uh - uh an additional factor that needs to be done and covered very - very succinctly, and that is, to make sure that we have a good relationship between management - business on the one hand, and labor, on the other."
+   ]
+  },
+  {
+   "begin": "282.080",
+   "children": [],
+   "end": "284.240",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "In a &gt; Transfer interrupted!"
+   ]
+  },
+  {
+   "begin": "284.240",
+   "children": [],
+   "end": "302.080",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "ery high, we might channel specific uh targeted job - job - uh opportunities by paying part of the salary of unemployed people - uh and also sharing with uh - local governments the uh - payment of salaries which would uh - let us cut down the unemployment rate much lower, before we hit the inflationary level."
+   ]
+  },
+  {
+   "begin": "302.080",
+   "children": [],
+   "end": "321.040",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "But I believe that by the end of the first four years of uh - of the next term we could have the unemployment down to 3 percent adult unemployment, which is about uh - 4 to 4 and a half percent overall uh controlled inflation rate and have a uh balance of growth of about - uh 4 to 6 percent, around 5 percent which would give us a balanced budget."
+   ]
+  },
+  {
+   "begin": "321.040",
+   "children": [],
+   "end": "325.320",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Governor, uh - in the event you are successful and you do achieve a drastic drop"
+   ]
+  },
+  {
+   "begin": "325.320",
+   "children": [],
+   "end": "335.200",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Yes, in unemployment that is likely to create additional pressure on prices, how willing are you to consider an incomes policy, in other words, wage and price controls?"
+   ]
+  },
+  {
+   "begin": "335.200",
+   "children": [],
+   "end": "357.640",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Well - we now have such uh - a low utilization of uh - our productive capacity - uh about 73 percent; I think it's about the lowest since the Great Depression years - and such a high unemployment rate now - uh 7.9 percent - that - uh we have a long way to go in getting people to work before we have the inflationary pressures."
+   ]
+  },
+  {
+   "begin": "357.640",
+   "children": [],
+   "end": "367.680",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "And I think this would uh - this would be uh easy to accomplish, to get jobs down, without having strong in- inflationary pressures that - that would be necessary."
+   ]
+  },
+  {
+   "begin": "367.680",
+   "children": [],
+   "end": "376.080",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "I would not favor the uh - payment of uh - of a given fixed income to people unless they are not able to work."
+   ]
+  },
+  {
+   "begin": "376.080",
+   "children": [],
+   "end": "389.680",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "But with tax incentives for the low-income groups we could build up their uh - income levels uh - above the poverty level and not uh make welfare more uh - profitable than - than work."
+   ]
+  },
+  {
+   "begin": "389.680",
+   "children": [],
+   "end": "392.520",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "Mr. President, your response."
+   ]
+  },
+  {
+   "begin": "392.520",
+   "children": [],
+   "end": "401.760",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "I don't believe that uh that Mr. Carter's been any more specific in this case than he has been on many other instances."
+   ]
+  },
+  {
+   "begin": "401.760",
+   "children": [],
+   "end": "413.960",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "I notice particularly that he didn't endorse the Humphrey-Hawkins bill which he has on occasions and which is included as a part of the Democratic platform."
+   ]
+  },
+  {
+   "begin": "413.960",
+   "children": [],
+   "end": "430.000",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "That legislation uh allegedly would help our unemployment, but uh - we all know that it would've controlled our economy, it would've added uh - ten to thirty billion dollars each year in additional expenditures by the Federal Government."
+   ]
+  },
+  {
+   "begin": "430.000",
+   "children": [],
+   "end": "447.560",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "It would've called for export controls on agricultural products In my judgment the best way to get jobs is to uh - expand the private sector, where five out of six jobs today exist in our economy."
+   ]
+  },
+  {
+   "begin": "447.560",
+   "children": [],
+   "end": "466.000",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "We can do that by reducing Federal taxes as I proposed uh - about a year ago when I called for a tax reduction of $28 billion - three-quarters of it to go to private uh taxpayers and uh one-quarter to the business sector."
+   ]
+  },
+  {
+   "begin": "466.000",
+   "children": [],
+   "end": "487.480",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "We could add to jobs in the major metropolitan areas by a proposal that I recommended that would give tax incentives to business to move into the inner city and to expand or to build new plants so that they would take a plant, or expand a plant where people are, and people are currently unemployed."
+   ]
+  },
+  {
+   "begin": "487.480",
+   "children": [],
+   "end": "503.640",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "We could uh - also uh - help our youths with some of the proposals that uh - would give to young people an opportunity to work and learn at the same time just like we give money to young people who are going to college."
+   ]
+  },
+  {
+   "begin": "503.640",
+   "children": [],
+   "end": "515.400",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "Those are the kind of specifics that I think we have to discuss on these uh - debates, and these are the kind of programs that I'll talk about on my time."
+   ]
+  },
+  {
+   "begin": "515.400",
+   "children": [],
+   "end": "518.800",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "Mr. Gannon, your question to President Ford."
+   ]
+  },
+  {
+   "begin": "518.800",
+   "children": [],
+   "end": "524.640",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Mr. President, I would like to continue for a moment on this uh question of taxes which you have just raised."
+   ]
+  },
+  {
+   "begin": "524.640",
+   "children": [],
+   "end": "532.800",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "You have said that you favor more tax cuts for middle-income Americans - even those earning up to $30 thousand a year."
+   ]
+  },
+  {
+   "begin": "532.800",
+   "children": [],
+   "end": "538.200",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "That presumably would cost the Treasury quite a bit of money in lost revenue."
+   ]
+  },
+  {
+   "begin": "538.200",
+   "children": [],
+   "end": "550.520",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "In view of the very large budget deficits that you have accumulated and that are still in prospect, how is it possible to promise further tax cuts and to reach your goal of balancing the budget?"
+   ]
+  },
+  {
+   "begin": "550.520",
+   "children": [],
+   "end": "563.280",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "At the time, Mr. Gannon, that I made the recommendation for a $28 billion tax cut - three-quarters of it to go to individual taxpayers and 25 percent to American business."
+   ]
+  },
+  {
+   "begin": "563.280",
+   "children": [],
+   "end": "579.680",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "I said at the time that we had to hold the lid an federal spending, that for every dollar of a tax reduction we had to have an equal reduction in federal expenditures - a one-for-one proposition."
+   ]
+  },
+  {
+   "begin": "579.680",
+   "children": [],
+   "end": "592.000",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "And I recommended that to the Congress with a budget ceiling of three hundred and ninety-five billion dollars, and that would have permitted us to have a $25 billion tax reduction."
+   ]
+  },
+  {
+   "begin": "592.000",
+   "children": [],
+   "end": "607.440",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "In my tax reduction program for middle-income taxpayers, I recommended that the Congress increase personal exemptions from seven hundred and fifty dollars per person to one thousand dollars per person."
+   ]
+  },
+  {
+   "begin": "607.440",
+   "children": [],
+   "end": "623.080",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "That would mean, of course, that for a family of four that that family would have a thousand dollars more personal exemption - money that they could spend for their own purposes, money that the government wouldn't have to spend."
+   ]
+  },
+  {
+   "begin": "623.080",
+   "children": [],
+   "end": "633.280",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "But if we keep the lid on federal spending, which I think we can - with the help of the Congress, we can justify fully a $28 billion tax reduction."
+   ]
+  },
+  {
+   "begin": "633.280",
+   "children": [],
+   "end": "644.040",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "In the budget that I submitted to the Congress in January this year, I re- recommended a 50 percent cutback in the rate of growth of federal spending."
+   ]
+  },
+  {
+   "begin": "644.040",
+   "children": [],
+   "end": "652.600",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "For the last ten years the budget of the United States has grown from uh - about 11 percent per year."
+   ]
+  },
+  {
+   "begin": "652.600",
+   "children": [],
+   "end": "656.400",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "We can't afford that kind of growth in federal spending."
+   ]
+  },
+  {
+   "begin": "656.400",
+   "children": [],
+   "end": "663.600",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "And in the budget that I recommended we cut it in half - a growth rate of 5 to 5 and one-half percent."
+   ]
+  },
+  {
+   "begin": "663.600",
+   "children": [],
+   "end": "672.840",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "With that kind of limitation, on federal spending, we can fully justify the tax reductions that I have proposed."
+   ]
+  },
+  {
+   "begin": "672.840",
+   "children": [],
+   "end": "695.320",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "And it seems to me with the stimulant of more money in the hands of the taxpayers, and with more money in the hands of business to expand, to modernize, to provide more jobs, our economy stimulated so that we'll get more revenue and we'll have a more prosperous economy."
+   ]
+  },
+  {
+   "begin": "695.320",
+   "children": [],
+   "end": "708.160",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Mr. President, to follow up a moment, uh - the Congress has passed a tax bill which is before you now, which did not meet exactly the uh - sort of outline that you requested."
+   ]
+  },
+  {
+   "begin": "708.160",
+   "children": [],
+   "end": "713.400",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "What is your intention on that bill, uh - since it doesn't meet your - your requirements?"
+   ]
+  },
+  {
+   "begin": "713.400",
+   "children": [],
+   "end": "715.440",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Do you plan to sign that bill?"
+   ]
+  },
+  {
+   "begin": "715.440",
+   "children": [],
+   "end": "720.960",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "That tax bill does not entirely meet the criteria that I established."
+   ]
+  },
+  {
+   "begin": "720.960",
+   "children": [],
+   "end": "734.000",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "I think the Congress should have uh - added another $10 billion reduction in personal income taxes, including the increase of personal exemptions from seven hundred and fifty to a thousand dollars."
+   ]
+  },
+  {
+   "begin": "734.000",
+   "children": [],
+   "end": "747.320",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "And Congress could have done that if the budget committees of the Congress, and the Congress as a whole, had not increased the spending that I recommended in the budget."
+   ]
+  },
+  {
+   "begin": "747.320",
+   "children": [],
+   "end": "760.480",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "I'm sure that you know that in the resolutions passed by the Congress, that have added about $17 billion in more spending, by the Congress over the budget that I recommended."
+   ]
+  },
+  {
+   "begin": "760.480",
+   "children": [],
+   "end": "768.640",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "So I would prefer in that tax bill to have an additional tax cut and a further limitation on federal spending."
+   ]
+  },
+  {
+   "begin": "768.640",
+   "children": [],
+   "end": "777.480",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Now this tax bill - that hasn't reached the White House yet, but is expected in a day or two - it's about fifteen hundred pages."
+   ]
+  },
+  {
+   "begin": "777.480",
+   "children": [],
+   "end": "779.680",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "It has some good provisions in it."
+   ]
+  },
+  {
+   "begin": "779.680",
+   "children": [],
+   "end": "784.160",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "It has - uh left out some that I have recommended, unfortunately."
+   ]
+  },
+  {
+   "begin": "784.160",
+   "children": [],
+   "end": "797.280",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "On the other hand, uh when you have a bill of that magnitude, with - tho- those many provisions, a president has to sit and decide if there's more good than bad."
+   ]
+  },
+  {
+   "begin": "797.280",
+   "children": [],
+   "end": "806.440",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "And from the a- analysis that I've made so far, it seems to me that that tax bill does uh - justify my signature and my approval."
+   ]
+  },
+  {
+   "begin": "806.440",
+   "children": [],
+   "end": "810.560",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Governor Carter, your response."
+   ]
+  },
+  {
+   "begin": "810.560",
+   "children": [],
+   "end": "815.240",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy."
+   ]
+  },
+  {
+   "begin": "815.240",
+   "children": [],
+   "end": "821.120",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "The present tax structure is a disgrace to this country; it's just a welfare program for the rich."
+   ]
+  },
+  {
+   "begin": "821.120",
+   "children": [],
+   "end": "835.480",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country."
+   ]
+  },
+  {
+   "begin": "835.480",
+   "children": [],
+   "end": "853.240",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "When Mr. Ford first became president in - in August of 1974, the first thing he did in - in October was to ask for a $4.7 billion increase in taxes on our people in the midst of the heaviest recession, since uh - since the great depression of nineteen uh - of the 1940s."
+   ]
+  },
+  {
+   "begin": "853.240",
+   "children": [],
+   "end": "866.520",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "In uh - January of 1975 he asked for a tax change: a $5.6 billion increase on low-and-middle-income private individuals, a six and a half billion dollar decrease on the corporations and the special interests."
+   ]
+  },
+  {
+   "begin": "866.520",
+   "children": [],
+   "end": "888.440",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "In uh - December of uh - 1975 he vetoed the roughly 18 to 20 billion dollar uh tax-reduction bill that had been passed by the Congress, and then he came back later on in January of this year and he did advocate a $10 billion tax reduction, but it would be offset by a $6 billion increase this coming January in deductions for Social Security payments and for unemployment compensation."
+   ]
+  },
+  {
+   "begin": "888.440",
+   "children": [],
+   "end": "898.160",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "The whole philosophy of the Republican party, including uh - my opponent, has been to pile on taxes on low-income people to take 'em off on the corporations."
+   ]
+  },
+  {
+   "begin": "898.160",
+   "children": [],
+   "end": "908.840",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "As a matter fact, in - sin- since the late sixties when Mr. Nixon took office, we've had a reduction in uh - in the percentage of taxes paid by corporations from 30 percent down to about 20 percent."
+   ]
+  },
+  {
+   "begin": "908.840",
+   "children": [],
+   "end": "915.040",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "We've had an increase in taxes paid by individuals, payroll taxes, from14 Percent up to 20 percent."
+   ]
+  },
+  {
+   "begin": "915.040",
+   "children": [],
+   "end": "917.120",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "And this is what the Republicans have done to us."
+   ]
+  },
+  {
+   "begin": "917.120",
+   "children": [],
+   "end": "920.440",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "And this is why a tax reform is so important."
+   ]
+  },
+  {
+   "begin": "920.440",
+   "children": [],
+   "end": "923.120",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Mrs. Drew, your question to Governor Carter."
+   ]
+  },
+  {
+   "begin": "923.120",
+   "children": [],
+   "end": "936.880",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Uh Governor Carter, you proposed a number of new or enlarged programs, including jobs, health, welfare reform, child care, aid to education, aid to cities, changes in social security and housing subsidies."
+   ]
+  },
+  {
+   "begin": "936.880",
+   "children": [],
+   "end": "941.120",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "You've also said that you wanna balance the budget by the end of your first term."
+   ]
+  },
+  {
+   "begin": "941.120",
+   "children": [],
+   "end": "960.680",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Now you haven't put a price tag on those programs, but even if we price them conservatively and we count for full employment by the end of your first term, and we count for the economic growth that would occur during that period, there still isn't enough money to pay for those programs and balance the budget by any - any estimates that I've been able to see."
+   ]
+  },
+  {
+   "begin": "960.680",
+   "children": [],
+   "end": "962.560",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "So, in that case what would give?"
+   ]
+  },
+  {
+   "begin": "962.560",
+   "children": [],
+   "end": "965.440",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "Well, as a matter of fact there is."
+   ]
+  },
+  {
+   "begin": "965.440",
+   "children": [],
+   "end": "1014.280",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "If we assume the ah - uh - a rate of growth of our economy, equivalent to what it was during President Johnson, President Kennedy, even before the - the - the - uh wa uh - Vietnese- namese War, and if we assume that at the end of the four-year period we can cut our unemployment rate down to 4 to 4 and a half percent - under those circumstances, even assuming no elimination of unnecessary programs and assuming an increase in the ad- in the allotment of money to finance programs, increasing as the inflation rate does - my economic projections, I think confirmed by the House uh - and the Senate committees, have been with the $60 billion extra amount of money that can be spent in fiscal year '81 which will be the last year of this next term."
+   ]
+  },
+  {
+   "begin": "1014.280",
+   "children": [],
+   "end": "1021.280",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "Within that sixty-billion dollars increase there would be fit the programs that I promised the American people."
+   ]
+  },
+  {
+   "begin": "1021.280",
+   "children": [],
+   "end": "1038.000",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "I might say too, that - that if we see that these goals cannot be reached - and I believe they're reasonable goals - then I would cut back on the rate of implement- implementation of new programs in order to accommodate a balanced budget by fiscal year '81 which is the last year of the next term."
+   ]
+  },
+  {
+   "begin": "1038.000",
+   "children": [],
+   "end": "1042.360",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "I believe that we ought to have a balanced budget during normal economic circumstances."
+   ]
+  },
+  {
+   "begin": "1042.360",
+   "children": [],
+   "end": "1046.000",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "And uh - these projections have been very carefully made."
+   ]
+  },
+  {
+   "begin": "1046.000",
+   "children": [],
+   "end": "1047.240",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "I stand behind them."
+   ]
+  },
+  {
+   "begin": "1047.240",
+   "children": [],
+   "end": "1055.880",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "And if they should be in error slightly on the down side, then I'll phase in the programs that we've uh - advocated, more slowly."
+   ]
+  },
+  {
+   "begin": "1055.880",
+   "children": [],
+   "end": "1078.760",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "Governor, uh - according to the budget committees of the Congress tha- tha- tha- that you referred to, if we get to full employment - what they project at a 4 percent unemployment - and, as you say, even allowing for the inflation in the programs, there would not be anything more than a surplus of $5 billion by the end of ninet- by 1981."
+   ]
+  },
+  {
+   "begin": "1078.760",
+   "children": [],
+   "end": "1084.480",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "And conservative estimates of your programs would be that they'd be about 85 to a hundred billion dollars."
+   ]
+  },
+  {
+   "begin": "1084.480",
+   "children": [],
+   "end": "1088.600",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "So how - how do you say that you're going to be able to do these things and balance the budget?"
+   ]
+  },
+  {
+   "begin": "1088.600",
+   "children": [],
+   "end": "1095.200",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Well, the uh - the assumption that - that you uh - have described as different is in the rate of growth of our economy."
+   ]
+  },
+  {
+   "begin": "1095.200",
+   "children": [],
+   "end": "1098.360",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "No, they took that into account in those figures."
+   ]
+  },
+  {
+   "begin": "1098.360",
+   "children": [],
+   "end": "1116.520",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "I believe that it's accurate to say that - that the - that the committees to whom you refer with the - the employment that you uh - state, and with the 5 to 5 and a half percent growth rate in our economy, that the uh - projections would be a uh - a $60 billion increase in the amount of money that we'd have to spend in l981 compared to now."
+   ]
+  },
+  {
+   "begin": "1116.520",
+   "children": [],
+   "end": "1122.120",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "And uh - with that uh - in that framework would befit the - any improvements in the programs."
+   ]
+  },
+  {
+   "begin": "1122.120",
+   "children": [],
+   "end": "1130.120",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "Now this does not include uh - any uh - uh extra control over uh unnecessary spending, the weeding out of obsolete or obsolescent programs."
+   ]
+  },
+  {
+   "begin": "1130.120",
+   "children": [],
+   "end": "1137.600",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "Uh - we'll have uh - a safety version built in with complete reorganization of the executive branch of government which I am pledged to do."
+   ]
+  },
+  {
+   "begin": "1137.600",
+   "children": [],
+   "end": "1141.520",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "The present bureaucratic structure of the - of the Federal Government is a mess."
+   ]
+  },
+  {
+   "begin": "1141.520",
+   "children": [],
+   "end": "1152.000",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "And if I'm elected president that's gonna be a top priority of mine to completely revise the structure of the federal government, to make it economical, efficient, purposeful and manageable for a change."
+   ]
+  },
+  {
+   "begin": "1152.000",
+   "children": [],
+   "end": "1163.320",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "And also, I'm going to institute zero-based budgeting which I used four years in Georgia, which uh - assesses every program every year, and eliminates those programs that are obsolete or obsolescent."
+   ]
+  },
+  {
+   "begin": "1163.320",
+   "children": [],
+   "end": "1170.600",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "But with these projections, we will have a balanced budget by fiscal year 1981, if I'm elected president."
+   ]
+  },
+  {
+   "begin": "1170.600",
+   "children": [],
+   "end": "1172.760",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "Keep my promises to the American people."
+   ]
+  },
+  {
+   "begin": "1172.760",
+   "children": [],
+   "end": "1188.240",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "And it's just predicated on very modest, but I think accurate, projections of employment increases and uh - a growth in our national economy equal to what was experienced under Kennedy, Johnson, before the Vietnam War."
+   ]
+  },
+  {
+   "begin": "1188.240",
+   "children": [],
+   "end": "1191.760",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "President Ford."
+   ]
+  },
+  {
+   "begin": "1191.760",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "If it is uh true that there will be a $60 billion surplus by fiscal year 1981,"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+Yes. : 4
+Excuse me. : 4
+I don't want to -- : 4
+Wait a minute. : 4
+I agree with him. : 4
+Let's do it. : 4

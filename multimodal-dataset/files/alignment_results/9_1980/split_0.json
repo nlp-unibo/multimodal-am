@@ -1,0 +1,1524 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.440",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "1.440",
+   "children": [],
+   "end": "5.840",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Ruth Hinerfeld of the League of Women Voters Education Fund."
+   ]
+  },
+  {
+   "begin": "5.840",
+   "children": [],
+   "end": "8.360",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Next Tuesday is Election Day."
+   ]
+  },
+  {
+   "begin": "8.360",
+   "children": [],
+   "end": "16.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Before going to the polls, voters want to understand the issues and know the candidates' positions."
+   ]
+  },
+  {
+   "begin": "16.040",
+   "children": [],
+   "end": "29.720",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Tonight, voters will have an opportunity to see and hear the major party candidates for the Presidency state their views on issues that affect us all."
+   ]
+  },
+  {
+   "begin": "29.720",
+   "children": [],
+   "end": "35.440",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "The League of Women Voters is proud to present this Presidential Debate."
+   ]
+  },
+  {
+   "begin": "35.440",
+   "children": [],
+   "end": "39.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Our moderator is Howard K. Smith."
+   ]
+  },
+  {
+   "begin": "39.040",
+   "children": [],
+   "end": "40.800",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Thank you, Mrs. Hinerfeld."
+   ]
+  },
+  {
+   "begin": "40.800",
+   "children": [],
+   "end": "50.040",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "The League of Women Voters is pleased to welcome to the Cleveland, Ohio, Convention Center Music Hall President Jimmy Carter."
+   ]
+  },
+  {
+   "begin": "50.040",
+   "children": [],
+   "end": "53.800",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "the Democratic Party's candidate for reelection to the Presidency."
+   ]
+  },
+  {
+   "begin": "53.800",
+   "children": [],
+   "end": "59.360",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "and Governor Ronald Reagan of California, the Republican Party's candidate for the Presidency."
+   ]
+  },
+  {
+   "begin": "59.360",
+   "children": [],
+   "end": "66.840",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "The candidates will debate questions on domestic, economic, foreign policy, and national security issues."
+   ]
+  },
+  {
+   "begin": "66.840",
+   "children": [],
+   "end": "72.400",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "The questions are going to be posed by a panel of distinguished journalists who are here with me."
+   ]
+  },
+  {
+   "begin": "72.400",
+   "children": [],
+   "end": "91.000",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "They are: Marvin Stone, the editor of U.S. News &amp; World Report; Harry Ellis, national correspondent of the Christian Science Monitor; William Hilliard, assistant managing editor of the Portland Oregonian; Barbara Walters, correspondent, ABC News."
+   ]
+  },
+  {
+   "begin": "91.000",
+   "children": [],
+   "end": "101.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "The ground rules for this, as agreed by you gentlemen, are these: Each panelist down here will ask a question, the same question, to each of the two candidates."
+   ]
+  },
+  {
+   "begin": "101.040",
+   "children": [],
+   "end": "106.920",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "After the two candidates have answered, a panelist will ask follow-up questions to try to sharpen the answers."
+   ]
+  },
+  {
+   "begin": "106.920",
+   "children": [],
+   "end": "112.280",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "The candidates will then have an opportunity each to make a rebuttal."
+   ]
+  },
+  {
+   "begin": "112.280",
+   "children": [],
+   "end": "118.320",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "That will constitute the first half of the debate, and I will state the rules for the second half later on."
+   ]
+  },
+  {
+   "begin": "118.320",
+   "children": [],
+   "end": "125.960",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Some other rules: The candidates are not permitted to bring prepared notes to the podium, but are permitted to make notes during the debate."
+   ]
+  },
+  {
+   "begin": "125.960",
+   "children": [],
+   "end": "132.520",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "If the candidates exceed the allotted time agreed on, I will reluctantly but certainly interrupt."
+   ]
+  },
+  {
+   "begin": "132.520",
+   "children": [],
+   "end": "136.520",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "We ask the Convention Center audience here to abide by one ground rule."
+   ]
+  },
+  {
+   "begin": "136.520",
+   "children": [],
+   "end": "141.120",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Please do not applaud or express approval or disapproval during the debate."
+   ]
+  },
+  {
+   "begin": "141.120",
+   "children": [],
+   "end": "147.840",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Now, based on the toss of the coin, Governor Reagan will respond to the first question from Marvin Stone."
+   ]
+  },
+  {
+   "begin": "147.840",
+   "children": [],
+   "end": "156.520",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Governor, as you're well aware, the question of war and peace has emerged as a central issue in this campaign in the give and take of recent weeks."
+   ]
+  },
+  {
+   "begin": "156.520",
+   "children": [],
+   "end": "165.040",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "President Carter has been criticized for responding late to aggressive Soviet impulses, for insufficient build-up of our armed forces."
+   ]
+  },
+  {
+   "begin": "165.040",
+   "children": [],
+   "end": "169.040",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "and a paralysis in dealing with Afghanistan and Iran."
+   ]
+  },
+  {
+   "begin": "169.040",
+   "children": [],
+   "end": "177.320",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "You have been criticized for being all too quick to advocate the use of lots of muscle - military action - to deal with foreign crises."
+   ]
+  },
+  {
+   "begin": "177.320",
+   "children": [],
+   "end": "186.560",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Specifically, what are the differences between the two of you on the uses of American military power?"
+   ]
+  },
+  {
+   "begin": "186.560",
+   "children": [],
+   "end": "191.840",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "I don't know what the differences might be, because I don't know what Mr. Carter's policies are."
+   ]
+  },
+  {
+   "begin": "191.840",
+   "children": [],
+   "end": "194.920",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "I do know what he has said about mine."
+   ]
+  },
+  {
+   "begin": "194.920",
+   "children": [],
+   "end": "216.720",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "And I'm only here to tell you that I believe with all my heart that our first priority must be world peace, and that use of force is always and only a last resort, when everything else has failed, and then only with regard to our national security."
+   ]
+  },
+  {
+   "begin": "216.720",
+   "children": [],
+   "end": "237.400",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Now, I believe, also, that this meeting this mission, this responsibility for preserving the peace, which I believe is a responsibility peculiar to our country, and that we cannot shirk our responsibility as a leader of the free world because we're the only ones that can do it."
+   ]
+  },
+  {
+   "begin": "237.400",
+   "children": [],
+   "end": "240.880",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Therefore, the burden of maintaining the peace falls on us."
+   ]
+  },
+  {
+   "begin": "240.880",
+   "children": [],
+   "end": "245.400",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And to maintain that peace requires strength."
+   ]
+  },
+  {
+   "begin": "245.400",
+   "children": [],
+   "end": "250.280",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "America has never gotten in a war because we were too strong."
+   ]
+  },
+  {
+   "begin": "250.280",
+   "children": [],
+   "end": "264.120",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "We can get into a war by letting events get out of hand, as they have in the last three and a half years under the foreign policies of this Administration of Mr. Carter's, until we're faced each time with a crisis."
+   ]
+  },
+  {
+   "begin": "264.120",
+   "children": [],
+   "end": "277.120",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "And good management in preserving the peace requires that we control the events and try to intercept before they become a crisis."
+   ]
+  },
+  {
+   "begin": "277.120",
+   "children": [],
+   "end": "281.160",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "I have seen four wars in my lifetime."
+   ]
+  },
+  {
+   "begin": "281.160",
+   "children": [],
+   "end": "284.640",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "I'm a father of sons; I have a grandson."
+   ]
+  },
+  {
+   "begin": "284.640",
+   "children": [],
+   "end": "301.080",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "I don't ever want to see another generation of young Americans bleed their lives into sandy beachheads in the Pacific, or rice paddies and jungles in the in Asia or the muddy battlefields of Europe."
+   ]
+  },
+  {
+   "begin": "301.080",
+   "children": [],
+   "end": "303.960",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Mr. Stone, do you have a follow-up question for the Governor?"
+   ]
+  },
+  {
+   "begin": "303.960",
+   "children": [],
+   "end": "304.640",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "304.640",
+   "children": [],
+   "end": "315.200",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Governor, we've been hearing that the defense build-up that you would associate yourself with would cost tens of billions of dollars more than is now contemplated."
+   ]
+  },
+  {
+   "begin": "315.200",
+   "children": [],
+   "end": "338.600",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "Assuming that the American people are ready to bear this cost, they nevertheless keep asking the following question: How do you reconcile huge increases in military outlays with your promise of substantial tax cuts and of balancing the budget, which in this fiscal year, the one that just ended, ran more than $60 billion in the red?"
+   ]
+  },
+  {
+   "begin": "338.600",
+   "children": [],
+   "end": "369.120",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "Mr. Stone, I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it, and believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture, that it can provide for a balanced budget by 1983 if not earlier, and that we can afford - along with the cuts that I have proposed in Government."
+   ]
+  },
+  {
+   "begin": "369.120",
+   "children": [],
+   "end": "388.280",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "spending - we can afford the tax cuts I have proposed and probably mainly because Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year."
+   ]
+  },
+  {
+   "begin": "388.280",
+   "children": [],
+   "end": "394.040",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "And my tax cut does not come close to eliminating that $86 billion increase."
+   ]
+  },
+  {
+   "begin": "394.040",
+   "children": [],
+   "end": "397.120",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "I'm only reducing the amount of the increase."
+   ]
+  },
+  {
+   "begin": "397.120",
+   "children": [],
+   "end": "406.360",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "In other words, what I'm talking about is not putting government back to getting less money than government's been getting, but simply cutting the increase in in spending."
+   ]
+  },
+  {
+   "begin": "406.360",
+   "children": [],
+   "end": "409.600",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "The same question now goes to President Carter."
+   ]
+  },
+  {
+   "begin": "409.600",
+   "children": [],
+   "end": "412.360",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "President Carter, would you like to have the question repeated?"
+   ]
+  },
+  {
+   "begin": "412.360",
+   "children": [],
+   "end": "418.280",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Yes, President Carter, the question of war and peace, a central issue in this campaign."
+   ]
+  },
+  {
+   "begin": "418.280",
+   "children": [],
+   "end": "432.120",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "You've been criticized for, in the give and take, for responding late to aggressive Soviet impulses, for an insufficient build-up of our armed forces, and a paralysis in dealing with Afghanistan and Iran."
+   ]
+  },
+  {
+   "begin": "432.120",
+   "children": [],
+   "end": "443.440",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "Governor Reagan, on the other hand, has been criticized for being all too quick to advocate the use of lots of muscle - military action - to deal with foreign crises such as I have mentioned."
+   ]
+  },
+  {
+   "begin": "443.440",
+   "children": [],
+   "end": "450.760",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "Specifically, what are the differences between the two of you on the uses of American military power?"
+   ]
+  },
+  {
+   "begin": "450.760",
+   "children": [],
+   "end": "459.880",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Mr. Stone, I've had to make thousands of decisions since I've been President, serving in the Oval Office."
+   ]
+  },
+  {
+   "begin": "459.880",
+   "children": [],
+   "end": "464.920",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "And with each one of those decisions that affect the future of my country, I have learned in the process."
+   ]
+  },
+  {
+   "begin": "464.920",
+   "children": [],
+   "end": "472.000",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "I think I'm a much wiser and more experienced man than I was when I debated four years ago against President Ford."
+   ]
+  },
+  {
+   "begin": "472.000",
+   "children": [],
+   "end": "476.920",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "I've also learned that there are no simple answers to complicated questions."
+   ]
+  },
+  {
+   "begin": "476.920",
+   "children": [],
+   "end": "482.680",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "H. L. Mencken said that for every problem there's a simple answer."
+   ]
+  },
+  {
+   "begin": "482.680",
+   "children": [],
+   "end": "487.720",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "It would be neat and plausible and wrong."
+   ]
+  },
+  {
+   "begin": "487.720",
+   "children": [],
+   "end": "494.240",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "The fact is that this nation, in the eight years before I became President, had its own military strength decreased."
+   ]
+  },
+  {
+   "begin": "494.240",
+   "children": [],
+   "end": "503.120",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Seven out of eight years, the budget commitments for defense went down, 37% in all."
+   ]
+  },
+  {
+   "begin": "503.120",
+   "children": [],
+   "end": "511.800",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Since I've been in office, we've had a steady, carefully planned, methodical but, very effective increase in our commitment for defense."
+   ]
+  },
+  {
+   "begin": "511.800",
+   "children": [],
+   "end": "521.760",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "But what we've done is use that enormous power and prestige and military strength of the United States to preserve the peace."
+   ]
+  },
+  {
+   "begin": "521.760",
+   "children": [],
+   "end": "527.560",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "We've not only kept peace for our own country, but we've been able to extend the benefits of peace to others."
+   ]
+  },
+  {
+   "begin": "527.560",
+   "children": [],
+   "end": "538.560",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "In the Middle East, we've worked for a peace treaty between Israel and Egypt, successfully, and have tied ourselves together with Israel and Egypt in a common defense capability."
+   ]
+  },
+  {
+   "begin": "538.560",
+   "children": [],
+   "end": "546.720",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "This is a very good step forward for our nation's security, and we'll continue to do as we have done in the past."
+   ]
+  },
+  {
+   "begin": "546.720",
+   "children": [],
+   "end": "553.840",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "I might also add that there are decisions that are made in the Oval Office by every President which are profound in nature."
+   ]
+  },
+  {
+   "begin": "553.840",
+   "children": [],
+   "end": "570.280",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "There are always trouble spots in the world, and how those troubled areas are addressed by a President alone in that Oval Office affects our nation directly, the involvement of the United States and also our American interests."
+   ]
+  },
+  {
+   "begin": "570.280",
+   "children": [],
+   "end": "575.280",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "That is a basic decision that has to be made so frequently, by every President who serves."
+   ]
+  },
+  {
+   "begin": "575.280",
+   "children": [],
+   "end": "579.080",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "That is what I have tried to do successfully by keeping our country at peace."
+   ]
+  },
+  {
+   "begin": "579.080",
+   "children": [],
+   "end": "580.680",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "Mr. Stone, do you have a follow-up for?"
+   ]
+  },
+  {
+   "begin": "580.680",
+   "children": [],
+   "end": "581.280",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "581.280",
+   "children": [],
+   "end": "587.000",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "I would like to be a little more specific on the use of military power and let's talk about one area for a moment."
+   ]
+  },
+  {
+   "begin": "587.000",
+   "children": [],
+   "end": "600.880",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Under what circumstances would you use military forces to deal with, for example, a shut-off of the Persian Oil Gulf [sic] if that should occur, or to counter Russian expansion beyond Afghanistan into either Iran or Pakistan?"
+   ]
+  },
+  {
+   "begin": "600.880",
+   "children": [],
+   "end": "612.520",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "I ask this question in view of charges that we are woefully unprepared to project sustained - and I emphasize the word sustained - power in that part of the world."
+   ]
+  },
+  {
+   "begin": "612.520",
+   "children": [],
+   "end": "624.720",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Mr. Stone, in my State of the Union address earlier this year, I pointed out that any threat to the stability or security of the Persian Gulf would be a threat to the security of our own country."
+   ]
+  },
+  {
+   "begin": "624.720",
+   "children": [],
+   "end": "629.120",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "In the past, we have not had an adequate military presence in that region."
+   ]
+  },
+  {
+   "begin": "629.120",
+   "children": [],
+   "end": "632.280",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Now we have two major carrier task forces."
+   ]
+  },
+  {
+   "begin": "632.280",
+   "children": [],
+   "end": "636.240",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "We have access to facilities in five different areas of that region."
+   ]
+  },
+  {
+   "begin": "636.240",
+   "children": [],
+   "end": "647.720",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "And we've made it clear that working with our allies and others, that we are prepared to address any foreseeable eventuality which might interrupt commerce with that crucial area of the world."
+   ]
+  },
+  {
+   "begin": "647.720",
+   "children": [],
+   "end": "659.880",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "But in doing this, we have made sure that we address this question peacefully, not injecting American military forces into combat, but letting the strength of our nation be felt in a beneficial way."
+   ]
+  },
+  {
+   "begin": "659.880",
+   "children": [],
+   "end": "668.480",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "This, I believe, has assured that our interests will be protected in the Persian Gulf region, as we have done in the Middle East and throughout the world."
+   ]
+  },
+  {
+   "begin": "668.480",
+   "children": [],
+   "end": "671.320",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Governor Reagan, you have a minute to comment or rebut."
+   ]
+  },
+  {
+   "begin": "671.320",
+   "children": [],
+   "end": "680.400",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Well yes, I question the figure about the decline in defense spending under the two previous Administrations in the preceding eight years to this Administration."
+   ]
+  },
+  {
+   "begin": "680.400",
+   "children": [],
+   "end": "690.600",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "I would call to your attention that we were in a war that wound down during those eight years, which of course made a change in military spending because of turning from war to peace."
+   ]
+  },
+  {
+   "begin": "690.600",
+   "children": [],
+   "end": "702.600",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "I also would like to point out that Republican presidents in those years, faced with a Democratic majority in both houses of the Congress, found that their requests for defense budgets were very often cut."
+   ]
+  },
+  {
+   "begin": "702.600",
+   "children": [],
+   "end": "744.440",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "Now, Gerald Ford left a five-year projected plan for a military build-up to restore our defenses, and President Carter's administration reduced that by 38%, cut 60 ships out of the Navy building program that had been proposed, and stopped the the B-l, delayed the cruise missile, stopped the production line for the Minuteman missile, stopped the Trident or delayed the Trident submarine, and now is planning a mobile military force that can be delivered to various spots in the world which does make me question his assaults on whether I am the one who is quick to look for use of force."
+   ]
+  },
+  {
+   "begin": "744.440",
+   "children": [],
+   "end": "747.720",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "President Carter, you have the last word on this question."
+   ]
+  },
+  {
+   "begin": "747.720",
+   "children": [],
+   "end": "750.360",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "Well, there are various elements of defense."
+   ]
+  },
+  {
+   "begin": "750.360",
+   "children": [],
+   "end": "757.720",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "One is to control nuclear weapons, which I hope we'll get to later on because that is the most important single issue in this campaign."
+   ]
+  },
+  {
+   "begin": "757.720",
+   "children": [],
+   "end": "760.480",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Another one is how to address troubled areas of the world."
+   ]
+  },
+  {
+   "begin": "760.480",
+   "children": [],
+   "end": "778.880",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "I think, habitually, Governor Reagan has advocated the injection of military forces into troubled areas, when I and my predecessors - both Democrats and Republicans - have advocated resolving those troubles in those difficult areas of the world peacefully, diplomatically, and through negotiation."
+   ]
+  },
+  {
+   "begin": "778.880",
+   "children": [],
+   "end": "786.600",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "In addition to that, the build-up of military forces is good for our country because we've got to have military strength to preserve the peace."
+   ]
+  },
+  {
+   "begin": "786.600",
+   "children": [],
+   "end": "798.160",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "But I'll always remember that the best weapons are the ones that are never fired in combat, and the best soldier is one who never has to lay his life down on the field of battle."
+   ]
+  },
+  {
+   "begin": "798.160",
+   "children": [],
+   "end": "803.440",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Strength is imperative for peace, but the two must go hand in hand."
+   ]
+  },
+  {
+   "begin": "803.440",
+   "children": [],
+   "end": "804.800",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Thank you gentlemen."
+   ]
+  },
+  {
+   "begin": "804.800",
+   "children": [],
+   "end": "809.000",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "The next question is from Harry Ellis to President Carter."
+   ]
+  },
+  {
+   "begin": "809.000",
+   "children": [],
+   "end": "816.760",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Mr. President, when you were elected in 1976, the Consumer Price Index stood at 4.8%."
+   ]
+  },
+  {
+   "begin": "816.760",
+   "children": [],
+   "end": "819.680",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "It now stands at more than 12%."
+   ]
+  },
+  {
+   "begin": "819.680",
+   "children": [],
+   "end": "826.440",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "Perhaps more significantly, the nation's broader, underlying inflation rate has gone up from 7% to 9%."
+   ]
+  },
+  {
+   "begin": "826.440",
+   "children": [],
+   "end": "832.360",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "Now, a part of that was due to external factors beyond U.S. control, notably the more than doubling."
+   ]
+  },
+  {
+   "begin": "832.360",
+   "children": [],
+   "end": "835.000",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "of oil prices by OPEC last year."
+   ]
+  },
+  {
+   "begin": "835.000",
+   "children": [],
+   "end": "844.760",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Because the United States remains vulnerable to such external shocks, can inflation in fact be controlled?"
+   ]
+  },
+  {
+   "begin": "844.760",
+   "children": [],
+   "end": "851.560",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "If so, what measures would you pursue in a second term?"
+   ]
+  },
+  {
+   "begin": "851.560",
+   "children": [],
+   "end": "856.240",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "Again it's important to put the situation in perspective."
+   ]
+  },
+  {
+   "begin": "856.240",
+   "children": [],
+   "end": "864.200",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "In 1974, we had a so-called oil shock, wherein the price of OPEC oil was raised to an extraordinary degree."
+   ]
+  },
+  {
+   "begin": "864.200",
+   "children": [],
+   "end": "868.320",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "We had an even worse oil shock in 1979."
+   ]
+  },
+  {
+   "begin": "868.320",
+   "children": [],
+   "end": "876.120",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "In 1974, we had the worst recession, the deepest and most penetrating recession since the Second World War."
+   ]
+  },
+  {
+   "begin": "876.120",
+   "children": [],
+   "end": "882.520",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "The recession that resulted this time was the briefest since the Second World War."
+   ]
+  },
+  {
+   "begin": "882.520",
+   "children": [],
+   "end": "885.360",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "In addition, we've brought down inflation."
+   ]
+  },
+  {
+   "begin": "885.360",
+   "children": [],
+   "end": "892.520",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Earlier this year, in the first quarter, we did have a very severe inflation pressure brought about by the OPEC price increase."
+   ]
+  },
+  {
+   "begin": "892.520",
+   "children": [],
+   "end": "895.880",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "It averaged about 18% in the first quarter of this year."
+   ]
+  },
+  {
+   "begin": "895.880",
+   "children": [],
+   "end": "899.720",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "In the second quarter, we had dropped it down to about 13%."
+   ]
+  },
+  {
+   "begin": "899.720",
+   "children": [],
+   "end": "919.040",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "The most recent figures, the last three months, on the third quarter of this year, the inflation rate is 7% - still too high, but it illustrates very vividly that in addition to providing an enormous number of jobs - nine million new jobs in the last three and a half years - that the inflationary threat is still urgent on us."
+   ]
+  },
+  {
+   "begin": "919.040",
+   "children": [],
+   "end": "924.000",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "I notice that Governor Reagan recently mentioned the Reagan-Kemp-Roth proposal."
+   ]
+  },
+  {
+   "begin": "924.000",
+   "children": [],
+   "end": "931.840",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "which his own running mate, George Bush, described as voodoo economics, and said that it would result in a 30% inflation rate."
+   ]
+  },
+  {
+   "begin": "931.840",
+   "children": [],
+   "end": "945.360",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "And Business Week, which is not a Democratic publication, said that this Reagan-Kemp-Roth proposal - and I quote them, I think - was completely irresponsible and would result in inflationary pressures which would destroy this nation."
+   ]
+  },
+  {
+   "begin": "945.360",
+   "children": [],
+   "end": "961.400",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "So our proposals are very sound and very carefully considered to stimulate jobs, to improve the industrial complex of this country, to create tools for American workers, and at the same time would be anti-inflationary in nature."
+   ]
+  },
+  {
+   "begin": "961.400",
+   "children": [],
+   "end": "971.320",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "So to add nine million new jobs, to control inflation, and to plan for the future with an energy policy now intact as a foundation is our plan for the years ahead."
+   ]
+  },
+  {
+   "begin": "971.320",
+   "children": [],
+   "end": "974.840",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "Mr. Ellis, do you have a follow-up question for Mr. Carter?"
+   ]
+  },
+  {
+   "begin": "974.840",
+   "children": [],
+   "end": "975.200",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "975.200",
+   "children": [],
+   "end": "980.200",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Mr. President, you have mentioned the creation of nine million new jobs."
+   ]
+  },
+  {
+   "begin": "980.200",
+   "children": [],
+   "end": "987.040",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "At the same time, the unemployment rate still hangs high, as does the inflation rate."
+   ]
+  },
+  {
+   "begin": "987.040",
+   "children": [],
+   "end": "998.800",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "Now, I wonder, can you tell us what additional policies you would pursue in a second administration in order to try to bring down that inflation rate?"
+   ]
+  },
+  {
+   "begin": "998.800",
+   "children": [],
+   "end": "1009.200",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "And would it be an act of leadership to tell the American people they are going to have to sacrifice to adopt a leaner lifestyle for some time to come?"
+   ]
+  },
+  {
+   "begin": "1009.200",
+   "children": [],
+   "end": "1009.480",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1009.480",
+   "children": [],
+   "end": "1013.800",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "We have demanded that the American people sacrifice, and they have done very well."
+   ]
+  },
+  {
+   "begin": "1013.800",
+   "children": [],
+   "end": "1021.800",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, we're importing today about one-third less oil from overseas than we did just a year ago."
+   ]
+  },
+  {
+   "begin": "1021.800",
+   "children": [],
+   "end": "1025.760",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "We've had a 25% reduction since the first year I was in office."
+   ]
+  },
+  {
+   "begin": "1025.760",
+   "children": [],
+   "end": "1034.040",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "At the same time, as I have said earlier, we have added about nine million net new jobs in that period of time - a record never before achieved."
+   ]
+  },
+  {
+   "begin": "1034.040",
+   "children": [],
+   "end": "1050.880",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Also, the new energy policy has been predicated on two factors: One is conservation, which requires sacrifice, and the other one, increase in production of American energy, which is going along very well - more coal this year than ever before in American history, more oil and gas wells drilled this year than ever before in history."
+   ]
+  },
+  {
+   "begin": "1050.880",
+   "children": [],
+   "end": "1066.160",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "The new economic revitalization program that we have in mind, which will be implemented next year, would result in tax credits which would let business invest in new tools and new factories to create even more new jobs - about one million in the next two years."
+   ]
+  },
+  {
+   "begin": "1066.160",
+   "children": [],
+   "end": "1073.280",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "And we also have planned a youth employment program which would encompass 600,000 jobs for young people."
+   ]
+  },
+  {
+   "begin": "1073.280",
+   "children": [],
+   "end": "1077.440",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "This has already passed the House, and it has an excellent prospect to pass the Senate."
+   ]
+  },
+  {
+   "begin": "1077.440",
+   "children": [],
+   "end": "1079.640",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Now, the same question goes to Governor Reagan."
+   ]
+  },
+  {
+   "begin": "1079.640",
+   "children": [],
+   "end": "1083.520",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Governor Reagan, would you like to have the question repeated?"
+   ]
+  },
+  {
+   "begin": "1083.520",
+   "children": [],
+   "end": "1093.200",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "Governor Reagan, during the past four years, the Consumer Price Index has risen from 4.8% to currently over 12%."
+   ]
+  },
+  {
+   "begin": "1093.200",
+   "children": [],
+   "end": "1100.400",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "And perhaps more significantly, the nation's broader, underlying rate of inflation has gone up from 7% to 9%."
+   ]
+  },
+  {
+   "begin": "1100.400",
+   "children": [],
+   "end": "1121.600",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "Now, a part of that has been due to external factors beyond U.S. control, notably the more than doubling of OPEC oil prices last year, which leads me to ask you whether, since the United States remains vulnerable to such external shocks, can inflation in fact be controlled?"
+   ]
+  },
+  {
+   "begin": "1121.600",
+   "children": [],
+   "end": "1125.800",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "If so, specifically what measures would you pursue`?"
+   ]
+  },
+  {
+   "begin": "1125.800",
+   "children": [],
+   "end": "1140.560",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Mr. Ellis, I think this idea that has been spawned here in our country that inflation somehow came upon us like a plague and therefore it's uncontrollable and no one can do anything about it, is entirely spurious and it's dangerous to say this to the people."
+   ]
+  },
+  {
+   "begin": "1140.560",
+   "children": [],
+   "end": "1145.640",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "When Mr. Carter became President, inflation was 4.8%, as you said."
+   ]
+  },
+  {
+   "begin": "1145.640",
+   "children": [],
+   "end": "1149.240",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "It had been cut in two by President Gerald Ford."
+   ]
+  },
+  {
+   "begin": "1149.240",
+   "children": [],
+   "end": "1152.280",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "It is now running at 12.7%."
+   ]
+  },
+  {
+   "begin": "1152.280",
+   "children": [],
+   "end": "1155.680",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "President Carter also has spoken of the new jobs created."
+   ]
+  },
+  {
+   "begin": "1155.680",
+   "children": [],
+   "end": "1161.440",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Well, we always, with the normal growth in our country and increase in population, increase the number of jobs."
+   ]
+  },
+  {
+   "begin": "1161.440",
+   "children": [],
+   "end": "1169.840",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "But that can't hide the fact that there are eight million men and women out of work in America today, and two million of those lost their jobs in just the last few months."
+   ]
+  },
+  {
+   "begin": "1169.840",
+   "children": [],
+   "end": "1175.920",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Mr. Carter had also promised that he would not use unemployment as a tool to fight against inflation."
+   ]
+  },
+  {
+   "begin": "1175.920",
+   "children": [],
+   "end": "1189.760",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "And yet, his 1980 economic message stated that we would reduce productivity and gross national product and increase unemployment in order to get a handle on inflation, because in January, at the beginning of the year, it was more than 18%."
+   ]
+  },
+  {
+   "begin": "1189.760",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "Since then, he has blamed the people for inflation, OPEC, he has blamed the Federal Reserve system, he has blamed the lack of productivity of the American people,"
+   ]
+  }
+ ]
+}

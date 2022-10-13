@@ -1,0 +1,2324 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "7.920",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from Atlanta and welcome to the vice presidential debate sponsored by the Nonpartisan Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "7.920",
+   "children": [],
+   "end": "12.360",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "It's being held here in the Theater for the Arts on the campus of Georgia Tech."
+   ]
+  },
+  {
+   "begin": "12.360",
+   "children": [],
+   "end": "17.080",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "I'm Hal Bruno from ABC News and I'm going to be moderating tonight's debate."
+   ]
+  },
+  {
+   "begin": "17.080",
+   "children": [],
+   "end": "21.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "The participants are Republican Vice President Dan Quayle."
+   ]
+  },
+  {
+   "begin": "21.200",
+   "children": [],
+   "end": "31.640",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Democratic Senator Al Gore."
+   ]
+  },
+  {
+   "begin": "31.640",
+   "children": [],
+   "end": "49.160",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  And retired Vice Admiral James Stockdale, who is the vice presidential nominee --  (APPLAUSE)  -- for independent candidate Ross Perot."
+   ]
+  },
+  {
+   "begin": "49.160",
+   "children": [],
+   "end": "54.600",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Now, the ground rules for tonight's debate."
+   ]
+  },
+  {
+   "begin": "54.600",
+   "children": [],
+   "end": "57.600",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Each candidate will have 2 minutes for an opening statement."
+   ]
+  },
+  {
+   "begin": "57.600",
+   "children": [],
+   "end": "60.680",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "I will then present the issues to be discussed."
+   ]
+  },
+  {
+   "begin": "60.680",
+   "children": [],
+   "end": "65.640",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "For each topic, the candidates will have a minute and 15 seconds to respond."
+   ]
+  },
+  {
+   "begin": "65.640",
+   "children": [],
+   "end": "71.880",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Then this will be followed by a 5 minute discussion period in which they can ask questions of each other if they so choose."
+   ]
+  },
+  {
+   "begin": "71.880",
+   "children": [],
+   "end": "77.840",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "Now, the order of response has been determined by a drawing and we'll rotate with each topic."
+   ]
+  },
+  {
+   "begin": "77.840",
+   "children": [],
+   "end": "82.400",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "At the end of the debate, each candidate will have 2 minutes for a closing statement."
+   ]
+  },
+  {
+   "begin": "82.400",
+   "children": [],
+   "end": "89.880",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Our radio and TV audience should know that the candidates were given an equal allocation of auditorium seats for their supporters."
+   ]
+  },
+  {
+   "begin": "89.880",
+   "children": [],
+   "end": "100.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "So I'd like to ask the audience here in the theater to please refrain from applause or any partisan demonstration once the debate is under way because it takes time away from the candidates."
+   ]
+  },
+  {
+   "begin": "100.040",
+   "children": [],
+   "end": "103.840",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "So with that plea from your moderator let's get started."
+   ]
+  },
+  {
+   "begin": "103.840",
+   "children": [],
+   "end": "107.720",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "And we'll turn first to Senator Gore for his opening statement."
+   ]
+  },
+  {
+   "begin": "107.720",
+   "children": [],
+   "end": "108.600",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "108.600",
+   "children": [],
+   "end": "118.000",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "It's great to be here in Atlanta for this debate where America will be showcased to the world when the 1996 Olympics are put on right here."
+   ]
+  },
+  {
+   "begin": "118.000",
+   "children": [],
+   "end": "126.840",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "It's appropriate because in a real sense, our discussion this evening will be about what kind of nation we want to be 4 years from now."
+   ]
+  },
+  {
+   "begin": "126.840",
+   "children": [],
+   "end": "130.120",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "It's also a pleasure to be with my 2 opponents this evening."
+   ]
+  },
+  {
+   "begin": "130.120",
+   "children": [],
+   "end": "134.600",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Admiral Stockdale, may I say it's a special honor to share this stage with you."
+   ]
+  },
+  {
+   "begin": "134.600",
+   "children": [],
+   "end": "142.240",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Those of us who served in Vietnam looked at you as a national hero even before you were awarded the Congressional Medal of Honor."
+   ]
+  },
+  {
+   "begin": "142.240",
+   "children": [],
+   "end": "153.120",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "And Mr. Vice President -- Dan, if I may -- it was 16 years ago that you and I went to the Congress on the very first day together."
+   ]
+  },
+  {
+   "begin": "153.120",
+   "children": [],
+   "end": "155.040",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "I'll make you a deal this evening."
+   ]
+  },
+  {
+   "begin": "155.040",
+   "children": [],
+   "end": "161.040",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "If you don't try to compare George Bush to Harry Truman, I won't compare you to Jack Kennedy."
+   ]
+  },
+  {
+   "begin": "161.040",
+   "children": [],
+   "end": "163.640",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Harry Truman --"
+   ]
+  },
+  {
+   "begin": "163.640",
+   "children": [],
+   "end": "167.840",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Do you remember the last time someone compared themselves to Jack Kennedy?"
+   ]
+  },
+  {
+   "begin": "167.840",
+   "children": [],
+   "end": "170.320",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Do you remember what they said?"
+   ]
+  },
+  {
+   "begin": "170.320",
+   "children": [],
+   "end": "184.640",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Harry Truman, it's worth remembering, assumed the presidency when Franklin Roosevelt died here in Georgia -- only one of many occasions when fate thrust a vice president into the Oval Office in a time of crisis."
+   ]
+  },
+  {
+   "begin": "184.640",
+   "children": [],
+   "end": "187.760",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "It's something to think about during the debate this evening."
+   ]
+  },
+  {
+   "begin": "187.760",
+   "children": [],
+   "end": "191.720",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "But our real discussion is going to be about change."
+   ]
+  },
+  {
+   "begin": "191.720",
+   "children": [],
+   "end": "201.240",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Bill Clinton and I stand for change because we don't believe our nation can stand 4 more years of what we've had under George Bush and Dan Quayle."
+   ]
+  },
+  {
+   "begin": "201.240",
+   "children": [],
+   "end": "212.800",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "When the recession came they were like a deer caught in the headlights -- paralyzed into inaction, blinded to the suffering and pain of bankruptcies and people who were unemployed."
+   ]
+  },
+  {
+   "begin": "212.800",
+   "children": [],
+   "end": "218.080",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "We have an environmental crisis, a health insurance crisis, substandard education."
+   ]
+  },
+  {
+   "begin": "218.080",
+   "children": [],
+   "end": "220.760",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "It is time for a change."
+   ]
+  },
+  {
+   "begin": "220.760",
+   "children": [],
+   "end": "228.920",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "Bill Clinton and I want to get our country moving forward again, put our people back to work, and create a bright future for the US of America."
+   ]
+  },
+  {
+   "begin": "228.920",
+   "children": [],
+   "end": "234.680",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "Okay, the next statement will be from Vice President Quayle."
+   ]
+  },
+  {
+   "begin": "234.680",
+   "children": [],
+   "end": "240.720",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Well, thank you, Senator Gore, for reminding me about my performance in the 1988 vice presidential debate."
+   ]
+  },
+  {
+   "begin": "240.720",
+   "children": [],
+   "end": "245.600",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "This is 1992, Bill Clinton is running against President George Bush."
+   ]
+  },
+  {
+   "begin": "245.600",
+   "children": [],
+   "end": "270.040",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "There are 2 things that I'm going to stress during this debate: one, Bill Clinton's economic plan and his agenda will make matters much, much worse -- he will raise your taxes, he will increase spending, he will make government bigger, jobs will be lost; second, Bill Clinton does not have the strength nor the character to be president of the US."
+   ]
+  },
+  {
+   "begin": "270.040",
+   "children": [],
+   "end": "274.800",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Let us look at the agendas."
+   ]
+  },
+  {
+   "begin": "274.800",
+   "children": [],
+   "end": "279.520",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "President Bush wants to hold the line on taxes, Bill Clinton wants to raise taxes."
+   ]
+  },
+  {
+   "begin": "279.520",
+   "children": [],
+   "end": "283.680",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "President Bush is for a balanced budget amendment, Bill Clinton is opposed to it."
+   ]
+  },
+  {
+   "begin": "283.680",
+   "children": [],
+   "end": "288.160",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "We want to reform the legal system because it's too costly, Bill Clinton wants the status quo."
+   ]
+  },
+  {
+   "begin": "288.160",
+   "children": [],
+   "end": "291.960",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "We want to reform the health care system, Bill Clinton wants to ration health care."
+   ]
+  },
+  {
+   "begin": "291.960",
+   "children": [],
+   "end": "296.760",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "Bill Clinton wants to empower government, we want to empower people."
+   ]
+  },
+  {
+   "begin": "296.760",
+   "children": [],
+   "end": "303.640",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "In St. Louis, Missouri, in June of this year, Bill Clinton said this: \"America is the mockery of the world.\""
+   ]
+  },
+  {
+   "begin": "303.640",
+   "children": [],
+   "end": "305.240",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "He is wrong."
+   ]
+  },
+  {
+   "begin": "305.240",
+   "children": [],
+   "end": "312.040",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "At some time during these next 4 years there is going to be a crisis -- there will be an international crisis."
+   ]
+  },
+  {
+   "begin": "312.040",
+   "children": [],
+   "end": "317.280",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "I can't tell you where it's going to be, I can't even tell you the circumstances -- but it will happen."
+   ]
+  },
+  {
+   "begin": "317.280",
+   "children": [],
+   "end": "323.680",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "We need a president who has the experience, who has been tested, who has the integrity and qualifications to handle the crisis."
+   ]
+  },
+  {
+   "begin": "323.680",
+   "children": [],
+   "end": "328.760",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "The president has been tested, the president has the integrity and the character."
+   ]
+  },
+  {
+   "begin": "328.760",
+   "children": [],
+   "end": "330.920",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "The choice is yours."
+   ]
+  },
+  {
+   "begin": "330.920",
+   "children": [],
+   "end": "334.480",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "You need to have a president you can trust."
+   ]
+  },
+  {
+   "begin": "334.480",
+   "children": [],
+   "end": "340.360",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Can you really trust Bill Clinton?"
+   ]
+  },
+  {
+   "begin": "340.360",
+   "children": [],
+   "end": "342.720",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Admiral Stockdale, your opening statement, please, sir?"
+   ]
+  },
+  {
+   "begin": "342.720",
+   "children": [],
+   "end": "345.600",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Who am I?"
+   ]
+  },
+  {
+   "begin": "345.600",
+   "children": [],
+   "end": "346.720",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Why am I here?"
+   ]
+  },
+  {
+   "begin": "346.720",
+   "children": [],
+   "end": "355.320",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "(Laughter and applause)  I'm not a politician -- everybody knows that."
+   ]
+  },
+  {
+   "begin": "355.320",
+   "children": [],
+   "end": "359.520",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "So don't expect me to use the language of the Washington insider."
+   ]
+  },
+  {
+   "begin": "359.520",
+   "children": [],
+   "end": "364.320",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Thirty-seven years in the Navy, and only one of them up there in Washington."
+   ]
+  },
+  {
+   "begin": "364.320",
+   "children": [],
+   "end": "365.680",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "And now I'm an academic."
+   ]
+  },
+  {
+   "begin": "365.680",
+   "children": [],
+   "end": "370.360",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "The centerpiece of my life was the Vietnam War."
+   ]
+  },
+  {
+   "begin": "370.360",
+   "children": [],
+   "end": "373.160",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I was there the day it started."
+   ]
+  },
+  {
+   "begin": "373.160",
+   "children": [],
+   "end": "376.840",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "I led the first bombing raid against North Vietnam."
+   ]
+  },
+  {
+   "begin": "376.840",
+   "children": [],
+   "end": "379.960",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "I was there the day it ended, and I was there for everything in between."
+   ]
+  },
+  {
+   "begin": "379.960",
+   "children": [],
+   "end": "389.160",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Ten years in Vietnam, aerial combat, and torture."
+   ]
+  },
+  {
+   "begin": "389.160",
+   "children": [],
+   "end": "395.040",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "I know things about the Vietnam War better than anybody in the world."
+   ]
+  },
+  {
+   "begin": "395.040",
+   "children": [],
+   "end": "399.000",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "I know some things about the Vietnam War better than anybody in the world."
+   ]
+  },
+  {
+   "begin": "399.000",
+   "children": [],
+   "end": "417.400",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "And I know how governments, how American governments can be -- can be courageous, and how they can be callow."
+   ]
+  },
+  {
+   "begin": "417.400",
+   "children": [],
+   "end": "418.640",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "And that's important."
+   ]
+  },
+  {
+   "begin": "418.640",
+   "children": [],
+   "end": "424.760",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "That's one thing I'm an insider on."
+   ]
+  },
+  {
+   "begin": "424.760",
+   "children": [],
+   "end": "434.720",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "I was the leader of the underground of the American pilots who were shot down in prison in North Vietnam."
+   ]
+  },
+  {
+   "begin": "434.720",
+   "children": [],
+   "end": "444.960",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "You should know that the American character displayed in those dungeons by those fine men was a thing of beauty."
+   ]
+  },
+  {
+   "begin": "444.960",
+   "children": [],
+   "end": "462.840",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "I look back on those years as the beginning of wisdom, learning everything a man can learn about the vulnerabilities and the strengths that are ours as Americans."
+   ]
+  },
+  {
+   "begin": "462.840",
+   "children": [],
+   "end": "468.160",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Why am I here tonight?"
+   ]
+  },
+  {
+   "begin": "468.160",
+   "children": [],
+   "end": "478.720",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "I am here because I have in my brain and in my heart what it takes to lead America through tough times."
+   ]
+  },
+  {
+   "begin": "478.720",
+   "children": [],
+   "end": "481.800",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "Thank you, Admiral."
+   ]
+  },
+  {
+   "begin": "481.800",
+   "children": [],
+   "end": "489.200",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "I thought since you're running for vice president, that we ought to start off by talking about the vice presidency itself."
+   ]
+  },
+  {
+   "begin": "489.200",
+   "children": [],
+   "end": "499.640",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "The vice president presides over the Senate, he casts a deciding vote in case of a tie, but his role really depends on the assignments that are given to him by the president."
+   ]
+  },
+  {
+   "begin": "499.640",
+   "children": [],
+   "end": "511.120",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "However, if a president should die in office, or is unable to serve for any other reason, the vice president automatically becomes president, and that has happened 5 times in this century."
+   ]
+  },
+  {
+   "begin": "511.120",
+   "children": [],
+   "end": "515.200",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "So the proposition I put on the table for you to discuss is this."
+   ]
+  },
+  {
+   "begin": "515.200",
+   "children": [],
+   "end": "524.440",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "What role would each of you like to play as vice president, what areas interest you, and what are your qualifications to serve as president, if necessary?"
+   ]
+  },
+  {
+   "begin": "524.440",
+   "children": [],
+   "end": "531.760",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "In the case of Vice President Quayle, who we're starting with, I suppose you'd tell us the role that you did play in the first term and which you'd like to do in a 2nd term."
+   ]
+  },
+  {
+   "begin": "531.760",
+   "children": [],
+   "end": "532.720",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Go ahead, sir."
+   ]
+  },
+  {
+   "begin": "532.720",
+   "children": [],
+   "end": "534.080",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Well, then I won't give you that answer."
+   ]
+  },
+  {
+   "begin": "534.080",
+   "children": [],
+   "end": "536.640",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Qualifications."
+   ]
+  },
+  {
+   "begin": "536.640",
+   "children": [],
+   "end": "538.520",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "I've been there, Hal."
+   ]
+  },
+  {
+   "begin": "538.520",
+   "children": [],
+   "end": "539.800",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "I've done the job."
+   ]
+  },
+  {
+   "begin": "539.800",
+   "children": [],
+   "end": "540.640",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "I've been tested."
+   ]
+  },
+  {
+   "begin": "540.640",
+   "children": [],
+   "end": "542.440",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "I've been vice president for 4 years."
+   ]
+  },
+  {
+   "begin": "542.440",
+   "children": [],
+   "end": "548.360",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Senator Gore referred to us being elected to the Congress together in 1976."
+   ]
+  },
+  {
+   "begin": "548.360",
+   "children": [],
+   "end": "549.360",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "I've done the job."
+   ]
+  },
+  {
+   "begin": "549.360",
+   "children": [],
+   "end": "551.560",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "I've done many things for the president."
+   ]
+  },
+  {
+   "begin": "551.560",
+   "children": [],
+   "end": "563.800",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "But even as vice president you never know exactly what your role is going to be from time to time, and let me just give you an example of where I was tested under fire and in a crisis."
+   ]
+  },
+  {
+   "begin": "563.800",
+   "children": [],
+   "end": "569.160",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "President Bush was flying to Malta in 1989 to meet with President Gorbachev."
+   ]
+  },
+  {
+   "begin": "569.160",
+   "children": [],
+   "end": "572.360",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "It was the first meeting between President Bush and President Gorbachev."
+   ]
+  },
+  {
+   "begin": "572.360",
+   "children": [],
+   "end": "574.480",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "They had known each other before."
+   ]
+  },
+  {
+   "begin": "574.480",
+   "children": [],
+   "end": "575.920",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "A coup broke out in the Philippines."
+   ]
+  },
+  {
+   "begin": "575.920",
+   "children": [],
+   "end": "578.680",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "I had to go to the situation room."
+   ]
+  },
+  {
+   "begin": "578.680",
+   "children": [],
+   "end": "581.200",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I had to assemble the president's advisers."
+   ]
+  },
+  {
+   "begin": "581.200",
+   "children": [],
+   "end": "582.400",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "I talked to President Aquino."
+   ]
+  },
+  {
+   "begin": "582.400",
+   "children": [],
+   "end": "584.280",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "I made the recommendation to the president."
+   ]
+  },
+  {
+   "begin": "584.280",
+   "children": [],
+   "end": "591.360",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "The president made the decision, the coup was suppressed, democracy continued in the Philippines, the situation was ended."
+   ]
+  },
+  {
+   "begin": "591.360",
+   "children": [],
+   "end": "593.880",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "I've been there."
+   ]
+  },
+  {
+   "begin": "593.880",
+   "children": [],
+   "end": "600.280",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "And I'll tell you one other thing that qualifies you for being president -- and it's this, Hal -- you've got to stand up for what you believe in."
+   ]
+  },
+  {
+   "begin": "600.280",
+   "children": [],
+   "end": "604.960",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "And nobody has ever criticized me for not having strong beliefs."
+   ]
+  },
+  {
+   "begin": "604.960",
+   "children": [],
+   "end": "608.840",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE.)"
+   ]
+  },
+  {
+   "begin": "608.840",
+   "children": [],
+   "end": "610.160",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "Admiral Stockdale."
+   ]
+  },
+  {
+   "begin": "610.160",
+   "children": [],
+   "end": "623.440",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "My association with Mr. Perot is a very personal one and as I have stood in and finally taken his running mate position, he has granted me total autonomy."
+   ]
+  },
+  {
+   "begin": "623.440",
+   "children": [],
+   "end": "642.960",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "I don't take advantage of it, but I am sure that he would make me a partner in decision, in making decisions about the way to handle health care, the way to get this economy back on its feet again, in every way."
+   ]
+  },
+  {
+   "begin": "642.960",
+   "children": [],
+   "end": "662.160",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "I have not had the experience of these gentlemen, but -- to be any more specific -- but I know I have his trust, and I intend to act in a way to keep that situation alive."
+   ]
+  },
+  {
+   "begin": "662.160",
+   "children": [],
+   "end": "663.600",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "663.600",
+   "children": [],
+   "end": "665.000",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Senator Gore."
+   ]
+  },
+  {
+   "begin": "665.000",
+   "children": [],
+   "end": "669.960",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Bill Clinton understands the meaning of the words \"teamwork\" and \"partnership.\""
+   ]
+  },
+  {
+   "begin": "669.960",
+   "children": [],
+   "end": "678.840",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "If we're successful in our efforts to gain your trust and lead this nation, we will work together to put our country back on the right track again."
+   ]
+  },
+  {
+   "begin": "678.840",
+   "children": [],
+   "end": "688.120",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression."
+   ]
+  },
+  {
+   "begin": "688.120",
+   "children": [],
+   "end": "694.800",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Unemployment is up, personal income is down, bankruptcies are up, housing starts are down."
+   ]
+  },
+  {
+   "begin": "694.800",
+   "children": [],
+   "end": "701.520",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "How long can we continue with trickle-down economics when the record of failure is so abundantly clear?"
+   ]
+  },
+  {
+   "begin": "701.520",
+   "children": [],
+   "end": "718.880",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Discussions of the vice presidency tend sometimes to focus on the crisis during which a vice president is thrust into the Oval Office, and indeed, one-3rd of the vice presidents who have served have been moved into the White House."
+   ]
+  },
+  {
+   "begin": "718.880",
+   "children": [],
+   "end": "727.200",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "But the teamwork and partnership beforehand -- and hopefully that situation never happens -- how you work together is critically important."
+   ]
+  },
+  {
+   "begin": "727.200",
+   "children": [],
+   "end": "730.320",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "The way we work together in this campaign is one sample."
+   ]
+  },
+  {
+   "begin": "730.320",
+   "children": [],
+   "end": "737.160",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Now I'd like to say in response to Vice President Quayle- -he talked about Malta and the Philippines."
+   ]
+  },
+  {
+   "begin": "737.160",
+   "children": [],
+   "end": "740.880",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "George Bush has concentrated on every other country in the world."
+   ]
+  },
+  {
+   "begin": "740.880",
+   "children": [],
+   "end": "750.680",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "When are you guys going to start worrying about our people here in the US of America and get our country moving again?"
+   ]
+  },
+  {
+   "begin": "750.680",
+   "children": [],
+   "end": "751.720",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)"
+   ]
+  },
+  {
+   "begin": "751.720",
+   "children": [],
+   "end": "755.720",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Again, I will ask the audience: please do not applaud, it takes time from the candidates."
+   ]
+  },
+  {
+   "begin": "755.720",
+   "children": [],
+   "end": "758.960",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "All right, now we have 5 minutes for discussion."
+   ]
+  },
+  {
+   "begin": "758.960",
+   "children": [],
+   "end": "760.160",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Go ahead, Vice President Quayle."
+   ]
+  },
+  {
+   "begin": "760.160",
+   "children": [],
+   "end": "766.640",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "The answer to that is very simple: we are not going to raise taxes to create new jobs, we have a plan to create new jobs."
+   ]
+  },
+  {
+   "begin": "766.640",
+   "children": [],
+   "end": "767.880",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "But that wasn't the question."
+   ]
+  },
+  {
+   "begin": "767.880",
+   "children": [],
+   "end": "769.800",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "The question dealt with qualifications."
+   ]
+  },
+  {
+   "begin": "769.800",
+   "children": [],
+   "end": "778.080",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Teamwork and partnership may be fine in the Congress, Senator Gore -- that's what Congress is all about, compromise, teamwork, working things out."
+   ]
+  },
+  {
+   "begin": "778.080",
+   "children": [],
+   "end": "786.880",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "But when you're president of the US or when you're vice president and you have to fill in like I did the night of the crisis in the Philippines, you've got to make a decision, you've got to make up your mind."
+   ]
+  },
+  {
+   "begin": "786.880",
+   "children": [],
+   "end": "792.240",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "Bill Clinton, running for president of the US, said this about the Persian Gulf war."
+   ]
+  },
+  {
+   "begin": "792.240",
+   "children": [],
+   "end": "799.000",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "He said: \"Had I been in the Senate, I would have voted with the majority, if it was a close vote."
+   ]
+  },
+  {
+   "begin": "799.000",
+   "children": [],
+   "end": "802.840",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "But I agreed with the arguments of the minority.\""
+   ]
+  },
+  {
+   "begin": "802.840",
+   "children": [],
+   "end": "806.280",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "You can't have it both ways, you have to make a decision."
+   ]
+  },
+  {
+   "begin": "806.280",
+   "children": [],
+   "end": "813.400",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "You cannot sit there in an international crisis --  (APPLAUSE)  -- and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay."
+   ]
+  },
+  {
+   "begin": "813.400",
+   "children": [],
+   "end": "815.080",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "You've got to make the decision."
+   ]
+  },
+  {
+   "begin": "815.080",
+   "children": [],
+   "end": "823.840",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "President Bush has made the decisions; he's been tested, he's got the experience, he's got the qualification, he's got the integrity to be our president for the next 4 years."
+   ]
+  },
+  {
+   "begin": "823.840",
+   "children": [],
+   "end": "825.960",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "825.960",
+   "children": [],
+   "end": "831.000",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "Admiral Stockdale, it's your turn to respond next, and then Senator Gore will have his chance to respond."
+   ]
+  },
+  {
+   "begin": "831.000",
+   "children": [],
+   "end": "831.560",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "831.560",
+   "children": [],
+   "end": "834.920",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "I thought this was just an open session, this 5-minute thing, and I didn't have anything to add to his."
+   ]
+  },
+  {
+   "begin": "834.920",
+   "children": [],
+   "end": "835.720",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "But I will --"
+   ]
+  },
+  {
+   "begin": "835.720",
+   "children": [],
+   "end": "837.520",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Well, I'll jump in if you don't want -- (Laughter)"
+   ]
+  },
+  {
+   "begin": "837.520",
+   "children": [],
+   "end": "840.920",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "I thought anyone could jump in whenever they wanted to."
+   ]
+  },
+  {
+   "begin": "840.920",
+   "children": [],
+   "end": "843.560",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Okay, whatever pleases you gentlemen is fine with me."
+   ]
+  },
+  {
+   "begin": "843.560",
+   "children": [],
+   "end": "844.800",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "You're the candidates."
+   ]
+  },
+  {
+   "begin": "844.800",
+   "children": [],
+   "end": "847.200",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "But I want Admiral Stockdale's time."
+   ]
+  },
+  {
+   "begin": "847.200",
+   "children": [],
+   "end": "848.200",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "(Laughter and applause)"
+   ]
+  },
+  {
+   "begin": "848.200",
+   "children": [],
+   "end": "852.640",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "This is not the Senate, where you can trade off time."
+   ]
+  },
+  {
+   "begin": "852.640",
+   "children": [],
+   "end": "853.720",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "Go ahead, Senator Gore."
+   ]
+  },
+  {
+   "begin": "853.720",
+   "children": [],
+   "end": "863.240",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "I'll let you all figure out the rules, I've got some points that I want to make here, and I still haven't gotten an answer to my question on when you guys are going to start worrying about this country, but I want to elaborate on it before --"
+   ]
+  },
+  {
+   "begin": "863.240",
+   "children": [],
+   "end": "868.640",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Why doesn't the Democratic Congress -- why doesn't the Democratic Congress pass the president\u00e2\u20ac\u2122s bill?"
+   ]
+  },
+  {
+   "begin": "868.640",
+   "children": [],
+   "end": "870.080",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, let him say his thoughts, and then you can come in."
+   ]
+  },
+  {
+   "begin": "870.080",
+   "children": [],
+   "end": "872.800",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "I was very patient in letting you get off that string of attacks."
+   ]
+  },
+  {
+   "begin": "872.800",
+   "children": [],
+   "end": "874.680",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "We've been listening to --"
+   ]
+  },
+  {
+   "begin": "874.680",
+   "children": [],
+   "end": "875.320",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Good points."
+   ]
+  },
+  {
+   "begin": "875.320",
+   "children": [],
+   "end": "882.280",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "-- trickle-down economics for 12 years now, and you all still support trickle-down to the very last drop."
+   ]
+  },
+  {
+   "begin": "882.280",
+   "children": [],
+   "end": "915.600",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "And, you know, talking about this point of concentrating on every other country in the world as opposed to the people of our country right here at home, when George Bush took former Secretary of State Baker out of the State Dept and put him in charge of the campaign and made him chief of staff in the White, Mr. Baker, who's quite a capable man, said that for these last 4 years George Bush was working on the problems of the rest of the world and in the next 4 years he would target America."
+   ]
+  },
+  {
+   "begin": "915.600",
+   "children": [],
+   "end": "918.600",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Well, I want you to know we really appreciate that."
+   ]
+  },
+  {
+   "begin": "918.600",
+   "children": [],
+   "end": "922.240",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "But Bill Clinton and I will target America from day one."
+   ]
+  },
+  {
+   "begin": "922.240",
+   "children": [],
+   "end": "927.400",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "We won't wait 4 years before we concentrate on the problems in this country."
+   ]
+  },
+  {
+   "begin": "927.400",
+   "children": [],
+   "end": "932.480",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "He went on to say that it's really amazing what George Bush can do when he concentrates."
+   ]
+  },
+  {
+   "begin": "932.480",
+   "children": [],
+   "end": "942.400",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Well, it's time that we had a president like Bill Clinton who can concentrate and will concentrate and work on the problems of real people in this country."
+   ]
+  },
+  {
+   "begin": "942.400",
+   "children": [],
+   "end": "944.200",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "You know, our country is in trouble."
+   ]
+  },
+  {
+   "begin": "944.200",
+   "children": [],
+   "end": "958.840",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "We simply cannot continue with this philosophy of giving huge tax cuts to the very wealthy, raising taxes on middle income families the way Bush and Quayle have done and then waiting for it to work."
+   ]
+  },
+  {
+   "begin": "958.840",
+   "children": [],
+   "end": "963.680",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "How much longer will it take, Dan, for trickle down economics to work, in your theory?"
+   ]
+  },
+  {
+   "begin": "963.680",
+   "children": [],
+   "end": "967.920",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Well, we're going to have plenty of time to talk about trickle down government, which you're for."
+   ]
+  },
+  {
+   "begin": "967.920",
+   "children": [],
+   "end": "968.360",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "But the question --"
+   ]
+  },
+  {
+   "begin": "968.360",
+   "children": [],
+   "end": "970.080",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "Well, I'd like to hear the answer."
+   ]
+  },
+  {
+   "begin": "970.080",
+   "children": [],
+   "end": "975.000",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "But the question is -- the question is -- and which you have failed to address, and that is, why is Bill Clinton qualified to be president of the US."
+   ]
+  },
+  {
+   "begin": "975.000",
+   "children": [],
+   "end": "976.000",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "You've talked about --"
+   ]
+  },
+  {
+   "begin": "976.000",
+   "children": [],
+   "end": "978.120",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Oh, I'll be happy to answer that question --"
+   ]
+  },
+  {
+   "begin": "978.120",
+   "children": [],
+   "end": "979.360",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "You've talked about Jim Baker."
+   ]
+  },
+  {
+   "begin": "979.360",
+   "children": [],
+   "end": "980.960",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "You've talked about trickle down economics."
+   ]
+  },
+  {
+   "begin": "980.960",
+   "children": [],
+   "end": "981.760",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "You've talked about the worst economy-"
+   ]
+  },
+  {
+   "begin": "981.760",
+   "children": [],
+   "end": "982.800",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Now, wait a minute."
+   ]
+  },
+  {
+   "begin": "982.800",
+   "children": [],
+   "end": "984.560",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "The question was about --"
+   ]
+  },
+  {
+   "begin": "984.560",
+   "children": [],
+   "end": "984.840",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "-- in 50 years."
+   ]
+  },
+  {
+   "begin": "984.840",
+   "children": [],
+   "end": "986.120",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "I'll be happy to answer those."
+   ]
+  },
+  {
+   "begin": "986.120",
+   "children": [],
+   "end": "987.320",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "May I answer --"
+   ]
+  },
+  {
+   "begin": "987.320",
+   "children": [],
+   "end": "989.840",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "Why is he qualified to be president of the US?"
+   ]
+  },
+  {
+   "begin": "989.840",
+   "children": [],
+   "end": "990.800",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "I'll be happy to --"
+   ]
+  },
+  {
+   "begin": "990.800",
+   "children": [],
+   "end": "991.960",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "I want to go back and make a point --"
+   ]
+  },
+  {
+   "begin": "991.960",
+   "children": [],
+   "end": "993.200",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "Well, you've asked me the question."
+   ]
+  },
+  {
+   "begin": "993.200",
+   "children": [],
+   "end": "995.000",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "If you won't answer my question I will answer yours."
+   ]
+  },
+  {
+   "begin": "995.000",
+   "children": [],
+   "end": "995.960",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "I have not asked you a question."
+   ]
+  },
+  {
+   "begin": "995.960",
+   "children": [],
+   "end": "996.680",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "I've made a statement."
+   ]
+  },
+  {
+   "begin": "996.680",
+   "children": [],
+   "end": "1002.800",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "I have not asked you a question, I\u00e2\u20ac\u2122ve made a statement that you have not told us why Bill Clinton is qualified to be president of the US."
+   ]
+  },
+  {
+   "begin": "1002.800",
+   "children": [],
+   "end": "1005.280",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "I pointed out what he said about the Persian Gulf War."
+   ]
+  },
+  {
+   "begin": "1005.280",
+   "children": [],
+   "end": "1006.280",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "But let me repeat it for you."
+   ]
+  },
+  {
+   "begin": "1006.280",
+   "children": [],
+   "end": "1007.440",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "Here's what he said, Senator."
+   ]
+  },
+  {
+   "begin": "1007.440",
+   "children": [],
+   "end": "1008.000",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "You know full well what he said."
+   ]
+  },
+  {
+   "begin": "1008.000",
+   "children": [],
+   "end": "1009.160",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "You want me to answer your question?"
+   ]
+  },
+  {
+   "begin": "1009.160",
+   "children": [],
+   "end": "1009.960",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "I'm making a statement."
+   ]
+  },
+  {
+   "begin": "1009.960",
+   "children": [],
+   "end": "1010.720",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "Then you can answer it."
+   ]
+  },
+  {
+   "begin": "1010.720",
+   "children": [],
+   "end": "1017.120",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "Can we give Admiral Stockdale a chance to come in, please -- (APPLAUSE)  And again, audience --  (Simultaneous conversation)"
+   ]
+  },
+  {
+   "begin": "1017.120",
+   "children": [],
+   "end": "1018.400",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "(Inaudible) here's what he said."
+   ]
+  },
+  {
+   "begin": "1018.400",
+   "children": [],
+   "end": "1023.960",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "I mean, this is the Persian Gulf War -- the most important event in his political lifetime and here's what Bill Clinton says."
+   ]
+  },
+  {
+   "begin": "1023.960",
+   "children": [],
+   "end": "1026.520",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "If it's a close vote, I'd vote with the majority."
+   ]
+  },
+  {
+   "begin": "1026.520",
+   "children": [],
+   "end": "1028.440",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "Let's give Admiral Stockdale a chance to come in."
+   ]
+  },
+  {
+   "begin": "1028.440",
+   "children": [],
+   "end": "1029.320",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "But he was the minority."
+   ]
+  },
+  {
+   "begin": "1029.320",
+   "children": [],
+   "end": "1031.480",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "That qualifies you for being president of the US."
+   ]
+  },
+  {
+   "begin": "1031.480",
+   "children": [],
+   "end": "1034.920",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "I hope America is listening very closely to this debate tonight."
+   ]
+  },
+  {
+   "begin": "1034.920",
+   "children": [],
+   "end": "1039.120",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "And I think America is seeing right now the reason this nation is in gridlock."
+   ]
+  },
+  {
+   "begin": "1039.120",
+   "children": [],
+   "end": "1056.920",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "(Laughter, applause)  The trickle downs and the tax and spends, or whatever you want to call them are at swords points."
+   ]
+  },
+  {
+   "begin": "1056.920",
+   "children": [],
+   "end": "1061.440",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "We can't get this economy going."
+   ]
+  },
+  {
+   "begin": "1061.440",
+   "children": [],
+   "end": "1075.480",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "Over here we've got Dan whose president is going to take 8 years to balance the budget and on my left, the senator, whose boss is going to get it half way balanced in 4 years."
+   ]
+  },
+  {
+   "begin": "1075.480",
+   "children": [],
+   "end": "1083.120",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "Ross Perot has got a plan to balance the budget 5 years in length from start to finish."
+   ]
+  },
+  {
+   "begin": "1083.120",
+   "children": [],
+   "end": "1093.680",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "And we're -- people of the non-professional category who are just sick of this terrible thing that's happened to the country."
+   ]
+  },
+  {
+   "begin": "1093.680",
+   "children": [],
+   "end": "1097.520",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "And we've got a man who knows how to fix it, and I'm working for him."
+   ]
+  },
+  {
+   "begin": "1097.520",
+   "children": [],
+   "end": "1100.080",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)"
+   ]
+  },
+  {
+   "begin": "1100.080",
+   "children": [],
+   "end": "1103.760",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "I was a little bit worried that there might not be a free flowing discussion tonight."
+   ]
+  },
+  {
+   "begin": "1103.760",
+   "children": [],
+   "end": "1106.880",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "(Laughter)  Let's move on to the economy."
+   ]
+  },
+  {
+   "begin": "1106.880",
+   "children": [],
+   "end": "1112.400",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "Specifically the economy was talked about at great length the other night in the presidential debate."
+   ]
+  },
+  {
+   "begin": "1112.400",
+   "children": [],
+   "end": "1118.440",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "Let's talk about a very particular aspect of the economy and that is, getting people back to work."
+   ]
+  },
+  {
+   "begin": "1118.440",
+   "children": [],
+   "end": "1129.960",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "For the average person, the great fear is losing his or her job and many Americans have lost jobs in this recession, which also means the loss of benefits, the loss of a home, the destruction of a family's security."
+   ]
+  },
+  {
+   "begin": "1129.960",
+   "children": [],
+   "end": "1137.920",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "Specifically, how would your administration go about getting people back to work and how long is it going to take?"
+   ]
+  },
+  {
+   "begin": "1137.920",
+   "children": [],
+   "end": "1141.080",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "And we start with Admiral Stockdale."
+   ]
+  },
+  {
+   "begin": "1141.080",
+   "children": [],
+   "end": "1144.520",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "The lifeblood of our economy is investment."
+   ]
+  },
+  {
+   "begin": "1144.520",
+   "children": [],
+   "end": "1158.000",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "And right now when we pay $350 -- we borrow $350 billion a year it saps the money markets and the private investors are not getting their share."
+   ]
+  },
+  {
+   "begin": "1158.000",
+   "children": [],
+   "end": "1181.000",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "What we do is work on that budget by an aggressive program, not a painful program, so that we can start borrowing less money and getting more investment money on the street through entrepreneurs who can build factories, who will hire people, and maybe we'll start manufacturing goods here in this country again."
+   ]
+  },
+  {
+   "begin": "1181.000",
+   "children": [],
+   "end": "1182.960",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "That's -- that's my answer."
+   ]
+  },
+  {
+   "begin": "1182.960",
+   "children": [],
+   "end": "1183.360",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "1183.360",
+   "children": [],
+   "end": "1185.680",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "Senator Gore."
+   ]
+  },
+  {
+   "begin": "1185.680",
+   "children": [],
+   "end": "1189.880",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "Bill Clinton's top priority is putting America back to work."
+   ]
+  },
+  {
+   "begin": "1189.880",
+   "children": [],
+   "end": "1197.320",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "Bill Clinton and I will create good, high-wage jobs for our people, the same way he has done in his state."
+   ]
+  },
+  {
+   "begin": "1197.320",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "Bill Clinton has created high-wage manufacturing jobs at"
+   ]
+  }
+ ]
+}

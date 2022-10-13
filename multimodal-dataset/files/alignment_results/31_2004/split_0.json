@@ -1,0 +1,2654 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.880",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Field House at Washington University in St. Louis."
+   ]
+  },
+  {
+   "begin": "4.880",
+   "children": [],
+   "end": "9.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Charles Gibson of ABC News and \"Good Morning America.\""
+   ]
+  },
+  {
+   "begin": "9.240",
+   "children": [],
+   "end": "19.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "I welcome you to the second of the 2004 presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee."
+   ]
+  },
+  {
+   "begin": "19.240",
+   "children": [],
+   "end": "23.160",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "The debates are sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "23.160",
+   "children": [],
+   "end": "25.400",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Tonight's format is going to be a bit different."
+   ]
+  },
+  {
+   "begin": "25.400",
+   "children": [],
+   "end": "28.600",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "We have assembled a town-hall meeting."
+   ]
+  },
+  {
+   "begin": "28.600",
+   "children": [],
+   "end": "34.360",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "We're in the Show-Me State, as everyone knows Missouri to be, so Missouri residents will ask the questions."
+   ]
+  },
+  {
+   "begin": "34.360",
+   "children": [],
+   "end": "41.600",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "These 140 citizens were identified by the Gallup Organization as not yet committed in this election."
+   ]
+  },
+  {
+   "begin": "41.600",
+   "children": [],
+   "end": "52.480",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Now, earlier today, each audience member gave me two questions on cards like this, one they'd like to ask the president, the other they'd like to ask the senator."
+   ]
+  },
+  {
+   "begin": "52.480",
+   "children": [],
+   "end": "56.600",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "I have selected the questions to be asked and the order."
+   ]
+  },
+  {
+   "begin": "56.600",
+   "children": [],
+   "end": "62.240",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "No one has seen the final list of questions but me, certainly not the candidates."
+   ]
+  },
+  {
+   "begin": "62.240",
+   "children": [],
+   "end": "65.360",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "No audience member knows if he or she will be called upon."
+   ]
+  },
+  {
+   "begin": "65.360",
+   "children": [],
+   "end": "69.840",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Audience microphones will be turned off after a question is asked."
+   ]
+  },
+  {
+   "begin": "69.840",
+   "children": [],
+   "end": "72.760",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Audience members will address their question to a specific candidate."
+   ]
+  },
+  {
+   "begin": "72.760",
+   "children": [],
+   "end": "74.440",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "He'll have two minutes to answer."
+   ]
+  },
+  {
+   "begin": "74.440",
+   "children": [],
+   "end": "77.080",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "The other candidate will have a minute and a half for rebuttal."
+   ]
+  },
+  {
+   "begin": "77.080",
+   "children": [],
+   "end": "82.720",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "And I have the option of extending discussion for one minute, to be divided equally between the two men."
+   ]
+  },
+  {
+   "begin": "82.720",
+   "children": [],
+   "end": "85.240",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "All subjects are open for discussion."
+   ]
+  },
+  {
+   "begin": "85.240",
+   "children": [],
+   "end": "87.440",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "And you probably know the light system by now."
+   ]
+  },
+  {
+   "begin": "87.440",
+   "children": [],
+   "end": "93.520",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Green light at 30 seconds, yellow at 15, red at five, and flashing red means you're done."
+   ]
+  },
+  {
+   "begin": "93.520",
+   "children": [],
+   "end": "95.160",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Those are the candidates' rules."
+   ]
+  },
+  {
+   "begin": "95.160",
+   "children": [],
+   "end": "101.120",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "I will hold the candidates to the time limits forcefully but politely, I hope."
+   ]
+  },
+  {
+   "begin": "101.120",
+   "children": [],
+   "end": "106.280",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "And now, please join me in welcoming with great respect, President Bush and Senator Kerry."
+   ]
+  },
+  {
+   "begin": "106.280",
+   "children": [],
+   "end": "149.520",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, to the business at hand."
+   ]
+  },
+  {
+   "begin": "149.520",
+   "children": [],
+   "end": "153.520",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "The first question is for Senator Kerry, and it will come from Cheryl Otis, who is right behind me."
+   ]
+  },
+  {
+   "begin": "153.520",
+   "children": [],
+   "end": "169.000",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "Senator Kerry, after talking with several co-workers and family and friends, I asked the ones who said they were not voting for you, \"Why?\""
+   ]
+  },
+  {
+   "begin": "169.000",
+   "children": [],
+   "end": "171.280",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "They said that you were too wishy-washy."
+   ]
+  },
+  {
+   "begin": "171.280",
+   "children": [],
+   "end": "174.240",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Do you have a reply for them?"
+   ]
+  },
+  {
+   "begin": "174.240",
+   "children": [],
+   "end": "175.760",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Yes, I certainly do."
+   ]
+  },
+  {
+   "begin": "175.760",
+   "children": [],
+   "end": "181.960",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "(LAUGHTER)  But let me just first, Cheryl, if you will, I want to thank Charlie for moderating."
+   ]
+  },
+  {
+   "begin": "181.960",
+   "children": [],
+   "end": "185.680",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "I want to thank Washington University for hosting us here this evening."
+   ]
+  },
+  {
+   "begin": "185.680",
+   "children": [],
+   "end": "188.880",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Mr. President, it's good to be with you again this evening, sir."
+   ]
+  },
+  {
+   "begin": "188.880",
+   "children": [],
+   "end": "199.760",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Cheryl, the president didn't find weapons of mass destruction in Iraq, so he's really turned his campaign into a weapon of mass deception."
+   ]
+  },
+  {
+   "begin": "199.760",
+   "children": [],
+   "end": "208.320",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And the result is that you've been bombarded with advertisements suggesting that I've changed a position on this or that or the other."
+   ]
+  },
+  {
+   "begin": "208.320",
+   "children": [],
+   "end": "211.920",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Now, the three things they try to say I've changed position on are the Patriot Act; I haven't."
+   ]
+  },
+  {
+   "begin": "211.920",
+   "children": [],
+   "end": "212.920",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "I support it."
+   ]
+  },
+  {
+   "begin": "212.920",
+   "children": [],
+   "end": "217.560",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "I just don't like the way John Ashcroft has applied it, and we're going to change a few things."
+   ]
+  },
+  {
+   "begin": "217.560",
+   "children": [],
+   "end": "221.120",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "The chairman of the Republican Party thinks we ought to change a few things."
+   ]
+  },
+  {
+   "begin": "221.120",
+   "children": [],
+   "end": "223.240",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "No Child Left Behind Act, I voted for it."
+   ]
+  },
+  {
+   "begin": "223.240",
+   "children": [],
+   "end": "224.000",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "I support it."
+   ]
+  },
+  {
+   "begin": "224.000",
+   "children": [],
+   "end": "225.320",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "I support the goals."
+   ]
+  },
+  {
+   "begin": "225.320",
+   "children": [],
+   "end": "228.960",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "But the president has underfunded it by $28 billion."
+   ]
+  },
+  {
+   "begin": "228.960",
+   "children": [],
+   "end": "233.120",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Right here in St. Louis, you've laid off 350 teachers."
+   ]
+  },
+  {
+   "begin": "233.120",
+   "children": [],
+   "end": "243.160",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "You're 150 -- excuse me, I think it's a little more, about $100 million shy of what you ought to be under the No Child Left Behind Act to help your education system here."
+   ]
+  },
+  {
+   "begin": "243.160",
+   "children": [],
+   "end": "244.520",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "So I complain about that."
+   ]
+  },
+  {
+   "begin": "244.520",
+   "children": [],
+   "end": "246.640",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "I've argued that we should fully funded it."
+   ]
+  },
+  {
+   "begin": "246.640",
+   "children": [],
+   "end": "248.200",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "The president says I've changed my mind."
+   ]
+  },
+  {
+   "begin": "248.200",
+   "children": [],
+   "end": "251.320",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "I haven't changed my mind: I'm going to fully fund it."
+   ]
+  },
+  {
+   "begin": "251.320",
+   "children": [],
+   "end": "253.160",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "So these are the differences."
+   ]
+  },
+  {
+   "begin": "253.160",
+   "children": [],
+   "end": "259.320",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "Now, the president has presided over an economy where we've lost 1.6 million jobs."
+   ]
+  },
+  {
+   "begin": "259.320",
+   "children": [],
+   "end": "262.240",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "The first president in 72 years to lose jobs."
+   ]
+  },
+  {
+   "begin": "262.240",
+   "children": [],
+   "end": "264.080",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "I have a plan to put people back to work."
+   ]
+  },
+  {
+   "begin": "264.080",
+   "children": [],
+   "end": "265.680",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "That's not wishy- washy."
+   ]
+  },
+  {
+   "begin": "265.680",
+   "children": [],
+   "end": "271.880",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "I'm going to close the loopholes that actually encourage companies to go overseas."
+   ]
+  },
+  {
+   "begin": "271.880",
+   "children": [],
+   "end": "274.440",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "The president wants to keep them open."
+   ]
+  },
+  {
+   "begin": "274.440",
+   "children": [],
+   "end": "275.720",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "I think I'm right."
+   ]
+  },
+  {
+   "begin": "275.720",
+   "children": [],
+   "end": "277.280",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "I think he's wrong."
+   ]
+  },
+  {
+   "begin": "277.280",
+   "children": [],
+   "end": "278.760",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "I'm going to give you a tax cut."
+   ]
+  },
+  {
+   "begin": "278.760",
+   "children": [],
+   "end": "291.080",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "The president gave the top 1 percent of income-earners in America, got $89 billion last year, more than the 80 percent of people who earn $100,000 or less all put together."
+   ]
+  },
+  {
+   "begin": "291.080",
+   "children": [],
+   "end": "292.280",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "I think that's wrong."
+   ]
+  },
+  {
+   "begin": "292.280",
+   "children": [],
+   "end": "295.720",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "That's not wishy-washy, and that's what I'm fighting for, you."
+   ]
+  },
+  {
+   "begin": "295.720",
+   "children": [],
+   "end": "297.240",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Mr. President, a minute and a half."
+   ]
+  },
+  {
+   "begin": "297.240",
+   "children": [],
+   "end": "300.120",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Charlie, thank you, and thank our panelists."
+   ]
+  },
+  {
+   "begin": "300.120",
+   "children": [],
+   "end": "302.080",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "And, Senator, thank you."
+   ]
+  },
+  {
+   "begin": "302.080",
+   "children": [],
+   "end": "305.160",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I can -- and thanks, Washington U. as well."
+   ]
+  },
+  {
+   "begin": "305.160",
+   "children": [],
+   "end": "310.920",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "I can see why people at your workplace think he changes positions a lot, because he does."
+   ]
+  },
+  {
+   "begin": "310.920",
+   "children": [],
+   "end": "319.040",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "He said he voted for the $87 billion, and voted against it right before he voted for it."
+   ]
+  },
+  {
+   "begin": "319.040",
+   "children": [],
+   "end": "322.160",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "And that sends a confusing signal to people."
+   ]
+  },
+  {
+   "begin": "322.160",
+   "children": [],
+   "end": "328.400",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "He said he thought Saddam Hussein was a grave threat, and now he said it was a mistake to remove Saddam Hussein from power."
+   ]
+  },
+  {
+   "begin": "328.400",
+   "children": [],
+   "end": "335.560",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "No, I can see why people think that he changes position quite often, because he does."
+   ]
+  },
+  {
+   "begin": "335.560",
+   "children": [],
+   "end": "338.480",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "You know, for a while he was a strong supporter of getting rid of Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "338.480",
+   "children": [],
+   "end": "352.640",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "He saw the wisdom -- until the Democrat primary came along and Howard Dean, the anti-war candidate, began to gain on him, and he changed positions."
+   ]
+  },
+  {
+   "begin": "352.640",
+   "children": [],
+   "end": "360.440",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "I don't see how you can lead this country in a time of war, in a time of uncertainty, if you change your mind because of politics."
+   ]
+  },
+  {
+   "begin": "360.440",
+   "children": [],
+   "end": "364.920",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "He just brought up the tax cut."
+   ]
+  },
+  {
+   "begin": "364.920",
+   "children": [],
+   "end": "377.000",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "You remember we increased that child credit by $1,000, reduced the marriage penalty, created a 10 percent tax bracket for the lower-income Americans."
+   ]
+  },
+  {
+   "begin": "377.000",
+   "children": [],
+   "end": "379.320",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "That's right at the middle class."
+   ]
+  },
+  {
+   "begin": "379.320",
+   "children": [],
+   "end": "380.320",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "He voted against it."
+   ]
+  },
+  {
+   "begin": "380.320",
+   "children": [],
+   "end": "382.520",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "And yet he tells you he's for a middle- class tax cut."
+   ]
+  },
+  {
+   "begin": "382.520",
+   "children": [],
+   "end": "385.280",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "It's -- you've got to be consistent when you're the president."
+   ]
+  },
+  {
+   "begin": "385.280",
+   "children": [],
+   "end": "386.760",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "There's a lot of pressures."
+   ]
+  },
+  {
+   "begin": "386.760",
+   "children": [],
+   "end": "391.400",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "And you've got to be firm and consistent."
+   ]
+  },
+  {
+   "begin": "391.400",
+   "children": [],
+   "end": "397.880",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Mr. President, I would follow up, but we have a series of questions on Iraq, and so I will turn to the next questioner."
+   ]
+  },
+  {
+   "begin": "397.880",
+   "children": [],
+   "end": "404.480",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "The question is for President Bush, and the questioner is Robin Dahle."
+   ]
+  },
+  {
+   "begin": "404.480",
+   "children": [],
+   "end": "428.600",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "Mr. President, yesterday in a statement you admitted that Iraq did not have weapons of mass destruction, but justified the invasion by stating, I quote, \"He retained the knowledge, the materials, the means and the intent to produce weapons of mass destruction and could have passed this knowledge to our terrorist enemies.\""
+   ]
+  },
+  {
+   "begin": "428.600",
+   "children": [],
+   "end": "440.840",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Do you sincerely believe this to be a reasonable justification for invasion when this statement applies to so many other countries, including North Korea?"
+   ]
+  },
+  {
+   "begin": "440.840",
+   "children": [],
+   "end": "442.440",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Each situation is different, Robin."
+   ]
+  },
+  {
+   "begin": "442.440",
+   "children": [],
+   "end": "447.640",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "And obviously we hope that diplomacy works before you ever use force."
+   ]
+  },
+  {
+   "begin": "447.640",
+   "children": [],
+   "end": "452.360",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "The hardest decision a president makes is ever to use force."
+   ]
+  },
+  {
+   "begin": "452.360",
+   "children": [],
+   "end": "455.800",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "After 9/11, we had to look at the world differently."
+   ]
+  },
+  {
+   "begin": "455.800",
+   "children": [],
+   "end": "463.000",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us."
+   ]
+  },
+  {
+   "begin": "463.000",
+   "children": [],
+   "end": "467.400",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "In the old days we'd see a threat, and we could deal with it if we felt like it or not."
+   ]
+  },
+  {
+   "begin": "467.400",
+   "children": [],
+   "end": "469.760",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "But 9/11 changed it all."
+   ]
+  },
+  {
+   "begin": "469.760",
+   "children": [],
+   "end": "473.440",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "I vowed to our countrymen that I would do everything I could to protect the American people."
+   ]
+  },
+  {
+   "begin": "473.440",
+   "children": [],
+   "end": "475.240",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "That's why we're bringing Al Qaida to justice."
+   ]
+  },
+  {
+   "begin": "475.240",
+   "children": [],
+   "end": "478.240",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "Seventy five percent of them have been brought to justice."
+   ]
+  },
+  {
+   "begin": "478.240",
+   "children": [],
+   "end": "483.120",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "That's why I said to Afghanistan: If you harbor a terrorist, you're just as guilty as the terrorist."
+   ]
+  },
+  {
+   "begin": "483.120",
+   "children": [],
+   "end": "488.160",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "And the Taliban is no longer in power, and Al Qaida no longer has a place to plan."
+   ]
+  },
+  {
+   "begin": "488.160",
+   "children": [],
+   "end": "495.400",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "And I saw a unique threat in Saddam Hussein, as did my opponent, because we thought he had weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "495.400",
+   "children": [],
+   "end": "506.400",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "And the unique threat was that he could give weapons of mass destruction to an organization like Al Qaida, and the harm they inflicted on us with airplanes would be multiplied greatly by weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "506.400",
+   "children": [],
+   "end": "508.440",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "And that was the serious, serious threat."
+   ]
+  },
+  {
+   "begin": "508.440",
+   "children": [],
+   "end": "512.720",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "So I tried diplomacy, went to the United Nations."
+   ]
+  },
+  {
+   "begin": "512.720",
+   "children": [],
+   "end": "521.320",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "But as we learned in the same report I quoted, Saddam Hussein was gaming the oil-for-food program to get rid of sanctions."
+   ]
+  },
+  {
+   "begin": "521.320",
+   "children": [],
+   "end": "529.560",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs."
+   ]
+  },
+  {
+   "begin": "529.560",
+   "children": [],
+   "end": "531.360",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "We all thought there was weapons there, Robin."
+   ]
+  },
+  {
+   "begin": "531.360",
+   "children": [],
+   "end": "533.760",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "My opponent thought there was weapons there."
+   ]
+  },
+  {
+   "begin": "533.760",
+   "children": [],
+   "end": "537.240",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "That's why he called him a grave threat."
+   ]
+  },
+  {
+   "begin": "537.240",
+   "children": [],
+   "end": "544.880",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "I wasn't happy when we found out there wasn't weapons, and we've got an intelligence group together to figure out why."
+   ]
+  },
+  {
+   "begin": "544.880",
+   "children": [],
+   "end": "548.560",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "But Saddam Hussein was a unique threat."
+   ]
+  },
+  {
+   "begin": "548.560",
+   "children": [],
+   "end": "551.840",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "And the world is better off without him in power."
+   ]
+  },
+  {
+   "begin": "551.840",
+   "children": [],
+   "end": "563.320",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "And my opponent's plans lead me to conclude that Saddam Hussein would still be in power, and the world would be more dangerous."
+   ]
+  },
+  {
+   "begin": "563.320",
+   "children": [],
+   "end": "563.880",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Thank you, sir."
+   ]
+  },
+  {
+   "begin": "563.880",
+   "children": [],
+   "end": "565.400",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Senator Kerry, a minute and a half."
+   ]
+  },
+  {
+   "begin": "565.400",
+   "children": [],
+   "end": "567.520",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Robin, I'm going to answer your question."
+   ]
+  },
+  {
+   "begin": "567.520",
+   "children": [],
+   "end": "571.680",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "I'm also going to talk -- respond to what you asked, Cheryl, at the same time."
+   ]
+  },
+  {
+   "begin": "571.680",
+   "children": [],
+   "end": "575.400",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "The world is more dangerous today."
+   ]
+  },
+  {
+   "begin": "575.400",
+   "children": [],
+   "end": "580.600",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "The world is more dangerous today because the president didn't make the right judgments."
+   ]
+  },
+  {
+   "begin": "580.600",
+   "children": [],
+   "end": "584.560",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "Now, the president wishes that I had changed my mind."
+   ]
+  },
+  {
+   "begin": "584.560",
+   "children": [],
+   "end": "589.880",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "He wants you to believe that because he can't come here and tell you that he's created new jobs for America."
+   ]
+  },
+  {
+   "begin": "589.880",
+   "children": [],
+   "end": "591.080",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "He's lost jobs."
+   ]
+  },
+  {
+   "begin": "591.080",
+   "children": [],
+   "end": "600.960",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "He can't come here and tell you that he's created health care for Americans because, what, we've got 5 million Americans who have lost their health care, 96,000 of them right here in Missouri."
+   ]
+  },
+  {
+   "begin": "600.960",
+   "children": [],
+   "end": "606.480",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "He can't come here and tell you that he's left no child behind because he didn't fund no child left behind."
+   ]
+  },
+  {
+   "begin": "606.480",
+   "children": [],
+   "end": "608.000",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "So what does he do?"
+   ]
+  },
+  {
+   "begin": "608.000",
+   "children": [],
+   "end": "609.200",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "He's trying to attack me."
+   ]
+  },
+  {
+   "begin": "609.200",
+   "children": [],
+   "end": "612.920",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "He wants you to believe that I can't be president."
+   ]
+  },
+  {
+   "begin": "612.920",
+   "children": [],
+   "end": "616.240",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "And he's trying to make you believe it because he wants you to think I change my mind."
+   ]
+  },
+  {
+   "begin": "616.240",
+   "children": [],
+   "end": "620.560",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "Well, let me tell you straight up: I've never changed my mind about Iraq."
+   ]
+  },
+  {
+   "begin": "620.560",
+   "children": [],
+   "end": "623.680",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "I do believe Saddam Hussein was a threat."
+   ]
+  },
+  {
+   "begin": "623.680",
+   "children": [],
+   "end": "624.560",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "I always believed he was a threat."
+   ]
+  },
+  {
+   "begin": "624.560",
+   "children": [],
+   "end": "627.120",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "Believed it in 1998 when Clinton was president."
+   ]
+  },
+  {
+   "begin": "627.120",
+   "children": [],
+   "end": "630.160",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "I wanted to give Clinton the power to use force if necessary."
+   ]
+  },
+  {
+   "begin": "630.160",
+   "children": [],
+   "end": "637.720",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "But I would have used that force wisely, I would have used that authority wisely, not rushed to war without a plan to win the peace."
+   ]
+  },
+  {
+   "begin": "637.720",
+   "children": [],
+   "end": "639.720",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "I would have brought our allies to our side."
+   ]
+  },
+  {
+   "begin": "639.720",
+   "children": [],
+   "end": "644.240",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "I would have fought to make certain our troops had everybody possible to help them win the mission."
+   ]
+  },
+  {
+   "begin": "644.240",
+   "children": [],
+   "end": "648.240",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "This president rushed to war, pushed our allies aside."
+   ]
+  },
+  {
+   "begin": "648.240",
+   "children": [],
+   "end": "653.280",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "And Iran now is more dangerous, and so is North Korea, with nuclear weapons."
+   ]
+  },
+  {
+   "begin": "653.280",
+   "children": [],
+   "end": "655.880",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "He took his eye off the ball, off of Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "655.880",
+   "children": [],
+   "end": "661.520",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Mr. President, I do want to follow up on this one, because there were several questions from the audience along this line."
+   ]
+  },
+  {
+   "begin": "661.520",
+   "children": [],
+   "end": "662.080",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "(OFF-MIKE)"
+   ]
+  },
+  {
+   "begin": "662.080",
+   "children": [],
+   "end": "662.520",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "Go ahead."
+   ]
+  },
+  {
+   "begin": "662.520",
+   "children": [],
+   "end": "663.600",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Go ahead."
+   ]
+  },
+  {
+   "begin": "663.600",
+   "children": [],
+   "end": "664.480",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "664.480",
+   "children": [],
+   "end": "666.880",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "Well, I was going to have you do the rebuttal on it, but you go ahead."
+   ]
+  },
+  {
+   "begin": "666.880",
+   "children": [],
+   "end": "668.680",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "(LAUGHTER)  You're up."
+   ]
+  },
+  {
+   "begin": "668.680",
+   "children": [],
+   "end": "671.240",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "You remember the last debate?"
+   ]
+  },
+  {
+   "begin": "671.240",
+   "children": [],
+   "end": "676.480",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "My opponent said that America must pass a global test before we used force to protect ourselves."
+   ]
+  },
+  {
+   "begin": "676.480",
+   "children": [],
+   "end": "682.120",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "That's the kind of mindset that says sanctions were working."
+   ]
+  },
+  {
+   "begin": "682.120",
+   "children": [],
+   "end": "687.480",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "That's the kind of mindset that said, \"Let's keep it at the United Nations and hope things go well.\""
+   ]
+  },
+  {
+   "begin": "687.480",
+   "children": [],
+   "end": "693.320",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Saddam Hussein was a threat because he could have given weapons of mass destruction to terrorist enemies."
+   ]
+  },
+  {
+   "begin": "693.320",
+   "children": [],
+   "end": "695.080",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "Sanctions were not working."
+   ]
+  },
+  {
+   "begin": "695.080",
+   "children": [],
+   "end": "698.640",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "The United Nations was not effective at removing Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "698.640",
+   "children": [],
+   "end": "701.560",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "Senator?"
+   ]
+  },
+  {
+   "begin": "701.560",
+   "children": [],
+   "end": "707.560",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "The goal of the sanctions was not to remove Saddam Hussein, it was to remove the weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "707.560",
+   "children": [],
+   "end": "713.320",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "And, Mr. President, just yesterday the Duelfer report told you and the whole world they worked."
+   ]
+  },
+  {
+   "begin": "713.320",
+   "children": [],
+   "end": "716.240",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "He didn't have weapons of mass destruction, Mr. President."
+   ]
+  },
+  {
+   "begin": "716.240",
+   "children": [],
+   "end": "718.360",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "That was the objective."
+   ]
+  },
+  {
+   "begin": "718.360",
+   "children": [],
+   "end": "724.840",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "And if we'd used smart diplomacy, we could have saved $200 billion and an invasion of Iraq."
+   ]
+  },
+  {
+   "begin": "724.840",
+   "children": [],
+   "end": "728.040",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "And right now, Osama bin Laden might be in jail or dead."
+   ]
+  },
+  {
+   "begin": "728.040",
+   "children": [],
+   "end": "729.960",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "That's the war against terror."
+   ]
+  },
+  {
+   "begin": "729.960",
+   "children": [],
+   "end": "734.720",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "We're going to have another question now on the subject of Iraq."
+   ]
+  },
+  {
+   "begin": "734.720",
+   "children": [],
+   "end": "738.440",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "And I'm going to turn to Anthony Baldi with a question for Senator Kerry."
+   ]
+  },
+  {
+   "begin": "738.440",
+   "children": [],
+   "end": "739.520",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Mr. Baldi?"
+   ]
+  },
+  {
+   "begin": "739.520",
+   "children": [],
+   "end": "751.200",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Senator Kerry, the U.S. is preparing a new Iraq government and will proceed to withdraw U.S. troops."
+   ]
+  },
+  {
+   "begin": "751.200",
+   "children": [],
+   "end": "755.480",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Would you proceed with the same plans as President Bush?"
+   ]
+  },
+  {
+   "begin": "755.480",
+   "children": [],
+   "end": "757.720",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Anthony, I would not."
+   ]
+  },
+  {
+   "begin": "757.720",
+   "children": [],
+   "end": "761.400",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "I have laid out a different plan, because the president's plan is not working."
+   ]
+  },
+  {
+   "begin": "761.400",
+   "children": [],
+   "end": "763.800",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "You see that every night on television."
+   ]
+  },
+  {
+   "begin": "763.800",
+   "children": [],
+   "end": "765.560",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "There's chaos in Iraq."
+   ]
+  },
+  {
+   "begin": "765.560",
+   "children": [],
+   "end": "774.240",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "King Abdullah of Jordan said just yesterday or the day before you can't hold elections in Iraq with the chaos that's going on today."
+   ]
+  },
+  {
+   "begin": "774.240",
+   "children": [],
+   "end": "785.040",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Senator Richard Lugar, the Republican chairman of the Foreign Relations Committee, said that the handling of the reconstruction aid in Iraq by this administration has been incompetent."
+   ]
+  },
+  {
+   "begin": "785.040",
+   "children": [],
+   "end": "787.640",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Those are the Republican chairman's words."
+   ]
+  },
+  {
+   "begin": "787.640",
+   "children": [],
+   "end": "798.240",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "Senator Hagel of Nebraska said that the handling of Iraq is beyond pitiful, beyond embarrassing; it's in the zone of dangerous."
+   ]
+  },
+  {
+   "begin": "798.240",
+   "children": [],
+   "end": "803.800",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Those are the words of two Republicans, respected, both on the Foreign Relations Committee."
+   ]
+  },
+  {
+   "begin": "803.800",
+   "children": [],
+   "end": "806.040",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Now, I have to tell you, I would do something different."
+   ]
+  },
+  {
+   "begin": "806.040",
+   "children": [],
+   "end": "810.160",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "I would reach out to our allies in a way that this president hasn't."
+   ]
+  },
+  {
+   "begin": "810.160",
+   "children": [],
+   "end": "815.080",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "He pushed them away time and again, pushed them away at the U.N., pushed them away individually."
+   ]
+  },
+  {
+   "begin": "815.080",
+   "children": [],
+   "end": "820.080",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Two weeks ago, there was a meeting of the North Atlantic Council, which is the political arm of NATO."
+   ]
+  },
+  {
+   "begin": "820.080",
+   "children": [],
+   "end": "827.680",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "They discussed the possibility of a small training unit or having a total takeover of the training in Iraq."
+   ]
+  },
+  {
+   "begin": "827.680",
+   "children": [],
+   "end": "830.680",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Did our administration push for the total training of Iraq?"
+   ]
+  },
+  {
+   "begin": "830.680",
+   "children": [],
+   "end": "831.240",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "No."
+   ]
+  },
+  {
+   "begin": "831.240",
+   "children": [],
+   "end": "832.240",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "Were they silent?"
+   ]
+  },
+  {
+   "begin": "832.240",
+   "children": [],
+   "end": "833.040",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "833.040",
+   "children": [],
+   "end": "835.920",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "Was there an effort to bring all the allies together around that?"
+   ]
+  },
+  {
+   "begin": "835.920",
+   "children": [],
+   "end": "839.840",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "No, because they've always wanted this to be an American effort."
+   ]
+  },
+  {
+   "begin": "839.840",
+   "children": [],
+   "end": "851.400",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "You know, they even had the Defense Department issue a memorandum saying, \"Don't bother applying for assistance or for being part of the reconstruction if you weren't part of our original coalition.\""
+   ]
+  },
+  {
+   "begin": "851.400",
+   "children": [],
+   "end": "857.560",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "Now, that's not a good way to build support and reduce the risk for our troops and make America safer."
+   ]
+  },
+  {
+   "begin": "857.560",
+   "children": [],
+   "end": "860.240",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "I'm going to get the training done for our troops."
+   ]
+  },
+  {
+   "begin": "860.240",
+   "children": [],
+   "end": "862.880",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "I'm going to get the training of Iraqis done faster."
+   ]
+  },
+  {
+   "begin": "862.880",
+   "children": [],
+   "end": "865.840",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "And I'm going to get our allies back to the table."
+   ]
+  },
+  {
+   "begin": "865.840",
+   "children": [],
+   "end": "873.640",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "Two days ago in the Oval Office, I met with the finance minister from Iraq."
+   ]
+  },
+  {
+   "begin": "873.640",
+   "children": [],
+   "end": "874.680",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "He came to see me."
+   ]
+  },
+  {
+   "begin": "874.680",
+   "children": [],
+   "end": "879.600",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "And he talked about how optimistic he was and the country was about heading toward elections."
+   ]
+  },
+  {
+   "begin": "879.600",
+   "children": [],
+   "end": "881.760",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "Think about it: They're going from tyranny to elections."
+   ]
+  },
+  {
+   "begin": "881.760",
+   "children": [],
+   "end": "885.760",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "He talked about the reconstruction efforts that are beginning to take hold."
+   ]
+  },
+  {
+   "begin": "885.760",
+   "children": [],
+   "end": "888.800",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "He talked about the fact that Iraqis love to be free."
+   ]
+  },
+  {
+   "begin": "888.800",
+   "children": [],
+   "end": "895.360",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "He said he was optimistic when he came here, then he turned on the TV and listened to the political rhetoric and all of a sudden he was pessimistic."
+   ]
+  },
+  {
+   "begin": "895.360",
+   "children": [],
+   "end": "900.520",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "Now, this is guy a who, along with others, has taken great risk for great freedom."
+   ]
+  },
+  {
+   "begin": "900.520",
+   "children": [],
+   "end": "902.680",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "And we need to stand with him."
+   ]
+  },
+  {
+   "begin": "902.680",
+   "children": [],
+   "end": "907.760",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "My opponent says he has a plan; it sounds familiar, because it's called the Bush plan."
+   ]
+  },
+  {
+   "begin": "907.760",
+   "children": [],
+   "end": "909.480",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "We're going to train troops, and we are."
+   ]
+  },
+  {
+   "begin": "909.480",
+   "children": [],
+   "end": "912.120",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "We'll have 125,000 trained by the end of December."
+   ]
+  },
+  {
+   "begin": "912.120",
+   "children": [],
+   "end": "914.720",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "We're spending about $7 billion."
+   ]
+  },
+  {
+   "begin": "914.720",
+   "children": [],
+   "end": "921.640",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "He talks about a grand idea: Let's have a summit; we're going to solve the problem in Iraq by holding a summit."
+   ]
+  },
+  {
+   "begin": "921.640",
+   "children": [],
+   "end": "924.480",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "And what is he going to say to those people that show up at the summit?"
+   ]
+  },
+  {
+   "begin": "924.480",
+   "children": [],
+   "end": "928.680",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Join me in the wrong war at the wrong time at the wrong place."
+   ]
+  },
+  {
+   "begin": "928.680",
+   "children": [],
+   "end": "932.800",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "Risk your troops in a war you've called a mistake."
+   ]
+  },
+  {
+   "begin": "932.800",
+   "children": [],
+   "end": "940.920",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "Nobody is going to follow somebody who doesn't believe we can succeed and with somebody who says that war where we are is a mistake."
+   ]
+  },
+  {
+   "begin": "940.920",
+   "children": [],
+   "end": "942.040",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "I know how these people think."
+   ]
+  },
+  {
+   "begin": "942.040",
+   "children": [],
+   "end": "944.120",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "I meet with them all the time."
+   ]
+  },
+  {
+   "begin": "944.120",
+   "children": [],
+   "end": "946.840",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "I talk to Tony Blair all the time."
+   ]
+  },
+  {
+   "begin": "946.840",
+   "children": [],
+   "end": "948.760",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "I talk to Silvio Berlusconi."
+   ]
+  },
+  {
+   "begin": "948.760",
+   "children": [],
+   "end": "953.400",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "They're not going to follow an American president who says follow me into a mistake."
+   ]
+  },
+  {
+   "begin": "953.400",
+   "children": [],
+   "end": "955.560",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "Our plan is working."
+   ]
+  },
+  {
+   "begin": "955.560",
+   "children": [],
+   "end": "958.280",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "We're going to make elections."
+   ]
+  },
+  {
+   "begin": "958.280",
+   "children": [],
+   "end": "961.760",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "And Iraq is going to be free, and America will be better off for it."
+   ]
+  },
+  {
+   "begin": "961.760",
+   "children": [],
+   "end": "964.640",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "Do you want to follow up, Senator?"
+   ]
+  },
+  {
+   "begin": "964.640",
+   "children": [],
+   "end": "965.600",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "Yes, sir, please."
+   ]
+  },
+  {
+   "begin": "965.600",
+   "children": [],
+   "end": "971.680",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "Ladies and gentlemen, the right war was Osama bin Laden and Afghanistan."
+   ]
+  },
+  {
+   "begin": "971.680",
+   "children": [],
+   "end": "973.040",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "That was the right place."
+   ]
+  },
+  {
+   "begin": "973.040",
+   "children": [],
+   "end": "976.440",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "And the right time was Tora Bora, when we had him cornered in the mountains."
+   ]
+  },
+  {
+   "begin": "976.440",
+   "children": [],
+   "end": "980.120",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "Now, everyone in the world knows that there were no weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "980.120",
+   "children": [],
+   "end": "987.080",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "That was the reason Congress gave him the authority to use force, not after excuse to get rid of the regime."
+   ]
+  },
+  {
+   "begin": "987.080",
+   "children": [],
+   "end": "989.000",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "Now we have to succeed."
+   ]
+  },
+  {
+   "begin": "989.000",
+   "children": [],
+   "end": "990.560",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "I've always said that."
+   ]
+  },
+  {
+   "begin": "990.560",
+   "children": [],
+   "end": "992.280",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "I have been consistent."
+   ]
+  },
+  {
+   "begin": "992.280",
+   "children": [],
+   "end": "996.160",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "Yes, we have to succeed, and I have a better plan to help us do it."
+   ]
+  },
+  {
+   "begin": "996.160",
+   "children": [],
+   "end": "1005.640",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "First of all, we didn't find out he didn't have weapons until we got there, and my opponent thought he had weapons and told everybody he thought he had weapons."
+   ]
+  },
+  {
+   "begin": "1005.640",
+   "children": [],
+   "end": "1013.480",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "And secondly, it's a fundamental misunderstanding to say that the war on terror is only Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "1013.480",
+   "children": [],
+   "end": "1020.360",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "The war on terror is to make sure that these terrorist organizations do not end up with weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "1020.360",
+   "children": [],
+   "end": "1022.640",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "That's what the war on terror is about."
+   ]
+  },
+  {
+   "begin": "1022.640",
+   "children": [],
+   "end": "1024.240",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "Of course, we're going to find Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "1024.240",
+   "children": [],
+   "end": "1026.360",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "We've already 75 percent of his people."
+   ]
+  },
+  {
+   "begin": "1026.360",
+   "children": [],
+   "end": "1028.240",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "And we're on the hunt for him."
+   ]
+  },
+  {
+   "begin": "1028.240",
+   "children": [],
+   "end": "1033.280",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "But this is a global conflict that requires firm resolve."
+   ]
+  },
+  {
+   "begin": "1033.280",
+   "children": [],
+   "end": "1039.480",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "The next question is for President Bush, and it comes from Nikki Washington."
+   ]
+  },
+  {
+   "begin": "1039.480",
+   "children": [],
+   "end": "1042.200",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1042.200",
+   "children": [],
+   "end": "1056.200",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "Mr. President, my mother and sister traveled abroad this summer, and when they got back they talked to us about how shocked they were at the intensity of aggravation that other countries had with how we handled the Iraq situation."
+   ]
+  },
+  {
+   "begin": "1056.200",
+   "children": [],
+   "end": "1060.880",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "Diplomacy is obviously something that we really have to really work on."
+   ]
+  },
+  {
+   "begin": "1060.880",
+   "children": [],
+   "end": "1066.160",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "What is your plan to repair relations with other countries given the current situation?"
+   ]
+  },
+  {
+   "begin": "1066.160",
+   "children": [],
+   "end": "1067.400",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "No, I appreciate that."
+   ]
+  },
+  {
+   "begin": "1067.400",
+   "children": [],
+   "end": "1071.440",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "I -- listen, I -- we've got a great country."
+   ]
+  },
+  {
+   "begin": "1071.440",
+   "children": [],
+   "end": "1073.840",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "I love our values."
+   ]
+  },
+  {
+   "begin": "1073.840",
+   "children": [],
+   "end": "1081.120",
+   "id": "f000242",
+   "language": "en",
+   "lines": [
+    "And I recognize I've made some decisions that have caused people to not understand the great values of our country."
+   ]
+  },
+  {
+   "begin": "1081.120",
+   "children": [],
+   "end": "1085.400",
+   "id": "f000243",
+   "language": "en",
+   "lines": [
+    "I remember when Ronald Reagan was the president; he stood on principle."
+   ]
+  },
+  {
+   "begin": "1085.400",
+   "children": [],
+   "end": "1087.760",
+   "id": "f000244",
+   "language": "en",
+   "lines": [
+    "Somebody called that stubborn."
+   ]
+  },
+  {
+   "begin": "1087.760",
+   "children": [],
+   "end": "1093.040",
+   "id": "f000245",
+   "language": "en",
+   "lines": [
+    "He stood on principle standing up to the Soviet Union, and we won that conflict."
+   ]
+  },
+  {
+   "begin": "1093.040",
+   "children": [],
+   "end": "1097.640",
+   "id": "f000246",
+   "language": "en",
+   "lines": [
+    "Yet at the same time, he was very -- we were very unpopular in Europe because of the decisions he made."
+   ]
+  },
+  {
+   "begin": "1097.640",
+   "children": [],
+   "end": "1103.800",
+   "id": "f000247",
+   "language": "en",
+   "lines": [
+    "I recognize that taking Saddam Hussein out was unpopular."
+   ]
+  },
+  {
+   "begin": "1103.800",
+   "children": [],
+   "end": "1108.480",
+   "id": "f000248",
+   "language": "en",
+   "lines": [
+    "But I made the decision because I thought it was in the right interests of our security."
+   ]
+  },
+  {
+   "begin": "1108.480",
+   "children": [],
+   "end": "1115.000",
+   "id": "f000249",
+   "language": "en",
+   "lines": [
+    "You know, I've made some decisions on Israel that's unpopular."
+   ]
+  },
+  {
+   "begin": "1115.000",
+   "children": [],
+   "end": "1125.760",
+   "id": "f000250",
+   "language": "en",
+   "lines": [
+    "I wouldn't deal with Arafat, because I felt like he had let the former president down, and I don't think he's the kind of person that can lead toward a Palestinian state."
+   ]
+  },
+  {
+   "begin": "1125.760",
+   "children": [],
+   "end": "1129.160",
+   "id": "f000251",
+   "language": "en",
+   "lines": [
+    "And people in Europe didn't like that decision."
+   ]
+  },
+  {
+   "begin": "1129.160",
+   "children": [],
+   "end": "1133.240",
+   "id": "f000252",
+   "language": "en",
+   "lines": [
+    "And that was unpopular, but it was the right thing to do."
+   ]
+  },
+  {
+   "begin": "1133.240",
+   "children": [],
+   "end": "1144.120",
+   "id": "f000253",
+   "language": "en",
+   "lines": [
+    "I believe Palestinians ought to have a state, but I know they need leadership that's committed to a democracy and freedom, leadership that would be willing to reject terrorism."
+   ]
+  },
+  {
+   "begin": "1144.120",
+   "children": [],
+   "end": "1154.760",
+   "id": "f000254",
+   "language": "en",
+   "lines": [
+    "I made a decision not to join the International Criminal Court in The Hague, which is where our troops could be brought to -- brought in front of a judge, an unaccounted judge."
+   ]
+  },
+  {
+   "begin": "1154.760",
+   "children": [],
+   "end": "1157.600",
+   "id": "f000255",
+   "language": "en",
+   "lines": [
+    "I don't think we ought to join that."
+   ]
+  },
+  {
+   "begin": "1157.600",
+   "children": [],
+   "end": "1158.280",
+   "id": "f000256",
+   "language": "en",
+   "lines": [
+    "That was unpopular."
+   ]
+  },
+  {
+   "begin": "1158.280",
+   "children": [],
+   "end": "1164.640",
+   "id": "f000257",
+   "language": "en",
+   "lines": [
+    "And so, what I'm telling you is, is that sometimes in this world you make unpopular decisions because you think they're right."
+   ]
+  },
+  {
+   "begin": "1164.640",
+   "children": [],
+   "end": "1166.640",
+   "id": "f000258",
+   "language": "en",
+   "lines": [
+    "We'll continue to reach out."
+   ]
+  },
+  {
+   "begin": "1166.640",
+   "children": [],
+   "end": "1171.640",
+   "id": "f000259",
+   "language": "en",
+   "lines": [
+    "Listen, there is 30 nations involved in Iraq, some 40 nations involved in Afghanistan."
+   ]
+  },
+  {
+   "begin": "1171.640",
+   "children": [],
+   "end": "1173.680",
+   "id": "f000260",
+   "language": "en",
+   "lines": [
+    "People love America."
+   ]
+  },
+  {
+   "begin": "1173.680",
+   "children": [],
+   "end": "1181.360",
+   "id": "f000261",
+   "language": "en",
+   "lines": [
+    "Sometimes they don't like the decisions made by America, but I don't think you want a president who tries to become popular and does the wrong thing."
+   ]
+  },
+  {
+   "begin": "1181.360",
+   "children": [],
+   "end": "1187.160",
+   "id": "f000262",
+   "language": "en",
+   "lines": [
+    "You don't want to join the International Criminal Court just because it's popular in certain capitals in Europe."
+   ]
+  },
+  {
+   "begin": "1187.160",
+   "children": [],
+   "end": "1189.800",
+   "id": "f000263",
+   "language": "en",
+   "lines": [
+    "Senator Kerry, a minute and a half."
+   ]
+  },
+  {
+   "begin": "1189.800",
+   "children": [],
+   "end": "1196.400",
+   "id": "f000264",
+   "language": "en",
+   "lines": [
+    "Nikki, that's a question that's been raised by a lot of people around the country."
+   ]
+  },
+  {
+   "begin": "1196.400",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000265",
+   "language": "en",
+   "lines": [
+    "Let me address it but also talk about the weapons the president just talked about,"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2024 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.760",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Field House at Washington University in St. Louis."
+   ]
+  },
+  {
+   "begin": "4.760",
+   "children": [],
+   "end": "7.880",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Jim Lehrer of the NewsHour on PBS."
+   ]
+  },
+  {
+   "begin": "7.880",
+   "children": [],
+   "end": "20.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "And I welcome you to this third and final Campaign 2000 debate between the Democratic candidate for president, Vice President Al Gore, and the Republican candidate, Governor George W. Bush of Texas."
+   ]
+  },
+  {
+   "begin": "20.400",
+   "children": [],
+   "end": "22.000",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Let's welcome the candidates now."
+   ]
+  },
+  {
+   "begin": "22.000",
+   "children": [],
+   "end": "99.040",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "[Applause]  Before proceeding tonight we would like to observe a moment of silence in memory of Governor Mel Carnahan of Missouri, who along with his son and his former chief of staff, died in a private plane crash last night near St. Louis."
+   ]
+  },
+  {
+   "begin": "99.040",
+   "children": [],
+   "end": "106.240",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "A reminder, as we continue now, that these debates are sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "106.240",
+   "children": [],
+   "end": "111.640",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The formats and the rules were worked out by the commission and the two campaigns."
+   ]
+  },
+  {
+   "begin": "111.640",
+   "children": [],
+   "end": "120.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Tonight's questions will be asked by St. Louis area voters who were identified as being uncommitted by the Gallup organization."
+   ]
+  },
+  {
+   "begin": "120.680",
+   "children": [],
+   "end": "126.840",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Earlier today each of them wrote a question on a small card like this."
+   ]
+  },
+  {
+   "begin": "126.840",
+   "children": [],
+   "end": "130.680",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Those cards were collected and then given to me this afternoon."
+   ]
+  },
+  {
+   "begin": "130.680",
+   "children": [],
+   "end": "139.760",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "My job, under the rules of the evening, was to decide the order the questions will be asked and to call on the questioners accordingly."
+   ]
+  },
+  {
+   "begin": "139.760",
+   "children": [],
+   "end": "145.560",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "I also have the option of asking follow-ups which -- in order to get to more of the panel's questions."
+   ]
+  },
+  {
+   "begin": "145.560",
+   "children": [],
+   "end": "149.880",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "For the record, I plan to do sparingly and mostly for clarifications."
+   ]
+  },
+  {
+   "begin": "149.880",
+   "children": [],
+   "end": "154.000",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "The audience participants are bound by the following rule."
+   ]
+  },
+  {
+   "begin": "154.000",
+   "children": [],
+   "end": "159.880",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "They shall not ask follow-up questions or otherwise participate in the extended discussion."
+   ]
+  },
+  {
+   "begin": "159.880",
+   "children": [],
+   "end": "166.840",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "And the questioner's microphone will be turned off after he or she completes asking the question."
+   ]
+  },
+  {
+   "begin": "166.840",
+   "children": [],
+   "end": "168.480",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "Those are the rules."
+   ]
+  },
+  {
+   "begin": "168.480",
+   "children": [],
+   "end": "175.840",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "As in Winston-Salem last week, no single answer or response from a candidate can exceed two minutes."
+   ]
+  },
+  {
+   "begin": "175.840",
+   "children": [],
+   "end": "186.120",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "There is an audience here in the hall and they have promised to remain absolutely quiet, as did their predecessors this year in Boston, Danville, and Winston-Salem."
+   ]
+  },
+  {
+   "begin": "186.120",
+   "children": [],
+   "end": "189.600",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Before we begin, a correction from last week's debate."
+   ]
+  },
+  {
+   "begin": "189.600",
+   "children": [],
+   "end": "196.240",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "I was wrong when I said Vice President Gore's campaign commercials had called Governor Bush a bumbler."
+   ]
+  },
+  {
+   "begin": "196.240",
+   "children": [],
+   "end": "205.160",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "That specific charge was made in a press statement by Gore campaign spokesman Mark Fabiani, not in a TV Guide."
+   ]
+  },
+  {
+   "begin": "205.160",
+   "children": [],
+   "end": "209.360",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "I'm glad you clarified that."
+   ]
+  },
+  {
+   "begin": "209.360",
+   "children": [],
+   "end": "212.600",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Now, let's go to the first question."
+   ]
+  },
+  {
+   "begin": "212.600",
+   "children": [],
+   "end": "226.400",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Of over the 130 questions we received from this panel, we will begin with one of the 19 on health issues, and it goes to you, Mr. Vice President, and it will be asked by James Hankins."
+   ]
+  },
+  {
+   "begin": "226.400",
+   "children": [],
+   "end": "230.080",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "Mr. Hankins?"
+   ]
+  },
+  {
+   "begin": "230.080",
+   "children": [],
+   "end": "243.560",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "How do you feel about HMOs and insurance companies making the critical decisions that affect people's lives instead of the medical professionals, and why are the HMOs and insurance companies not held accountable for their decisions?"
+   ]
+  },
+  {
+   "begin": "243.560",
+   "children": [],
+   "end": "253.080",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Mr. Hankins, I don't feel good about it, and I think we ought to have a patient's bill of rights to take the medical decisions away from the HMOs and give them back to the doctors and nurses."
+   ]
+  },
+  {
+   "begin": "253.080",
+   "children": [],
+   "end": "269.040",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "I want to come back and tell you why, but if you will forgive me, I would like to say something right now at the beginning of this debate following on the moment of silence for Mel Carnahan and Randy Carnahan and Chris Sifford."
+   ]
+  },
+  {
+   "begin": "269.040",
+   "children": [],
+   "end": "282.600",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Tipper and I were good friends with Mel and Randy, and I know that all of us here want to extend our sympathy and condolences to Jean and the family and to the Sifford family."
+   ]
+  },
+  {
+   "begin": "282.600",
+   "children": [],
+   "end": "294.760",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "And I would just like to say that this debate in a way is a living tribute to Mel Carnahan because he loved the vigorous discussion of ideas in our democracy."
+   ]
+  },
+  {
+   "begin": "294.760",
+   "children": [],
+   "end": "298.520",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "He was a fantastic governor of Missouri."
+   ]
+  },
+  {
+   "begin": "298.520",
+   "children": [],
+   "end": "305.200",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "This state became one of the top five in the nation for health care coverage for children under his leadership."
+   ]
+  },
+  {
+   "begin": "305.200",
+   "children": [],
+   "end": "312.200",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "One of the best in advancing all kinds of benefits for children to grow up healthy and strong."
+   ]
+  },
+  {
+   "begin": "312.200",
+   "children": [],
+   "end": "332.800",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "And of course, this debate also takes place at a time when the tragedy of the USS Cole is on our minds and hearts and insofar as the memorial service is tomorrow, I would like to also extend sympathy to the families of those who have died and those who are still missing, and the injured."
+   ]
+  },
+  {
+   "begin": "332.800",
+   "children": [],
+   "end": "341.760",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Now, Mr. Hankins, I think that the situation that you describe has gotten completely out of hand."
+   ]
+  },
+  {
+   "begin": "341.760",
+   "children": [],
+   "end": "351.920",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "Doctors are giving prescriptions, they're recommending treatments, and then their recommendations are being overruled by HMOs and insurance companies."
+   ]
+  },
+  {
+   "begin": "351.920",
+   "children": [],
+   "end": "352.920",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "That is unacceptable."
+   ]
+  },
+  {
+   "begin": "352.920",
+   "children": [],
+   "end": "356.640",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "I support a strong national patient's bill of rights."
+   ]
+  },
+  {
+   "begin": "356.640",
+   "children": [],
+   "end": "367.880",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "It is actually a disagreement between us, a national law that is pending on this, the Dingle-Norwood bill, a bipartisan bill, is one that I support and that the governor does not."
+   ]
+  },
+  {
+   "begin": "367.880",
+   "children": [],
+   "end": "370.040",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Two minutes response, Governor Bush."
+   ]
+  },
+  {
+   "begin": "370.040",
+   "children": [],
+   "end": "381.120",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "I, too, want to extend my prayers and blessings, God's blessings on the families whose lives were overturned yes -- tod -- last night."
+   ]
+  },
+  {
+   "begin": "381.120",
+   "children": [],
+   "end": "383.960",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "It's a tragic moment."
+   ]
+  },
+  {
+   "begin": "383.960",
+   "children": [],
+   "end": "385.640",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "Actually, Mr. Vice President, it's not true."
+   ]
+  },
+  {
+   "begin": "385.640",
+   "children": [],
+   "end": "389.280",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "I do support a national patient's bill of rights."
+   ]
+  },
+  {
+   "begin": "389.280",
+   "children": [],
+   "end": "399.320",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, I brought Republicans and Democrats together to do just that in the State of Texas to get a patient's bill of rights through."
+   ]
+  },
+  {
+   "begin": "399.320",
+   "children": [],
+   "end": "403.280",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "It requires a different kind of leadership style to do it, though."
+   ]
+  },
+  {
+   "begin": "403.280",
+   "children": [],
+   "end": "411.240",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "You see, in order to get something done on behalf of the people, you have to put partisanship aside, and that's what we did in my state."
+   ]
+  },
+  {
+   "begin": "411.240",
+   "children": [],
+   "end": "413.800",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "We have one of the most advanced patient's bill of rights."
+   ]
+  },
+  {
+   "begin": "413.800",
+   "children": [],
+   "end": "421.480",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "It says, for example, that a woman doesn't have to go through a gate keeper to go to her gynecologist."
+   ]
+  },
+  {
+   "begin": "421.480",
+   "children": [],
+   "end": "425.720",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "It says that you can't gag a doctor, doctor can advise you."
+   ]
+  },
+  {
+   "begin": "425.720",
+   "children": [],
+   "end": "430.560",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "The HMO, the insurance company, can't gag that doctor from giving you full advice."
+   ]
+  },
+  {
+   "begin": "430.560",
+   "children": [],
+   "end": "436.360",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "And this particular bill, it allows patients to choose a doctor, their own doctor if they want to."
+   ]
+  },
+  {
+   "begin": "436.360",
+   "children": [],
+   "end": "439.000",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "But we did something else that was interesting."
+   ]
+  },
+  {
+   "begin": "439.000",
+   "children": [],
+   "end": "446.080",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "We're one of the first states that said you can sue an HMO for denying you proper coverage."
+   ]
+  },
+  {
+   "begin": "446.080",
+   "children": [],
+   "end": "450.440",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Now there's what's called an Independent Review Organization that you have to go through first."
+   ]
+  },
+  {
+   "begin": "450.440",
+   "children": [],
+   "end": "457.360",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "It says if you\u00e2\u20ac\u2122ve got a complaint with your insurance company, you can take your complaint to an objective body."
+   ]
+  },
+  {
+   "begin": "457.360",
+   "children": [],
+   "end": "461.800",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "If the objective body rules on your behalf, the insurance company must follow those rules."
+   ]
+  },
+  {
+   "begin": "461.800",
+   "children": [],
+   "end": "471.240",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "However, if the insurance company doesn't follow the findings of the IRO, then that becomes a cause of action in a court of law."
+   ]
+  },
+  {
+   "begin": "471.240",
+   "children": [],
+   "end": "480.040",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "It's time for our nation to come together and do what's right for the people, and I think this is right for the people."
+   ]
+  },
+  {
+   "begin": "480.040",
+   "children": [],
+   "end": "487.840",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "You know, I support a national patient's bill of rights, Mr. Vice President, and I want all people covered."
+   ]
+  },
+  {
+   "begin": "487.840",
+   "children": [],
+   "end": "491.840",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "I don't want the law to supersede good law like we've got in Texas."
+   ]
+  },
+  {
+   "begin": "491.840",
+   "children": [],
+   "end": "492.080",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "I think --"
+   ]
+  },
+  {
+   "begin": "492.080",
+   "children": [],
+   "end": "494.600",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Governor, time is up, sir."
+   ]
+  },
+  {
+   "begin": "494.600",
+   "children": [],
+   "end": "496.960",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Jim, we have a direct disagreement on this."
+   ]
+  },
+  {
+   "begin": "496.960",
+   "children": [],
+   "end": "499.360",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Just a minute, Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "499.360",
+   "children": [],
+   "end": "504.480",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "I want to -- the way the rules go here now, two minutes, two minutes, and then I'll decide whether we go on."
+   ]
+  },
+  {
+   "begin": "504.480",
+   "children": [],
+   "end": "505.200",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "505.200",
+   "children": [],
+   "end": "515.520",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "So what I want to make sure is we understand here is before we go on to another question in the health area, would you agree that you two agree on a national patient's bill of rights?"
+   ]
+  },
+  {
+   "begin": "515.520",
+   "children": [],
+   "end": "516.360",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "Absolutely not."
+   ]
+  },
+  {
+   "begin": "516.360",
+   "children": [],
+   "end": "520.000",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "I referred to the Dingle-Norwood bill."
+   ]
+  },
+  {
+   "begin": "520.000",
+   "children": [],
+   "end": "525.440",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "It is the bipartisan bill that is now pending in the Congress."
+   ]
+  },
+  {
+   "begin": "525.440",
+   "children": [],
+   "end": "533.440",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "The HMOs and the insurance companies support the other bill that's pending, the one that the Republican majority has put forward."
+   ]
+  },
+  {
+   "begin": "533.440",
+   "children": [],
+   "end": "556.160",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "They like it because it doesn't accomplish what I think really needs to be accomplished to give the decisions back to the doctors and nurses and give you a right of appeal to somebody other than the HMO or insurance company, let you go to the nearest emergency room without having to call an HMO before you call 911, to let you see a specialist if you need to, and it has strong bipartisan support."
+   ]
+  },
+  {
+   "begin": "556.160",
+   "children": [],
+   "end": "558.480",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "It is being blocked by the Republican leadership in the Congress."
+   ]
+  },
+  {
+   "begin": "558.480",
+   "children": [],
+   "end": "558.920",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Sir."
+   ]
+  },
+  {
+   "begin": "558.920",
+   "children": [],
+   "end": "567.360",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "And I specifically would like to know whether Governor Bush will support the Dingle-Norwood bill, which is the main one pending."
+   ]
+  },
+  {
+   "begin": "567.360",
+   "children": [],
+   "end": "569.040",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Governor Bush, you may answer that if you'd like."
+   ]
+  },
+  {
+   "begin": "569.040",
+   "children": [],
+   "end": "573.120",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "But also I'd like to know how you see the differences between the two of you, and we need to move on."
+   ]
+  },
+  {
+   "begin": "573.120",
+   "children": [],
+   "end": "575.200",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Well, the difference is is that I can get it done."
+   ]
+  },
+  {
+   "begin": "575.200",
+   "children": [],
+   "end": "579.880",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "That I can get something positive done on behalf of the people."
+   ]
+  },
+  {
+   "begin": "579.880",
+   "children": [],
+   "end": "583.360",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "That's what the question in this campaign is about."
+   ]
+  },
+  {
+   "begin": "583.360",
+   "children": [],
+   "end": "590.840",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "It's not only what's your philosophy and what's your position on issues, but can you get things done?"
+   ]
+  },
+  {
+   "begin": "590.840",
+   "children": [],
+   "end": "591.360",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "And I believe I can."
+   ]
+  },
+  {
+   "begin": "591.360",
+   "children": [],
+   "end": "595.080",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "What about the Dingle-Norwood bill?"
+   ]
+  },
+  {
+   "begin": "595.080",
+   "children": [],
+   "end": "595.920",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "595.920",
+   "children": [],
+   "end": "597.200",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "We're going to go now to another -- all right."
+   ]
+  },
+  {
+   "begin": "597.200",
+   "children": [],
+   "end": "597.360",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "597.360",
+   "children": [],
+   "end": "597.960",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "I'm not quite through."
+   ]
+  },
+  {
+   "begin": "597.960",
+   "children": [],
+   "end": "598.800",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Let me finish."
+   ]
+  },
+  {
+   "begin": "598.800",
+   "children": [],
+   "end": "605.080",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "I talked about the principles and the issues that I think are important in a patient's bill of rights."
+   ]
+  },
+  {
+   "begin": "605.080",
+   "children": [],
+   "end": "607.200",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "It's kind of Washington, D.C. focus."
+   ]
+  },
+  {
+   "begin": "607.200",
+   "children": [],
+   "end": "610.440",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Well, it's in this committee or it's got this sponsor."
+   ]
+  },
+  {
+   "begin": "610.440",
+   "children": [],
+   "end": "618.120",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "If I'm the president, we're going to have emergency room care, we're going have gag orders, we're going to have direct access to OB/GYN."
+   ]
+  },
+  {
+   "begin": "618.120",
+   "children": [],
+   "end": "621.360",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "People will be able to take their HMO insurance company to court."
+   ]
+  },
+  {
+   "begin": "621.360",
+   "children": [],
+   "end": "625.800",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "That's what I've done in Texas and that's the kind of leadership style I'll bring to Washington."
+   ]
+  },
+  {
+   "begin": "625.800",
+   "children": [],
+   "end": "626.320",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "626.320",
+   "children": [],
+   "end": "636.520",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Another -- the next question also on health issue is from -- it will be asked by Marie Payne Kloepy, and it goes to Governor Bush."
+   ]
+  },
+  {
+   "begin": "636.520",
+   "children": [],
+   "end": "667.520",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Are either of you concerned with -- are either of you concerned with finding some feasible way to lower the price of pharmaceutical drugs such as education on minimizing intake, revamp of the FDA process or streamlining the drug companies' procedures instead of just finding more money to pay for them?"
+   ]
+  },
+  {
+   "begin": "667.520",
+   "children": [],
+   "end": "669.560",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Well, that's a great question."
+   ]
+  },
+  {
+   "begin": "669.560",
+   "children": [],
+   "end": "675.920",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "I think one of the problems we have, particularly for seniors, is there is no prescription drug coverage in Medicare."
+   ]
+  },
+  {
+   "begin": "675.920",
+   "children": [],
+   "end": "684.120",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "And therefore, when they have to try to purchase drugs they do so on their own, there's no kind of collective bargaining, no power of purchasing among seniors."
+   ]
+  },
+  {
+   "begin": "684.120",
+   "children": [],
+   "end": "700.160",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "So I think step one to make sure prescription drugs is more affordable for seniors, and those are the folks who really rely upon prescription drugs a lot these days, is to reform the Medicare system, is to have prescription drugs as an integral part of Medicare once and for all."
+   ]
+  },
+  {
+   "begin": "700.160",
+   "children": [],
+   "end": "711.560",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "The problem we have today is like the patient's bill of rights, particularly with health care, there's a lot of bickering in Washington, D.C."
+   ]
+  },
+  {
+   "begin": "711.560",
+   "children": [],
+   "end": "714.760",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "It's kind of like a political issue as opposed to a people issue."
+   ]
+  },
+  {
+   "begin": "714.760",
+   "children": [],
+   "end": "733.880",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "So what I want to do is I want to call upon Republicans and Democrats to forget all the arguing and finger pointing, and come together and take care of our seniors' prescription drug program, that says we'll pay for the poor seniors, we'll help all seniors with prescription drugs."
+   ]
+  },
+  {
+   "begin": "733.880",
+   "children": [],
+   "end": "746.120",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "In the meantime, I think it's important to have what's called Immediate Helping Hand, which is direct money to states so that seniors, poor seniors, don't have to choose between food and medicine."
+   ]
+  },
+  {
+   "begin": "746.120",
+   "children": [],
+   "end": "748.840",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "That's part of an overall overhaul."
+   ]
+  },
+  {
+   "begin": "748.840",
+   "children": [],
+   "end": "750.520",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "The purchasing powers."
+   ]
+  },
+  {
+   "begin": "750.520",
+   "children": [],
+   "end": "753.080",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "And I'm against price controls."
+   ]
+  },
+  {
+   "begin": "753.080",
+   "children": [],
+   "end": "758.640",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "I think price controls would hurt our ability to continue important research and development."
+   ]
+  },
+  {
+   "begin": "758.640",
+   "children": [],
+   "end": "762.360",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Drug therapies are replacing a lot of medicines as we used to know it."
+   ]
+  },
+  {
+   "begin": "762.360",
+   "children": [],
+   "end": "767.560",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "One of the most important things is to continue the research and development component."
+   ]
+  },
+  {
+   "begin": "767.560",
+   "children": [],
+   "end": "769.560",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "And so I'm against price controls."
+   ]
+  },
+  {
+   "begin": "769.560",
+   "children": [],
+   "end": "772.680",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Expediting drugs through the FDA makes sense, of course."
+   ]
+  },
+  {
+   "begin": "772.680",
+   "children": [],
+   "end": "784.400",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Allowing the new bill that was passed in the Congress made sense to allow for, you know, drugs that were sold overseas to come back and other countries to come back into the United States."
+   ]
+  },
+  {
+   "begin": "784.400",
+   "children": [],
+   "end": "785.520",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "That makes sense."
+   ]
+  },
+  {
+   "begin": "785.520",
+   "children": [],
+   "end": "788.480",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "But the best thing to do is to reform Medicare."
+   ]
+  },
+  {
+   "begin": "788.480",
+   "children": [],
+   "end": "791.040",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Vice President Gore, two minutes."
+   ]
+  },
+  {
+   "begin": "791.040",
+   "children": [],
+   "end": "792.640",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "All right, here we go again."
+   ]
+  },
+  {
+   "begin": "792.640",
+   "children": [],
+   "end": "808.280",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Now look, if you want someone who will spend a lot of words describing a whole convoluted process and then end up supporting legislation that is supported by the big drug companies, this is your man."
+   ]
+  },
+  {
+   "begin": "808.280",
+   "children": [],
+   "end": "825.360",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "If you want someone who will fight for you and who will fight for the middle-class families and working men and women, who are sick and tired of having their parents and grandparents pay higher prices for prescription drugs than anybody else, then I want to fight for you."
+   ]
+  },
+  {
+   "begin": "825.360",
+   "children": [],
+   "end": "831.160",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "And you asked a great question because it's not only seniors."
+   ]
+  },
+  {
+   "begin": "831.160",
+   "children": [],
+   "end": "838.240",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Listen, for 24 years I have never been afraid to take on the big drug companies."
+   ]
+  },
+  {
+   "begin": "838.240",
+   "children": [],
+   "end": "840.160",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "They do some great things."
+   ]
+  },
+  {
+   "begin": "840.160",
+   "children": [],
+   "end": "843.480",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "They discover great new cures and that's great."
+   ]
+  },
+  {
+   "begin": "843.480",
+   "children": [],
+   "end": "844.800",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "We want them to continue that."
+   ]
+  },
+  {
+   "begin": "844.800",
+   "children": [],
+   "end": "848.840",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "But they are now spending more money on advertising and promotion."
+   ]
+  },
+  {
+   "begin": "848.840",
+   "children": [],
+   "end": "849.920",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "You see all these ads?"
+   ]
+  },
+  {
+   "begin": "849.920",
+   "children": [],
+   "end": "852.600",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Than they are on research and development."
+   ]
+  },
+  {
+   "begin": "852.600",
+   "children": [],
+   "end": "859.640",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "And they are trying artificially extend the monopoly patent protection so they can keep charging these very high prices."
+   ]
+  },
+  {
+   "begin": "859.640",
+   "children": [],
+   "end": "870.600",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "I want to streamline the approval of the competing generic drugs and the new kinds of treatments that can compete with them so we bring the price down for everybody."
+   ]
+  },
+  {
+   "begin": "870.600",
+   "children": [],
+   "end": "875.280",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Now, briefly, let me tell you how my prescription drug plan works."
+   ]
+  },
+  {
+   "begin": "875.280",
+   "children": [],
+   "end": "877.600",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "The governor talked about Medicare."
+   ]
+  },
+  {
+   "begin": "877.600",
+   "children": [],
+   "end": "886.120",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "I propose a real prescription drug benefit under Medicare for all seniors, all seniors, and here's how it works."
+   ]
+  },
+  {
+   "begin": "886.120",
+   "children": [],
+   "end": "890.480",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "You pick your own doctor, and nobody can take that away from you."
+   ]
+  },
+  {
+   "begin": "890.480",
+   "children": [],
+   "end": "894.640",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "The doctor chooses the prescription that you need and nobody can overrule your doctor."
+   ]
+  },
+  {
+   "begin": "894.640",
+   "children": [],
+   "end": "898.560",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "You go to your own pharmacy and then Medicare pays half the price."
+   ]
+  },
+  {
+   "begin": "898.560",
+   "children": [],
+   "end": "900.320",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "If you're poor, they pay all of it."
+   ]
+  },
+  {
+   "begin": "900.320",
+   "children": [],
+   "end": "906.080",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "If you have extraordinarily high cost, then they pay all over $4,000 out-of-pocket."
+   ]
+  },
+  {
+   "begin": "906.080",
+   "children": [],
+   "end": "908.640",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "And I'll bring new competition to bring the price down."
+   ]
+  },
+  {
+   "begin": "908.640",
+   "children": [],
+   "end": "912.280",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "And if you pass the big drug companies' bill, nothing will happen."
+   ]
+  },
+  {
+   "begin": "912.280",
+   "children": [],
+   "end": "914.480",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "914.480",
+   "children": [],
+   "end": "919.720",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "Another health question, it comes from Vickie French, and it's for you, Vice President Gore."
+   ]
+  },
+  {
+   "begin": "919.720",
+   "children": [],
+   "end": "921.160",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Vickie French, where are you?"
+   ]
+  },
+  {
+   "begin": "921.160",
+   "children": [],
+   "end": "923.960",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "Oh, there she is."
+   ]
+  },
+  {
+   "begin": "923.960",
+   "children": [],
+   "end": "929.880",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "We spend billions of dollars every year on taxes, or pay billions of dollars in taxes."
+   ]
+  },
+  {
+   "begin": "929.880",
+   "children": [],
+   "end": "933.600",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Would you be open to the idea of a national health care plan for everybody?"
+   ]
+  },
+  {
+   "begin": "933.600",
+   "children": [],
+   "end": "935.720",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "And if not, why?"
+   ]
+  },
+  {
+   "begin": "935.720",
+   "children": [],
+   "end": "941.840",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "If so, is this something you would try to implement if you are elected into office and what would you do to implement this plan?"
+   ]
+  },
+  {
+   "begin": "941.840",
+   "children": [],
+   "end": "949.920",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "I think that we should move step-by-step toward universal health coverage, but I am not in favor of government doing it all."
+   ]
+  },
+  {
+   "begin": "949.920",
+   "children": [],
+   "end": "961.720",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "We've spent 65 years now on the development of a hybrid system, partly private, partly public, and 85% of our people have health insurance, 15% don't."
+   ]
+  },
+  {
+   "begin": "961.720",
+   "children": [],
+   "end": "963.560",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "That adds up to 44 million people."
+   ]
+  },
+  {
+   "begin": "963.560",
+   "children": [],
+   "end": "965.440",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "That is a national outrage."
+   ]
+  },
+  {
+   "begin": "965.440",
+   "children": [],
+   "end": "985.320",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "We have got to get health coverage for those who do not have it and we've got to improve the quality for those who do with a patient's bill of rights that's real and that works, the Dingle-Norwood bill, and we have got to fill in the gaps in coverage by finally bringing parity for the treatment of mental illness, because that's been left out."
+   ]
+  },
+  {
+   "begin": "985.320",
+   "children": [],
+   "end": "987.040",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "We have got to deal with long-term care."
+   ]
+  },
+  {
+   "begin": "987.040",
+   "children": [],
+   "end": "989.960",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Now, here are the steps that I would take, first of all."
+   ]
+  },
+  {
+   "begin": "989.960",
+   "children": [],
+   "end": "999.920",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "I will make a commitment to bring health care coverage of high quality that is affordable to every single child in America within four years."
+   ]
+  },
+  {
+   "begin": "999.920",
+   "children": [],
+   "end": "1010.560",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "And then we'll fill other gaps by covering the parents of those children when the family is poor or up to two and a half times the poverty rate."
+   ]
+  },
+  {
+   "begin": "1010.560",
+   "children": [],
+   "end": "1015.000",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "I want to give a tax credit for the purchase of individual health insurance plans."
+   ]
+  },
+  {
+   "begin": "1015.000",
+   "children": [],
+   "end": "1025.840",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "I want to give small business employers a tax credit, 25%, to encourage the providing of health insurance for the employees in small businesses."
+   ]
+  },
+  {
+   "begin": "1025.840",
+   "children": [],
+   "end": "1042.960",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "I want to give seniors who are, well, the near elderly, I don't like that term because I am just about in that category, but those 55 to 65 ought to be able to buy into Medicare for premiums that are reasonable and fair and significantly below what they have to get now."
+   ]
+  },
+  {
+   "begin": "1042.960",
+   "children": [],
+   "end": "1045.560",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Now, we have a big difference on this."
+   ]
+  },
+  {
+   "begin": "1045.560",
+   "children": [],
+   "end": "1047.560",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "And you need to know the record here."
+   ]
+  },
+  {
+   "begin": "1047.560",
+   "children": [],
+   "end": "1057.200",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Under Governor Bush, Texas has sunk to be 50th out of 50 in health care -- in health insurance for their citizens."
+   ]
+  },
+  {
+   "begin": "1057.200",
+   "children": [],
+   "end": "1065.000",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "Last week he said that they were spending 3.7 billion dollars, or 4.7 billion dollars on this."
+   ]
+  },
+  {
+   "begin": "1065.000",
+   "children": [],
+   "end": "1065.960",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Mr. Vice president."
+   ]
+  },
+  {
+   "begin": "1065.960",
+   "children": [],
+   "end": "1066.280",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "1066.280",
+   "children": [],
+   "end": "1066.960",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Time is up."
+   ]
+  },
+  {
+   "begin": "1066.960",
+   "children": [],
+   "end": "1068.080",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Governor Bush, two minutes."
+   ]
+  },
+  {
+   "begin": "1068.080",
+   "children": [],
+   "end": "1074.160",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "I'm absolutely opposed to a national health care plan."
+   ]
+  },
+  {
+   "begin": "1074.160",
+   "children": [],
+   "end": "1080.680",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "I don't want the federal government making decisions for consumers or for providers."
+   ]
+  },
+  {
+   "begin": "1080.680",
+   "children": [],
+   "end": "1086.200",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "I remember what the administration tried to do in 1993."
+   ]
+  },
+  {
+   "begin": "1086.200",
+   "children": [],
+   "end": "1089.200",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "They tried to have a national health care plan."
+   ]
+  },
+  {
+   "begin": "1089.200",
+   "children": [],
+   "end": "1091.120",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "And fortunately, it failed."
+   ]
+  },
+  {
+   "begin": "1091.120",
+   "children": [],
+   "end": "1093.400",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "I trust people, I don't trust the federal government."
+   ]
+  },
+  {
+   "begin": "1093.400",
+   "children": [],
+   "end": "1095.200",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "It's going to be one of the themes you hear tonight."
+   ]
+  },
+  {
+   "begin": "1095.200",
+   "children": [],
+   "end": "1099.160",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "I don't want the federal government making decisions on behalf of everybody."
+   ]
+  },
+  {
+   "begin": "1099.160",
+   "children": [],
+   "end": "1104.520",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "There is an issue with the uninsured, there sure is."
+   ]
+  },
+  {
+   "begin": "1104.520",
+   "children": [],
+   "end": "1106.640",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "And we have uninsured people in my state."
+   ]
+  },
+  {
+   "begin": "1106.640",
+   "children": [],
+   "end": "1109.560",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Ours is a big state, a fast-growing state."
+   ]
+  },
+  {
+   "begin": "1109.560",
+   "children": [],
+   "end": "1112.680",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "We share a common border with another nation."
+   ]
+  },
+  {
+   "begin": "1112.680",
+   "children": [],
+   "end": "1115.280",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "But we're providing health care for our people."
+   ]
+  },
+  {
+   "begin": "1115.280",
+   "children": [],
+   "end": "1119.960",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "One thing about insurance, that's a Washington term."
+   ]
+  },
+  {
+   "begin": "1119.960",
+   "children": [],
+   "end": "1125.400",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "The question is, are people getting health care, and we have a strong safety net, and there needs to be a safety net in America."
+   ]
+  },
+  {
+   "begin": "1125.400",
+   "children": [],
+   "end": "1131.720",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "There needs to be more community health clinics where the poor can go get health care."
+   ]
+  },
+  {
+   "begin": "1131.720",
+   "children": [],
+   "end": "1133.760",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "We need a program for the uninsured."
+   ]
+  },
+  {
+   "begin": "1133.760",
+   "children": [],
+   "end": "1135.720",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "They've been talking about it in Washington, D.C."
+   ]
+  },
+  {
+   "begin": "1135.720",
+   "children": [],
+   "end": "1139.640",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "The number of uninsured has now gone up for the past seven years."
+   ]
+  },
+  {
+   "begin": "1139.640",
+   "children": [],
+   "end": "1149.360",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "We need a $2,000 credit, rebate for people, working people that don't have insurance, they can get in the marketplace and start purchasing insurance."
+   ]
+  },
+  {
+   "begin": "1149.360",
+   "children": [],
+   "end": "1160.840",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "We need to have -- allow small businesses to write insurance across jurisdictional lines so small business can afford health care, small restaurants can afford health care."
+   ]
+  },
+  {
+   "begin": "1160.840",
+   "children": [],
+   "end": "1164.320",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "So health care needs to be affordable and available."
+   ]
+  },
+  {
+   "begin": "1164.320",
+   "children": [],
+   "end": "1167.040",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "We have to trust people to make decisions with their lives."
+   ]
+  },
+  {
+   "begin": "1167.040",
+   "children": [],
+   "end": "1180.320",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "In the Medicare reform I talk about it says if you are a senior, you can stay in Medicare if you like it, and that's fine, but we're going to give you other choices to choose if you want to do so, just like they do the federal employees."
+   ]
+  },
+  {
+   "begin": "1180.320",
+   "children": [],
+   "end": "1185.280",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "The people that work in Washington, D.C. for the U.S. Congress or the United States senate."
+   ]
+  },
+  {
+   "begin": "1185.280",
+   "children": [],
+   "end": "1188.360",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "Get a variety of choices to make in their lives."
+   ]
+  },
+  {
+   "begin": "1188.360",
+   "children": [],
+   "end": "1191.680",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "And that's what we ought to do for all people in America."
+   ]
+  },
+  {
+   "begin": "1191.680",
+   "children": [],
+   "end": "1192.760",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "Yes, sir, sorry."
+   ]
+  },
+  {
+   "begin": "1192.760",
+   "children": [],
+   "end": "1193.160",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "Follow-up?"
+   ]
+  },
+  {
+   "begin": "1193.160",
+   "children": [],
+   "end": "1195.600",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "Trying to find my light."
+   ]
+  },
+  {
+   "begin": "1195.600",
+   "children": [],
+   "end": "1196.960",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "Not right now."
+   ]
+  },
+  {
+   "begin": "1196.960",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "Education."
+   ]
+  }
+ ]
+}

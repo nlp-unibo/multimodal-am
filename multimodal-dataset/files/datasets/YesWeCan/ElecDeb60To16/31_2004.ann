@@ -1,0 +1,1071 @@
+T1	Claim 2559 2669	you've been bombarded with advertisements suggesting that I've changed a position on this or that or the other
+T2	Premise 2405 2534	the president didn't find weapons of mass destruction in Iraq, so he's really turned his campaign into a weapon of mass deception
+T3	Premise 2694 2754	they try to say I've changed position on are the Patriot Act
+T4	Claim 2756 2765	I haven't
+T5	Claim 2767 2779	I support it
+T6	Claim 3425 3450	I haven't changed my mind
+T7	Claim 3452 3478	I'm going to fully fund it
+T8	Claim 3710 3791	I'm going to close the loopholes that actually encourage companies to go overseas
+T9	Premise 3793 3830	The president wants to keep them open
+T10	Claim 3832 3849	I think I'm right
+T11	Claim 3851 3869	I think he's wrong
+T12	Claim 3872 3903	I'm going to give you a tax cut
+T13	Claim 4078 4098	I think that's wrong
+T14	Claim 4100 4122	That's not wishy-washy
+T15	Claim 4128 4161	that's what I'm fighting for, you
+T16	Premise 3905 4076	The president gave the top 1 percent of income-earners in America, got $89 billion last year, more than the 80 percent of people who earn $100,000 or less all put together
+T17	Premise 2955 2979	No Child Left Behind Act
+T18	Premise 2981 2995	I voted for it
+T19	Premise 2781 2835	I just don't like the way John Ashcroft has applied it
+T20	Claim 2841 2875	we're going to change a few things
+T21	Premise 2877 2952	The chairman of the Republican Party thinks we ought to change a few things
+T22	Claim 2997 3009	I support it
+T23	Claim 3011 3030	I support the goals
+T24	Premise 3037 3084	the president has underfunded it by $28 billion
+T25	Premise 3087 3140	Right here in St. Louis, you've laid off 350 teachers
+T26	Premise 3142 3311	You're 150 -- excuse me, I think it's a little more, about $100 million shy of what you ought to be under the No Child Left Behind Act to help your education system here
+T27	Premise 3317 3338	I complain about that
+T28	Premise 3340 3382	I've argued that we should fully funded it
+T29	Premise 3384 3423	The president says I've changed my mind
+T30	Premise 3517 3593	the president has presided over an economy where we've lost 1.6 million jobs
+T31	Premise 3595 3639	The first president in 72 years to lose jobs
+T32	Claim 3642 3682	I have a plan to put people back to work
+T33	Claim 3684 3707	That's not wishy- washy
+T34	Claim 4332 4420	I can see why people at your workplace think he changes positions a lot, because he does
+T35	Premise 4422 4509	He said he voted for the $87 billion, and voted against it right before he voted for it
+T36	Premise 4515 4554	that sends a confusing signal to people
+T37	Premise 4557 4679	He said he thought Saddam Hussein was a grave threat, and now he said it was a mistake to remove Saddam Hussein from power
+T38	Claim 4686 4766	I can see why people think that he changes position quite often, because he does
+T39	Premise 4779 4849	for a while he was a strong supporter of getting rid of Saddam Hussein
+T40	Premise 4851 4997	He saw the wisdom -- until the Democrat primary came along and Howard Dean, the anti-war candidate, began to gain on him, and he changed positions
+T41	Claim 5000 5129	I don't see how you can lead this country in a time of war, in a time of uncertainty, if you change your mind because of politics
+T42	Premise 5132 5162	He just brought up the tax cut
+T43	Premise 5164 5217	You remember we increased that child credit by $1,000
+T44	Premise 5219 5247	reduced the marriage penalty
+T45	Premise 5249 5312	created a 10 percent tax bracket for the lower-income Americans
+T46	Premise 5314 5346	That's right at the middle class
+T47	Premise 5349 5368	He voted against it
+T48	Premise 5374 5423	yet he tells you he's for a middle- class tax cut
+T49	Claim 5433 5486	you've got to be consistent when you're the president
+T50	Premise 5488 5514	There's a lot of pressures
+T51	Claim 5520 5556	you've got to be firm and consistent
+T52	Claim 7093 7152	I saw a unique threat in Saddam Hussein, as did my opponent
+T53	Premise 7162 7207	we thought he had weapons of mass destruction
+T54	Premise 7214 7315	the unique threat was that he could give weapons of mass destruction to an organization like Al Qaida
+T55	Claim 7321 7424	the harm they inflicted on us with airplanes would be multiplied greatly by weapons of mass destruction
+T56	Claim 7430 7466	that was the serious, serious threat
+T57	Claim 6423 6474	After 9/11, we had to look at the world differently
+T58	Claim 6476 6587	After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us
+T59	Premise 6590 6676	In the old days we'd see a threat, and we could deal with it if we felt like it or not
+T60	Premise 6295 6359	obviously we hope that diplomacy works before you ever use force
+T61	Premise 6361 6420	The hardest decision a president makes is ever to use force
+T62	Premise 6682 6701	9/11 changed it all
+T63	Premise 6704 6795	I vowed to our countrymen that I would do everything I could to protect the American people
+T64	Claim 6797 6842	That's why we're bringing Al Qaida to justice
+T65	Premise 6844 6901	Seventy five percent of them have been brought to justice
+T66	Premise 7009 7042	the Taliban is no longer in power
+T67	Premise 7048 7086	Al Qaida no longer has a place to plan
+T68	Claim 6938 7003	If you harbor a terrorist, you're just as guilty as the terrorist
+T69	Premise 7472 7517	I tried diplomacy, went to the United Nations
+T70	Premise 7523 7640	as we learned in the same report I quoted, Saddam Hussein was gaming the oil-for-food program to get rid of sanctions
+T71	Premise 7642 7735	He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs
+T72	Premise 7785 7828	My opponent thought there was weapons there
+T73	Premise 7830 7869	That's why he called him a grave threat
+T75	Premise 7931 7989	we've got an intelligence group together to figure out why
+T76	Claim 7996 8030	Saddam Hussein was a unique threat
+T77	Claim 8036 8080	the world is better off without him in power
+T78	Premise 8087 8209	my opponent's plans lead me to conclude that Saddam Hussein would still be in power, and the world would be more dangerous
+T79	Claim 8404 8437	The world is more dangerous today
+T80	Claim 8439 8472	The world is more dangerous today
+T81	Premise 8481 8526	the president didn't make the right judgments
+T82	Claim 9232 9269	I've never changed my mind about Iraq
+T83	Premise 9271 9311	I do believe Saddam Hussein was a threat
+T84	Premise 9313 9346	I always believed he was a threat
+T85	Premise 9348 9394	Believed it in 1998 when Clinton was president
+T86	Premise 9396 9456	I wanted to give Clinton the power to use force if necessary
+T87	Claim 9463 9498	I would have used that force wisely
+T88	Claim 9500 9539	I would have used that authority wisely
+T89	Claim 9541 9590	not rushed to war without a plan to win the peace
+T90	Claim 9593 9636	I would have brought our allies to our side
+T91	Claim 9638 9736	I would have fought to make certain our troops had everybody possible to help them win the mission
+T92	Premise 9769 9792	pushed our allies aside
+T94	Claim 9798 9869	Iran now is more dangerous, and so is North Korea, with nuclear weapons
+T95	Claim 8583 8690	He wants you to believe that because he can't come here and tell you that he's created new jobs for America
+T96	Claim 8534 8581	the president wishes that I had changed my mind
+T97	Premise 8692 8706	He's lost jobs
+T98	Claim 8709 8784	He can't come here and tell you that he's created health care for Americans
+T99	Premise 8800 8900	we've got 5 million Americans who have lost their health care, 96,000 of them right here in Missouri
+T74	Premise 7872 7925	I wasn't happy when we found out there wasn't weapons
+T93	Premise 9739 9767	This president rushed to war
+T100	Claim 8903 8965	He can't come here and tell you that he's left no child behind
+T101	Premise 8974 9009	he didn't fund no child left behind
+T102	Claim 9032 9056	He's trying to attack me
+T103	Claim 9058 9107	He wants you to believe that I can't be president
+T104	Claim 9113 9147	he's trying to make you believe it
+T105	Claim 9156 9194	he wants you to think I change my mind
+T106	Claim 10519 10546	Saddam Hussein was a threat
+T107	Premise 10555 10623	he could have given weapons of mass destruction to terrorist enemies
+T108	Premise 10259 10354	My opponent said that America must pass a global test before we used force to protect ourselves
+T109	Premise 10356 10415	That's the kind of mindset that says sanctions were working
+T110	Premise 10417 10517	That's the kind of mindset that said, "Let's keep it at the United Nations and hope things go well."
+T111	Claim 10625 10651	Sanctions were not working
+T112	Claim 10653 10716	The United Nations was not effective at removing Saddam Hussein
+T113	Claim 10745 10853	The goal of the sanctions was not to remove Saddam Hussein, it was to remove the weapons of mass destruction
+T114	Premise 10875 10949	just yesterday the Duelfer report told you and the whole world they worked
+T115	Premise 10951 10993	He didn't have weapons of mass destruction
+T116	Claim 11068 11124	we could have saved $200 billion and an invasion of Iraq
+T117	Premise 11038 11066	if we'd used smart diplomacy
+T118	Premise 11010 11032	That was the objective
+T119	Premise 11130 11181	right now, Osama bin Laden might be in jail or dead
+T120	Premise 11183 11212	That's the war against terror
+T121	Claim 11560 11571	I would not
+T122	Premise 11573 11605	I have laid out a different plan
+T123	Claim 11615 11650	the president's plan is not working
+T124	Premise 11652 11690	You see that every night on television
+T125	Premise 11692 11713	There's chaos in Iraq
+T126	Premise 11715 11846	King Abdullah of Jordan said just yesterday or the day before you can't hold elections in Iraq with the chaos that's going on today
+T127	Premise 11849 12032	Senator Richard Lugar, the Republican chairman of the Foreign Relations Committee, said that the handling of the reconstruction aid in Iraq by this administration has been incompetent
+T128	Premise 12034 12075	Those are the Republican chairman's words
+T129	Premise 12078 12173	Senator Hagel of Nebraska said that the handling of Iraq is beyond pitiful, beyond embarrassing
+T130	Premise 12175 12204	it's in the zone of dangerous
+T131	Premise 12207 12297	Those are the words of two Republicans, respected, both on the Foreign Relations Committee
+T132	Claim 12357 12424	I would reach out to our allies in a way that this president hasn't
+T133	Premise 12426 12521	He pushed them away time and again, pushed them away at the U.N., pushed them away individually
+T134	Premise 12524 12624	Two weeks ago, there was a meeting of the North Atlantic Council, which is the political arm of NATO
+T135	Premise 12626 12732	They discussed the possibility of a small training unit or having a total takeover of the training in Iraq
+T136	Premise 12735 12797	Did our administration push for the total training of Iraq? No
+T137	Premise 12799 12820	Were they silent? Yes
+T138	Premise 12823 12952	Was there an effort to bring all the allies together around that? No, because they've always wanted this to be an American effort
+T139	Premise 12955 13154	You know, they even had the Defense Department issue a memorandum saying, "Don't bother applying for assistance or for being part of the reconstruction if you weren't part of our original coalition."
+T140	Premise 13161 13257	that's not a good way to build support and reduce the risk for our troops and make America safer
+T141	Claim 13260 13309	I'm going to get the training done for our troops
+T142	Claim 13311 13362	I'm going to get the training of Iraqis done faster
+T143	Claim 13368 13413	I'm going to get our allies back to the table
+T144	Claim 14038 14063	we need to stand with him
+T145	Claim 14098 14116	it sounds familiar
+T146	Premise 14126 14151	it's called the Bush plan
+T147	Premise 14066 14096	My opponent says he has a plan
+T148	Claim 14153 14192	We're going to train troops, and we are
+T149	Claim 14194 14243	We'll have 125,000 trained by the end of December
+T150	Premise 13423 13497	Two days ago in the Oval Office, I met with the finance minister from Iraq
+T151	Premise 13499 13516	He came to see me
+T152	Premise 13522 13610	he talked about how optimistic he was and the country was about heading toward elections
+T153	Premise 13612 13667	Think about it: They're going from tyranny to elections
+T154	Premise 13670 13744	He talked about the reconstruction efforts that are beginning to take hold
+T155	Premise 13746 13798	He talked about the fact that Iraqis love to be free
+T156	Premise 13801 13948	He said he was optimistic when he came here, then he turned on the TV and listened to the political rhetoric and all of a sudden he was pessimistic
+T157	Premise 13956 14032	this is guy a who, along with others, has taken great risk for great freedom
+T158	Premise 14245 14276	We're spending about $7 billion
+T159	Claim 14713 14742	I know how these people think
+T160	Premise 14744 14773	I meet with them all the time
+T161	Premise 14775 14808	I talk to Tony Blair all the time
+T162	Premise 14810 14837	I talk to Silvio Berlusconi
+T163	Claim 14839 14922	They're not going to follow an American president who says follow me into a mistake
+T164	Claim 14924 14943	Our plan is working
+T165	Claim 14945 14974	We're going to make elections
+T166	Claim 14980 15004	Iraq is going to be free
+T167	Claim 15010 15043	America will be better off for it
+T168	Claim 14579 14710	Nobody is going to follow somebody who doesn't believe we can succeed and with somebody who says that war where we are is a mistake
+T169	Premise 14279 14389	He talks about a grand idea: Let's have a summit; we're going to solve the problem in Iraq by holding a summit
+T170	Premise 14396 14525	what is he going to say to those people that show up at the summit? Join me in the wrong war at the wrong time at the wrong place
+T171	Premise 14527 14576	Risk your troops in a war you've called a mistake
+T172	Claim 15488 15506	we have to succeed
+T173	Claim 15531 15553	I have been consistent
+T174	Premise 15508 15529	I've always said that
+T175	Claim 15560 15578	we have to succeed
+T176	Claim 15584 15621	I have a better plan to help us do it
+T177	Claim 15138 15187	the right war was Osama bin Laden and Afghanistan
+T178	Claim 15189 15213	That was the right place
+T179	Claim 15219 15247	the right time was Tora Bora
+T180	Premise 15254 15290	we had him cornered in the mountains
+T181	Premise 15298 15372	everyone in the world knows that there were no weapons of mass destruction
+T182	Claim 15374 15438	That was the reason Congress gave him the authority to use force
+T183	Premise 15440 15481	not after excuse to get rid of the regime
+T184	Claim 15645 15705	we didn't find out he didn't have weapons until we got there
+T185	Premise 15711 15790	my opponent thought he had weapons and told everybody he thought he had weapons
+T186	Claim 15806 15895	it's a fundamental misunderstanding to say that the war on terror is only Osama bin Laden
+T187	Claim 15897 16012	The war on terror is to make sure that these terrorist organizations do not end up with weapons of mass destruction
+T188	Claim 16014 16052	That's what the war on terror is about
+T189	Claim 16066 16101	we're going to find Osama bin Laden
+T190	Premise 16103 16141	We've already 75 percent of his people
+T191	Premise 16147 16172	we're on the hunt for him
+T192	Claim 16179 16231	this is a global conflict that requires firm resolve
+T193	Claim 16848 16946	I've made some decisions that have caused people to not understand the great values of our country
+T194	Premise 16813 16830	I love our values
+T195	Premise 16948 16995	I remember when Ronald Reagan was the president
+T196	Premise 16997 17018	he stood on principle
+T197	Premise 17020 17049	Somebody called that stubborn
+T198	Premise 17051 17130	He stood on principle standing up to the Soviet Union, and we won that conflict
+T199	Premise 17136 17234	at the same time, he was very -- we were very unpopular in Europe because of the decisions he made
+T200	Premise 17237 17293	I recognize that taking Saddam Hussein out was unpopular
+T201	Claim 17299 17382	I made the decision because I thought it was in the right interests of our security
+T202	Claim 17395 17446	I've made some decisions on Israel that's unpopular
+T203	Claim 17448 17475	I wouldn't deal with Arafat
+T204	Premise 17485 17533	I felt like he had let the former president down
+T205	Claim 17539 17617	I don't think he's the kind of person that can lead toward a Palestinian state
+T206	Premise 17624 17666	people in Europe didn't like that decision
+T207	Premise 17672 17690	that was unpopular
+T208	Claim 17696 17724	it was the right thing to do
+T209	Claim 17727 17771	I believe Palestinians ought to have a state
+T210	Claim 18083 18118	I don't think we ought to join that
+T211	Premise 18120 18138	That was unpopular
+T212	Premise 17905 18080	I made a decision not to join the International Criminal Court in The Hague, which is where our troops could be brought to -- brought in front of a judge, an unaccounted judge
+T213	Claim 17777 17848	I know they need leadership that's committed to a democracy and freedom
+T214	Premise 17850 17902	leadership that would be willing to reject terrorism
+T215	Claim 18182 18266	sometimes in this world you make unpopular decisions because you think they're right
+T216	Claim 18469 18556	I don't think you want a president who tries to become popular and does the wrong thing
+T217	Claim 18559 18670	You don't want to join the International Criminal Court just because it's popular in certain capitals in Europe
+T218	Premise 18269 18296	We'll continue to reach out
+T219	Premise 18307 18384	there is 30 nations involved in Iraq, some 40 nations involved in Afghanistan
+T220	Premise 18387 18406	People love America
+T221	Premise 18408 18463	Sometimes they don't like the decisions made by America
+T222	Claim 18900 19000	every part of the president's answer just now promises you more of the same over the next four years
+T223	Premise 19003 19174	The president stood right here in this hall four years ago, and he was asked a question by somebody just like you, "Under what circumstances would you send people to war?"
+T224	Premise 19180 19274	his answer was, "With a viable exit strategy and only with enough forces to get the job done."
+T225	Premise 19276 19293	He didn't do that
+T226	Premise 19295 19316	He broke that promise
+T227	Claim 19318 19346	We didn't have enough forces
+T228	Premise 19349 19446	General Shinseki, the Army chief of staff, told him he was going to need several hundred thousand
+T229	Premise 19464 19514	They retired General Shinseki for telling him that
+T230	Claim 19517 19547	This president hasn't listened
+T231	Premise 19550 19633	I went to meet with the members of the Security Council in the week before we voted
+T232	Premise 19635 19653	I went to New York
+T233	Premise 19655 19760	I talked to all of them to find out how serious they were about really holding Saddam Hussein accountable
+T234	Claim 19763 19789;19940 19963	I came away convinced that they'd be there with us
+T235	Premise 19791 19809	if we worked at it
+T236	Premise 19811 19910	if we were ready to work and letting Hans Blix do his job and thoroughly go through the inspections
+T237	Premise 19917 19938	if push came to shove
+T238	Premise 19970 20090	the president just arbitrarily brought the hammer down and said, "Nope. Sorry, time for diplomacy is over. We're going."
+T239	Premise 20092 20140	He rushed to war without a plan to win the peace
+T240	Premise 20143 20218	Ladies and gentleman, he gave you a speech and told you he'd plan carefully
+T241	Premise 20220 20241	take every precaution
+T242	Premise 20243 20266	take our allies with us
+T243	Premise 20268 20277	He didn't
+T244	Claim 20279 20296	He broke his word
+T245	Claim 20836 20927	A president sets the strategy and relies upon good military people to execute that strategy
+T246	Claim 20806 20834	That's what a president does
+T247	Premise 20780 20804	I listen to our generals
+T248	Premise 20330 20470	I remember sitting in the White House looking at those generals, saying, "Do you have what you need in this war? Do you have what it takes?"
+T249	Premise 20471 20700	I remember going down to the basement of the White House the day we committed our troops as last resort, looking at Tommy Franks and the generals on the ground, asking them, "Do we have the right plan with the right troop level?"
+T250	Premise 20706 20768	they looked me in the eye and said, "Yes, sir, Mr. President."
+T251	Claim 21298 21341	The president did not do what was necessary
+T252	Premise 21343 21372	Didn't bring in enough nation
+T253	Premise 21374 21397	Didn't deliver the help
+T254	Premise 21399 21427	Didn't close off the borders
+T255	Premise 21429 21461	Didn't even guard the ammo dumps
+T256	Premise 21467 21530	now our kids are being killed with ammos right out of that dump
+T257	Claim 21044 21104	winning the peace is larger than just the military component
+T258	Premise 20956 21038	You rely on good military people to execute the military component of the strategy
+T259	Premise 21106 21218	General Shinseki had the wisdom to say, "You're going to need several hundred thousand troops to win the peace."
+T260	Premise 21219 21255	The military's job is to win the war
+T261	Premise 21258 21295	A president's job is to win the peace
+T262	Claim 21947 21996	I don't think you can just rely on U.N. sanctions
+T263	Claim 22037 22051	it is a threat
+T264	Claim 22053 22071	it's a huge threat
+T265	Premise 22100 22208	it's a threat that has grown while the president has been preoccupied with Iraq, where there wasn't a threat
+T266	Claim 22262 22369	we wouldn't have 10 times the numbers of forces in Iraq that we have in Afghanistan chasing Osama bin Laden
+T267	Premise 22211 22260	If he'd let the inspectors do their job and go on
+T268	Premise 22372 22617	Meanwhile, while Iran is moving toward nuclear weapons, some 37 tons of what they called yellow cake, the stuff they use to make enriched uranium, while they're doing that, North Korea has moved from one bomb maybe, maybe, to four to seven bombs
+T269	Premise 22620 22884	For two years, the president didn't even engage with North Korea, did nothing at all, while it was growing more dangerous, despite the warnings of former Secretary of Defense William Perry, who negotiated getting television cameras and inspectors into that reactor
+T270	Claim 22887 22937	We were safer before President Bush came to office
+T271	Claim 22967 22982	we're less safe
+T272	Premise 22939 22962	Now they have the bombs
+T273	Claim 23003 23113	We've got to join with the British and the French, with the Germans, who've been involved, in their initiative
+T274	Claim 23115 23188	We've got to lead the world now to crack down on proliferation as a whole
+T275	Premise 23195 23247	the president's been slow to do that, even in Russia
+T276	Claim 23250 23375	At his pace, it's going to take 13 years to reduce and get ahold of all the loose nuclear material in the former Soviet Union
+T277	Premise 23377 23463	I've proposed a plan that can capture it and contain it and clean it within four years
+T278	Premise 23470 23551	the president is moving to the creation of our own bunker- busting nuclear weapon
+T279	Claim 23656 23727	I'm going to lead the world in the greatest counterproliferation effort
+T280	Premise 23553 23653	It's very hard to get other countries to give up their weapons when you're busy developing a new one
+T281	Claim 23733 23797	if we have to get tough with Iran, believe me, we will get tough
+T282	Claim 23953 23989	It's naive and dangerous to say that
+T283	Premise 23991 24028	That's what the Duelfer report showed
+T284	Premise 23894 23952	He keeps talking about, "Let the inspectors do their job."
+T285	Premise 24030 24061	He was deceiving the inspectors
+T286	Claim 24162 24363	we're doing what he suggested we do: Get the Brits, the Germans and the French to go make it very clear to the Iranians that if they expect to be a party to the world to give up their nuclear ambitions
+T287	Premise 24084 24113	we've been involved with Iran
+T288	Premise 24116 24145	I fully understand the threat
+T289	Claim 24365 24386	We've been doing that
+T290	Claim 24421 24550	It is naive and dangerous to take a policy that he suggested the other day, which is to have bilateral relations with North Korea
+T291	Premise 24626 24794	He now wants to take the six-party talks we have -- China, North Korea, South Korea, Russia, Japan and the United States -- and undermine them by having bilateral talks
+T292	Premise 24562 24624	he's the person who's accusing me of not acting multilaterally
+T293	Premise 24797 24830	That's what President Clinton did
+T294	Premise 24832 24877	He had bilateral talks with the North Koreans
+T295	Premise 24905 24934	He didn't honor the agreement
+T296	Premise 24936 24960	He was enriching uranium
+T297	Claim 24962 24982	That is a bad policy
+T298	Claim 24996 25027	we're paying attention to these
+T299	Claim 25111 25164	There's an "Axis of Evil," Iraq, Iran and North Korea
+T300	Claim 25170 25198	we're paying attention to it
+T301	Claim 25204 25225	we're making progress
+T302	Claim 25617 25648	We're not going to have a draft
+T303	Premise 25658 25687	The all- volunteer army works
+T304	Premise 25689 25738	It works particularly when we pay our troops well
+T305	Premise 25740 25834	It works when we make sure they've got housing, like we have done in the last military budgets
+T306	Claim 25837 25915	An all-volunteer army is best suited to fight the new wars of the 21st century
+T307	Premise 25917 25998	which is to be specialized and to find these people as they hide around the world
+T308	Claim 26001 26034	We don't need mass armies anymore
+T309	Claim 26036 26128	One of the things we've done is we've taken the -- we're beginning to transform our military
+T310	Premise 26150 26229	we're moving troops out of Korea and replacing them with more effective weapons
+T311	Premise 26231 26305	We don't need as much manpower on the Korean Peninsula to keep a deterrent
+T312	Premise 26308 26407	In Europe, we have massed troops as if the Soviet Union existed and was going to invade into Europe
+T313	Premise 26446 26526	we're moving troops out of Europe and replacing it with more effective equipment
+T314	Claim 26413 26437	those days are over with
+T315	Premise 26599 26666	we're withdrawing manpower so they can be stationed here in America
+T316	Premise 26668 26692	so there's less rotation
+T317	Claim 26765 26837	we'll be more likely to be able to keep people in the all-volunteer army
+T318	Premise 26694 26729	so life is easier on their families
+T319	Claim 26840 26925	One of the more important things we're doing in this administration is transformation
+T320	Premise 26927 26973	There are some really interesting technologies
+T321	Premise 26976 27092	For instance, we're flying unmanned vehicles that can send real- time messages back to stations in the United States
+T322	Premise 27094 27113	That saves manpower
+T323	Premise 27119 27137	it saves equipment
+T324	Claim 27159 27208	we can target things easier and move more quickly
+T325	Claim 27222 27290	we need to be lighter and quicker and more facile and highly trained
+T326	Claim 27334 27395	We're not going to have a draft so long as I am the president
+T327	Claim 27459 27482	I don't support a draft
+T328	Claim 28093 28141	our military is overextended under the president
+T329	Premise 27601 27902	I am very proud in this race to have the support of General John Shalikashvili, former chairman of the Joint Chiefs of Staff; Admiral William Crowe, former chairman of the Joint Chiefs of Staff; General Tony McPeak, who ran the air war for the president's father and did a brilliant job, supporting me
+T330	Premise 28144 28207	Our Guard and reserves have been turned into almost active duty
+T331	Premise 28209 28256	You've got people doing two and three rotations
+T332	Premise 28258 28339	You've got stop-loss policies, so people can't get out when they were supposed to
+T333	Premise 28341 28379	You've got a back-door draft right now
+T334	Premise 28386 28421	a lot of our military are underpaid
+T335	Premise 28423 28455	These are families that get hurt
+T336	Claim 28457 28482	It hurts the middle class
+T337	Claim 28484 28504	It hurts communities
+T338	Premise 28514 28544	these are our first responders
+T339	Premise 28550 28567	they're called up
+T340	Premise 28573 28606	they're over there, not over here
+T341	Claim 28614 28672	I'm going to add 40,000 active duty forces to the military
+T342	Claim 28678 28767	I'm going to make people feel good about being safe in our military, and not overextended
+T343	Claim 28777 28893	I'm going to run a foreign policy that actually does what President Reagan did, President Eisenhower did, and others
+T344	Claim 28896 28926	We're going to build alliances
+T345	Claim 28928 28962	We're not going to go unilaterally
+T346	Claim 28964 29015	We're not going to go alone like this president did
+T347	Claim 29535 29615	It denigrates an alliance to say we're going alone, to discount their sacrifices
+T348	Claim 29617 29685	You cannot lead an alliance if you say, you know, you're going alone
+T349	Premise 29332 29369	You tell Tony Blair we're going alone
+T350	Premise 29371 29404	Tell Tony Blair we're going alone
+T351	Premise 29406 29446	Tell Silvio Berlusconi we're going alone
+T352	Premise 29448 29503	Tell Aleksander Kwasniewski of Poland we're going alone
+T353	Premise 29505 29533	There are 30 countries there
+T354	Premise 29691 29704	people listen
+T355	Premise 29706 29733	They're sacrificing with us
+T356	Premise 29777 29825	countries are leaving the coalition, not joining
+T357	Premise 29827 29855	Eight countries have left it
+T358	Premise 29857 30072	If Missouri, just given the number of people from Missouri who are in the military over there today, were a country, it would be the third largest country in the coalition, behind Great Britain and the United States
+T359	Claim 30075 30103	That's not a grand coalition
+T360	Premise 30106 30151	Ninety percent of the casualties are American
+T361	Premise 30153 30211	Ninety percent of the costs are coming out of your pockets
+T362	Claim 30239 30264	My plan does a better job
+T363	Claim 30214 30237	I could do a better job
+T364	Claim 30281 30316	I'll be a better commander in chief
+T365	Claim 31012 31037	The when I can't tell you
+T366	Premise 31039 31152	Between the World Trade Center bombing in, what was it, 1993 or so, and the next time was five years, seven years
+T367	Premise 31154 31171	These people wait
+T368	Premise 31173 31185	They'll plan
+T369	Premise 31187 31196	They plot
+T370	Claim 31231 31286	we have to go after them and get them wherever they are
+T371	Claim 31288 31335	I just think I can do that far more effectively
+T372	Premise 31345 31400	the most important weapon in doing that is intelligence
+T373	Claim 31402 31455	You've got to have the best intelligence in the world
+T374	Claim 31591 31659	you've got to have the best cooperation you've ever had in the world
+T375	Premise 31471 31589	to have the best intelligence in the world to know who the terrorists are and where they are and what they're plotting
+T376	Claim 31703 31760	we're not getting the best cooperation in the world today
+T377	Premise 31762 31865	We've got a whole bunch of countries that pay a price for dealing with the United States of America now
+T378	Claim 31867 31891	I'm going to change that
+T379	Claim 31898 31957	I'm going to put in place a better homeland security effort
+T380	Premise 31966 32043	95 percent of our containers coming into this country are not inspected today
+T381	Premise 32045 32128	When you get on an airplane, your bag is X- rayed, but the cargo hold isn't X-rayed
+T382	Premise 32150 32241	This president in the last debate said, "Well, that would be a big tax gap if we did that."
+T383	Claim 32284 32401	He chose a tax cut for the wealthiest Americans over getting that equipment out into the homeland as fast as possible
+T384	Premise 32404 32457	We have bridges and tunnels that aren't being secured
+T385	Premise 32459 32510	chemical plants, nuclear plants that aren't secured
+T386	Premise 32512 32569	hospitals that are overcrowded with their emergency rooms
+T387	Claim 32623 32676	This president chose a tax cut over homeland security
+T388	Claim 32678 32690	Wrong choice
+T389	Claim 32724 32750	That's an odd thing to say
+T390	Premise 32758 32832	we've tripled the homeland security budget from $10 billion to $30 billion
+T391	Claim 32842 32892	we'll do everything we can to protect the homeland
+T392	Claim 32916 32941	we need good intelligence
+T393	Claim 32943 32983	It's also a curious thing for him to say
+T394	Premise 32990 33062	right after 1993 he voted to cut the intelligence budget by $7.5 billion
+T395	Claim 33065 33146	The best way to defend America in this world we live in is to stay on the offense
+T396	Claim 33148 33203	We got to be right 100 percent of the time here at home
+T397	Premise 33209 33234	they got to be right once
+T398	Premise 33265 33306	there's a lot of good people working hard
+T399	Claim 33308 33365	We're doing the best we possibly can to share information
+T400	Claim 33378 33407	the Patriot Act was important
+T401	Claim 33410 33434	The Patriot Act is vital
+T402	Premise 33448 33527	It's a tool that law enforcement now uses to be able to talk between each other
+T403	Premise 33529 33582	My opponent says he hadn't changed his position on it
+T404	Claim 33592 33613	he's for weakening it
+T405	Claim 33616 33696	I don't think my opponent has got the right view about the world to make us safe
+T406	Claim 33698 33712	I really don't
+T407	Claim 33729 33765	I don't think he can succeed in Iraq
+T408	Claim 33771 33823	if Iraq were to fail, it'd be a haven for terrorists
+T409	Premise 33829 33892	there would be money and the world would be much more dangerous
+T410	Premise 34253 34281	This war is a long, long war
+T411	Claim 34287 34322	it requires steadfast determination
+T412	Claim 34327 34501	it requires a complete understanding that we not only chase down Al Qaida but we disrupt terrorist safe havens as well as people who could provide the terrorists with support
+T413	Claim 33895 33930	I don't see how you can win in Iraq
+T414	Claim 33991 34026	I don't see how you can lead troops
+T415	Claim 34096 34177	I don't see how the Iraqis are going to have confidence in the American president
+T416	Premise 33934 33989	you don't believe we should be there in the first place
+T417	Premise 34030 34093	you say it's the wrong war at the wrong place at the wrong time
+T418	Premise 34181 34250	all they hear is that it was a mistake to be there in the first place
+T419	Claim 34630 34655	You think it's inevitable
+T420	Premise 34595 34629	You said, "It's not when, but if."
+T421	Premise 34664 34763	the sense of security is a very basic thing with everybody in this country worried about their kids
+T422	Claim 35047 35113	I will never stop at anything to hunt down and kill the terrorists
+T423	Claim 35192 35229	the test is not if you've added money
+T424	Claim 35231 35302	the test is that you've done everything possible to make America secure
+T425	Premise 35304 35381	He chose a tax cut for wealthy Americans over the things that I listed to you
+T426	Premise 35120 35182	you heard the president just say to you that we've added money
+T427	Premise 34779 34882	the president and his experts have told America that it's not a question of if; it's a question of when
+T428	Claim 34888 34924	I accept what the president has said
+T429	Premise 34926 34954	These terrorists are serious
+T430	Premise 34956 34970	they're deadly
+T431	Premise 34976 35015	they know nothing except trying to kill
+T432	Claim 35494 35505	I'm worried
+T433	Claim 35507 35518	I'm worried
+T434	Claim 35520 35549	I'm worried about our country
+T435	Claim 35677 35688	I'm worried
+T436	Premise 35700 35752	there's a vicious enemy that has an ideology of hate
+T437	Premise 35577 35660	every day I know that there's people working overtime, doing the very best they can
+T438	Claim 35758 35824	the way to defeat them long-term, by the way, is to spread freedom
+T439	Claim 35827 35852	Liberty can change habits
+T440	Premise 35858 35905	that's what's happening in Afghanistan and Iraq
+T441	Claim 36291 36326	Just want to make sure they're safe
+T442	Claim 36328 36415	When a drug comes in from Canada, I want to make sure it cures you and doesn't kill you
+T443	Premise 36276 36289	I haven't yet
+T444	Premise 36432 36543	the FDA and that's why the surgeon general are looking very carefully to make sure it can be done in a safe way
+T445	Premise 36545 36633	I've got an obligation to make sure our government does everything we can to protect you
+T446	Claim 36640 36742	what my worry is is that, you know, it looks like it's from Canada, and it might be from a third world
+T447	Claim 36749 36840	we've just got to make sure, before somebody thinks they're buying a product, that it works
+T448	Claim 36893 36985	it may very well be here in December you'll hear me say, I think there's a safe way to do it
+T449	Claim 36988 37039	There are other ways to make sure drugs are cheaper
+T450	Premise 37041 37101	One is to speed up generic drugs to the marketplace, quicker
+T451	Premise 37103 37232	Pharmaceuticals were using loopholes to keep brand -- brand drugs in place, and generics are much less expensive than brand drugs
+T452	Claim 37238 37259	we're doing just that
+T453	Claim 37348 37363	they're working
+T454	Premise 37262 37342	Another is to pass -- to get our seniors to sign up to these drug discount cards
+T455	Premise 37366 37529	Wanda Blackmore I met here from Missouri, the first time she bought drugs with her drug discount card, she paid $1.14, I think it was, for about $10 worth of drugs
+T456	Claim 37532 37554	These cards make sense
+T457	Claim 37572 37662	in 2006 seniors are going to get prescription drug coverage for the first time in Medicare
+T458	Premise 37672 37708	I went to Washington to fix problems
+T459	Claim 37878 37929	I think our seniors deserve a modern medical system
+T460	Claim 37935 37991	in 2006, our seniors will get prescription drug coverage
+T461	Claim 37776 37843	People didn't want to touch it for fear of getting hurt politically
+T462	Premise 37711 37775	Medicare -- the issue of Medicare used to be called "Mediscare."
+T463	Claim 37846 37876	I wanted to get something done
+T464	Premise 38070 38144	you heard the president just say that he thought he might try to be for it
+T465	Premise 38146 38269	Four years ago, right here in this forum, he was asked the same question: Can't people be able to import drugs from Canada?
+T466	Premise 38270 38365	You know what he said? "I think that makes sense. I think that's a good idea" -- four years ago
+T467	Premise 38368 38417	Now, the president said, "I'm not blocking that."
+T468	Claim 38440 38496	the president just didn't level with you right now again
+T469	Claim 38499 38514	He did block it
+T470	Premise 38524 38564	we passed it in the United States Senate
+T471	Premise 38566 38623	We sent it over to the House, that you could import drugs
+T472	Premise 38625 38658	We took care of the safety issues
+T473	Premise 38661 38702	We're not talking about third-world drugs
+T474	Premise 38704 38837	We're talking about drugs made right here in the United States of America that have American brand names on them and American bottles
+T475	Premise 38843 38891	we're asking to be able to allow you to get them
+T476	Claim 38894 38918	The president blocked it
+T477	Claim 38920 38952	The president also took Medicare
+T478	Premise 39103 39260	He made it illegal, illegal for Medicare to do what the V.A. does, which is bulk purchase drugs so that you can lower the price and get them out to you lower
+T479	Premise 38980 39078	he could have lowered the cost of Medicare and lowered your taxes and lowered the costs to seniors
+T480	Premise 39263 39366	He put $139 billion of windfall profit into the pockets of the drug companies right out of your pockets
+T481	Claim 39402 39485	The president sides with the power companies, the oil companies, the drug companies
+T482	Claim 39491 39542	I'm fighting to let you get those drugs from Canada
+T483	Claim 39548 39584	I'm fighting to let Medicare survive
+T484	Claim 39587 39620	I'm fighting for the middle class
+T485	Claim 39654 39685	If they're safe, they're coming
+T486	Claim 39713 39778	it wasn't just my administration that made the decision on safety
+T487	Premise 39780 39816	President Clinton did the same thing
+T488	Premise 39826 39862	we have an obligation to protect you
+T489	Premise 39894 39940	He's been in the United States Senate 20 years
+T490	Premise 39942 40005	Show me one accomplishment toward Medicare that he accomplished
+T491	Premise 40008 40153	I've been in Washington, D.C., three and a half years and led the Congress to reform Medicare so our seniors have got a modern health care system
+T492	Premise 40226 40295	in 1997 we fixed Medicare, and I was one of the people involved in it
+T493	Claim 40297 40431	We not only fixed Medicare and took it way out into the future, we did something that you don't know how to do: We balanced the budget
+T494	Premise 40437 40495	we paid down the debt of our nation for two years in a row
+T495	Premise 40501 40548	we created 23 million new jobs at the same time
+T496	Claim 40555 40652	it's the president's fiscal policies that have driven up the biggest deficits in American history
+T497	Premise 40654 40791	He's added more debt to the debt of the United States in four years than all the way from George Washington to Ronald Reagan put together
+T498	Claim 41357 41432	I believe that we will be able to get a fix that has alluded everybody else
+T499	Premise 41320 41351;41441 41461	as lawyers -- I'm a lawyer, too we know how to do it
+T500	Claim 41258 41296	John Edwards and I support tort reform
+T501	Claim 41225 41256	He wanted to give people rights
+T502	Premise 41165 41223	John Edwards is the author of the Patients' Bill of Rights
+T503	Claim 41463 41494	It's in my health-care proposal
+T504	Premise 41496 41515	Go to johnkerry.com
+T505	Premise 41517 41552	You can pull it off of the Internet
+T506	Premise 41558 41588	you'll find a tort reform plan
+T507	Claim 41729 41743	it's a problem
+T508	Claim 41745 41835	Do we need to fix it, particularly for OGBYNs (sic) and for brain surgeons and others? Yes
+T509	Premise 41842 41899	it's less than 1 percent of the total cost of health care
+T510	Claim 41643 41705	the president and his friends try to make a big deal out of it
+T511	Premise 41902 41928	Your premiums are going up
+T512	Premise 41930 41971	You've gone up, in Missouri, about $3,500
+T513	Premise 41973 41998	You've gone up 64 percent
+T514	Premise 42000 42044	You've seen co-pays go up, deductibles go up
+T515	Claim 42046 42066	Everything's gone up
+T516	Premise 42069 42142	Five million people have lost their health insurance under this president
+T517	Premise 42144 42170	He's done nothing about it
+T518	Claim 42173 42186	I have a plan
+T519	Claim 42188 42242	I have a plan to lower the cost of health care for you
+T520	Claim 42244 42279	I have a plan to cover all children
+T521	Claim 42281 42376	I have a plan to let you buy into the same health care senators and congressmen give themselves
+T522	Claim 42379 42457	I have a plan that's going to allow people 55 to 64 to buy into Medicare early
+T523	Claim 42464 42549	I have a plan that will take the catastrophic cases out of the system, off your backs
+T524	Claim 42551 42583	pay for it out of a federal fund
+T525	Claim 42585 42635	which lowers the premiums for everybody in America
+T526	Claim 42637 42677	makes American business more competitive
+T527	Claim 42682 42715	makes health care more affordable
+T528	Claim 42723 42745	all of that can happen
+T529	Premise 42786 42891	Join me in rolling back the president's unaffordable tax cut for people earning more than $200,000 a year
+T530	Claim 42906 42963	Ninety-eight percent of America, I'm giving you a tax cut
+T531	Claim 42968 42994	I'm giving you health care
+T532	Claim 43395 43403	He can't
+T533	Claim 43405 43458	He's going to tax everybody here to fund his programs
+T534	Premise 43088 43162	the National Journal named Senator Kennedy the most liberal senator of all
+T535	Premise 43168 43205	that's saying something in that bunch
+T536	Premise 43290 43333	he's proposed $2.2 trillion in new spending
+T537	Premise 43339 43392	he says he going to tax the rich to close the tax gap
+T538	Premise 43460 43479	That's just reality
+T539	Claim 43796 43830	That shows a lack of understanding
+T540	Premise 43726 43794	he says that medical liability costs only cause a 1 percent increase
+T541	Premise 43832 43949	Doctors practice defensive medicine because of all the frivolous lawsuits that cost our government $28 billion a year
+T542	Premise 43523 43590	he says he's for medical liability reform, particularly for OB/GYNs
+T543	Claim 43592 43690	There's a bill on the floor of the United States Senate that he could have showed up and voted for
+T544	Premise 43691 43713	if he's so much for it
+T545	Premise 43965 44016	he said he's going to have a novel health care plan
+T546	Claim 44039 44080	The federal government is going to run it
+T547	Premise 44083 44147	It's the largest increase in federal government health care ever
+T548	Premise 44153 44180	it fits with his philosophy
+T549	Claim 44255 44278	That's what liberals do
+T550	Claim 44280 44324	They create government-sponsored health care
+T551	Claim 44360 44367	I don't
+T552	Premise 44370 44426	Government-sponsored health care would lead to rationing
+T553	Premise 44428 44479	It would ruin the quality of health care in America
+T554	Claim 44925 45005	the president is just trying to scare everybody here with throwing labels around
+T555	Premise 45007 45065	I mean, "compassionate conservative," what does that mean?
+T556	Premise 45066 45113	Cutting 500,000 kids from after-school programs
+T557	Premise 45115 45152	cutting 365,000 kids from health care
+T558	Premise 45154 45205	running up the biggest deficits in American history
+T559	Claim 45269 45295	labels don't mean anything
+T560	Claim 45297 45341	What means something is: Do you have a plan?
+T561	Claim 45503 45529	what does matter is a plan
+T562	Premise 45531 45591	He said he's for -- you're now for capping punitive damages?
+T563	Premise 45592 45602	That's odd
+T564	Premise 45604 45677	You should have shown up on the floor in the Senate and voted for it then
+T565	Claim 45897 45921	It's stuck in the Senate
+T566	Premise 45931 45964	the trial lawyers won't act on it
+T567	Premise 45970 46005	he put a trial lawyer on the ticket
+T568	Premise 45680 45741	Medical liability issues are a problem, a significant problem
+T569	Premise 45743 45820	He's been in the United States Senate for 20 years and he hasn't addressed it
+T570	Premise 45823 45871	We passed it out of the House of Representatives
+T571	Claim 46991 47023	We've got to pay our troops more
+T572	Claim 47221 47278	I think we have an obligation to spend that kind of money
+T573	Claim 47385 47454	I think if you raise taxes during a recession, you head to depression
+T574	Premise 47456 47600	I come from the school of thought that says when people have more money in their pocket during economic times, it increases demand or investment
+T575	Premise 47602 47652	Small businesses begin to grow, and jobs are added
+T576	Premise 47761 47852	I proposed a plan, detailed budget, that shows us cutting the deficit in half by five years
+T577	Claim 47873 47934	I haven't vetoed any spending bills, because we work together
+T578	Claim 48202 48256	I am not going to shortchange our troops in harm's way
+T579	Claim 48262 48326	I'm not going to run up taxes, which will cost this economy jobs
+T580	Premise 46585 46602	We have a deficit
+T581	Premise 46604 46664	We have a deficit because this country went into a recession
+T582	Premise 46666 46809	You might remember the stock market started to decline dramatically six months before I came to office, and then the bubble of the 1990s popped
+T583	Premise 46815 46835	that cost us revenue
+T584	Premise 46837 46857	That cost us revenue
+T585	Premise 46870 46882	we're at war
+T586	Claim 46888 46935	I'm going to spend what it takes to win the war
+T587	Claim 46937 46989	more than just $120 billion for Iraq and Afghanistan
+T588	Claim 47025 47032	We have
+T589	Premise 47034 47112	We've increased money for ammunition and weapons and pay and homeland security
+T590	Premise 47115 47219	I just told this lady over here we spent -- went from $10 billion to $30 billion to protect the homeland
+T591	Premise 47291 47317	we cut taxes for everybody
+T592	Claim 47319 47382	Everybody got tax relief, so that they get out of the recession
+T593	Premise 47655 47758	We found out today that over the past 13 months, we've added 1.9 million new jobs in the last 13 months
+T594	Premise 47937 48041	Non-homeland, non-defense discretionary spending was raising at 15 percent a year when I got into office
+T595	Claim 48047 48152	today it's less than 1 percent, because we're working together to try to bring this deficit under control
+T596	Premise 48165 48196	I'm concerned about the deficit
+T597	Claim 48440 48495	my health-care plan is not what the president described
+T598	Claim 48497 48528	It is not a government takeover
+T599	Claim 48530 48545	You have choice
+T600	Premise 48547 48565	Choose your doctor
+T601	Premise 48567 48583	choose your plan
+T602	Premise 48585 48625	The government has nothing to do with it
+T603	Premise 48628 48721	In fact, it doesn't ask you to do anything -- if you don't want to take it, you don't have to
+T604	Premise 48723 48768	If you like your high premiums, you keep them
+T605	Premise 48770 48796	That's the way we leave it
+T606	Premise 48832 48902	the president was handed a $5.6 trillion surplus, ladies and gentlemen
+T607	Premise 48904 48948	That's where he was when he came into office
+T608	Premise 48951 48986	We now have a $2.6 trillion deficit
+T609	Claim 49554 49687	The president thinks it's more important to fight for that top 1 percent than to fight for fiscal responsibility and to fight for you
+T610	Claim 49690 49724	I want to put money in your pocket
+T611	Premise 49734 49811	I have a proposal for a tax cut for all people earning less than the $200,000
+T612	Premise 49813 49886	The only people affected by my plan are the top income earners of America
+T613	Premise 48988 49048	This is the biggest turnaround in the history of the country
+T614	Premise 49050 49099	He's the first president in 72 years to lose jobs
+T615	Premise 49123 49215	This is the first time the United States of America has ever had a tax cut when we're at war
+T616	Claim 49278 49339	They knew how to ask the American people for the right things
+T617	Claim 49218 49276	Franklin Roosevelt, Harry Truman, others, knew how to lead
+T618	Premise 49342 49456	One percent of America, the highest one percent of income earners in America, got $89 billion of tax cut last year
+T619	Premise 49458 49551	One percent of America got more than the 80 percent of America that earned from $100,000 down
+T620	Claim 50475 50508;50665 50726	Because we cut taxes on everybody the recession was one of the shortest in our nation's history
+T621	Premise 50522 50558	we ran up the child credit by $1,000
+T622	Premise 50560 50591	we reduced the marriage penalty
+T623	Premise 50593 50624	we created a 10 percent bracket
+T624	Premise 50626 50661	everybody who pays taxes got relief
+T625	Premise 50305 50366	The stock market was declining six months prior to my arrival
+T626	Premise 50369 50472	It was the largest stock market correction -- one of the largest in history, which foretold a recession
+T627	Claim 51104 51204	Do you know what he presented us with? A $25 billion giveaway to the biggest corporations in America
+T628	Premise 51206 51252	including a $254 million refund check to Enron
+T629	Claim 51255 51271	Wrong priorities
+T630	Claim 51273 51292	You are my priority
+T631	Premise 50773 50902	After 9/11, after the recession had ended, the president asked for another tax cut and promised 5.6 million jobs would be created
+T632	Premise 50904 50945	He lost 1.6 million, ladies and gentlemen
+T633	Premise 50951 51016	most of that tax cut went to the wealthiest people in the country
+T634	Premise 51018 51049	He came and asked for a tax cut
+T635	Premise 51053 51102	we wanted a tax cut to kick the economy into gear
+T636	Claim 51819 51848	I am not going to raise taxes
+T637	Claim 51850 51866	I have a tax cut
+T638	Claim 51892 51944	I raise the child-care credit by $1,000 for families
+T639	Premise 51945 51992	to help them be able to take care of their kids
+T640	Claim 51995 52130	I have a $4,000 tuition tax credit that goes to parents -- and kids, if they're earning for themselves -- to be able to pay for college
+T641	Claim 52137 52203	I lower the cost of health care in the way that I described to you
+T642	Premise 52206 52269	Every part of my program I've shown how I'm going to pay for it
+T643	Premise 52276 52477	I've gotten good people, like former Secretary of the Treasury Bob Rubin, for instance, who showed how to balance budgets and give you a good economy, to help me crunch these numbers and make them work
+T644	Claim 52480 52617	I've even scaled back some of my favorite programs already, like the child-care program I wanted to fund and the national service program
+T645	Premise 52619 52745	because the president's deficit keeps growing and I've said as a pledge, "I'm going to cut the deficit in half in four years."
+T646	Claim 52752 52834	I'm going to restore what we did in the 1990s, ladies and gentlemen: pay as you go
+T647	Premise 52836 52871	We're going to do it like you do it
+T648	Claim 53215 53237	I will not raise taxes
+T649	Claim 53239 53307	I'm giving a tax cut to the people earning less than $200,000 a year
+T650	Claim 53315 53437	for the people earning more than $200,000 a year, you're going to see a rollback to the level we were at with Bill Clinton
+T651	Premise 52873 52915	The president broke the pay-as-you-go rule
+T652	Premise 53477 53642	looking around here, at this group here, I suspect there are only three people here who are going to be affected: the president, me, and, Charlie, I'm sorry, you too
+T653	Claim 53700 53770	He's just not credible when he talks about being fiscally conservative
+T654	Claim 53772 53794	He's just not credible
+T655	Premise 53796 53902	If you look at his record in the Senate, he voted to break the caps -- the spending caps -- over 200 times
+T656	Premise 53908 53976	here he says he's going to be a fiscal conservative, all of a sudden
+T657	Claim 53978 54000	It's just not credible
+T658	Claim 54002 54023	You cannot believe it
+T659	Claim 54040 54070	he's going to raise your taxes
+T660	Premise 54081 54124	he's proposed $2.2 trillion of new spending
+T661	Premise 54178 54281	He says, well, he's going to raise the taxes on the rich -- that's what he said -- the top two brackets
+T662	Premise 54283 54337	That raises, he says $800 billion; we say $600 billion
+T663	Claim 54493 54597	either he's going to break all these wonderful promises he's told you about or he's going to raise taxes
+T664	Claim 54632 54657	he's going to raise taxes
+T665	Premise 54614 54630	given his record
+T666	Premise 54340 54375	We've got battling green eye shades
+T667	Premise 54378 54412	Somewhere in between those numbers
+T668	Claim 54423 54485	there's a difference, what he's promised and what he can raise
+T669	Claim 54777 54839	I think that the way to grow this economy is to keep taxes low
+T670	Claim 54841 54863	is have an energy plan
+T671	Claim 54865 54893	is to have litigation reform
+T672	Premise 54910 55003	we've just got a report that said over the past 13 months, we've created 1.9 million new jobs
+T673	Premise 55005 55020	Weâ€™re growing
+T674	Claim 55030 55135	the fundamental question of this campaign is: Who's going to keep the economy growing so people can work?
+T675	Claim 55136 55167	That's the fundamental question
+T676	Claim 55509 55530	That's not the number
+T677	Claim 55357 55418	the president's figures of $2.2 trillion just aren't accurate
+T678	Premise 55420 55507	Those are the fuzzy math figures put together by some group that works for the campaign
+T679	Claim 55544 55645	John McCain and I have a proposal, jointly, for a commission that closes corporate giveaway loopholes
+T680	Premise 55647 55685	We've got $40 billion going to Bermuda
+T681	Premise 55687 55719	We've got all kinds of giveaways
+T682	Claim 55721 55755	We ought to be shutting those down
+T683	Claim 55779 55872	Ladies and gentlemen, in 1985, I was one of the first Democrats to move to balance the budget
+T684	Premise 55874 55920	I voted for the balanced budget in '93 and '97
+T685	Premise 55922 55931	We did it
+T686	Premise 55933 55942	We did it
+T687	Premise 55948 55959	I was there
+T688	Claim 56049 56066	he's got a record
+T689	Premise 56068 56096	It's been there for 20 years
+T690	Claim 56098 56129	You can run, but you can't hide
+T691	Premise 56131 56163	He voted 98 times to raise taxes
+T692	Premise 56173 56201	these aren't make-up figures
+T693	Claim 56210 56256	people are going to have to look at the record
+T694	Claim 56258 56313	Look at the record of the man running for the president
+T696	Claim 56426 56461	They named him because of his votes
+T695	Claim 56316 56424	They don't name him the most liberal in the United States Senate because he hasn't shown up to many meetings
+T697	Claim 56467 56479	it's reality
+T698	Claim 56482 56561	It's just not credible to say he's going to keep taxes down and balance budgets
+T699	Claim 58060 58097	We've got a good, common-sense policy
+T700	Claim 57868 57895	this is a reasonable policy
+T701	Premise 57896 58057	to protect old stands of trees and at the same time make sure our forests aren't vulnerable to the forest fires that have destroyed acres after acres in the West
+T702	Premise 56849 56967	Off-road diesel engines -- we have reached an agreement to reduce pollution from off-road diesel engines by 90 percent
+T703	Claim 56969 57022	I've got a plan to increase the wetlands by 3 million
+T704	Claim 57024 57131	We've got an aggressive brown field program to refurbish inner-city sore spots to useful pieces of property
+T705	Premise 57134 57266	I proposed to the United States Congress a Clear Skies Initiative to reduce sulfur dioxide, nitrogen oxide and mercury by 70 percent
+T706	Premise 57269 57447	I have -- was fought for a very strong title in the farm bill for the conservation reserve program to set aside millions of acres of land to help improve wildlife and the habitat
+T707	Premise 57450 57612	We proposed and passed a healthy forest bill which was essential to working with -- particularly in Western states -- to make sure that our forests were protected
+T708	Premise 57615 57738	What happens in those forests, because of lousy federal policy, is they grow to be -- they are not -- they're not harvested
+T709	Premise 57740 57765	They're not taken care of
+T710	Premise 57771 57808	as a result, they're like tinderboxes
+T711	Premise 57815 57858	over the last summers I've flown over there
+T712	Premise 58127 58257	what I really think is going to happen over time is technology is going to change the way we live for the good for the environment
+T713	Claim 58535 58565	I'm a good steward of the land
+T714	Claim 58421 58465	I'm a big proponent of clean coal technology
+T715	Premise 58467 58514	to make sure we can use coal but in a clean way
+T716	Claim 58271 58336	I proposed a hydrogen automobile -- hydrogen-generated automobile
+T717	Premise 58338 58407	We're spending $1 billion to come up with the technologies to do that
+T718	Premise 58568 58630	The quality of the air's cleaner since I've been the president
+T719	Premise 58632 58684	Fewer water complaints since I've been the president
+T720	Premise 58686 58740	More land being restored since I've been the president
+T721	Claim 58850 58943	the president, I don't think, is living in a world of reality with respect to the environment
+T722	Claim 59481 59586	when it comes to the issue of the environment, this is one of the worst administrations in modern history
+T723	Premise 59589 59789	The Clear Skies bill that he just talked about, it's one of those Orwellian names you pull out of the sky, slap it onto something, like "No Child Left Behind" but you leave millions of children behind
+T724	Claim 59091 59117	Labels don't mean anything
+T725	Premise 59120 59146	I supported welfare reform
+T726	Premise 59148 59209	I led the fight to put 100,000 cops on the streets of America
+T727	Premise 59211 59310	I've been for faith-based initiatives helping to intervene in the lives of young children for years
+T728	Premise 59312 59432	I was -- broke with my party in 1985, one of the first three Democrats to fight for a balanced budget when it was heresy
+T729	Claim 59435 59451	Labels don't fit
+T730	Claim 59791 59848	Here they're leaving the skies and the environment behind
+T731	Claim 59929 59996	the air would be cleaner than it is if you pass the Clear Skies act
+T732	Premise 59851 59927	If they just left the Clean Air Act all alone the way it is today, no change
+T733	Claim 59998 60019	We're going backwards
+T734	Premise 60031 60218	his environmental enforcement chief air-quality person at the EPA resigned in protest over what they're doing to what they are calling the new source performance standards for air quality
+T735	Claim 60221 60275	They're going backwards on the definition for wetlands
+T736	Claim 60277 60321	They're going backwards on the water quality
+T737	Claim 60414 60465	I'm going to be a president who believes in science
+T738	Premise 60324 60361	They pulled out of the global warming
+T739	Premise 60363 60379	declared it dead
+T740	Premise 60381 60411	didn't even accept the science
+T741	Claim 60746 60783	I think there's a better way to do it
+T742	Claim 60505 60610	had we joined the Kyoto treaty, which I guess he's referring to, it would have cost America a lot of jobs
+T743	Premise 60612 60707	It's one of these deals where, in order to be popular in the halls of Europe, you sign a treaty
+T744	Premise 60790 60815	I just told you the facts
+T745	Claim 60822 60906	The quality of the air is cleaner since I've been the president of the United States
+T746	Claim 60912 60969	we'll continue to spend money on research and development
+T747	Premise 60979 61181	I truly believe that's the way to get from how we live today to being able to live a standard of living that we're accustomed to and being able to protect our environment better, the use of technologies
+T748	Premise 61245 61272	the Kyoto treaty was flawed
+T749	Premise 61274 61288	I was in Kyoto
+T750	Premise 61294 61312	I was part of that
+T751	Premise 61314 61334	I know what happened
+T752	Claim 61340 61375	this president didn't try to fix it
+T753	Premise 61377 61401	He just declared it dead
+T754	Premise 61429 61486	we walked away from the work of 160 nations over 10 years
+T755	Claim 61625 61670	The president's done nothing to try to fix it
+T756	Claim 61672 61678	I will
+T757	Claim 62099 62140	there are a lot of ways to be competitive
+T758	Claim 62175 62232	this administration has not seized them and embraced them
+T759	Premise 62262 62295	There is a tax loophole right now
+T760	Premise 62297 62414	If you're a company in St. Louis working, trying to make jobs here, there is actually an incentive for you to go away
+T761	Premise 62416 62479	You get more money, you keep more of your taxes by going abroad
+T762	Claim 62482 62513	I'm going to shut that loophole
+T763	Claim 62519 62595	I'm going to give the tax benefit to the companies that stay here in America
+T764	Premise 62596 62630	to help make them more competitive
+T765	Claim 62643 62789	we're going to create a manufacturing jobs credit and a new jobs credit for people to be able to help hire and be more competitive here in America
+T766	Claim 62799 62889	what's really hurting American business more than anything else is the cost of health care
+T767	Claim 62897 63005	you didn't hear any plan from the president, because he doesn't have a plan to lower the cost of health care
+T768	Premise 63008 63058	Five million Americans have lost their health care
+T769	Premise 63060 63106	620,000 Missourians have no health care at all
+T770	Premise 63108 63175	96,000 Missourians have lost their health care under President Bush
+T771	Claim 63178 63212	I have a plan to cover those folks
+T772	Claim 63218 63281	it's a plan that lowers cost for everybody, covers all children
+T773	Claim 63311 63341	I'm not fiscally irresponsible
+T774	Premise 63287 63307;63345 63414	the way I pay for it is I roll back the tax cut this president so fiercely wants to defend
+T775	Claim 63453 63487	I think you ought to get the break
+T776	Claim 63489 63529	I want to lower your cost to health care
+T777	Claim 63531 63608	I want to fully fund education, No Child Left Behind, special-needs education
+T778	Claim 63614 63723	that's how we're going to be more competitive, by making sure our kids are graduating from school and college
+T779	Premise 63726 63809	China and India are graduating more graduates in technology and science than we are
+T780	Premise 63812 63858	We've got to create the products of the future
+T781	Claim 63871 63924	I have a plan for energy independence within 10 years
+T782	Claim 63931 64012	we're going to put our laboratories and our colleges and our universities to work
+T783	Claim 64018 64085	we're going to get the great entrepreneurial spirit of this country
+T784	Claim 64091 64156	we're going to free ourselves from this dependency on Mideast oil
+T785	Claim 64159 64208	That's how you create jobs and become competitive
+T786	Claim 64279 64343	how to control the cost of health care: medical liability reform
+T787	Claim 64389 64516	allow small businesses to pool together so they can share risk and buy insurance at the same discounts big businesses get to do
+T788	Claim 64528 64572	spread what's called health savings accounts
+T789	Premise 64574 64621	It's good for small businesses, good for owners
+T790	Premise 64623 64647	You own your own account
+T791	Premise 64649 64670	You can save tax-free
+T792	Premise 64672 64717	You get a catastrophic plan to help you on it
+T793	Claim 64970 65040	The best way to keep jobs here in America is, one, have an energy plan
+T794	Claim 64720 64799	This is different from saying, "OK, let me incent you to go on the government."
+T795	Premise 64801 64846	He's talking about his plan to keep jobs here
+T796	Premise 64848 64911	You know he calls it an outsourcing to keep -- stop outsourcing
+T797	Premise 64913 64967	Robert Rubin looked at his plan and said it won't work
+T798	Premise 65042 65211	I proposed one to the Congress two years ago, encourages conservation, encourages technology to explore for environmentally friendly ways for coal -- to use coal and gas
+T799	Premise 65213 65275	It encourages the use of renewables like ethanol and biodiesel
+T800	Premise 65278 65302	It's stuck in the Senate
+T801	Premise 65304 65398	He and his running-mate didn't show up to vote when they could have got it going in the Senate
+T802	Claim 65401 65438	Less regulations if we want jobs here
+T803	Claim 65440 65473	legal reform if we want jobs here
+T804	Claim 65479 65506	we've got to keep taxes low
+T805	Claim 65571 65624	900,000 small businesses will be taxed under his plan
+T806	Premise 65514 65553	he says he's only going to tax the rich
+T807	Premise 65633 65754	most small businesses are Subchapter S corps or limited partnerships, and they pay tax at the individual income tax level
+T808	Premise 65764 65834	when you're running up the taxes like that, you're taxing job creators
+T809	Claim 65840 65873	that's not how you keep jobs here
+T810	Claim 66127 66157	You can't stop all outsourcing
+T811	Premise 66168 66192	I've never promised that
+T812	Claim 66194 66210	I'm not going to
+T813	Premise 66220 66243	that would be pandering
+T814	Claim 66245 66254	You can't
+T815	Claim 66260 66306	what you can do is create a fair playing field
+T816	Claim 66421 66454	that's just not true what he said
+T817	Premise 66456 66550	The Wall Street Journal said 96 percent of small businesses are not affected at all by my plan
+T818	Premise 66557 66681	you know why he gets that count? The president got $84 from a timber company that owns, and he's counted as a small business
+T819	Premise 66683 66724	Dick Cheney's counted as a small business
+T820	Premise 66726 66751	That's how they do things
+T821	Claim 66753 66774	That's just not right
+T822	Premise 66881 66925	Most small businesses are Subchapter S corps
+T823	Premise 66927 66940	They just are
+T824	Premise 66943 66980	I met Grant Milliron, Mansfield, Ohio
+T825	Premise 66982 67000	He's creating jobs
+T826	Premise 67027 67096	70 percent of the new jobs in America are created by small businesses
+T827	Premise 67099 67154	Taxes are going up when you run up the top two brackets
+T828	Claim 67730 67785	I really don't think your rights are being watered down
+T829	Premise 67808 67847	I wouldn't support it if I thought that
+T830	Claim 68097 68120	I really don't think so
+T831	Premise 67850 67933	Every action being taken against terrorists requires court order, requires scrutiny
+T832	Premise 67957 68091	the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals
+T833	Claim 68272 68300	The Patriot Act is necessary
+T834	Premise 68323 68367	parts of the FBI couldn't talk to each other
+T835	Premise 68369 68486	The intelligence-gathering and the law-enforcement arms of the FBI just couldn't share intelligence under the old law
+T836	Premise 68492 68518	that didn't make any sense
+T837	Premise 68521 68647	Our law enforcement must have every tool necessary to find and disrupt terrorists at home and abroad before they hurt us again
+T838	Premise 68649 68684	That's the task of the 21st century
+T839	Claim 68695 68752	I don't think the Patriot Act abridges your rights at all
+T840	Claim 68766 68780	it's necessary
+T841	Premise 68782 68888	I can remember being in upstate New York talking to FBI agents that helped bust a Lackawanna cell up there
+T842	Premise 68894 69066	they told me they could not have performed their duty, the duty we all expect of them, if they did not have the ability to communicate with each other under the Patriot Act
+T843	Premise 69122 69248	Former Governor Racicot, as chairman of the Republican Party, said he thought that the Patriot Act has to be changed and fixed
+T844	Premise 69250 69415	Congressman Jim Sensenbrenner, he is the chairman of the House Judiciary Committee, said over his dead body before it gets renewed without being thoroughly rechecked
+T845	Claim 69418 69512	A whole bunch of folks in America are concerned about the way the Patriot Act has been applied
+T846	Premise 69523 69648	the inspector general of the Justice Department found that John Ashcroft had twice applied it in ways that were inappropriate
+T847	Claim 69651 69683	People's rights have been abused
+T848	Premise 69686 69770	I met a man who spent eight months in prison, wasn't even allowed to call his lawyer
+T849	Premise 69797 69876	finally, Senator Dick Durbin of Illinois intervened and was able to get him out
+T850	Premise 69941 69993	They've got sneak-and-peek searches that are allowed
+T851	Premise 69995 70132	They've got people allowed to go into churches now and political meetings without any showing of potential criminal activity or otherwise
+T852	Claim 70405 70433	I believe in the Patriot Act
+T853	Claim 70381 70403	that's not a flip-flop
+T854	Premise 70140 70167	I voted for the Patriot Act
+T855	Premise 70169 70216	Ninety-nine United States senators voted for it
+T856	Premise 70222 70374	the president's been very busy running around the country using what I just described to you as a reason to say I'm wishy-washy, that I'm a flip-flopper
+T857	Claim 70435 70495	We need the things in it that coordinate the FBI and the CIA
+T858	Claim 70497 70532	We need to be stronger on terrorism
+T859	Claim 70548 70696	what we also need to do as Americans is never let the terrorists change the Constitution of the United States in a way that disadvantages our rights
+T860	Claim 71922 71947	I think we can save lives
+T861	Claim 71955 72018	I think we can do ethically guided embryonic stem-cell research
+T862	Premise 72021 72112	We have 100,000 to 200,000 embryos that are frozen in nitrogen today from fertility clinics
+T863	Premise 72114 72170	These weren't taken from abortion or something like that
+T864	Premise 72172 72203	They're from a fertility clinic
+T865	Premise 72209 72260	they're either going to be destroyed or left frozen
+T866	Claim 72529 72581	I think it is respecting life to reach for that cure
+T867	Claim 72583 72639	I think it is respecting life to do it in an ethical way
+T868	Premise 72646 72734	the president has chosen a policy that makes it impossible for our scientists to do that
+T869	Premise 72736 72753	I want the future
+T870	Claim 72759 72785	I think we have to grab it
+T871	Claim 72267 72526	I believe if we have the option, which scientists tell us we do, of curing Parkinson's, curing diabetes, curing, you know, some kind of a, you know, paraplegic or quadriplegic or, you know, a spinal cord injury, anything, that's the nature of the human spirit
+T872	Claim 73136 73212	I think we've got to be very careful in balancing the ethics and the science
+T873	Premise 72840 72923	Embryonic stem-cell research requires the destruction of life to create a stem cell
+T874	Premise 72925 73025	I'm the first president ever to allow funding -- federal funding -- for embryonic stem-cell research
+T875	Claim 73027 73035	I did to
+T876	Premise 73044 73130	I too hope that we'll discover cures from the stem cells and from the research derived
+T877	Claim 73222 73325	I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action
+T878	Premise 73335 73373	science is important, but so is ethics
+T879	Premise 73375 73395	so is balancing life
+T880	Premise 73397 73482	To destroy life to save life is -- it's one of the real ethical dilemmas that we face
+T881	Premise 73485 73607	There is going to be hundreds of experiments off the 22 lines that now exist that are active, and hopefully we find a cure
+T882	Claim 73622 73676	we need to continue to pursue adult stem-cell research
+T883	Premise 73679 73745	I helped double the NIH budget to $28 billion a year to find cures
+T884	Claim 73751 73827	the approach I took is one that I think is a balanced and necessary approach
+T885	Premise 73829 73873	to balance science and the concerns for life
+T886	Claim 74504 74559	We've got to open up the possibilities of this research
+T887	Claim 74565 74604	when I am president, I'm going to do it
+T888	Premise 74613 74623	we have to
+T889	Premise 74186 74501	the lines of stem cells that he's made available, every scientist in the country will tell you, "Not adequate," because they're contaminated by mouse cells, and because there aren't 60 or 70 -- they're are only about 11 to 20 now -- and there aren't enough to be able to do the research because they're contaminated
+T890	Claim 75241 75290	I really don't have -- haven't picked anybody yet
+T891	Claim 75342 75435	I would pick somebody who would not allow their personal opinion to get in the way of the law
+T892	Claim 75437 75525	I would pick somebody who would strictly interpret the Constitution of the United States
+T893	Premise 75528 75612	Let me give you a couple of examples, I guess, of the kind of person I wouldn't pick
+T894	Premise 75615 75749	I wouldn't pick a judge who said that the Pledge of Allegiance couldn't be said in a school because it had the words "under God" in it
+T895	Premise 75759 75913	that's an example of a judge allowing personal opinion to enter into the decision-making process as opposed to a strict interpretation of the Constitution
+T896	Premise 75916 76074	Another example would be the Dred Scott case, which is where judges, years ago, said that the Constitution allowed slavery because of personal property rights
+T897	Premise 76077 76102	That's a personal opinion
+T898	Premise 76104 76141	That's not what the Constitution says
+T899	Premise 76143 76228	The Constitution of the United States says we're all -- you know, it doesn't say that
+T900	Premise 76230 76273	It doesn't speak to the equality of America
+T901	Claim 76284 76341	I would pick people that would be strict constructionists
+T902	Claim 76544 76594	that's the kind of judge I'm going to put on there
+T903	Claim 76596 76657	No litmus test except for how they interpret the Constitution
+T904	Premise 76343 76392	We've got plenty of lawmakers in Washington, D.C.
+T905	Premise 76393 76413	Legislators make law
+T906	Premise 76415 76448	judges interpret the Constitution
+T907	Premise 76745 76893	A few years ago when he came to office, the president said -- these are his words -- "What we need are some good conservative judges on the courts."
+T908	Premise 76899 76980	he said also that his two favorite justices are Justice Scalia and Justice Thomas
+T909	Claim 76986 77066	you get a pretty good sense of where he's heading if he were to appoint somebody
+T910	Claim 77097 77146	I don't believe we need a good conservative judge
+T911	Claim 77152 77196	I don't believe we need a good liberal judge
+T912	Claim 77198 77276	I don't believe we need a good judge of that kind of definition on either side
+T913	Premise 77331 77389	He was a justice on the Supreme Court of the United States
+T914	Premise 77395 77611	he said the mark of a good judge, good justice, is that when you're reading their decision, their opinion, you can't tell if it's written by a man or woman, a liberal or a conservative, a Muslim, a Jew or a Christian
+T915	Premise 77613 77666	You just know you're reading a good judicial decision
+T916	Premise 77279 77329	I subscribe to the Justice Potter Stewart standard
+T917	Premise 78154 78185	These are constitutional rights
+T918	Claim 78191 78298	I want to make sure we have judges who interpret the Constitution of the United States according to the law
+T919	Claim 77749 77834	the Supreme Court of the United States is at stake in this race, ladies and gentlemen
+T920	Premise 77837 77980	The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law
+T921	Premise 77982 78013	Will we have equal opportunity?
+T922	Premise 78014 78047	Will women's rights be protected?
+T923	Premise 78048 78107	Will we have equal pay for women, which is going backwards?
+T924	Premise 78108 78152	Will a woman's right to choose be protected?
+T925	Claim 78786 78836	I respect the belief about life and when it begins
+T926	Premise 78838 78871	I'm a Catholic, raised a Catholic
+T927	Premise 78873 78891	I was an altar boy
+T928	Premise 78893 78933	Religion has been a huge part of my life
+T929	Premise 78935 78966	It helped lead me through a war
+T930	Premise 78968 78982	leads me today
+T931	Claim 79169 79184	I can't do that
+T932	Claim 78989 79167	I can't take what is an article of faith for me and legislate it for someone who doesn't share that article of faith, whether they be agnostic, atheist, Jew, Protestant, whatever
+T933	Claim 79558 79683	I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights
+T934	Claim 79964 79986	I think it's important
+T935	Claim 79999 80200	I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning
+T936	Premise 80203 80227	You'll help prevent AIDS
+T937	Premise 80230 80289	You'll help prevent unwanted children, unwanted pregnancies
+T938	Claim 80413 80431	I truly respect it
+T939	Claim 80292 80407	You'll actually do a better job, I think, of passing on the moral responsibility that is expressed in your question
+T940	Claim 79191 79211	I can counsel people
+T941	Premise 79213 79270	I can talk reasonably about life and about responsibility
+T942	Premise 79272 79445	I can talk to people, as my wife Teresa does, about making other choices, and about abstinence, and about all these other things that we ought to do as a responsible society
+T943	Premise 79452 79516	as a president, I have to represent all the people in the nation
+T944	Premise 79522 79550	I have to make that judgment
+T945	Claim 79689 79794	that means being smart about allowing people to be fully educated, to know what their options are in life
+T946	Claim 79800 79950	making certain that you don't deny a poor person the right to be able to have whatever the constitution affords them if they can't afford it otherwise
+T947	Claim 80527 80580	we're not going to spend taxpayers' money on abortion
+T948	Claim 80868 80920	I think there ought to be parental notification laws
+T949	Claim 81230 81326	I think it is a worthy goal in America to have every child protected by law and welcomed in life
+T950	Claim 81329 81418	I also think we ought to continue to have good adoption law as an alternative to abortion
+T951	Claim 81425 81465	we need to promote maternity group homes
+T952	Claim 81502 81559	Culture of life is really important for a country to have
+T953	Premise 81560 81600	if it's going to be a hospitable society
+T954	Claim 80793 80830	It's one way to help reduce abortions
+T955	Premise 80704 80767	I signed the partial-birth -- the ban on partial-birth abortion
+T956	Premise 80769 80791	It's a brutal practice
+T957	Premise 80832 80865	My opponent voted against the ban
+T958	Premise 80922 80939	He's against them
+T959	Premise 80942 80999	I signed a bill called the Unborn Victims of Violence Act
+T960	Premise 81002 81125	In other words, if you're a mom and you're pregnant and you get killed, the murderer gets tried for two cases, not just one
+T961	Premise 81127 81155	My opponent was against that
+T962	Claim 81158 81228	These are reasonable ways to help promote a culture of life in America
+T963	Claim 81835 81842	I'm not
+T964	Claim 81804 81829	it's just not that simple
+T965	Claim 81844 81882	I'm against the partial-birth abortion
+T966	Claim 81888 82031	you've got to have an exception for the life of the mother and the health of the mother under the strictest test of bodily injury to the mother
+T967	Claim 82083 82210	I'm not going to require a 16-or 17-year-old kid who's been raped by her father and who's pregnant to have to notify her father
+T968	Claim 82215 82254	you got to have a judicial intervention
+T969	Premise 82260 82370	because they didn't have a judicial intervention where she could go somewhere and get help, I voted against it
+T970	Claim 82372 82436	It's never quite as simple as the president wants you to believe
+T971	Premise 82586 82632	he was given a chance to vote, and he voted no
+T972	Premise 82638 82663	that's just the way it is
+T973	Premise 82665 82678	That's a vote
+T974	Premise 82680 82696	It came right up
+T975	Premise 82698 82729	It's clear for everybody to see
+T976	Claim 82746 82788	You can run but you can't hide the reality
+T977	Claim 83873 83894	I think they're right
+T978	Claim 83681 83863	on the big questions, about whether or not we should have gone into Afghanistan, the big question about whether we should have removed somebody in Iraq, I'll stand by those decisions
+T979	Claim 84636 84677	I made some mistakes in appointing people
+T980	Claim 84815 84897	I'm fully prepared to accept any mistakes that history judges to my administration
+T981	Premise 84907 84940	the president makes the decisions
+T982	Premise 84942 84986	the president has to take the responsibility
+T983	Claim 83630 83663	I'll take responsibility for them
+T984	Premise 83431 83447	some of them big
+T985	Premise 83358 83425	some of them little, like appointments to boards you never heard of
+T986	Premise 83322 83352	I have made a lot of decisions
+T987	Premise 83453 83586	in a war, there's a lot of -- there's a lot of tactical decisions that historians will look back and say: He shouldn't have done that
+T988	Premise 83588 83624	He shouldn't have made that decision
+T989	Premise 83665 83674	I'm human
+T990	Claim 84097 84122	It was the right decision
+T991	Premise 84125 84173	The Duelfer report confirmed that decision today
+T992	Premise 84183 84290	what Saddam Hussein was doing was trying to get rid of sanctions so he could reconstitute a weapons program
+T993	Premise 84296 84376	the biggest threat facing America is terrorists with weapons of mass destruction
+T994	Premise 84379 84398	We knew he hated us
+T995	Premise 84400 84444	We knew he'd been -- invaded other countries
+T996	Premise 84446 84480	We knew he tortured his own people
+T997	Claim 84520 84544	I did the right decision
+T998	Premise 84483 84518	On the tax cut, it's a big decision
+T999	Premise 84546 84603	Our recession was one of the shallowest in modern history
+T1000	Claim 85041 85306	I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort
+T1001	Premise 85442 85512	The president rushed our nation to war without a plan to win the peace
+T1002	Premise 85518 85544	simple things weren't done
+T1003	Premise 85547 85617	That's why Senator Lugar says: incompetent in the delivery of services
+T1004	Premise 85619 85734	That's why Senator Hagel, Republican, says, you know: beyond pitiful, beyond embarrassing, in the zone of dangerous
+T1005	Premise 85737 85773	We didn't guard 850,000 tons of ammo
+T1006	Premise 85775 85819	That ammo is now being used against our kids
+T1007	Premise 85821 85870	Ten thousand out of 12,000 Humvees aren't armored
+T1008	Premise 85872 85974	I visited some of those kids with no limbs today, because they didn't have the armor on those vehicles
+T1009	Premise 85976 86013	They didn't have the right body armor
+T1010	Premise 86016 86091	I've met parents who've on the Internet gotten the armor to send their kids
+T1011	Claim 86094 86192	There is no bigger judgment for a president of the United states than how you take a nation to war
+T1012	Claim 86198 86281	you can't say, because Saddam might have done it 10 years from now, that's a reason
+T1013	Claim 86283 86299	that's an excuse
+T1014	Claim 86800 86876	Saddam would still be in power if he were the president of the United States
+T1015	Premise 86333 86475	He complains about the fact our troops don't have adequate equipment, yet he voted against the $87 billion supplemental I sent to the Congress
+T1016	Premise 86480 86613	then issued one of the most amazing quotes in political history: "I actually did vote for the $87 billion before I voted against it."
+T1017	Claim 86614 86654	Saddam Hussein was a risk to our country
+T1018	Claim 87048 87091	I made a mistake in the way I talk about it
+T1019	Claim 87093 87127	He made a mistake in invading Iraq
+T1020	Claim 87162 87256	I voted the way I voted because I saw that he had the policy wrong and I wanted accountability
+T1021	Premise 87258 87307	I didn't want to give a slush fund to Halliburton
+T1022	Claim 87309 87376	I also thought the wealthiest people in America ought to pay for it
+T1023	Claim 87400 87432	He wants your kids to pay for it
+T1024	Claim 87434 87459	I wanted us to pay for it
+T1025	Premise 87467 87479	we're at war
+T1026	Claim 87481 87516	I don't think that's a bad decision
+T1027	Claim 88121 88203	I will never cede the authority of our country or our security to any other nation
+T1028	Claim 88205 88321	I'll never give a veto over American security to any other entity -- not a nation, not a country, not an institution
+T1029	Claim 88328 88438	I know, as I think you do, that our country is strongest when we lead the world, when we lead strong alliances
+T1030	Premise 88444 88510	that's the way Eisenhower and Reagan and Kennedy and others did it
+T1031	Premise 88513 88540	We are not doing that today
+T1032	Claim 88542 88552	We need to
+T1033	Claim 88555 88626	I have a plan that will help us go out and kill and find the terrorists
+T1034	Claim 88633 88700	I will not stop in our efforts to hunt down and kill the terrorists
+T1035	Claim 88707 88772	I'll also have a better plan of how we're going to deal with Iraq
+T1036	Premise 88774 88812	training the Iraqi forces more rapidly
+T1037	Premise 88814 88953	getting our allies back to the table with a fresh start, with new credibility, with a president whose judgment the rest of the world trusts
+T1038	Claim 88977 89104	I believe we have a crisis here at home, a crisis of the middle class that is increasingly squeezed, health-care costs going up
+T1039	Claim 89107 89160	I have a plan to provide health care to all Americans
+T1040	Claim 89163 89315	I have a plan to provide for our schools so we keep the standards but we help our teachers teach and elevate our schools by funding No Child Left Behind
+T1041	Claim 89318 89456	I have a plan to protect the environment so that we leave this place in better shape to our children than we were handed it by our parents
+T1042	Claim 89476 89521	I believe America's best days are ahead of us
+T1043	Premise 89523 89538	I'm an optimist
+T1044	Premise 89544 89646	we have to make the right choices, to be fiscally responsible and to create the new jobs of the future
+T1045	Claim 89648 89662	We can do this
+T1046	Claim 90335 90352	We're on the move
+T1047	Premise 90280 90332	Homeownership rate is at an all-time high in America
+T1048	Premise 90246 90278	Small businesses are flourishing
+T1049	Premise 90210 90244	The farm income in America is high
+T1050	Premise 90158 90208	Added 1.9 million new jobs over the past 13 months
+T1051	Claim 90022 90068	We've been through a lot together as a country
+T1052	Premise 90072 90121	been through a recession, corporate scandals, war
+T1053	Claim 90398 90455	what to do to keep this economy going: keep the taxes low
+T1054	Claim 90457 90507	don't increase the scope of the federal government
+T1055	Claim 90509 90726	keep regulations down, legal reform, a health- care policy that does not empower the federal government but empowers individuals, and an energy plan that will help us become less dependent on foreign sources of energy
+T1056	Premise 90733 90753	abroad, we're at war
+T1057	Claim 90759 90825	it requires a president who is steadfast and strong and determined
+T1058	Claim 91036 91065	There is more work to be done
+T1059	Premise 90827 90951	I vowed to the American people after that fateful day of September the 11th that we would not rest nor tire until we're safe
+T1060	Premise 90954 91034	The 9/11 Commission put out a report that said America is safer but not yet safe
+T1061	Claim 91068 91102	We'll stay on the hunt on Al Qaida
+T1062	Claim 91104 91144	We'll deny sanctuary to these terrorists
+T1063	Claim 91146 91213	We'll make sure they do not end up with weapons of mass destruction
+T1064	Claim 91336 91395	our long-term security depends on our deep faith in liberty
+T1065	Premise 91215 91235	It's the great nexus
+T1066	Premise 91237 91329	The great threat to our country is that these haters end up with weapons of mass destruction
+T1067	Claim 91401 91451	we'll continue to promote freedom around the world
+T1068	Claim 91454 91477	Freedom is on the march
+T1069	Premise 91479 91531	Tomorrow, Afghanistan will be voting for a president
+T1070	Premise 91533 91572	In Iraq, we'll be having free elections
+T1071	Claim 91578 91627	a free society will make this world more peaceful

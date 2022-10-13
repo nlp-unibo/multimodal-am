@@ -1,0 +1,1604 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.080",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "18.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Pauline Frederick of NPR, moderator of this second of the historic debates of the 1976 campaign between Gerald R, Ford of Michigan, Republican candidate for president, and Jimmy Carter of Georgia, Democratic candidate for president."
+   ]
+  },
+  {
+   "begin": "18.200",
+   "children": [],
+   "end": "23.360",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Thank you, President Ford and thank you, Governor Carter, for being with us tonight."
+   ]
+  },
+  {
+   "begin": "23.360",
+   "children": [],
+   "end": "29.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "This debate takes place before an audience in the Palace of Fine Arts Theater in San Francisco."
+   ]
+  },
+  {
+   "begin": "29.120",
+   "children": [],
+   "end": "34.200",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "An estimated one hundred million Americans are watching on television as well."
+   ]
+  },
+  {
+   "begin": "34.200",
+   "children": [],
+   "end": "39.720",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "San Francisco was the site of the signing of the United Nations Charter, thirty one years ago."
+   ]
+  },
+  {
+   "begin": "39.720",
+   "children": [],
+   "end": "47.840",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Thus, it is an appropriate place to hold this debate, the subject of which is foreign and defense issues."
+   ]
+  },
+  {
+   "begin": "47.840",
+   "children": [],
+   "end": "62.160",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "The questioners tonight are Max Frankel, associate editor of the New York Times, Henry L. Trewhitt, diplomatic correspondent of the Baltimore Sun, and Richard Valeriani, diplomatic correspondent of NBC News."
+   ]
+  },
+  {
+   "begin": "62.160",
+   "children": [],
+   "end": "67.800",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "The ground rules are basically the same as they were for the first debate two weeks ago."
+   ]
+  },
+  {
+   "begin": "67.800",
+   "children": [],
+   "end": "70.960",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "The questions will be alternated between candidates."
+   ]
+  },
+  {
+   "begin": "70.960",
+   "children": [],
+   "end": "75.760",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "By the toss of a coin, Governor Carter will take the first question."
+   ]
+  },
+  {
+   "begin": "75.760",
+   "children": [],
+   "end": "83.680",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "Each question sequence will be as follows: The question will be asked and the candidate will have up to three minutes to answer."
+   ]
+  },
+  {
+   "begin": "83.680",
+   "children": [],
+   "end": "87.280",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "His opponent will have up to two minutes to respond."
+   ]
+  },
+  {
+   "begin": "87.280",
+   "children": [],
+   "end": "97.120",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "And prior to the response, the questioner may ask a follow-up question to clarify the candidate's answer when necessary with up to two minutes to reply."
+   ]
+  },
+  {
+   "begin": "97.120",
+   "children": [],
+   "end": "100.960",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Each candidate will have three minutes for a closing statement at the end."
+   ]
+  },
+  {
+   "begin": "100.960",
+   "children": [],
+   "end": "112.080",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "President Ford and Governor Carter do not have notes or prepared remarks with them this evening, but they may take notes during the debate and refer to them."
+   ]
+  },
+  {
+   "begin": "112.080",
+   "children": [],
+   "end": "116.520",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "Mr. Frankel, you have the first question for Governor Carter."
+   ]
+  },
+  {
+   "begin": "116.520",
+   "children": [],
+   "end": "143.800",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Governor, since the Democrats last ran our foreign policy, including many of the men who are advising you, country has been relieved of the Vietnam agony and the military draft, we've started arms control negotiations with the Russians, we've opened relations with China, we've arranged the disengagement in the Middle East, we've regained influence with the Arabs without deserting Israel, now, maybe we've even begun a process of peaceful change in Africa."
+   ]
+  },
+  {
+   "begin": "143.800",
+   "children": [],
+   "end": "154.200",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Now you've objected in this campaign to the style with which much of this was done, and you've mentioned some other things that - that you think ought to have been done."
+   ]
+  },
+  {
+   "begin": "154.200",
+   "children": [],
+   "end": "157.880",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "But do you really have a quarrel with this Republican record?"
+   ]
+  },
+  {
+   "begin": "157.880",
+   "children": [],
+   "end": "161.200",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Would you not have done any of those things?"
+   ]
+  },
+  {
+   "begin": "161.200",
+   "children": [],
+   "end": "169.280",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Well I think this Republican administration has been almost all style, and spectacular, and not substance."
+   ]
+  },
+  {
+   "begin": "169.280",
+   "children": [],
+   "end": "179.720",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "We've uh - got a chance tonight to talk about, first of all, leadership, the character of our country, and a vision of the future."
+   ]
+  },
+  {
+   "begin": "179.720",
+   "children": [],
+   "end": "189.840",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "In every one of these instances, the Ford administration has failed, and I hope tonight that I and Mr. Ford will have a chance to discuss the reasons for those failures."
+   ]
+  },
+  {
+   "begin": "189.840",
+   "children": [],
+   "end": "193.720",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Our country is not strong anymore; we're not respected anymore."
+   ]
+  },
+  {
+   "begin": "193.720",
+   "children": [],
+   "end": "206.000",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "We can only be strong overseas if we're strong at home; and when I became president we'll not only be strong in those areas but also in defense - a defense capability second to none."
+   ]
+  },
+  {
+   "begin": "206.000",
+   "children": [],
+   "end": "211.200",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "We've lost in our foreign policy, the character of the American people."
+   ]
+  },
+  {
+   "begin": "211.200",
+   "children": [],
+   "end": "218.080",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "We've uh - ignored or excluded the American people and the Congress from participation in the shaping of our foreign policy."
+   ]
+  },
+  {
+   "begin": "218.080",
+   "children": [],
+   "end": "220.880",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "It's been one of secrecy and exclusion."
+   ]
+  },
+  {
+   "begin": "220.880",
+   "children": [],
+   "end": "232.880",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "In addition to that we've had a chance to became now, contrary to our long-standing beliefs and principles, the arms merchant of the whole world."
+   ]
+  },
+  {
+   "begin": "232.880",
+   "children": [],
+   "end": "241.720",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "We've tried to buy success from our enemies, and at the same time we've excluded from the process the normal friendship of our allies."
+   ]
+  },
+  {
+   "begin": "241.720",
+   "children": [],
+   "end": "250.000",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "In addition to that we've become fearful to compete with the Soviet Union on an equal basis."
+   ]
+  },
+  {
+   "begin": "250.000",
+   "children": [],
+   "end": "251.560",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "We talk about detente."
+   ]
+  },
+  {
+   "begin": "251.560",
+   "children": [],
+   "end": "256.240",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "The Soviet Union knows what they want in detente, and they've been getting it."
+   ]
+  },
+  {
+   "begin": "256.240",
+   "children": [],
+   "end": "260.640",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "We have not known what we've wanted and we've been out-traded in almost every instance."
+   ]
+  },
+  {
+   "begin": "260.640",
+   "children": [],
+   "end": "263.720",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "The other point I wanna make is about our defense."
+   ]
+  },
+  {
+   "begin": "263.720",
+   "children": [],
+   "end": "275.200",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "We've got to be a nation blessed with a defense capability that's efficient, tough, capable, well organized, narrowly focused - fighting capability."
+   ]
+  },
+  {
+   "begin": "275.200",
+   "children": [],
+   "end": "282.440",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "The ability to fight, if necessary, is the best way to avoid the chance for, or the requirement to fight."
+   ]
+  },
+  {
+   "begin": "282.440",
+   "children": [],
+   "end": "292.960",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "And the last point I wanna make is this: Mr. Ford, Mr. Kissinger have uh - continued on with the policies and failures of Richard Nixon."
+   ]
+  },
+  {
+   "begin": "292.960",
+   "children": [],
+   "end": "302.880",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Even the Republican platform has criticized the lack of leadership in Mr. Ford and they've criticized the foreign policy of this administration."
+   ]
+  },
+  {
+   "begin": "302.880",
+   "children": [],
+   "end": "307.720",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "This is one instance where I agree with - with the Republican platform."
+   ]
+  },
+  {
+   "begin": "307.720",
+   "children": [],
+   "end": "316.040",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "I might say this in closing, and that is that as far as foreign policy goes, Mr. Kissinger has been the president of this country."
+   ]
+  },
+  {
+   "begin": "316.040",
+   "children": [],
+   "end": "323.360",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Mr. Ford has shown an absence of leadership, and an absence of a grasp of what this country is and what it ought to be."
+   ]
+  },
+  {
+   "begin": "323.360",
+   "children": [],
+   "end": "324.880",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "That's got to be changed."
+   ]
+  },
+  {
+   "begin": "324.880",
+   "children": [],
+   "end": "328.960",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "And that's one of the major issues in this uh - campaign of 1976."
+   ]
+  },
+  {
+   "begin": "328.960",
+   "children": [],
+   "end": "332.520",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "President Ford, would you like to respond?"
+   ]
+  },
+  {
+   "begin": "332.520",
+   "children": [],
+   "end": "336.880",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "Governor Carter again is talking in broad generalities."
+   ]
+  },
+  {
+   "begin": "336.880",
+   "children": [],
+   "end": "344.240",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "Let me take just one question that he raises - the military strength and capability of the United States."
+   ]
+  },
+  {
+   "begin": "344.240",
+   "children": [],
+   "end": "354.440",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Governor Carter in November of 1975 indicated that he wanted to cut the defense budget by $15 billion."
+   ]
+  },
+  {
+   "begin": "354.440",
+   "children": [],
+   "end": "359.680",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "A few months later, he said he wanted to cut the defense budget by eight or nine billion dollars."
+   ]
+  },
+  {
+   "begin": "359.680",
+   "children": [],
+   "end": "365.720",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "And more recently, he talks about cutting the defense budget by five to seven billion dollars."
+   ]
+  },
+  {
+   "begin": "365.720",
+   "children": [],
+   "end": "374.520",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "There is no way you can be strong militarily and have those kind of reductions in our military uh - appropriation."
+   ]
+  },
+  {
+   "begin": "374.520",
+   "children": [],
+   "end": "377.760",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "Now let me just tell you a little story."
+   ]
+  },
+  {
+   "begin": "377.760",
+   "children": [],
+   "end": "396.240",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "About uh - late October of 1975, I asked the then Secretary of Defense, Mr. Schlesinger, to tell me what had to be done if we were going to reduce the defense budget by uh - three to five billion dollars."
+   ]
+  },
+  {
+   "begin": "396.240",
+   "children": [],
+   "end": "412.400",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "A few days later, Mr. Schlesinger came back and said if we cut the defense budget by three to five billion dollars, we will have to cut military personnel by two hundred and fifty thousand, civilian personnel by a hundred thousand, jobs in America by a hundred thousand."
+   ]
+  },
+  {
+   "begin": "412.400",
+   "children": [],
+   "end": "429.440",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "We would have to stretch out our aircraft procurement, we would have to reduce our naval construction program, we would have to reduce the uh - research and development for the Army, the Navy, the Air Force and Marines by 8 percent."
+   ]
+  },
+  {
+   "begin": "429.440",
+   "children": [],
+   "end": "434.520",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "We would have to close twenty military bases in the United States immediately."
+   ]
+  },
+  {
+   "begin": "434.520",
+   "children": [],
+   "end": "440.000",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "That's the kind of defense program that uh - Mr. Carter wants."
+   ]
+  },
+  {
+   "begin": "440.000",
+   "children": [],
+   "end": "442.760",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Let me tell you this straight from the shoulder."
+   ]
+  },
+  {
+   "begin": "442.760",
+   "children": [],
+   "end": "446.720",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "You don't negotiate with Mr. Brezhnev from weakness."
+   ]
+  },
+  {
+   "begin": "446.720",
+   "children": [],
+   "end": "456.080",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "And the kind of defense program that Mr. Carter wants will mean a weaker defense and a poor negotiating position."
+   ]
+  },
+  {
+   "begin": "456.080",
+   "children": [],
+   "end": "459.240",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Mr. Trewhitt, a question for President Ford."
+   ]
+  },
+  {
+   "begin": "459.240",
+   "children": [],
+   "end": "462.800",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Mr. President, my question really is the other side of the coin from Mr. Frankel's."
+   ]
+  },
+  {
+   "begin": "462.800",
+   "children": [],
+   "end": "469.200",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "For a generation the United States has had a foreign policy based on containment of Communism."
+   ]
+  },
+  {
+   "begin": "469.200",
+   "children": [],
+   "end": "474.240",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Yet we have lost the first war in Vietnam; we lost a shoving match in Angola."
+   ]
+  },
+  {
+   "begin": "474.240",
+   "children": [],
+   "end": "481.400",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Uh - the Communists threatened to come to power by peaceful means in Italy and relations generally have cooled with the Soviet Union in the last few months."
+   ]
+  },
+  {
+   "begin": "481.400",
+   "children": [],
+   "end": "486.200",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "So le- let me ask you first, what do you do about such cases as Italy?"
+   ]
+  },
+  {
+   "begin": "486.200",
+   "children": [],
+   "end": "493.120",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "And secondly, does this general drift mean that we're moving back toward something like an old cold - cold-war relationship with the Soviet Union?"
+   ]
+  },
+  {
+   "begin": "493.120",
+   "children": [],
+   "end": "497.000",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "I don't believe we should move to a cold-war relationship."
+   ]
+  },
+  {
+   "begin": "497.000",
+   "children": [],
+   "end": "510.160",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "I think it's in the best interest of the United States, and the world as a whole that the United States negotiate rather than go back to the cold-war relationship with the Soviet Union."
+   ]
+  },
+  {
+   "begin": "510.160",
+   "children": [],
+   "end": "515.640",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "I don't uh - look at the picture as bleakly as you have indicated in your question, Mr. Trewhitt."
+   ]
+  },
+  {
+   "begin": "515.640",
+   "children": [],
+   "end": "524.960",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "I believe that the United States ha- had many successes in recent years, in recent months, as far as the Communist movement is concerned."
+   ]
+  },
+  {
+   "begin": "524.960",
+   "children": [],
+   "end": "536.240",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "We have been successful in Portugal, where a year ago it looked like there was a very great possibility that the uh - Communists would take over in Portugal."
+   ]
+  },
+  {
+   "begin": "536.240",
+   "children": [],
+   "end": "537.200",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "It didn't happen."
+   ]
+  },
+  {
+   "begin": "537.200",
+   "children": [],
+   "end": "540.680",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "We have a democracy in Portugal today."
+   ]
+  },
+  {
+   "begin": "540.680",
+   "children": [],
+   "end": "550.520",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "A few uh - months ago, or I should say, maybe two years ago, the Soviet Union looked like they had continued strength in the Middle East."
+   ]
+  },
+  {
+   "begin": "550.520",
+   "children": [],
+   "end": "560.120",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Today, according to Prime Minister Rabin, the Soviet Union is weaker in the Middle East than they have been in many, many years."
+   ]
+  },
+  {
+   "begin": "560.120",
+   "children": [],
+   "end": "566.880",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "The facts are, there - the Soviet Union relationship with Egypt is uh - at a low level."
+   ]
+  },
+  {
+   "begin": "566.880",
+   "children": [],
+   "end": "571.760",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "The Soviet Union relationship with Syria is at a very low point."
+   ]
+  },
+  {
+   "begin": "571.760",
+   "children": [],
+   "end": "581.760",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "The United States today, according to Prime Minister Rabin of Israel, is a- at a peak in its uh - influence and power in the Middle East."
+   ]
+  },
+  {
+   "begin": "581.760",
+   "children": [],
+   "end": "588.160",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "But let's turn for a minute to the uhh - southern African operations that are now going on."
+   ]
+  },
+  {
+   "begin": "588.160",
+   "children": [],
+   "end": "594.120",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "The United States of America took the initiative in southern Africa."
+   ]
+  },
+  {
+   "begin": "594.120",
+   "children": [],
+   "end": "598.320",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "We wanted to end the bloodshed in southern Africa."
+   ]
+  },
+  {
+   "begin": "598.320",
+   "children": [],
+   "end": "603.080",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "We wanted to have the right of self-determination in southern Africa."
+   ]
+  },
+  {
+   "begin": "603.080",
+   "children": [],
+   "end": "609.000",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "We wanted to have majority rule with the full protection of the rights of the minority."
+   ]
+  },
+  {
+   "begin": "609.000",
+   "children": [],
+   "end": "613.800",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "We wanted to preserve human dignity in southern Africa."
+   ]
+  },
+  {
+   "begin": "613.800",
+   "children": [],
+   "end": "624.920",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "We have taken the initiative, and in southern Africa today the United States is trusted by the black front-line nations and black Africa."
+   ]
+  },
+  {
+   "begin": "624.920",
+   "children": [],
+   "end": "629.960",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "The United States is trusted by other elements in southern Africa."
+   ]
+  },
+  {
+   "begin": "629.960",
+   "children": [],
+   "end": "637.960",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "The United States foreign policy under this administration has been one of progress and success."
+   ]
+  },
+  {
+   "begin": "637.960",
+   "children": [],
+   "end": "645.000",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "And I believe that instead of talking about Soviet progress, we can talk about American successes."
+   ]
+  },
+  {
+   "begin": "645.000",
+   "children": [],
+   "end": "650.880",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "And may I make an observation - part of the question you asked, Mr. Trewhitt?"
+   ]
+  },
+  {
+   "begin": "650.880",
+   "children": [],
+   "end": "659.120",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "I don't believe that it's in the best interest of the United States and the NATO nations to have a Communist government in NATO."
+   ]
+  },
+  {
+   "begin": "659.120",
+   "children": [],
+   "end": "666.560",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Mr. Carter has indicated he would look with sympathy to a Communist government in NATO."
+   ]
+  },
+  {
+   "begin": "666.560",
+   "children": [],
+   "end": "672.960",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "I think that would destroy the integrity and the strength of NATO, and I am totally opposed to it."
+   ]
+  },
+  {
+   "begin": "672.960",
+   "children": [],
+   "end": "680.840",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "Well, Mr. Ford, unfortunately, has just made a statement that's not true."
+   ]
+  },
+  {
+   "begin": "680.840",
+   "children": [],
+   "end": "684.840",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "I have never advocated a Communist government for Italy."
+   ]
+  },
+  {
+   "begin": "684.840",
+   "children": [],
+   "end": "689.920",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "That would obviously be a ridiculous thing for anyone to do who wanted to be president of this country."
+   ]
+  },
+  {
+   "begin": "689.920",
+   "children": [],
+   "end": "697.000",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "I think that this is uh - an instance of uh - deliberate distortion, and this has occurred also in the question about defense."
+   ]
+  },
+  {
+   "begin": "697.000",
+   "children": [],
+   "end": "702.360",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, uh - I've never advocated any cut of $15 billion in our defense budget."
+   ]
+  },
+  {
+   "begin": "702.360",
+   "children": [],
+   "end": "708.400",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, Mr. Ford has made a political football out of the defense budget."
+   ]
+  },
+  {
+   "begin": "708.400",
+   "children": [],
+   "end": "713.200",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "About a year ago he cut the Pentagon budget six point eight billion dollars."
+   ]
+  },
+  {
+   "begin": "713.200",
+   "children": [],
+   "end": "719.800",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "After he fired James Schlesinger, the political heat got so great that he added back about $3 billion."
+   ]
+  },
+  {
+   "begin": "719.800",
+   "children": [],
+   "end": "728.080",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "When Ronald Reagan won the Texas primary election, Mr. Ford added back another one and a half billion dollars."
+   ]
+  },
+  {
+   "begin": "728.080",
+   "children": [],
+   "end": "733.920",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "Immediately before the Kansas City convention, he added back another one point eight billion dollars in the defense budget."
+   ]
+  },
+  {
+   "begin": "733.920",
+   "children": [],
+   "end": "744.600",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "And his own uh - Office of Management and Budget testified that he had a $3 billion cut insurance added to the defense budget - defense budget under the pressure from the Pentagon."
+   ]
+  },
+  {
+   "begin": "744.600",
+   "children": [],
+   "end": "753.200",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Obviously, this is another indication of trying to use the defense budget for political purposes, which he's trying to do tonight."
+   ]
+  },
+  {
+   "begin": "753.200",
+   "children": [],
+   "end": "762.960",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "Now, we went into south Africa late, after Great Britain, Rhodesia, the black nations had been trying to solve this problem for many, many years."
+   ]
+  },
+  {
+   "begin": "762.960",
+   "children": [],
+   "end": "774.920",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "We didn't go in until right before the election, similar to what was taking place in 1972, when Mr. Kissinger announced peace is at hand just before the election at that time."
+   ]
+  },
+  {
+   "begin": "774.920",
+   "children": [],
+   "end": "790.120",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "And we have weakened our position in NATO because the other countries in Europe supported the democ- democratic forces in Portugal long before we did; we stuck to the Portugal dictatorships much longer than other democracies did in this world."
+   ]
+  },
+  {
+   "begin": "790.120",
+   "children": [],
+   "end": "794.160",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "Mr. Valeriani, a question for Governor Carter."
+   ]
+  },
+  {
+   "begin": "794.160",
+   "children": [],
+   "end": "800.160",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Governor Carter, much of what the United States does abroad is done in the name of the national interest."
+   ]
+  },
+  {
+   "begin": "800.160",
+   "children": [],
+   "end": "802.360",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "What is your concept of the national interest?"
+   ]
+  },
+  {
+   "begin": "802.360",
+   "children": [],
+   "end": "805.040",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "What should the role of the United States in the world be?"
+   ]
+  },
+  {
+   "begin": "805.040",
+   "children": [],
+   "end": "825.600",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "And in that connection, considering your limited experience in foreign affairs, and the fact that you take same pride in being a Washington outsider, don't you think it would be appropriate for you to tell the American voters before the election the people that you would like to have in key positions, such as Secretary of State, Secretary of Defense, national security affairs advisor at the White House?"
+   ]
+  },
+  {
+   "begin": "825.600",
+   "children": [],
+   "end": "828.760",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Well, I'm not gonna name my cabinet before I get elected."
+   ]
+  },
+  {
+   "begin": "828.760",
+   "children": [],
+   "end": "831.680",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "I've got a little ways to go before I start doing that."
+   ]
+  },
+  {
+   "begin": "831.680",
+   "children": [],
+   "end": "834.560",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "But I have uh - an adequate background, I believe."
+   ]
+  },
+  {
+   "begin": "834.560",
+   "children": [],
+   "end": "836.800",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "I am a graduate of the U.S."
+   ]
+  },
+  {
+   "begin": "836.800",
+   "children": [],
+   "end": "841.360",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Naval Academy, the first military graduate since uh - Eisenhower."
+   ]
+  },
+  {
+   "begin": "841.360",
+   "children": [],
+   "end": "848.800",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "I've served as the Governor of Georgia and have traveled extensively in foreign countries and South America, Central America, Europe, the Middle East and in Japan."
+   ]
+  },
+  {
+   "begin": "848.800",
+   "children": [],
+   "end": "853.560",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "I've traveled the last twenty-one months among the people of this country."
+   ]
+  },
+  {
+   "begin": "853.560",
+   "children": [],
+   "end": "855.800",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "I've talked to them and I've listened."
+   ]
+  },
+  {
+   "begin": "855.800",
+   "children": [],
+   "end": "873.280",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "And I've seen at first hand, in a very vivid way, the deep hurt that's come to this country in the aftermath of Vietnam and Cambodia, Chile, and Pakistan, and Angola, and Watergate, CIA revelations."
+   ]
+  },
+  {
+   "begin": "873.280",
+   "children": [],
+   "end": "886.760",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "What we were formerly so proud of - the strength of our country, its uh - moral integrity, the representation in foreign affairs of what our people are, what our Constitution stands for, has been gone."
+   ]
+  },
+  {
+   "begin": "886.760",
+   "children": [],
+   "end": "893.680",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "And in the secrecy that has surrounded our foreign policy in the last few years, uh - the American people, the Congress have been excluded."
+   ]
+  },
+  {
+   "begin": "893.680",
+   "children": [],
+   "end": "896.160",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "I believe I know what this country ought to be."
+   ]
+  },
+  {
+   "begin": "896.160",
+   "children": [],
+   "end": "916.600",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "I've uh - been one who's loved my nation as many Americans do, and I believe that there's no limit placed on what we can be in the future, if we can harness the tremendous resources - militarily, economically, and the stature of our people, the meaning of the Constitution, in the future."
+   ]
+  },
+  {
+   "begin": "916.600",
+   "children": [],
+   "end": "924.840",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Every time we've made a serious mistake in foreign affairs, it's been because the American people have been excluded from the process."
+   ]
+  },
+  {
+   "begin": "924.840",
+   "children": [],
+   "end": "936.440",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "If we can just tap the intelligence and ability, the sound common sense and the good judgment of the American people, we can once again have a foreign policy to make us proud instead of ashamed."
+   ]
+  },
+  {
+   "begin": "936.440",
+   "children": [],
+   "end": "942.640",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "And I'm not gonna exclude the American people from that process in the future, as Mr. Ford and Kissinger have done."
+   ]
+  },
+  {
+   "begin": "942.640",
+   "children": [],
+   "end": "955.560",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "This is what it takes to have a sound foreign policy strong at home, strong defense, permanent commitments, not betray the principles of our country, and involve the American people and the Congress in the shaping of our foreign policy."
+   ]
+  },
+  {
+   "begin": "955.560",
+   "children": [],
+   "end": "974.200",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Every time Mr. Ford speaks from a position of secrecy in negotiations, in secret - in secret treaties that've been uh - pursued and achieved, in supporting dictatorships, in ignoring human rights, we are weak and the rest of the world knows it."
+   ]
+  },
+  {
+   "begin": "974.200",
+   "children": [],
+   "end": "981.520",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "So these are the ways that we can restore the strength of our country, and they don't require long experience in foreign policy."
+   ]
+  },
+  {
+   "begin": "981.520",
+   "children": [],
+   "end": "984.680",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Nobody has that except a president who has served a long time or a secretary of state."
+   ]
+  },
+  {
+   "begin": "984.680",
+   "children": [],
+   "end": "999.440",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "But my background, my experience, my knowledge of the people of this country, my commitment to our principles that don't change - those are the best bases to correct the horrible mistakes of this administration and restore our own country to a position of leadership in the world."
+   ]
+  },
+  {
+   "begin": "999.440",
+   "children": [],
+   "end": "1006.280",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "How specifically, uh - Governor, are you going to bring the American people into the decision-making process in foreign policy?"
+   ]
+  },
+  {
+   "begin": "1006.280",
+   "children": [],
+   "end": "1006.920",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "What does that mean?"
+   ]
+  },
+  {
+   "begin": "1006.920",
+   "children": [],
+   "end": "1017.200",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "First of all, I would quit conducting the decision-making process in secret, as has been a characteristic of Mr. Kissinger and Mr. Ford."
+   ]
+  },
+  {
+   "begin": "1017.200",
+   "children": [],
+   "end": "1026.000",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "In many instances we've made agreements, like in Vietnam, uh - that have uh - been revealed later on to our uh - embarrassment."
+   ]
+  },
+  {
+   "begin": "1026.000",
+   "children": [],
+   "end": "1034.680",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Recently Ian Smith, the uh - president of uh - Rhodesia, announced that he had unequivocal commitments from Mr. Kissinger that he could not reveal."
+   ]
+  },
+  {
+   "begin": "1034.680",
+   "children": [],
+   "end": "1037.920",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "The American people don't know what those commitments are."
+   ]
+  },
+  {
+   "begin": "1037.920",
+   "children": [],
+   "end": "1046.160",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "We've seen uh - in the past the destruction of elected governments, like in Chile, and the strong support of military dictatorship there."
+   ]
+  },
+  {
+   "begin": "1046.160",
+   "children": [],
+   "end": "1048.960",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "These kinds of things have hurt us very much."
+   ]
+  },
+  {
+   "begin": "1048.960",
+   "children": [],
+   "end": "1056.320",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "I would restore the concept of the fireside chat, which was an integral part of the administration of Franklin Roosevelt."
+   ]
+  },
+  {
+   "begin": "1056.320",
+   "children": [],
+   "end": "1059.920",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "And I would also restore the involvement of the Congress."
+   ]
+  },
+  {
+   "begin": "1059.920",
+   "children": [],
+   "end": "1064.000",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "When Harry Truman was president he was not afraid to have a strong secretary of defense."
+   ]
+  },
+  {
+   "begin": "1064.000",
+   "children": [],
+   "end": "1068.760",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "Dean Acheson, George Marshall were strong secretaries of uh - state - excuse me - state."
+   ]
+  },
+  {
+   "begin": "1068.760",
+   "children": [],
+   "end": "1071.680",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "But he also made sure that there was a bipartisan support."
+   ]
+  },
+  {
+   "begin": "1071.680",
+   "children": [],
+   "end": "1087.800",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "The members of Congress, Arthur Vandenberg, Walter George, were part of the process, and before our nation made a secret agreement, or before we made a bluffing statement, we were sure that we had the backing not only of the president and the secretary of state, but also of the Congress and the people."
+   ]
+  },
+  {
+   "begin": "1087.800",
+   "children": [],
+   "end": "1089.600",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "This is a responsibility of the president."
+   ]
+  },
+  {
+   "begin": "1089.600",
+   "children": [],
+   "end": "1095.640",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "And I think it's very damaging to our country for Mr. Ford to have turned over this responsibility to the secretary of state."
+   ]
+  },
+  {
+   "begin": "1095.640",
+   "children": [],
+   "end": "1097.880",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "President Ford, do you have a response?"
+   ]
+  },
+  {
+   "begin": "1097.880",
+   "children": [],
+   "end": "1101.400",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "Governor Carter again contradicts himself."
+   ]
+  },
+  {
+   "begin": "1101.400",
+   "children": [],
+   "end": "1121.720",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "He complains about secrecy and yet he is quoted as saying that in the attempt to find a solution in the Middle East that he would hold unpublicized meetings with the Soviet Union - I presume for the purpose of an - imposing a settlement on Israel and the Arab nations."
+   ]
+  },
+  {
+   "begin": "1121.720",
+   "children": [],
+   "end": "1127.880",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "But let me talk just a minute about what we've done to avoid secrecy in the Ford administration."
+   ]
+  },
+  {
+   "begin": "1127.880",
+   "children": [],
+   "end": "1146.160",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "After the United States took the initiative in working with Israel and with Egypt and achieving the Sinai II agreement - and I'm proud to say that not a single Egyptian or Israeli soldier has lost his life since the signing of the Sinai agreement."
+   ]
+  },
+  {
+   "begin": "1146.160",
+   "children": [],
+   "end": "1163.920",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "But at the time that uh - I submitted the Sinai agreement to the Congress of the United States, I submitted every single document that was applicable to the Sinai II agreement."
+   ]
+  },
+  {
+   "begin": "1163.920",
+   "children": [],
+   "end": "1173.280",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "It was the most complete documentation by any president of any agreement signed by a president on behalf of the United States."
+   ]
+  },
+  {
+   "begin": "1173.280",
+   "children": [],
+   "end": "1192.160",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "Now as far as meeting with the Congress is concerned, during the twenty-four months that I've been the president of the United States I have averaged better than one meeting a month with responsible groups or committees of the Congress - both House and Senate."
+   ]
+  },
+  {
+   "begin": "1192.160",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "The secretary of state has appeared in the several years that he's been the secretary before eighty"
+   ]
+  }
+ ]
+}

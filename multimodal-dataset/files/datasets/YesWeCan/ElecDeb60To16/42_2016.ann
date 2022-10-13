@@ -1,0 +1,300 @@
+T1	Claim 1073 1099	I actually agree with that
+T2	Claim 1101 1133	I agree with everything she said
+T3	Claim 1135 1156	I began this campaign
+T4	Premise 1165 1231	I was so tired of seeing such foolish things happen to our country
+T5	Claim 1495 1543	my whole concept was to make America great again
+T6	Premise 2352 2420	You described kissing women without consent, grabbing their genitals
+T7	Claim 2422 2444	That is sexual assault
+T8	Claim 2446 2496	You bragged that you have sexually assaulted women
+T9	Claim 2529 2531	No
+T10	Claim 2533 2557	I didn’t say that at all
+T12	Claim 2626 2645	I’m not proud of it
+T13	Claim 2709 2738	Certainly I’m not proud of it
+T11	Premise 2647 2671	I apologize to my family
+T14	Premise 2673 2707	I apologize to the American people
+T15	Premise 2744 2768	this is locker room talk
+T16	Claim 3097 3140	Nobody has more respect for women than I do
+T17	Claim 3443 3445	No
+T18	Claim 3447 3457	I have not
+T19	Claim 3484 3518	I’m going to make our country safe
+T20	Claim 3520 3562	We’re going to have borders in our country
+T21	Premise 3564 3587	which we don’t have now
+T22	Premise 3589 3624	People are pouring into our country
+T23	Premise 3630 3685	they’re coming in from the Middle East and other places
+T24	Claim 4057 4158	with prior Republican nominees for president, I disagreed with them on politics, policies, principles
+T25	Claim 4164 4205	I never questioned their fitness to serve
+T26	Claim 4216 4253	These are very important values to me
+T27	Premise 4263 4303	this is the America that I know and love
+T28	Claim 5811 5830	I’m not proud of it
+T29	Premise 5784 5809	That was locker room talk
+T30	Claim 5942 5961	I’m not proud of it
+T31	Premise 5832 5925	I am a person who has great respect for people, for my family, for the people of this country
+T32	Claim 6134 6177	so much of what he’s just said is not right
+T33	Premise 6183 6229	he gets to run his campaign any way he chooses
+T34	Premise 6231 6276	He gets to decide what he wants to talk about
+T35	Premise 6278 6436	Instead of answering people’s questions, talking about our agenda, laying out the plans that we have that we think can make a better life and a better country
+T36	Claim 7095 7124	you really owe him an apology
+T37	Claim 7296 7323	you actually owe an apology
+T38	Premise 7251 7291	That was long before I was ever involved
+T39	Premise 7126 7249	You’re the one that sent the pictures around your campaign, sent the pictures around with President Obama in a certain garb
+T40	Claim 6799 6831	you owe the president an apology
+T41	Premise 6864 6896;6940 7012	your campaign, Sidney Blumenthal and he’s the one that got this started, along with your campaign manager
+T42	Premise 7018 7090	they were on television just two weeks ago, she was, saying exactly that
+T43	Claim 7453 7496	everything he just said is absolutely false
+T44	Claim 7502 7519	I’m not surprised
+T45	Claim 8744 8770	I’m not making any excuses
+T46	Claim 8630 8687	I take responsibility for using a personal e-mail account
+T47	Claim 8606 8624	that was a mistake
+T48	Claim 8772 8788	It was a mistake
+T49	Premise 8794 8820	I am very sorry about that
+T50	Claim 11064 11084	it is not affordable
+T51	Premise 11023 11062	Affordable Care Act, known as Obamacare
+T52	Premise 11086 11107	Premiums have gone up
+T53	Premise 11109 11133	Deductibles have gone up
+T54	Premise 11135 11154	Copays have gone up
+T55	Premise 11188 11214	the coverage has gone down
+T56	Premise 11156 11182	Prescriptions have gone up
+T57	Claim 11661 11680	I’m going to fix it
+T58	Claim 11690 11706	I agree with you
+T59	Premise 11708 11737	Premiums have gotten too high
+T60	Claim 11931 11980	That’s the highest we’ve ever been in our country
+T61	Premise 11872 11929	Right now, we are at 90 percent health insurance coverage
+T62	Claim 11739 11870	Copays, deductibles, prescription drug costs, and I’ve laid out a series of actions that we can take to try to get those costs down
+T63	Claim 12038 12069	I want us to get to 100 percent
+T64	Premise 12075 12109	get costs down and keep quality up
+T65	Claim 12273 12296	Obamacare is a disaster
+T66	Premise 12327 12385	It’s going up at numbers that nobody’s ever seen worldwide
+T67	Premise 12387 12439	Nobody’s ever seen numbers like this for health care
+T68	Claim 12480 12503	It is a disastrous plan
+T69	Claim 12509 12543	it has to be repealed and replaced
+T70	Claim 13066 13128	That’s where the vast majority of people get their health care
+T71	Premise 13032 13064	we have an employer-based system
+T72	Claim 12907 13026	we are in a situation in our country where if we were to start all over again, we might come up with a different system
+T73	Claim 12840 12842	No
+T74	Claim 13553 13577	That’s not going to work
+T75	Claim 13419 13451	let’s fix what’s broken about it
+T76	Claim 13457 13551	let’s not throw it away and give it all back to the insurance companies and the drug companies
+T77	Premise 13395 13414	you can’t afford it
+T78	Claim 13349 13386	you may not be able to have insurance
+T79	Claim 13690 13718	everything’s broken about it
+T80	Claim 13867 13886	which is a disaster
+T81	Premise 13744 13806	Bernie Sanders said that Hillary Clinton has very bad judgment
+T82	Claim 13841 13865	trying to save Obamacare
+T83	Claim 14220 14245	We’re going to be able to
+T84	Claim 14348 14391	You’re going to have plans that are so good
+T85	Claim 14401 14466	we’re going to have so much competition in the insurance industry
+T86	Claim 15112 15127	it doesn’t work
+T87	Claim 15079 15106	The whole thing was a fraud
+T88	Premise 15016 15077	President Obama said you keep your doctor, you keep your plan
+T89	Premise 14701 14857	President Obama, by keeping those lines, the boundary lines around each state, it was almost gone until just very toward the end of the passage of Obamacare
+T90	Claim 14859 14889	which, by the way, was a fraud
+T91	Premise 14915 14958;14970 15014	onathan Gruber, the architect of Obamacare, he said it was a great lie, it was a big lie
+T92	Claim 15173 15271	that we will be able to take care of people without the necessary funds to take care of themselves
+T93	Claim 16326 16380	Muslims have to report the problems when they see them
+T94	Premise 16299 16324	They’ll never be the same
+T95	Claim 15870 15988	whether we like it or not, and we could be very politically correct, but whether we like it or not, there is a problem
+T96	Claim 15994 16077	we have to be sure that Muslims come in and report when they see something going on
+T97	Claim 16079 16132	When they see hatred going on, they have to report it
+T98	Premise 16149 16279	in San Bernardino, many people saw the bombs all over the apartment of the two people that killed 14 and wounded many, many people
+T99	Premise 16281 16297	Horribly wounded
+T100	Claim 16465 16539	I’ve heard this question from a lot of Muslim-Americans across our country
+T101	Premise 16550 16632	unfortunately, there’s been a lot of very divisive, dark things said about Muslims
+T102	Claim 16949 16971	That’s what America is
+T103	Claim 16973 17045	That’s what we want America to be for our children and our grandchildren
+T104	Premise 16803 16947	My vision of America is an America where everyone has a place, if you’re willing to work hard, you do your part, you contribute to the community
+T106	Claim 17145 17202	if I were president at that time, he would be alive today
+T105	Claim 17212 17321	unlike her, who voted for the war without knowing what she was doing, I would not have had our people in Iraq
+T107	Premise 17107 17139	Captain Khan is an American hero
+T108	Claim 17323 17340	Iraq was disaster
+T109	Claim 17345 17375	he would have been alive today
+T110	Claim 18056 18110	This is going to be the great Trojan horse of all time
+T111	Premise 17891 18022	People are coming into our country like we have no idea who they are, where they are from, what their feelings about our country is
+T112	Premise 18028 18054	she wants 550 percent more
+T113	Premise 17825 17889	Hillary Clinton wants to allow a 550 percent increase over Obama
+T114	Premise 17714 17819	We are going to areas like Syria where they’re coming in by the tens of thousands because of Barack Obama
+T115	Claim 18284 18311	That’s not a perfect system
+T116	Premise 18250 18282	We know you want tougher vetting
+T117	Claim 18316 18380	why take the risk of having those refugees come into the country
+T118	Claim 18411 18481	I will not let anyone into our country that I think poses a risk to us
+T119	Claim 18694 18718	That’s not been debunked
+T120	Claim 18750 18776	That has not been debunked
+T121	Premise 18537 18685	think of that picture we all saw of that 4-year-old boy with the blood on his forehead because he’d been bombed by the Russian and Syrian air forces
+T122	Claim 18859 18888	I was against the war in Iraq
+T123	Claim 18890 18911	Has not been debunked
+T124	Premise 18917 18933	you voted for it
+T125	Claim 18939 18957	you shouldn’t have
+T126	Claim 20459 20476	It was principled
+T127	Claim 20482 20498	it was strategic
+T128	Premise 20362 20457	It was a master class watching President Lincoln get the Congress to approve the 13th Amendment
+T129	Claim 20723 20782	we should demand that Donald release all of his tax returns
+T130	Claim 21303 21311	she lied
+T131	Claim 21129 21158	she got caught in a total lie
+T132	Premise 21160 21266	Her papers went out to all her friends at the banks, Goldman Sachs and everybody else, and she said things
+T133	Claim 21746 21793	one thing I’d do is get rid of carried interest
+T134	Claim 21935 21969	she could have done this years ago
+T135	Premise 22007 22038	she was a United States senator
+T136	Claim 21795 21895	One of the greatest provisions for people like me, to be honest with you, I give up a lot when I run
+T137	Premise 21905 21929	I knock out the tax code
+T138	Claim 22233 22289	everything you’ve heard just now from Donald is not true
+T139	Premise 22333 22367	he lives in an alternative reality
+T140	Claim 22373 22502	it is sort of amusing to hear somebody who hasn’t paid federal income taxes in maybe 20 years talking about what he’s going to do
+T141	Claim 22547 22684	we’re going to make sure that nobody, no corporation, and no individual can get away without paying his fair share to support our country
+T142	Premise 22838 22935	In the last month, taxes were the number-one issue on Facebook for the first time in the campaign
+T143	Premise 22937 23002	The New York Times published three pages of your 1995 tax returns
+T144	Claim 23047 23128	which means you could have avoided paying personal federal income taxes for years
+T145	Premise 23004 23045	They show you claimed a $916 million loss
+T146	Premise 23130 23212	You’ve said you pay state taxes, employee taxes, real estate taxes, property taxes
+T147	Claim 23363 23377	Of course I do
+T148	Claim 23399 23445	so do all of her donors, or most of her donors
+T149	Claim 23714 23736	she’ll always allow it
+T150	Premise 23746 23799	the people that give her all this money, they want it
+T151	Claim 23618 23708	a lot of my write- off was depreciation and other things that Hillary as a senator allowed
+T152	Claim 24022 24049	which is a wonderful charge
+T153	Premise 23974 24020	I have a write-off, a lot of it’s depreciation
+T154	Premise 24051 24070	I love depreciation
+T155	Premise 23946 23968	I pay federal tax, too
+T156	Premise 23931 23940	I pay tax
+T157	Claim 23923 23925	No
+T158	Claim 24146 24186	Bernie Sanders, it’s really bad judgment
+T159	Claim 24188 24231	She has made bad judgment not only on taxes
+T160	Claim 24233 24285	She’s made bad judgments on Libya, on Syria, on Iraq
+T161	Claim 24393 24434	that’s why ISIS formed in the first place
+T162	Premise 24295 24391	her and Obama, whether you like it or not, the way they got out of Iraq, the vacuum they’ve left
+T163	Premise 24436 24520	They started from that little area, and now they’re in 32 different nations, Hillary
+T164	Claim 24656 24764	I’ve been in favor of getting rid of carried interest for years, starting when I was a senator from New York
+T165	Claim 24968 25015	I will be the president and we will get it done
+T166	Claim 25017 25037	That’s exactly right
+T167	Claim 25097 25153	if you were an effective senator, you could have done it
+T168	Claim 25217 25250	you were not an effective senator
+T169	Claim 25524 25546	I’m very glad to do so
+T170	Claim 25548 25678	I worked very hard and was very proud to be re-elected in New York by an even bigger margin than I had been elected the first time
+T171	Claim 25684 25769	as president, I will take that work, that bipartisan work, that finding common ground
+T172	Claim 25779 25856	you have to be able to get along with people to get things done in Washington
+T173	Claim 25897 25919	I’ve proven that I can
+T174	Claim 25925 25971	for 30 years, I’ve produced results for people
+T175	Claim 26085 26125	She said a lot of things that were false
+T176	Claim 26289 26325	she has been a disaster as a senator
+T177	Claim 26659 26697	the situation in Syria is catastrophic
+T178	Premise 26703 26965	every day that goes by, we see the results of the regime by Assad in partnership with the Iranians on the ground, the Russians in the air, bombarding places, in particular Aleppo, where there are hundreds of thousands of people, probably about 250,000 still left
+T179	Premise 26971 27146	there is a determined effort by the Russian air force to destroy Aleppo in order to eliminate the last of the Syrian rebels who are really holding out against the Assad regime
+T180	Claim 27310 27312	No
+T181	Claim 27314 27322	I wasn’t
+T182	Premise 27324 27334	I was gone
+T183	Claim 27811 27836	I don’t like Assad at all
+T184	Premise 27842 27863	Assad is killing ISIS
+T185	Claim 27919 27983	those three have now lined up because of our weak foreign policy
+T186	Premise 27865 27887	Russia is killing ISIS
+T187	Premise 27893 27913	Iran is killing ISIS
+T188	Claim 28110 28120	I disagree
+T189	Claim 28175 28209	I think you have to knock out ISIS
+T190	Premise 28246 28301	We have people that want to fight both at the same time
+T191	Premise 28211 28244	Right now, Syria is fighting ISIS
+T192	Claim 28333 28499	Syria is Russia and it’s Iran, who she made strong and Kerry and Obama made into a very powerful nation and a very rich nation, very, very quickly, very, very quickly
+T193	Claim 28307 28331	Syria is no longer Syria
+T194	Claim 28564 28611	I think Aleppo is a disaster, humanitarian-wise
+T195	Claim 28672 28708	I think that it basically has fallen
+T196	Claim 28792 28874	The biggest problem I have with the stupidity of our foreign policy, we have Mosul
+T197	Premise 28876 28925	They think a lot of the ISIS leaders are in Mosul
+T198	Premise 28930 28999	we have announcements coming out of Washington and coming out of Iraq
+T199	Claim 29001 29056	we will be attacking Mosul in three weeks or four weeks
+T200	Premise 29064 29116	all of these bad leaders from ISIS are leaving Mosul
+T201	Claim 29118 29146	Why can’t they do it quietly
+T202	Claim 29148 29325	Why can’t they do the attack, make it a sneak attack, and after the attack is made, inform the American public that we’ve knocked out the leaders, we’ve had a tremendous success
+T203	Claim 29341 29462	Why do they have to say we’re going to be attacking Mosul within the next four to six weeks, which is what they’re saying
+T204	Claim 29500 29550	There are sometimes reasons the military does that
+T205	Premise 29552 29573	Psychological warfare
+T206	Claim 29582 29602	I can’t think of any
+T207	Claim 29662 29699	It might be to help get civilians out
+T208	Claim 30019 30052	why would these people stay there
+T209	Claim 29920 30011	why can’t they do something secretively, where they go in and they knock out the leadership
+T210	Premise 29903 29918	They understand
+T211	Premise 29872 29901	We talk about it all the time
+T212	Premise 29805 29870	I have 21 Congressional Medal of Honor recipients who endorsed me
+T213	Premise 29755 29803	I have 200 generals and admirals who endorsed me
+T214	Premise 29712 29733	we have General Flynn
+T215	Claim 31069 31107	I don’t think that is a smart strategy
+T216	Claim 30951 31067	I don’t think American troops should be holding territory, which is what they would have to do as an occupying force
+T217	Claim 30905 30949	I think that would be a very serious mistake
+T218	Claim 30856 30903	I would not use American ground forces in Syria
+T219	Premise 30646 30679	You talk about diplomatic efforts
+T220	Claim 30681 30698	Those have failed
+T221	Claim 30700 30723	Cease-fires have failed
+T222	Claim 30725 30845	Would you introduce the threat of U.S. military force beyond a no-fly zone against the Assad regime to back up diplomacy
+T223	Premise 30385 30476	everybody’s talking about how Iraq, which is us with our leadership, goes in to fight Mosul
+T224	Claim 30363 30375	They’re gone
+T225	Claim 30328 30361	they’re not staying there anymore
+T226	Premise 30142 30252	I’ve been reading now for weeks about Mosul, that it’s the harbor of where — you know, between Raqqa and Mosul
+T227	Premise 30254 30299	this is where they think the ISIS leaders are
+T228	Claim 31282 31357	I hope by the time I am president that we will have pushed ISIS out of Iraq
+T229	Claim 31359 31420	I do think that there is a good chance that we can take Mosul
+T230	Claim 31493 31495	No
+T231	Claim 31497 31507	he doesn’t
+T232	Premise 31437 31491	Donald says he knows more about ISIS than the generals
+T233	Claim 31509 31534	I would go after Baghdadi
+T234	Claim 31722 31745	I think that could help
+T235	Claim 31536 31572	I would specifically target Baghdadi
+T236	Claim 31582 31623;31700 31717	I think our targeting of Al Qaida leaders made a difference
+T237	Premise 31630 31697	I was involved in a lot of those operations, highly classified ones
+T238	Claim 32250 32260	Absolutely
+T239	Claim 32336 32379	I will be a president for all of our people
+T240	Claim 32385 32535	I’ll be a president that will turn our inner cities around and will give strength to people and will give economics to people and will bring jobs back
+T241	Premise 32270 32334	she calls our people deplorable, a large group, and irredeemable
+T242	Claim 32544 32626	I would be a president for all of the people, African- Americans, the inner cities
+T243	Premise 32628 32676	Devastating what’s happening to our inner cities
+T244	Claim 32764 32787	She doesn’t get it done
+T245	Claim 32717 32762	As usual, she talks about it, nothing happens
+T246	Premise 32678 32715	She’s been talking about it for years
+T247	Claim 32863 32882	It doesn’t get done
+T248	Claim 32847 32861	she’s all talk
+T249	Claim 32884 32935	All you have to do is take a look at her Senate run
+T250	Claim 32937 32968	Take a look at upstate New York
+T251	Claim 33475 33534	I want to be the best president I can be for every American
+T252	Claim 33862 33921	You didn’t express regret for using the term “deplorables.”
+T253	Claim 33948 34027	how can you unite a country if you’ve written off tens of millions of Americans
+T254	Premise 33691 33819	You said that half of Donald Trump’s supporters are, quote, “deplorables, racist, sexist, homophobic, xenophobic, Islamophobic.”
+T255	Premise 33820 33860	You later said you regretted saying half
+T256	Claim 34124 34162	my argument is not with his supporters
+T257	Premise 34164 34384	It’s with him and with the hateful and divisive campaign that he has run, and the inciting of violence at his rallies, and the very brutal kinds of comments about not just women, but all Americans, all kinds of Americans
+T258	Claim 35093 35128	that’s what you’re getting with her
+T259	Claim 35028 35087	this country cannot take another four years of Barack Obama
+T260	Premise 34995 35022	she’s got tremendous hatred
+T261	Claim 35520 35559	Is that the discipline of a good leader
+T262	Premise 35287 35372	You said, if a leader doesn’t have it, quote, “he or she won’t be one for very long.”
+T263	Premise 35373 35518	In the days after the first debate, you sent out a series of tweets from 3 a.m. to 5 a.m., including one that told people to check out a sex tape
+T264	Premise 35176 35285	In 2008, you wrote in one of your books that the most important characteristic of a good leader is discipline
+T265	Claim 35568 35570	No
+T266	Claim 35572 35605	there wasn’t check out a sex tape
+T267	Premise 35607 35716	It was just take a look at the person that she built up to be this wonderful Girl Scout who was no Girl Scout
+T268	Claim 36592 36627	she shouldn’t be talking about that
+T269	Premise 36479 36576	the only one she talked to was Sidney Blumenthal, who’s her friend and not a good guy, by the way
+T270	Premise 36428 36473	Ambassador Stevens sent 600 requests for help
+T271	Premise 36122 36172	she said she was awake at 3 o’clock in the morning
+T272	Premise 36178 36231	she also sent a tweet out at 3 o’clock in the morning
+T273	Claim 36237 36262	I won’t even mention that
+T274	Premise 36268 36292	she said she’ll be awake
+T275	Claim 36721 36723	No
+T276	Claim 36732 36756	I’m shocked to hear that
+T277	Claim 36773 36797	it’s not only my opinion
+T278	Premise 36799 36909	It’s the opinion of many others, national security experts, Republicans, former Republican members of Congress
+T279	Claim 37043 37226	it’s not just because I watched my husband take a $300 billion deficit and turn it into a $200 billion surplus, and 23 million new jobs were created, and incomes went up for everybody
+T280	Claim 36915 37037	it’s in part because those of us who have had the great privilege of seeing this job up close and know how difficult it is
+T281	Premise 37239 37282	African-American incomes went up 33 percent
+T282	Claim 37574 37670	He would send us back into recession with his tax plans that benefit the wealthiest of Americans
+T283	Claim 37542 37572	We are back on the right track
+T284	Premise 37497 37540	$13 trillion in family wealth was wiped out
+T285	Premise 37412 37440	Five million homes were lost
+T286	Premise 37324 37359	Nine million people lost their jobs
+T287	Claim 38414 38632	I want to appoint Supreme Court justices who understand the way the world really works, who have real-life experience, who have not just been in a big law firm and maybe clerked for a judge and then gotten on the bench
+T288	Claim 38649 38734	maybe they tried some more cases, they actually understand what people are up against
+T289	Claim 38891 38961	I am looking to appoint judges very much in the mold of Justice Scalia
+T290	Premise 38992 39023	I’ve actually picked 20 of them
+T291	Claim 39032 39149	people would see, highly respected, highly thought of, and actually very beautifully reviewed by just about everybody
+T292	Claim 39361 39492	I believe there should be comprehensive background checks, and we should close the gun show loophole, and close the online loophole
+T293	Claim 39582 39630	We have to save as many lives as we possibly can
+T294	Claim 40275 40306	they can take care of their oil
+T295	Premise 40147 40189;40203 40266	foreign companies are now coming in buying so many of our different plants and then re-jiggering the plant
+T296	Claim 40661 40838	That’s something that I fought against as a senator and that I would have a trade prosecutor to make sure that we don’t get taken advantage of by China on steel or anything else
+T297	Premise 40489 40659	China is illegally dumping steel in the United States and Donald Trump is buying it to build his buildings, putting steelworkers and American steel plants out of business
+T298	Claim 40922 40961	we have to look at this comprehensively
+T299	Premise 40882 40917	the price of coal is down worldwide
+T300	Claim 41716 41771	I don’t agree with nearly anything else he says or does

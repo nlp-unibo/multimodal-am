@@ -1,0 +1,794 @@
+T1	Claim 21637 21686	I think the General Motors thing is very relevant
+T2	Claim 21688 21809	I did everything I could to get General Motors to face its problems in the mid-'80s while it was still financially strong
+T3	Claim 80368 80450	you will raise taxes on the rich, people with incomes of $200,000 a year or higher
+T4	Claim 80484 80531	you will have to go lower than that, much lower
+T5	Claim 80714 80820	My plan says that we want to raise marginal incomes on family incomes above $200,000 from 31 to 36 percent
+T6	Claim 80827 80970	we want to ask foreign corporations simply to pay the same percentage of taxes on their income that American corporations play (sic) in America
+T7	Claim 80977 81160	we want to use that money to provide over $100 billion in tax cuts for investment in new plant and equipment, for small business, for new technologies, and for middle class tax relief
+T8	Claim 81186 81254	I will not raise taxes on the middle class to pay for these programs
+T9	Premise 81256 81356	If the money does not come in there to pay for these programs, we will cut other government spending
+T10	Claim 81360 81406	we will slow down the phase-in of the programs
+T11	Claim 81408 81480	I am not gonna raise taxes on the middle class to pay for these programs
+T12	Premise 81559 81622	I cannot foresee what emergencies might develop in this country
+T13	Premise 81628 81701	the president said never, never, never would he raise taxes in New Jersey
+T14	Premise 81707 81783	within a day Marlin Fitzwater, his spokesman, said now, that's not a promise
+T15	Claim 81789 81850	I think even he has learned that you can't say "read my lips"
+T16	Premise 81859 81904	you can't know what emergencies might come up
+T17	Claim 81500 81550	I am not gonna tell you "read my lips" on anything
+T18	Claim 81931 82023	I'm not gonna raise taxes on middle class Americans to pay for the programs I've recommended
+T22	Claim 49012 49057	I wouldn't have taken any of the alternatives
+T23	Claim 49077 49103	I believe I made a mistake
+T24	Claim 49144 49259	There was one good thing that came out of that budget agreement, and that is we put a cap on discretionary spending
+T25	Claim 49435 49485	We've put a cap on the growth of all that spending
+T26	Claim 49491 49520	that's good and that's helped
+T27	Claim 49526 49537	I was wrong
+T28	Premise 49546 49642	I thought the tax compromise, going along with 1 Democratic tax increase, would help the economy
+T29	Premise 49644 49681	I see no evidence that it has done it
+T30	Claim 49736 49815	I should have held out for a better deal that would have protected the taxpayer
+T31	Claim 49904 49920	I made a mistake
+T32	Claim 50038 50110	I knew we'd have somebody out there yelling "read my lips", and I did it
+T33	Premise 50119 50141	I thought it was right
+T34	Claim 50147 50163	I made a mistake
+T35	Claim 50165 50243	That's quite different than taking a position where you know it's best for you
+T36	Premise 50245 50304	That wasn't best for me and I knew it in the very beginning
+T37	Premise 50306 50362	I thought it would be better for the country than it was
+T38	Claim 50641 50673	That's absolutely unconscionable
+T39	Premise 50537 50639	Nobody ever told the American people that we increased spending $1.83 for every dollar of taxes raised
+T40	Claim 50675 50734	Both parties carry a huge blame for that on their shoulders
+T41	Claim 50736 50778	This was not a way to pay down the deficit
+T42	Claim 50780 50819	This was a trick on the American people
+T43	Claim 50821 50842	That's not leadership
+T44	Premise 50432 50483	101 in leadership is be accountable for what you do
+T45	Premise 50914 51060	If you create Saddam Hussein, over a 10-year period, using billions of dollars of US taxpayer money, step up to the plate and say it was a mistake
+T46	Premise 51062 51152	If you create Noriega, using taxpayer money, step up to the plate and say it was a mistake
+T47	Premise 51154 51492	If you can't get your act together to pick him up one day when a Panamanian major has kidnapped him and a special forces team is 400 yards away and it's a stroll across the park to get him, and if you can't get your act together, at least pick up the Panamanian major, who they then killed, step up to the plate and admit it was a mistake
+T48	Claim 51494 51511	That's leadership
+T49	Claim 51526 51559	leaders will always make mistakes
+T50	Claim 51693 51716	We've gotta change that
+T52	Premise 51651 51691	nobody takes responsibility for anything
+T51	Claim 51877 51979	The mistake that was made was making the "read my lips" promise in the first place just to get elected
+T53	Premise 51981 52021	knowing what the size of the deficit was
+T54	Premise 52035 52075	Knowing what the size of the deficit was
+T55	Premise 52077 52131	knowing there was no plan to control health care costs
+T56	Premise 52136 52226	knowing that we did not have a strategy to get real economic growth back into this economy
+T57	Claim 52228 52258	The choices were not good then
+T58	Claim 52281 52384	the mistake that was made was signing off on the deal late on Saturday night in the middle of the night
+T60	Claim 52459 52722	I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong. I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time
+T59	Claim 52842 52908	The real mistake was the "read my lips" promise in the first place
+T61	Premise 52724 52815	He said it was in the public interest at the time and most everybody who was involved in it
+T62	Premise 52910 53042	You just can't promise something like that just to get elected if you know there's a good chance that circumstances may overtake you
+T63	Claim 1518 1761	you are promising to create jobs, reduce the deficit, reform the health care system, rebuild the infrastructure, guarantee college education for everyone who is qualified, among many other things, all with financial pain only for the very rich
+T64	Claim 1763 1831	Some people are having trouble apparently believing that is possible
+T65	Claim 1879 2021	There are many people who believe that the only way we can get this country turned around is to tax the middle class more and punish them more
+T66	Premise 2045 2216	middle-class Americans are basically the only group of Americans who've been taxed more in the 1980s and during the last 12 years, even though their incomes have gone down
+T67	Premise 2218 2309	The wealthiest Americans have been taxed much less, even though their incomes have gone up.
+T69	Claim 2470 2520	my plan is a departure from trickle-down economics
+T70	Claim 2522 2568	just cutting taxes on the wealthiest Americans
+T71	Claim 2573 2595	getting out of the way
+T72	Claim 2597 2648	It's also a departure from tax-and- spend economics
+T73	Premise 2658 2712	you can't tax and divide an economy that isn't growing
+T74	Claim 2715 2777	I propose an American version of what works in other countries
+T75	Claim 2781 2808	I think we can do it better
+T76	Claim 2810 2825	invest and grow
+T77	Claim 2828 2904	I believe we can increase investment and reduce the deficit at the same time
+T78	Premise 2909 2993	we not only ask the wealthiest Americans and foreign corporations to pay their share
+T79	Premise 2995 3165	we also provide over $100 billion in tax relief, in terms of incentives for new plants, new small businesses, new technologies, new housing, and for middle class families
+T80	Premise 3171 3208	we have $140 billion of spending cuts
+T81	Claim 3210 3225	Invest and grow
+T82	Claim 3228 3249	Raise some more money
+T83	Claim 3251 3321	spend the money on tax incentives to have growth in the private sector
+T84	Claim 3323 3359	take the money from the defense cuts
+T85	Claim 3364 3451	reinvest it in new transportation and communications and environmental clean-up systems
+T86	Claim 3453 3467	This will work
+T87	Claim 3479 3570	as on so many other issues, I have a fundamental difference from the present administration
+T88	Claim 3572 3620	I don't believe trickle down economics will work
+T89	Premise 3622 3640	Unemployment is up
+T90	Premise 3642 3722	Most people are working harder for less money than they were making 10 years ago
+T91	Claim 3724 3781	I think we can do better if we have the courage to change
+T93	Claim 4008 4089	I think he's talking about the Reagan-Bush years where we created 15 million jobs
+T94	Premise 4091 4151	The rich are paying a bigger percent of the total tax burden
+T95	Claim 4162 4201	I don't like is trickle down government
+T96	Claim 4293 4347	he's still talking about spending more and taxing more
+T97	Claim 4407 4437	Government doesn't create jobs
+T98	Claim 4363 4405	he says invest government, grow government
+T99	Claim 4439 4473	If they do, they're make-work jobs
+T100	Claim 4475 4516	It's the private sector that creates jobs
+T101	Claim 4527 4574	we've got too many taxes on the American people
+T102	Claim 4579 4602	we're spending too much
+T103	Claim 4620 4698	I want to get the deficit down by controlling the growth of mandatory spending
+T104	Claim 4700 4720	It won't be painless
+T105	Claim 4800 4829	we've got to get the job done
+T106	Claim 4831 4855	But not by raising taxes
+T107	Claim 4880 4953	when you hear him say we're going to tax only the rich, watch your wallet
+T108	Premise 4962 4986	his figures don't add up
+T109	Claim 4991 5058	he's going to sock it right to the middle class taxpayer and lower,
+T110	Premise 5062 5121	he's going to pay for all the spending programs he proposes
+T111	Claim 5127 5179	we have a big difference on this trickle down theory
+T112	Claim 5181 5227	I do not want any more trickle down government
+T113	Claim 5229 5248	It's gotten too big
+T114	Claim 5383 5439	The basic problem with it, it doesn't balance the budget
+T115	Claim 5465 5526	we still have a significant deficit under each of their plans
+T116	Claim 5550 5597	Our challenge is to stop the financial bleeding
+T117	Premise 5599 5699	If you take a patient into the hospital that's bleeding arterially, step one is to stop the bleeding
+T118	Claim 5705 5731	we are bleeding arterially
+T119	Claim 5734 5766	There's only one way out of this
+T120	Claim 5780 5821	to stop the deterioration of our job base
+T121	Claim 5823 5860	to have a growing, expanding job base
+T122	Claim 5862 5885	to give us the tax base
+T123	Premise 5894 6027	balancing the budget is not nearly as difficult as paying off the $4 trillion debt and leaving our children the American dream intact
+T124	Claim 6030 6055	We have spent their money
+T125	Claim 6057 6081	We've got to pay it back
+T126	Claim 6083 6127	This is going to take fair, shared sacrifice
+T127	Claim 6129 6171	My plan balances the budget within 6 years
+T128	Claim 6173 6205	We didn't do it faster than that
+T129	Premise 6214 6251	we didn't want to disrupt the economy
+T130	Premise 6253 6337	We gave it off to a slow start and a fast finish to give the economy time to recover
+T131	Claim 6374 6412	we believe it's fair, shared sacrifice
+T132	Claim 6609 6690	I think that's fundamental in our country, that you know what you're getting into
+T136	Claim 7248 7428	I disagree with Mr. Perot that the answer is to raise -- put a 50-cent gas tax on the middle class and raise more taxes on the middle class and the working poor than on the wealthy
+T137	Premise 7430 7533	His own analysis says that unemployment will be slightly higher in 1995 under his plan than it is today
+T138	Premise 7654 7749	just this year, Mr. Bush vetoed a tax increase on the wealthy that gave middle class tax relief
+T139	Premise 7751 7794	He vetoed middle class tax relief this year
+T140	Premise 7814 7901	under this administration, spending has increased more than it has in the last 20 years
+T141	Premise 7906 7966	he asked Congress to spend more money than it actually spent
+T142	Claim 7973 8041	it's hard to out-spend Congress but he tried to for the last 3 years
+T143	Claim 8047 8107	my view is the middle class is the -- they've been suffering
+T144	Premise 7570 7648	he is the person who raised taxes on the middle class after saying he wouldn't
+T145	Claim 8119 8171	should people pay more for Medicare if they can? Yes
+T146	Claim 8173 8292	Should they pay more for Social Security if they get more out of it than they paid in, they're upper income people? Yes
+T147	Premise 8340 8464	Middle class Americans are working harder for less money than they were making ten years ago and they're paying higher taxes
+T148	Claim 8466 8506	The tax burden on them has not gone down
+T149	Claim 8508 8522	It has gone up
+T150	Claim 8524 8656	I don't think the answer is to slow the economy down more, drive unemployment up more and undermine the health of the private sector
+T151	Claim 8658 8703	The answer is to invest and grow this economy
+T152	Premise 8705 8741	That's what works in other countries
+T153	Claim 8746 8770	that's what'll work here
+T154	Claim 9016 9057	I think everybody's paying too much taxes
+T155	Claim 10957 11072	Arkansas is doing very, very badly against any standard -- environment, support for police officers, whatever it is
+T156	Claim 9206 9222	I make a mistake
+T157	Premise 9108 9140	it was a Democratic tax increase
+T158	Premise 9146 9168	I didn't want to do it
+T159	Premise 9173 9193	I went along with it
+T160	Claim 9328 9362	I think everyone's paying too much
+T161	Claim 9469 9564	the American taxpayer ought to be glad they have a president to stand up to a spending Congress
+T162	Premise 9695 9754	They were at 21.5% under Jimmy Carter, and inflation was 15
+T163	Claim 9756 9788	We don't want to go back to that
+T164	Premise 9566 9671	We remember what it was like when we had a spending president and a spending Congress, and interest rates
+T165	Claim 9803 9829	everybody's taxed too much
+T166	Claim 9834 9862	I want to get the taxes down
+T167	Claim 9868 9928	not by signing a tax bill that's gonna raise taxes on people
+T168	Claim 9224 9289	If I make a mistake, I admit it. That's quite different than some
+T169	Premise 10118 10140	the record in Arkansas
+T170	Premise 10218 10259	he says Arkansas's a poor state. They are
+T171	Premise 10265 10305	in almost every category they're lagging
+T172	Premise 10393 10505	Over the last ten years since he's been governor, they're 30% behind, 30% -- they're 30% of the national average
+T173	Premise 10507 10591	On pay for teachers, on all these categories, Arkansas is right near the very bottom
+T174	Premise 11129 11237	Bureau of Labor Statistics says that Arkansas ranks first in the country in the growth of new jobs this year
+T175	Premise 11274 11299	4th in manufacturing jobs
+T176	Premise 11301 11332	4th in the reduction of poverty
+T177	Premise 11334 11356	4th in income increase
+T178	Premise 11358 11457	Over the last 10 years we've created manufacturing jobs much more rapidly than the national average
+T179	Premise 11459 11540	Over the last 5 years our income has grown more rapidly than the national average
+T180	Premise 11542 11608	We are 2nd in tax burden, the 2nd lowest tax burden in the country
+T181	Premise 11610 11679	We have the lowest per capita state and local spending in the country
+T182	Premise 11681 11715	We're low spending, low tax burden
+T183	Claim 11717 11778	We dramatically increased investment and our jobs are growing
+T184	Claim 11780 11818	I wish America had that kind of record
+T185	Claim 11823 11944	I think most people looking at us tonight would like it if we had more jobs and a lower spending burden on the government
+T186	Claim 12297 12415	I think probably we're making a mistake night after night after night to cast the nation's future on a unit that small
+T187	Premise 12189 12292	It has a population less than Chicago or Los Angeles, about the size of Dallas and Forth Worth combined
+T188	Premise 12162 12187	It's a fairly rural state
+T189	Premise 12458 12473	It's irrelevant
+T190	Premise 12571 12708	I could say, you know, that I ran a small grocery store on the corner, therefore I extrapolate that into the fact that I can run Wal-Mart
+T191	Claim 12863 12892	I think it is highly relevant
+T192	Claim 12898 12985	I think that a 4-billion dollar budget of state and federal funds is not all that small
+T193	Premise 13013 13104	I took a state that was one of the poorest states in the country and had been for 153 years
+T194	Premise 13109 13147	tried my best to modernize its economy
+T195	Premise 13152 13397	to make the kind of changes that have generated support from people like the presidents of Apple Computer and Hewlett-Packard and some of the biggest companies in this country, 24 retired generals and admirals and hundreds of business executives
+T196	Claim 13671 13798	The people who have jobs and educations and opportunities that didn't have them 10 years ago don't think it's irrelevant at all
+T197	Claim 13800 13831	they think it's highly relevant
+T198	Claim 13836 13878	they wish the rest of the country had them
+T201	Claim 15697 15729	I don't think that's a fair shot
+T202	Premise 15744 15783	I hear it echoed by political opponents
+T203	Claim 15789 15812	I don't think it's fair
+T204	Claim 15814 15893	I think we've been fighting from day one to do something about the inner cities
+T205	Claim 15895 15919	I'm for enterprise zones
+T206	Premise 15921 15985	I have had it in every single proposal I've sent to the Congress
+T207	Claim 14376 14397	we almost had it done
+T208	Claim 15129 15158	That's the discipline we need
+T209	Claim 16217 16275	I don't think in racial harmony that I'm a laggard on that
+T210	Claim 16277 16311	I've been speaking out since day 1
+T211	Claim 16313 16433	We've gotten the Americans for Disabilities Act, which I think is one of the foremost pieces of civil rights legislation
+T212	Claim 16529 16580	I don't think the American people believe in quotas
+T213	Claim 16444 16489	it took me to veto 2 civil rights quota bills
+T214	Claim 16498 16523	I don't believe in quotas
+T215	Premise 16629 16725	we passed a decent civil rights bill that offers guarantees against discrimination in employment
+T216	Claim 16732 16744	that is good
+T217	Claim 16586 16618	I beat back the Congress on that
+T218	Premise 16747 16814	I've spoken out over and over again against antisemitism and racism
+T219	Claim 16820 16887	I think my record as a member of Congress speaks for itself on that
+T220	Claim 17093 17125	I don't think that's true at all
+T221	Claim 17127 17152	I don't think that's true
+T222	Premise 18488 18556	on the economy, Mr. Bush said for a long time there was no recession
+T223	Premise 18562 18655	then said it would be better to do nothing than to have a compromise effort with the Congress
+T224	Claim 18748 18829	not all of his health care initiative has been presented to the Congress even now
+T225	Claim 18657 18742	He really didn't have a new economic program until over 1300 days into his presidency
+T226	Claim 18832 18928	I think it's important to elect a president who is committed to getting this economy going again
+T227	Claim 18934 18988	who realizes we have to abandon trickle-down economics
+T228	Claim 18993 19028	put the American people first again
+T229	Claim 19034 19250	who will send programs to the Congress in the first hundred days to deal with the critical issues that America is crying out for leadership on -- jobs, incomes, the health care crisis, the need to control the economy
+T230	Claim 19252 19302	Those things deserve to be dealt with from day one
+T231	Claim 19438 19521	I think you're overlooking that we have had major accomplishments in the first term
+T232	Premise 19751 19822	Go back to Jimmy Carter, and interest rates were 21%, inflation was 15%
+T233	Premise 19824 19952	The misery index -- unemployment and inflation added together -- it was invented by the Democrats -- went right through the roof
+T234	Claim 19954 19974	We've cut it in half
+T235	Claim 20260 20276	I think they are
+T236	Claim 20313 20331	Of course he's not
+T237	Premise 20337 20391	he's not gonna be better off if we grow the government
+T238	Premise 20393 20458	if we invest, as Governor Clinton says, invest in more government
+T239	Claim 20461 20501	You've got to free up the private sector
+T240	Claim 20503 20558	You've got to let small businesses have more incentives
+T241	Claim 19338 19398	They will be my first priority, not my election year concern
+T242	Claim 19304 19336	I will deal with them from day 1
+T243	Claim 20905 20946	I have to stand up and favor the taxpayer
+T244	Claim 20813 20899	if a little of it comes my way, they load it up with Christmas trees and tax increases
+T245	Premise 20774 20802	it's blocked by the Congress
+T246	Premise 20564 20768	3 months -- quarters I've been fighting, 3 quarters been fighting to get the Congress to pass some incentives for small business. Capital gains, investment tax allowance, credit for first- time homebuyers
+T247	Premise 21811 21966	They just wouldn't do it, and everybody now knows the terrible price they're paying by waiting until it's obvious to the brain-dead that they have problems
+T248	Claim 22403 22444	the General Motors experience is relevant
+T249	Premise 21968 22118	Now, hundreds, thousands of good, decent people, whole cities up here in this state are adversely impacted because they would not move in a timely way
+T250	Premise 22154 22318	The thing that I am in this race for is to tap the American people on the shoulder and to say to every single one of you, fix it while we're still relatively strong
+T251	Premise 22320 22397	If you have a heart problem, you don't wait till a heart attack to address it
+T252	Claim 22860 22930	Again and again, on complex, difficult tasks, I have stayed the course
+T253	Premise 22932 23099	When I was asked by our government to do the POW project, within a year the Vietnamese had sent people into Canada to make arrangements to have me and my family killed
+T254	Premise 23105 23225	I had 5 small children, and my family and I decided we would stay the course, and we lived with that problem for 3 years
+T255	Premise 23233 23318	I got into the Texas War on Drugs program and the big-time drug dealers got all upset
+T257	Premise 23325 23481	when I had 2 people imprisoned in Iran, I could have left them there. I could have rationalized it. We went over, we got them out, we brought them back home
+T256	Premise 23510 23696	I have lived with the burden of the Middle East, where it's eye for an eye and tooth for a tooth country, in terms of their unhappiness with the fact that I was successful in that effort
+T258	Premise 23699 23953	Again and again and again, in the middle of the night, at 2 or 3 o'clock in the morning, my government has called me to take extraordinary steps for Americans in distress, and again and again and again I have responded. And I didn't wilt and I didn't qui
+T259	Claim 24125 24203	I never quit supporting you as you put me on the ballot in the other 26 states
+T260	Claim 24209 24258	when you asked me to come back in, I came back in
+T261	Premise 24289 24382	I'm spending my money on this campaign; the 2 parties are spending your money, taxpayer money
+T262	Claim 24384 24438	I put my wallet on the table for you and your children
+T263	Claim 24626 24705	I've lived the American dream; I'd like for your children to be able to live it
+T264	Claim 25243 25400	we're still losing a lot of auto jobs, in my judgment, because we don't have a national economic strategy that will build the industrial base of this country
+T266	Claim 25620 25684	We need an investment incentive to modernize plant and equipment
+T267	Claim 25686 25745	we've got to control the health care costs for those people
+T268	Claim 25749 25800	otherwise we can't keep the manufacturing jobs here
+T269	Claim 25806 25904	we need a tough trade policy that is fair, that insists on open markets in return for open markets
+T270	Claim 25906 25982	We ought to have a strategy that will build the economic and industrial base
+T271	Claim 25988 26055	I think Mr. Perot was right in questioning the management practices
+T272	Premise 26061 26182	they didn't have much of a partner in government here as compared with the policies the Germans and the Japanese followed
+T273	Claim 26188 26214	I believe we can do better
+T274	Claim 26216 26257	That's one of the things I want to change
+T275	Claim 26259 26301	I know that we can grow manufacturing jobs
+T276	Claim 26303 26353	We did it in my state, and we can do it nationally
+T277	Claim 27080 27198	one mistake he's made is fuel efficiency standards at 40 to 45 miles a gallon will throw many auto workers out of work
+T278	Claim 27204 27231	you can't have it both ways
+T279	Claim 26637 26709	That would break the auto industry and throw a lot of people out of work
+T280	Premise 27233 27386	There's a pattern here of appealing to the auto workers and then trying to appeal to the spotted owl crowds or the extremes in the environmental movement
+T281	Claim 27388 27416	You can't do it as president
+T282	Claim 27418 27496	you can't have a pattern of one side of the issue one day and another the next
+T283	Premise 27805 28012	I never said -- and I defy you to find where I said -- I gave an extensive environmental speech in April, and I said that we ought to have a goal of raising the fuel efficiency standards to 40 miles a gallon
+T284	Claim 28014 28043	I think that should be a goal
+T285	Premise 28045 28145	I have never said we should write it into law if there is evidence that that goal cannot be achieved
+T286	Premise 28147 28311	The Natl Science Foundation did a study which said it would be difficult for us to reach fuel efficiency standards in excess of 37 miles per gallon by the year 2000
+T287	Claim 28313 28363	I think we should try to raise the fuel efficiency
+T288	Claim 28386 28430	I think we ought to have incentives to do it
+T289	Claim 28432 28465	I think we ought to push to do it
+T290	Claim 28467 28517	That doesn't mean we have to write it into the law
+T291	Claim 28526 28565	I am a job creator, not a job destroyer
+T292	Premise 28567 28663	It is the Bush administration that has had no new jobs in the private sector in the last 4 years
+T293	Premise 28665 28732	In my state, we're leading the country in private sector job growth
+T294	Claim 28739 28788	it is good for America to improve fuel efficiency
+T295	Claim 28790 28854	We also ought to convert more vehicles to compressed natural gas
+T296	Premise 28856 28901	That's another way to improve the environment
+T297	Claim 29800 29824	I do understand business
+T298	Claim 29826 29855	I do understand creating jobs
+T299	Claim 29857 29896	I do understand how to make things work
+T300	Claim 29902 29936	I got a long history of doing that
+T301	Claim 29965 30093	the core problem that faces everybody in manufacturing in this country, it's that agreement that's about to be put into practice
+T302	Claim 29312 29714	You implement that NAFTA, the Mexican trade agreement, where they pay people a dollar an hour, have no health care, no retirement, no pollution controls, et cetera, et cetera, et cetera, and you're going to hear a giant sucking sound of jobs being pulled out of this country right at a time when we need the tax base to pay the debt and pay down the interest on the debt and get our house back in order
+T303	Claim 30113 30145	Everybody says it'll create jobs
+T304	Claim 30147 30176	Yes, it'll create bubble jobs
+T305	Claim 30239 30381	One-time surge while we build factories and ship machine tools and equipment down there. Then year after year for decades, they will have jobs
+T306	Premise 30387 30517	I finally -- I thought I didn't understand it -- called all the experts, and they said, oh, it'll be disruptive for 12 to 15 years
+T307	Premise 30607 30704	Mexican jobs will eventually come to $7.50 an hour, ours will eventually go down to $7.50 an hour
+T308	Claim 30800 30834	I'm for free trade philosophically
+T309	Claim 30912 30964	we don't have good trade agreements across the world
+T310	Claim 31662 31772	our principal need now is to stabilize the tax base, which is the job base, and create a growing, dynamic base
+T311	Premise 31854 31897	millions of people at work are our tax base
+T312	Claim 31921 32014	If you confiscate the Forbes 400 wealth, take it all, you cannot balance the budget this year
+T313	Claim 32229 32302	with great conviction, he opposes the North American Free Trade Agreement
+T314	Claim 32304 32352	I am for the North American Free Trade Agreement
+T315	Claim 32987 33044	I think free trade is going to expand our job opportunity
+T316	Claim 33046 33178	I think it is exports that have saved us when we're in a global slowdown, a connected global slowdown, a recession in some countries
+T317	Claim 33184 33292	it's free trade, fair trade that needs to be our hallmark, and we need more free trade agreements, not fewer
+T318	Claim 33867 33911	I say on balance it does more good than harm
+T319	Premise 33919 34066	we can get some protection for the environment so that the Mexicans have to follow their own environmental standards, their own labor law standards
+T320	Premise 34072 34198	if we have a genuine commitment to reeducate and retrain the American workers who lose their jobs and reinvest in this economy
+T321	Claim 34201 34237	I have a realistic approach to trade
+T322	Claim 34239 34256	I want more trade
+T323	Claim 34262 34313	I know there are some good things in that agreement
+T324	Claim 34319 34345	it can sure be made better
+T325	Premise 34371 34719	just today in the Los Angeles Times Clyde Prestowitz, who was one of President Reagan's leading trade advisers and a life-long conservative Republican, endorsed my candidacy because he knows that I'll have a free and fair trade policy, a hard-headed, realistic policy, and not get caught up in rubber-stamping everything the Bush administration did
+T326	Claim 34927 34950	I think he made my case
+T327	Claim 35028 35058	You can't do that as president
+T328	Claim 35060 35180	You can't do it on the war, where he says well, I was with the minority but I guess I would have voted with the majority
+T329	Claim 35856 35883	I believe we can be better.
+T330	Claim 35884 36011	I think the American people are sick and tired of either/or solutions, people being pushed in the corner, polarized to extremes
+T331	Claim 36045 36141	I want think they want somebody with common sense who can do what's best for the American people
+T332	Premise 36255 36306	He said trickle-down economics was voodoo economics
+T333	Premise 36308 36342	now he's it's biggest practitioner
+T334	Claim 36433 36480	I've always said trickle-down government is bad
+T335	Claim 37615 37639	We don't have free trade
+T336	Claim 37568 37613	Our country has sold out to foreign lobbyists
+T337	Claim 37641 37718	Both parties have foreign lobbyists on leaves in key roles in their campaigns
+T338	Claim 37724 37790	if there's anything more unwise than that, I don't know what it is
+T340	Claim 38388 38478	Japanese couldn't unload the cars in this country if they had the same restrictions we had
+T342	Claim 38713 38752	They're foreign lobbyists taking leaves
+T341	Claim 38891 38947	I don't believe that's in the American people's interest
+T343	Premise 38818 38889	Go back to work at 30,000 bucks a month representing some other country
+T344	Claim 38950 38976	I don't have a one of them
+T345	Claim 38982 39022	I haven't taken a penny of foreign money
+T346	Claim 39028 39040	I never will
+T347	Claim 39151 39236	The fact that you have people working in your campaign who are paid foreign lobbyists
+T348	Claim 39245 39300	Most people that are lobbying are lobbying the Congress
+T349	Claim 39306 39440	I don't think there's anything wrong with an honest person who happens to represent an interest of another country for making his case
+T350	Claim 39442 39465	That's the American way
+T351	Claim 39471 39580	what you're assuming is that that makes the recipient of the lobbying corrupt or the lobbyist himself corrupt
+T352	Claim 39582 39605	I don't agree with that
+T353	Claim 40076 40196	I think you got to look at the integrity and the honor of the people that are being lobbied and those that are lobbyists
+T354	Claim 40567 40614	I doubt in all candor if the president knows it
+T355	Premise 40620 40760	this deal that we're doing with BAC and US Air and KLM and Northwest, guess who's on the president's campaign big time: a guy from Northwest
+T356	Claim 40762 40822	This deal is terribly destructive to the US airline industry
+T357	Premise 40824 40901	One of the largest industries in the world is the travel and tourist business
+T358	Premise 40903 41002	We won't be making airplanes in this country 10 years from now if we let deals like this go through
+T359	Claim 41184 41220	We hammerlock the American companies
+T360	Premise 41224 41278	American Airlines, Delta -- the last few great we have
+T361	Premise 41288 41348	we're trying to do this deal with these 2 European companies
+T362	Claim 41471 41523	They're dying to get the commercial airline business
+T363	Claim 41525 41579	Japan is trying to get the commercial airline business
+T364	Claim 41582 41650	I don't think there are any villains inside government on this issue
+T365	Claim 41656 41714	there's sure a lot of people who don't understand business
+T366	Claim 41720 41807	maybe you need somebody up there who understands when you're getting your pocket picked
+T367	Claim 42037 42058	I think Ross is right
+T368	Claim 42068 42114	we do need some more restrictions on lobbyists
+T369	Claim 42116 42236	We ought to make them disclose the people they've given money to when they're testifying before congressional committees
+T370	Claim 42238 42278	we ought to close the lawyers' loopholes
+T371	Claim 42280 42339	they ought to have to disclose when they're really lobbying
+T372	Claim 42345 42556	we ought to have to limit -- we ought to have a much longer period of time, about 5 years, between the time when people can leave executive branch offices and then go out and start lobbying for foreign interests
+T373	Claim 42558 42575	I agree with that
+T375	Claim 42732 42777	We're going to have a hard time rebuilding it
+T376	Claim 42784 42848	the real thing we got to have is a competitive economic strategy
+T377	Premise 42850 42892	Look what's happening to McDonnell Douglas
+T378	Premise 42894 42928	even Boeing is losing market share
+T379	Premise 42940 43036	we let the Europeans spend $25-$40 billion on Airbus without an appropriate competitive response
+T380	Claim 43039 43137	What I want America to do is to trade more but to compete and win by investing in competitive ways
+T381	Claim 43143 43172	we're in real trouble on that
+T382	Claim 43448 43482	Productivity in this country is up
+T383	Claim 43545 43569	There are many good ones
+T384	Claim 43524 43543	that's a good thing
+T385	Claim 43500 43518	productivity is up
+T386	Claim 43888 43917	I have to stand up for myself
+T387	Premise 43823 43883	I was put on the ballot by the people, not special interests
+T388	Premise 44247 44279	that's important to this country
+T389	Claim 44148 44237	I'll take a few days off and hold hands with you and get this airlines thing straightened
+T390	Claim 45046 45142	your credibility has come into question because of your different responses on the Vietnam draft
+T391	Claim 45633 45657	I was opposed to the war
+T392	Claim 45681 45710	I felt very strongly about it
+T393	Claim 45716 45747	I didn't want to go at the time
+T394	Claim 45749 45819	It's easy to say in retrospect I would have done something differently
+T395	Premise 45823 45918	resident Lincoln opposed the war and there were people who said maybe he shouldn't be president
+T396	Claim 45924 45977	I think he made us a pretty good president in wartime
+T397	Premise 45979 46154	We've had a lot of other presidents who didn't wear their country's uniform who had to order our young soldiers into battle, including President Wilson and President Roosevelt
+T398	Claim 46160 46189	the answer is I could do that
+T399	Claim 46249 46365	I think that the president has to be prepared to use the power of the nation when our vital interests are threatened
+T400	Claim 46367 46407	when our treaty commitments are at stake
+T401	Claim 46409 46484	when we know that something has to be done that is in the national interest
+T402	Claim 46490 46523	that is a part of being president
+T403	Claim 46541 46553	Yes, I could
+T404	Claim 46741 46875	I've expressed my heartfelt difference with Governor Clinton on organizing demonstrations while in a foreign land against your country
+T405	Premise 46882 46931	young ghetto kids have been drafted and are dying
+T406	Premise 46933 47029	My argument with him on -- the question was about the draft -- is that there's this same pattern
+T407	Claim 47290 47353	I think it's this pattern that troubles me, more than the draft
+T408	Premise 47256 47284	He got a notice or he didn't
+T409	Premise 47223 47254	He got a deferment or he didn't
+T410	Premise 47191 47221	They have not been forthcoming
+T411	Premise 47031 47189	In New Hampshire Senator Kerrey said you ought to level, you ought to tell the truth about it. On April 17 he said he'd bring out all the records on the draft
+T412	Premise 47355 47416	A lot of decent, honorable people felt as he did on the draft
+T413	Claim 47422 47439	it's this pattern
+T414	Claim 47547 47588	you can't be on all these different sides
+T415	Claim 47706 47751	That's my big difference with him on the draf
+T416	Claim 47754 47780	It wasn't failing to serve
+T419	Claim 48194 48235	I don't look on it personally as relevant
+T420	Claim 48167 48192	I look on this as history
+T421	Premise 48105 48165	That's been displayed again and again in a very tangible way
+T422	Claim 48058 48103	Appreciate the sacrifices their families make
+T423	Claim 48011 48056	I appreciate their idealism, their sacrifices
+T424	Claim 47937 48009	I feel very strongly about the people who go into battle for our country
+T425	Premise 47878 47935	I've spent my whole adult life very close to the military
+T426	Claim 53477 53559	In order to lead, you first have to use the White House as a bully pulpit and lead
+T427	Claim 53566 53626	you have to develop consensus or you can't get anything done
+T428	Claim 53657 53683	We can't get anything done
+T429	Claim 53632 53655	that's where we are now
+T430	Premise 53685 53919	How do you get anything done when you've got all of these political action committees, all of these thousands of registered lobbyists -- 40,000 registered lobbyists, 23,000 special interest groups -- and the list goes on and on and on
+T431	Premise 53925 53984	the average citizen out here is just working hard every day
+T432	Claim 53986 54016	You've got to go to the people
+T433	Premise 54137 54188	you will lose your right to tell them what to think
+T434	Claim 54045 54114	everybody, particularly in the media, goes bonkers over the town hall
+T435	Premise 54190 54239	The point is, they'll get to decide what to think
+T436	Premise 54288 54436	people will listen to a guy with a bad accent and a poor presentation manner talking about flip charts for 30 minutes, because they want the details
+T437	Premise 54443 54570	all the folks up there at the top said the attention span of the American people is no more than 5 minutes, they won't watch it
+T438	Claim 54572 54594	They're thirsty for it
+T439	Claim 54597 54643	You want to have a new program in this country
+T440	Claim 54776 54947	that's a whole lot different from these fellows running up and down the halls whispering in their ears now and promising campaign funds for the next election if they do it
+T441	Claim 54955 55000	I think that's going back to where we started
+T442	Claim 55002 55044	That's having a government from the people
+T443	Claim 55046 55086	I think that's the essence of leadership
+T444	Claim 55088 55141	rather than cutting deals in dark rooms in Washington
+T445	Claim 55209 55244	I believe in the town hall meetings
+T446	Premise 55246 55292	they started with my campaign in New Hampshire
+T447	Claim 55298 55351	I think Ross Perot has done a good job in having them
+T448	Premise 55357 55478	I, as you know, pushed for the debate to include the 209 American citizens who were part of it in Richmond a few days ago
+T449	Claim 55509 55546	I'll continue to do them as president
+T450	Premise 55480 55503	I've done a lot of them
+T451	Claim 55979 56110	in 12 years as governor I guess I've taken on every interest group there was in my state at one time or another to fight for change
+T452	Claim 55653 55713	Of the 3 of us, I have balanced a government budget 12 times
+T453	Claim 55715 55839	I have offered and passed campaign finance reform, offered, pushed for and passed in public referendum lobbyist restrictions
+T454	Claim 55841 55972	done the kinds of things you have to do to get legislators together not only to establish consensus but to challenge them to change
+T455	Claim 56112 56126	It can be done
+T456	Claim 56139 56279	I tried to be so specific in this campaign to have a mandate, if elected, so that Congress will know what the American people have voted for
+T457	Claim 56862 56881	this will not stand
+T458	Premise 56830 56853	he moved against Kuwait
+T459	Premise 56736 56785	we failed to bring him into the family of nations
+T460	Premise 56787 56814	he had the 4th largest army
+T461	Claim 57180 57205	A president can't do that
+T462	Claim 57207 57230	Sometimes he has to act
+T463	Premise 57041 57105	Governor Clinton said, well, I might have been with the minority
+T464	Claim 57249 57264	I'm glad we did
+T465	Premise 57274 57423	if we had let sanctions work and tried to build a consensus on that, Saddam Hussein today would be in Saudi Arabia controlling the world's oil supply
+T466	Premise 57429 57474	he would be there maybe with a nuclear weapon
+T467	Premise 57476 57506	We busted the 4th largest army
+T468	Claim 57849 57962	when we look at the circle of the key people closest to you, your inner circle of advisers, we see white men only
+T469	Premise 58003 58065	You don't see Margaret Tutwiler sitting in there with me today
+T470	Premise 58125 58176	The key people, the people beyond the glass ceiling
+T471	Claim 58197 58233	I happen to think she's a key person
+T472	Claim 58235 58277	I think our Cabinet members are key people
+T473	Premise 58279 58420	I think the woman that works with me, Rose Zamaria, is about as tough as a boot out there and makes some discipline and protects the taxpayer
+T474	Premise 58422 58441	Look at our Cabinet
+T475	Premise 58475 58494	Look at Carla Hills
+T476	Premise 58496 58592	Look at Lynn Martin, who's fighting against this glass ceiling and doing a first-class job on it
+T477	Premise 58594 58634	Look at our surgeon general, Dr. Novello
+T478	Claim 58636 58699	You can look all around and you'll see first-class strong women
+T479	Premise 58702 58719	Jim Baker's a man
+T480	Claim 58810 58849	this is a little defensive on your part
+T481	Premise 58768 58800	look who's around with him there
+T482	Premise 58727 58749	I plead guilty to that
+T483	Claim 58881 58967	We've got a very good record appointing women to high positions and positions of trust
+T484	Claim 58973 59006	I'm not defensive at all about it
+T485	Claim 59008 59041	What we got to do is keep working
+T486	Premise 59043 59153	as the Labor Dept is doing a first-class job on, to break down discrimination, to break down the glass ceiling
+T487	Claim 59160 59214	I am not apologetic at all about our record with women
+T488	Premise 59248 59283	you think about women in government
+T489	Premise 59285 59316	I think about women in business
+T490	Claim 59326 59414	try to help them with my small business program to build some incentives into the system
+T491	Claim 59416 59450	I think we're making progress here
+T492	Premise 59453 59494	You got a lot of women running for office
+T493	Claim 59523 59548	I hope a lot of them lose
+T494	Premise 59557 59582	they're liberal Democrats
+T495	Premise 59606 59675	we don't need more of them in the Senate or more of them in the House
+T496	Premise 59681 59712	nevertheless, they're out there
+T497	Premise 59718 59764	we got some very good Republican women running
+T498	Claim 59769 59799	we're making dramatic progress
+T499	Claim 59946 60002	we have a long history of having a lot of talented women
+T500	Premise 59846 59941	I come from the computer business, and everybody knows the women are more talented than the men
+T501	Premise 60004 60090	One of our first officers was a woman, the chief financial officer. She was a director
+T502	Claim 60748 60847	I suggest, in the sense of taking responsibility for your actions, we lay those papers on the table
+T503	Claim 60849 60892	They're not the secrets to the nuclear bomb
+T504	Claim 61384 61415	That gets to the national honor
+T505	Claim 61417 61449;61457 61497	We did not say to Saddam Hussein you can take the northern part of Kuwait
+T506	Claim 61542 61567	That is absolutely absurd
+T507	Premise 61606 61627	Glaspie has testified
+T508	Premise 61650 61703	Glaspie's papers have been presented to the US Senate
+T509	Claim 61065 61118	We told him he could take the northern part of Kuwait
+T510	Claim 61124 61166	when he took the whole thing, we went nuts
+T511	Claim 60905 60946	we got upset when he took the whole thing
+T512	Premise 60952 61063	to the ordinary American out there who doesn't know where the oil fields are in Kuwait, they're near the border
+T513	Premise 61740 61893	If you have time, go through Nexis and Lexis, pull all the old news articles, look at what Ambassador Glaspie said all through the fall and what-have-you
+T514	Premise 61899 62011	then look at what she and Kelly and all the others in State said at the end when they were trying to clean it up
+T515	Premise 62017 62078	talk to any head of any of those key committees in the Senate
+T516	Premise 62080 62159	They will not let them see the written instructions given to Ambassador Glaspie
+T517	Claim 62165 62307	I suggest that in a free society owned by the people, the American people ought to know what we told Ambassador Glaspie to tell Saddam Hussein
+T518	Premise 62317 62434	we spent a lot of money and risked lives and lost lives in that effort, and did not accomplish most of our objectives
+T519	Premise 62436 62558	We got Kuwait back to the emir but he's still not his nuclear, his chemical, his bacteriological and he's still over there
+T520	Claim 63175 63265	I don't agree that there are no women and minorities in important positions in my campaign
+T521	Claim 63267 63281	There are many
+T522	Claim 63287 63334	I think even more relevant is my record at home
+T523	Premise 63336 63397	For most of my time as governor a woman was my chief of staff
+T524	Premise 63399 63447	An African American was my chief cabinet officer
+T525	Premise 63449 63510	An African American was my chief economic development officer
+T526	Claim 63760 63789	I think is a sign of progress
+T527	Premise 63538 63752	There was a story today or yesterday in the Washington Post about my economic programs and my chief budget officer and my chief economic officer were both African Americans, even though the Post didn't mention that
+T528	Premise 63792 63930	The Natl Women's Political Caucus gave me an award, one of their Good Guy Awards, for my involvement of women in high levels of government
+T529	Premise 63936 64077	I've appointed more minorities to positions of high level in government than all the governors in the history of my state combined, before me
+T530	Claim 64083 64115	that's what I'll do as president
+T531	Claim 64163 64335	I think I owe the American people a White House staff, a Cabinet and appointments that look like America but that meet high standards of excellence, and that's what I'll do
+T532	Claim 64896 64915	They're not correct
+T533	Premise 64920 64997	if you look at my life, until I got involved in this effort, I was one person
+T534	Claim 65721 65885	that's just another one of those little fruit-loopy things they make up to try to, instead of facing issues, to try to redefine a person that's running against them
+T535	Claim 65578 65715	the only difference between me and any other businessman that has the range of businesses that I have is I haven't had that many lawsuits
+T536	Claim 65915 66002	I will do everything I can, if I get up there, to make dirty tricks a thing of the past
+T537	Premise 66115 66162	We gave Ambassador Glaspie written instructions
+T538	Premise 66179 66274	We've never let the Congress and the Foreign Relations, Senate Intelligence Committees see them
+T539	Premise 66291 66350	Ambassador Glaspie did a lot of talking right after July 25
+T540	Premise 66373 66399	it's in all the newspapers
+T541	Claim 66459 66560	it's pretty clear what she and Kelly and the other key guys around that thing thought they were doing
+T542	Claim 66563 66718	Then at the end of the war, when they had to go testify about it, their stories are a total disconnect from what they said in August, September and October
+T543	Premise 66751 66970	Saddam Hussein released a tape, as you know, claiming it was a transcript of their meeting, where she said we will not become involved in your border dispute and, in effect, you can take the northern part of the country
+T544	Claim 67323 67381	I just object to the fact that we cover up and hide things
+T545	Claim 67576 67689	we don't have any evidence at least that our government did tell Saddam Hussein he could have that part of Kuwait
+T546	Claim 67695 67788	let's give him the credit he deserves for organizing Operation Desert Storm and Desert Shield
+T547	Claim 67790 67815	It was a remarkable event
+T548	Claim 67821 67874	let's look at where I think the real mistake was made
+T549	Premise 68016 68056	the enemy of my enemy maybe is my friend
+T550	Claim 67876 68012	In 1988 when the war between Iraq and Iran ended, we knew Saddam Hussein was a tyrant, we had dealt with him because he was against Iran
+T551	Claim 68086 68137	we know he's dropping mustard gas on his own people
+T552	Claim 68139 68191	we know he's threatened to incinerate half of Israel
+T553	Premise 68193 68355	Several government departments -- several -- had information that he was converting our aid to military purposes and trying to develop weapons of mass destruction
+T554	Claim 68671 68754	the responsibility was in coddling Saddam Hussein when there was no reason to do it
+T555	Premise 68759 68856	when people at high levels in our government knew he was trying to do things that were outrageous
+T556	Premise 68361 68479	in late '89 the president signed a secret policy saying we were going to continue to try to improve relations with him
+T557	Premise 68485 68598	we sent him some sort of communication on the eve of his invasion of Kuwait that we still wanted better relations
+T558	Claim 69676 69831	what you're seeing on all this Iraq-gate is a bunch of people who were wrong on the war trying to cover their necks here and try to do a little revisionism
+T559	Claim 69837 69860	I cannot let that stand
+T560	Claim 69870 69883	it isn't true
+T561	Claim 70081 70281	You can't stand there, Governor Clinton, and say, well, I think I'd have been -- I have supported the minority, let sanctions work or wish it would go away -- but I would have voted with the majority.
+T562	Claim 70291 70312	that's not leadership
+T563	Claim 68996 69057	We did try to bring Saddam Hussein into the family of nations
+T564	Premise 69093 69163	All our Arab allies out there thought we ought to do just exactly that
+T565	Premise 69169 69275	when he crossed the line, I stood up and looked into the camera and I said: This aggression will not stand
+T566	Premise 69281 69375	we formed a historic coalition, and we brought him down, and we destroyed the 4th largest army
+T567	Premise 69381 69500	the battlefield was searched, and there wasn't one single iota of evidence that any US weapons were on that battlefield
+T568	Premise 69506 69670	the nuclear capability has been searched by the United Nations, and there hasn't been one single scintilla of evidence that there's any US technology involved in it
+T569	Premise 69059 69091	he did have the 4th largest army
+T570	Premise 69891 70028	we had grain credits for Iraq, and there isn't any evidence that those grain credits were diverted into weaponry -- none, none whatsoever
+T571	Claim 70435 70505	an important aspect of leadership is, of course, anticipating problems
+T572	Claim 70666 70733	there are rumblings that a commercial bank crisis is on the horizon
+T573	Claim 70841 70906	there is a problem in the sense that there are some problem banks
+T574	Claim 70912 71044	on December 19th new regulations will go into effect which will in effect give the government the responsibility to close some banks
+T575	Claim 71045 71111	that are not technically insolvent but that are plainly in trouble
+T576	Claim 71132 71273	I don't think that we have any reason to believe that the dimensions of this crisis are anywhere near as great as the savings and loan crisis
+T577	Claim 71275 71475	The mistake that both parties made in Washington with the S&amp;L business was deregulating them without proper capital requirements, proper oversight and regulation, proper training of the executives
+T578	Premise 71477 71512	Many people predicted what happened
+T579	Claim 71518 71535	it was a disaster
+T580	Claim 71538 71616	The banking system in this country is fundamentally sound with some weak banks
+T581	Claim 71618 71685	I think that our goal ought to be first of all not to politicize it
+T582	Claim 71687 71709	not to frighten people
+T583	Claim 71732 71768	we have to enforce the law in 2 ways
+T584	Claim 71771 71899	We don't want to overreact, as the federal regulators have in my judgment, on good banks so that they've created credit crunches
+T585	Claim 71910 71972	they have made our recession worse in the last couple of years
+T586	Claim 71980 72042	we do want to act prudently with the banks that are in trouble
+T587	Claim 72045 72173	We also want to say that insofar as is humanly possible the banking industry itself should pay for the cost of any bank failures
+T588	Claim 72175 72199	the taxpayers should not
+T589	Claim 72205 72227	that will be my policy
+T590	Claim 72281 72326	we can get the good banks loaning money again
+T591	Claim 72328 72349	end the credit crunch
+T592	Claim 72351 72405	have proper regulation on the ones that are in trouble
+T593	Claim 72411 72424	not overreact
+T594	Premise 72244 72279	if we have a good balanced approach
+T595	Claim 72455 72540	I don't see it as the kind of terrible, terrible problem that the S&amp;L problem was
+T596	Claim 72593 72696	I don't believe it would be appropriate for a president to suggest that the banking system is not sound
+T597	Claim 72698 72709	It is sound
+T598	Claim 72711 72749	There are some problem banks out there
+T599	Claim 72755 72787	what we need is financial reform
+T600	Claim 72789 72851	we need some real financial reform, banking reform legislation
+T601	Claim 72857 72877	I have proposed that
+T602	Claim 72905 73075	I believe one of the first things ought to be to press a new Congress not beholden to the old ways to pass financial reform legislation that modernizes the banking system
+T603	Claim 73077 73115	doesn't put a lot of inhibitions on it
+T604	Claim 73121 73175	protects the depositors through keeping the FDIC sound
+T605	Claim 73275 73333	I think the general feeling is most of the banks are sound
+T606	Premise 73197 73269	I just was watching some of the proceedings of the American Bankers Assn
+T607	Claim 73335 73457	certainly there's no comparison here between what happened to the S&amp;Ls and where the banks stand right now, in my view
+T608	Claim 73504 73573	nobody's gotten into the real issue yet on the savings and loan again
+T609	Claim 73969 74027	I believe the vice president was in charge of deregulation
+T610	Claim 74029 74093	Nobody touched that tar baby till the day after election in 1988
+T611	Claim 74102 74156	they were flooding both parties with crooked PAC money
+T612	Claim 74162 74199	it was in many cases stolen PAC money
+T613	Claim 74570 74603	it will be a $100-billion problem
+T614	Premise 74323 74367	they buried it till right after the election
+T615	Claim 74206 74317	you and I never got a ride on a lot of these yachts and fancy things it bought, but you and I are paying for it
+T616	Premise 74375 74568	if you believe The Washington Post and you believe this extensive study that's been done -- and I'm reading it -- right after election day this year they're going to hit us with a hundred banks
+T617	Claim 75597 75631	we've got to reform our government
+T618	Claim 75632 75661	or we won't get anything done
+T619	Claim 75663 75701	We have a government that doesn't work
+T620	Premise 75703 75838	All these specific examples I'm giving tonight -- if you had a business like that, they'd be leading you away and boarding up the doors
+T621	Claim 75840 75878	We have a government that doesn't work
+T622	Claim 75943 75988	The people need to take their government back
+T623	Claim 75919 75941	it comes at the people
+T624	Premise 75880 75917	It's supposed to come from the people
+T625	Claim 75990 76019	You've got to reform Congress
+T626	Claim 76021 76067	they've got to be servants of the people again
+T627	Claim 76069 76105	you've got to reform the White House
+T628	Claim 76107 76142	We've got to turn this thing around
+T629	Claim 76253 76329	very specifically the key thing is to turn the government back to the people
+T630	Claim 76334 76415	take it away from the special interests and have people go to Washington to serve
+T631	Premise 76417 76494	Who can give themselves a 23% pay raise anywhere in the world except Congress
+T632	Premise 76496 76570	Who would have 1200 airplanes worth 2 billion a year just to fly around in
+T633	Premise 76572 76654	I don't have a free reserved parking place at Natl Airport, why should my servants
+T634	Premise 76656 76759	I don't have an indoor gymnasium and an indoor tennis and an indoor every other thing they can think of
+T635	Premise 76761 76887	I don't have a place where I can go make free TV to send to my constituents to try to brainwash them to elect me the next time
+T636	Claim 76934 77077	I'm going to be running an ad pretty soon that shows they promised us they were going to hold the line on spending at the tax and budget summit
+T637	Claim 77083 77168	I'm going to show how much they've increased this little stuff they do for themselves
+T638	Claim 77261 77305	I get up there, we're going to clean that up
+T639	Premise 77351 77424	I'll have millions of people at my shoulder, shoulder to shoulder with me
+T640	Claim 77430 77460	we will see it done work speed
+T641	Claim 77472 77482	it's wrong
+T642	Claim 77484 77520	We've turned the country upside down
+T643	Claim 77656 77704	I agree that we need to cut spending in Congress
+T644	Premise 77706 77778	I've called for a 25% reduction in congressional staffs and expenditures
+T645	Premise 77784 77921	the White House staff increased its expenditures by considerably more than Congress has in the last 4 years under the Bush administration
+T646	Premise 77927 78017	Congress has actually spent a billion dollars less than President Bush asked them to spend
+T647	Claim 78115 78211	The real problem in this country is that most people are working hard and falling farther behind
+T648	Claim 78213 78340	My passion is to pass a jobs program and get incomes up with an investment incentive program to grow jobs in the private sector
+T649	Claim 78342 78384	to waste less public money and invest more
+T650	Claim 78386 78414	to control health care costs
+T651	Claim 78419 78471	provide for affordable health care for all Americans
+T652	Claim 78476 78538	to make sure we've got the best trained workforce in the world
+T653	Claim 78540 78558	That is my passion
+T654	Claim 78561 78603	We've gotta get this country growing again
+T655	Claim 78608 78633	this economy strong again
+T656	Premise 78634 78668	or we can't bring down the deficit
+T657	Claim 78670 78726	Economic growth is the key to the future of this country
+T658	Claim 78988 79100	Reduce the White House staff by a 3rd after or at the same time the Congress does the same thing for their staff
+T659	Claim 79102 79144	Term limits for members of the US Congress
+T660	Claim 79146 79184	Give the government back to the people
+T661	Claim 79330 79387	how about a balanced budget amendment to the Constitution
+T662	Claim 79920 80017	that's the only protection the taxpayer has against some of these reckless pork programs up there
+T663	Claim 80023 80143	I'd rather be able to just line it right out of there and get on about passing some good stuff but leave out the garbage
+T664	Claim 80163 80200	there's a good reform program for you
+T665	Claim 79769 79853	That means you can take a line and cut out some of the pork out of a meaningful bill
+T666	Claim 82366 82458	The person responsible for domestic economic policy in my administration will be Bill Clinto
+T667	Premise 82150 82304	He'd just said Jim Baker was going to be secretary of state and in the first debate he said no, now he's gonna be responsible for domestic economic policy
+T668	Claim 82497 82559	I won't raise taxes on the middle class to pay for my programs
+T669	Claim 82461 82491	I'm gonna make those decisions
+T670	Claim 82627 82649;82681 82714	That's what worries me that he's going to be responsible
+T671	Claim 82716 82789	He's going to do -- and he would do for the US what he's done to Arkansas
+T672	Claim 82791 82840	He would do for the US what he's done to Arkansas
+T673	Claim 82842 82884	We do not want to be the lowest of the low
+T674	Claim 82886 82916	We are not a nation in decline
+T675	Claim 82931 82953	We are a rising nation
+T676	Premise 83000 83073	He said I want to take it from the rich, raise $150 billion from the rich
+T677	Claim 83075 83171	To get it, to get $150 billion in new taxes, you got to go down to the guy that's making $36,600
+T678	Claim 83255 83297	you're going to sock it to the working man
+T679	Premise 83177 83253	if you want to pay for the rest of his plan, all the other spending programs
+T680	Claim 83303 83372	when you hear "tax the rich," Mr. and Mrs. America, watch your wallet
+T681	Claim 83374 83390	Lock your wallet
+T682	Premise 83399 83453	he's coming right after you just like Jimmy Carter did
+T683	Claim 83491 83540	you're going to end up with interest rates at 21%
+T684	Claim 83546 83599	you're going to have inflation going through the roof
+T685	Claim 83602 83631	Yes, we're having tough times
+T686	Claim 83637 83772	we do not need to go back to the failed policies of the past, when you had a Democratic president and a spendthrift Democratic Congress
+T687	Claim 83944 83986	We rank first in the country in job growth
+T688	Claim 83988 84078	we got the lowest spending, state and local, in the country, and the 2nd lowest tax burden
+T689	Claim 84084 84217	the difference between Arkansas and the US is that we're going in the right direction and this country's going in the wrong direction
+T690	Claim 84223 84261	I have to defend the honor of my state
+T691	Claim 84959 85013	What we need is people to stop talking and start doing
+T692	Claim 85021 85085	our real problem here is they both have plans that will not work
+T693	Premise 85087 85141	The Wall Street Journal said your numbers don't add up
+T694	Claim 85264 85310	we're still drifting along with a huge deficit
+T695	Premise 85178 85262	you look at all the studies the different groups have done, you go out 4, 5, 6 years
+T696	Claim 86049 86122	the answer to why the drop, I think, has been the economy in the doldrums
+T697	Claim 86128 86136	I'll win
+T698	Claim 86140 86216	I think I have the best plan of the 3 of us up here to do something about it
+T699	Claim 86218 86251	Mine does not grow the government
+T700	Claim 86253 86295	it does not invest, have government invest
+T701	Claim 86305 86366	we need to do better in terms of stimulating private business
+T702	Claim 86368 86418	We got a big philosophical difference here tonight
+T703	Premise 86427 86502	one who thinks the government can do all these things through tax and spend
+T704	Premise 86508 86551	one who thinks it ought to go the other way
+T705	Claim 86561 86605	I believe the answer is, I'm going to win it
+T706	Premise 86614 86668	I'm getting into focus my agenda for America's renewal
+T707	Claim 86679 86741	I think that Governor Clinton's had pretty much of a free ride
+T708	Premise 86922 86975	They're almost at the bottom on every single category
+T709	Premise 86863 86920	he's an incumbent, and we've got to look at all the facts
+T710	Premise 86977 87016	We can't do that to the American people
+T711	Claim 87118 87247	I do think there's a pattern by Governor Clinton of saying one thing to please one group, and then trying to please another group
+T712	Claim 87253 87336	I think that pattern is a dangerous thing to suggest would work for the Oval Office
+T713	Claim 87338 87384	It doesn't work that way when you're president
+T714	Premise 87386 87424	 Truman is right. The buck stops there
+T715	Premise 87430 87497	you have to make decisions even when it's against your own interest
+T716	Claim 87503 87517	I've done that
+T717	Claim 87519 87652	It's against my political interest to say go ahead and go along with the tax increase, but I did what I thought was right at the time
+T718	Claim 87657 87720	I think people are going to be looking for trust and experience
+T719	Premise 87765 87904	I think if there's a crisis, people are going to say, well, George Bush has taken us through some tough crises, and we trust him to do that
+T720	Claim 87914 87960	I'll make the appeal on a wide array of issues
+T721	Claim 87967 87999	I got a philosophical difference
+T722	Claim 88032 88070	I don't think we're a declining nation
+T723	Claim 88072 88113	The whole world has had economic problems
+T724	Claim 88115 88174	We're doing better than a lot of the countries in the world
+T725	Claim 88180 88291	we're going to lead the way out of this economic recession across this world and economic slowdown here at home
+T726	Claim 88344 88360	I think I'll win
+T727	Claim 88655 88680	we may have bank failures
+T728	Claim 88743 88795	we are still evading the issue of the Glaspie papers
+T729	Claim 88835 88912	we still could have enterprise zones, according to both parties, but we don't
+T730	Claim 88917 88948	I am still focussed on gridlock
+T731	Claim 88999 89301	isn't it a paradox that we have the highest productivity in our workforce in the industrialized world and at the same time have the largest trade deficit, and at the same time rank behind 9 other nations in what we pay our most productive people in the world, and we're losing whole industries overseas
+T732	Claim 89343 89413	the government is breaking business's legs with these trade agreements
+T733	Claim 89415 89477	They're breaking business's legs in a number of different ways
+T734	Claim 89479 89609	We have an adversarial relationship that's destroying jobs and sending them overseas while we have the finest workers in the world
+T735	Premise 89625 89721	a factory worker has nothing to do with anything except putting it together on the factory floor
+T736	Claim 89723 89864	It's our obligation to make sure that we give him the finest products in the world to put together and we don't break his legs in the process
+T737	Claim 89916 89986	I really can't believe Mr. Bush is still trying to make trust an issue
+T738	Premise 89987 90238	after "read my lips" and 15 million new jobs and embracing what he called voodoo economics and embracing an export enhancement program for farmers he threatened to veto and going all around the country giving out money in programs that he once opposed
+T739	Premise 90244 90381	the main thing is he still didn't get it, from what he said the other night to that fine woman on our program, the 209 people in Richmond
+T740	Claim 90486 90518	I don't think he'll be reelected
+T741	Claim 90527 90562	trickle down economics is a failure
+T742	Claim 90567 90591	he's offering more of it
+T743	Claim 90597 90647	what he's saying about my program is just not true
+T744	Premise 90649 90694	Look at the Republicans that have endorsed me
+T745	Premise 90696 90739	High tech executives in Northern California
+T746	Premise 90741 90857	Look at the 24 generals and admirals, retired, that have endorsed me, including the deputy commander of Desert Storm
+T747	Premise 90859 90949	Look at Sarah Brady, Jim Brady's wife, President Reagan's press secretary, who endorsed me
+T748	Premise 90958 91023	he knuckled under to the NRA and wouldn't fight for the Brady Bil
+T749	Claim 91027 91083	We've got a broad-based coalition that goes beyond party
+T750	Claim 91092 91182	I am going to change this country and make it better, with the help of the American people
+T751	Claim 91936 92054	I disagree with Mr. Perot on how fast we can reduce the deficit and how much we can increase taxes on the middle class
+T752	Claim 92056 92161	I really respect what he's done in this campaign to bring the issue of deficit reduction to our attention
+T753	Claim 92330 92364	I just believe it's time to change
+T754	Claim 92367 92422	I offer a new approach. It's not trickle down economics
+T755	Premise 92424 92468	It's been tried for 12 years and it's failed
+T756	Premise 92470 92612	More people are working harder for less, 100,000 people a month losing their health insurance, unemployment going up, our economy slowing down
+T757	Claim 92614 92630	We can do better
+T758	Claim 92637 92669	it's not tax and spend economics
+T759	Claim 92671 92860	It's invest and grow, put our people first, control health care costs and provide basic health care to all Americans, have an education system 2nd to none and revitalize the private economy
+T760	Claim 92893 93058	It is the kind of change that can open up a whole new world of opportunities to America as we enter the last decade of this century and move towards the 21st century
+T761	Claim 93060 93152	I want a country where people who work hard and play by the rules are rewarded, not punished
+T762	Claim 93154 93250	I want a country where people are coming together across the lines of race and region and income
+T763	Claim 93252 93275	I know we can do better
+T764	Claim 93336 93396	we can do much, much better if we have the courage to change
+T765	Claim 93657 93897	On jobs -- that's the number one priority, and I believe my program for stimulating investment, encouraging small business, brand-new approach to education, strengthening the American family, and, yes, creating more exports is the way to go
+T766	Claim 93901 93940	don't believe in trickle-down governmen
+T767	Claim 93943 94005	I don't believe in larger taxes and larger government spending
+T768	Premise 94075 94114	We're living in an interconnected world
+T769	Claim 94007 94073	On foreign affairs, some think it's irrelevant. I believe it's not
+T770	Premise 94116 94163	The whole world is having economic difficulties
+T771	Claim 94165 94198	The US is doing better than a lot
+T772	Claim 94204 94231	we've got to do even better
+T773	Claim 94371 94497	the other night on character Governor Clinton said it's not the character of the president but the character of the presidency
+T774	Claim 94499 94523	I couldn't disagree more
+T775	Premise 94525 94585	Horace Greeley said the only thing that endures is character
+T776	Premise 94599 94688	it was Justice Black who talked about great nations, like great men, must keep their word
+T777	Claim 94715 94835	who will safeguard this nation, who will safeguard our people and our children? I need your support, I ask for your vote
+T778	Claim 95518 95539	Absolutely we can win
+T779	Premise 95549 95566	it's your country
+T780	Claim 95931 95961	You bet your hat we can govern
+T781	Claim 95970 96032	we will be in there together and we will figure out what to do
+T782	Claim 96038 96065	you won't tolerate gridlock
+T783	Claim 96068 96125	ou won't tolerate endless meandering and wandering around
+T784	Claim 96131 96165	you won't tolerate non-performance
+T785	Premise 96184 96270	anybody that knows me understands I have a very low tolerance for non-performance also
+T786	Claim 96272 96305	Together we can get anything done
+T68	Claim 5250 5283	I want to do something about that
+T92	Claim 7175 7203	I disagree with both of them
+T133	Claim 15164 15245	I'm working for that -- to protect the American taxpayer against the big spenders
+T134	Premise 26459 26635	when Governor Clinton was talking to the auto workers, whether he talked about his and Senator Gore's favoring CAFE standards, fuel efficiency standards, of 40 miles per gallon
+T135	Claim 31352 31369	it will cost jobs
+T199	Premise 33436 33571	Mr. Bush was very grateful when I was among the Democrats who said he ought to have the authority to negotiate an agreement with Mexico
+T200	Claim 33573 33753	Neither I nor anybody else, as far a I know, agreed to give him our proxy to say that whatever he did was fine for the workers of this country and for the interests of this country
+T787	Claim 33755 33795	I am the one who's in the middle on this
+T788	Claim 35599 35610	I am for it
+T339	Claim 40198 40252	The laws protect the American taxpayer in this regard.
+T789	Claim 40404 40427	I don't agree with that
+T790	Claim 42577 42619	We've wrecked the airline industry already
+T374	Premise 42631 42730	all these leverage buyouts and all these terrible things that have happened to the airline industry
+T791	Premise 43333 43379	I heard Gov Clinton congratulate us on 1 thing
+T792	Claim 43383 43446	first time he said something pleasant about this administration
+T793	Claim 48241 48347	I consider it really a waste of time tonight, when you consider the issues that face our country right now
+T19	Premise 49261 49433	One-third of the president's budget is at the president's discretion, or really the Congress, since they appropriate every dime and tell a president how to spend every dime
+T20	Claim 56919 57003	We went to the UN, we made historic resolutions up there, the whole world was united
+T21	Premise 25504 25618	They both said they were Vietnam veterans supporting me because I had an economic program to put them back to work
+T265	Claim 24980 25075	I don't think there's any question that the automobile executives made some errors in the 1980s
+T417	Claim 25081 25154	I also think we should look at how much productivity has increased lately
+T418	Claim 25156 25204	how much labor has done to increase productivity
+T794	Claim 25209 25237	how much management has done

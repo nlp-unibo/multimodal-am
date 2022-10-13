@@ -1,0 +1,1824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.040",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Mahaffey Theater at the Bayfront Center in St. Petersburg, Florida."
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "9.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Jim Lehrer of the \"News Hour\" on PBS."
+   ]
+  },
+  {
+   "begin": "9.280",
+   "children": [],
+   "end": "19.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Welcome to the 1996 Vice Presidential Debate between Vice President Al Gore, the democratic nominee, and Jack Kemp, the republican nominee."
+   ]
+  },
+  {
+   "begin": "19.520",
+   "children": [],
+   "end": "23.400",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "This event is sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "23.400",
+   "children": [],
+   "end": "33.640",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "The rules and format, as drawn and agreed to by the two campaigns are almost identical to those of the presidential debate last Sunday night in Hartford."
+   ]
+  },
+  {
+   "begin": "33.640",
+   "children": [],
+   "end": "35.120",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "It is 90 minutes long."
+   ]
+  },
+  {
+   "begin": "35.120",
+   "children": [],
+   "end": "38.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The candidates are not permitted to question each other directly."
+   ]
+  },
+  {
+   "begin": "38.720",
+   "children": [],
+   "end": "42.280",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "I will ask the questions with no limitations on the subjects."
+   ]
+  },
+  {
+   "begin": "42.280",
+   "children": [],
+   "end": "49.600",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "There will be a 90-second answer, a 60-second rebuttal, and a 30-second response to each question."
+   ]
+  },
+  {
+   "begin": "49.600",
+   "children": [],
+   "end": "54.640",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "And with the help of some lights, I will help the candidates abide by those time limits."
+   ]
+  },
+  {
+   "begin": "54.640",
+   "children": [],
+   "end": "58.080",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "The order for everything was determined by a coin toss."
+   ]
+  },
+  {
+   "begin": "58.080",
+   "children": [],
+   "end": "63.280",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "There will be three-minute closing statements, but no opening statements."
+   ]
+  },
+  {
+   "begin": "63.280",
+   "children": [],
+   "end": "69.080",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "So, we go now to the first question and to Mr. Kemp."
+   ]
+  },
+  {
+   "begin": "69.080",
+   "children": [],
+   "end": "82.320",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Some supporters of Senator Dole have expressed disappointment over his unwillingness in Hartford Sunday night to draw personal and ethical differences between him and President Clinton."
+   ]
+  },
+  {
+   "begin": "82.320",
+   "children": [],
+   "end": "84.320",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "How do you feel about it?"
+   ]
+  },
+  {
+   "begin": "84.320",
+   "children": [],
+   "end": "87.440",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Wow, in 90 seconds?"
+   ]
+  },
+  {
+   "begin": "87.440",
+   "children": [],
+   "end": "90.840",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "I can't clear my throat in 90 seconds."
+   ]
+  },
+  {
+   "begin": "90.840",
+   "children": [],
+   "end": "97.760",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Jim, Bob Dole and myself do not see Al Gore and Bill Clinton as our enemy."
+   ]
+  },
+  {
+   "begin": "97.760",
+   "children": [],
+   "end": "99.840",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "We see them as our opponents."
+   ]
+  },
+  {
+   "begin": "99.840",
+   "children": [],
+   "end": "101.920",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "This is the greatest democracy in the world."
+   ]
+  },
+  {
+   "begin": "101.920",
+   "children": [],
+   "end": "112.800",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "People are watching not only throughout this country, but all over the world as to how this democracy can function with civility and respect, and decency and integrity."
+   ]
+  },
+  {
+   "begin": "112.800",
+   "children": [],
+   "end": "122.520",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Bob Dole, um, is one of those men who served in the United States Senate, his public life is a public record."
+   ]
+  },
+  {
+   "begin": "122.520",
+   "children": [],
+   "end": "124.720",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "He fought on the battlefield."
+   ]
+  },
+  {
+   "begin": "124.720",
+   "children": [],
+   "end": "128.160",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "He has worked with Democrats and Republicans."
+   ]
+  },
+  {
+   "begin": "128.160",
+   "children": [],
+   "end": "132.920",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "In my opinion, it is beneath Bob Dole to go after anyone personally."
+   ]
+  },
+  {
+   "begin": "132.920",
+   "children": [],
+   "end": "139.800",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "Clearly, Abraham Lincoln put it best when he said you serve your party best by serving the nation first."
+   ]
+  },
+  {
+   "begin": "139.800",
+   "children": [],
+   "end": "148.800",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "And I can't think of a better way of serving this nation in 1996 than by electing Bob Dole as the President of the United States of America."
+   ]
+  },
+  {
+   "begin": "148.800",
+   "children": [],
+   "end": "154.520",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "These issues are fully capable of being understood and reflected upon by the American people."
+   ]
+  },
+  {
+   "begin": "154.520",
+   "children": [],
+   "end": "161.760",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "This is a democracy in which we have the freest press and the greatest First Amendment rights in the history of mankind."
+   ]
+  },
+  {
+   "begin": "161.760",
+   "children": [],
+   "end": "163.360",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "And Bob and I respect that."
+   ]
+  },
+  {
+   "begin": "163.360",
+   "children": [],
+   "end": "176.560",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "These issues will be aired, but they'll be aired with dignity and respect, and, ultimately, leave it to the American people to make up their minds about who should be the leader of this country into the 21st Century."
+   ]
+  },
+  {
+   "begin": "176.560",
+   "children": [],
+   "end": "178.640",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President?"
+   ]
+  },
+  {
+   "begin": "178.640",
+   "children": [],
+   "end": "179.760",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. Lehrer."
+   ]
+  },
+  {
+   "begin": "179.760",
+   "children": [],
+   "end": "184.480",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And I would like to thank the people of St. Petersburg for being such wonderful hosts."
+   ]
+  },
+  {
+   "begin": "184.480",
+   "children": [],
+   "end": "192.240",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "My family and I are very glad to be here and I would like to thank Jack Kemp for the answer that he just gave."
+   ]
+  },
+  {
+   "begin": "192.240",
+   "children": [],
+   "end": "198.720",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "I think we have an opportunity tonight to have a positive debate about this country's future."
+   ]
+  },
+  {
+   "begin": "198.720",
+   "children": [],
+   "end": "202.320",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "I'd like to start by offering you a deal, Jack."
+   ]
+  },
+  {
+   "begin": "202.320",
+   "children": [],
+   "end": "214.440",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "If you won't use any football stories, I won't tell any of my warm and humorous stories about chlorofluorocarbon abatement."
+   ]
+  },
+  {
+   "begin": "214.440",
+   "children": [],
+   "end": "216.680",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "It's a deal."
+   ]
+  },
+  {
+   "begin": "216.680",
+   "children": [],
+   "end": "218.160",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "I can't even pronounce it."
+   ]
+  },
+  {
+   "begin": "218.160",
+   "children": [],
+   "end": "227.760",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "What I do want to talk about tonight is Bill Clinton's positive plan for America's future."
+   ]
+  },
+  {
+   "begin": "227.760",
+   "children": [],
+   "end": "235.600",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "We have a plan to balance the budget while protecting Medicare, Medicaid, education and the environment."
+   ]
+  },
+  {
+   "begin": "235.600",
+   "children": [],
+   "end": "241.840",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Creating millions of new jobs, including one million new jobs in America's inner cities."
+   ]
+  },
+  {
+   "begin": "241.840",
+   "children": [],
+   "end": "253.760",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "I'm excited about the chance to talk about this plan and even more excited about the chance to work on it, if you, the people of this country, will give Bill Clinton and me the privilege of doing so for four more years."
+   ]
+  },
+  {
+   "begin": "253.760",
+   "children": [],
+   "end": "255.440",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp?"
+   ]
+  },
+  {
+   "begin": "255.440",
+   "children": [],
+   "end": "265.320",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "I really got only two differences with Bill Clinton -- \u00c2 President Clinton and Mr. Gore, foreign policy and domestic policy."
+   ]
+  },
+  {
+   "begin": "265.320",
+   "children": [],
+   "end": "280.160",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "Our foreign policy is ambivalent, confusing, it is sending strong signals to the wrong people, and we have learned over the years that weakness is provocative, but domestic economy is not doing what it can do."
+   ]
+  },
+  {
+   "begin": "280.160",
+   "children": [],
+   "end": "282.840",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "This President believes we are at our capacity."
+   ]
+  },
+  {
+   "begin": "282.840",
+   "children": [],
+   "end": "284.840",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Bob Dole and I believe we can do a lot better."
+   ]
+  },
+  {
+   "begin": "284.840",
+   "children": [],
+   "end": "293.000",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "It is about the potential of the American people to lift themselves up and not have their lives controlled by the United States Government and Washington."
+   ]
+  },
+  {
+   "begin": "293.000",
+   "children": [],
+   "end": "306.720",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, what do you see as the political philosophy differences in a general way between you and President Clinton on the one hand, Mr. Kemp and Senator Dole on the other?"
+   ]
+  },
+  {
+   "begin": "306.720",
+   "children": [],
+   "end": "307.760",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "The differences are very clear."
+   ]
+  },
+  {
+   "begin": "307.760",
+   "children": [],
+   "end": "310.880",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "We have a positive plan based on three principles."
+   ]
+  },
+  {
+   "begin": "310.880",
+   "children": [],
+   "end": "314.720",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "We want to provide opportunity for all Americans."
+   ]
+  },
+  {
+   "begin": "314.720",
+   "children": [],
+   "end": "329.200",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "We insist on responsibility being accepted in turn by everyone, and we want to strengthen our communities and their ability to support families and individuals in our common effort to create a bright future."
+   ]
+  },
+  {
+   "begin": "329.200",
+   "children": [],
+   "end": "338.400",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Here's how we plan to do that: We have a balanced budget plan that has targeted tax cuts for middle-income families."
+   ]
+  },
+  {
+   "begin": "338.400",
+   "children": [],
+   "end": "345.320",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "We've already given tax cuts to 15 million of the hardest pressed working families in America."
+   ]
+  },
+  {
+   "begin": "345.320",
+   "children": [],
+   "end": "357.280",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Our plan for the next four years features a $1,500 tax credit, called a Hope Scholarship, for tuition at community college, junior college or college."
+   ]
+  },
+  {
+   "begin": "357.280",
+   "children": [],
+   "end": "369.280",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "A $10,000 tax deduction for college tuition for those who go further, so that, in essence, no American family will ever be taxed on the money they spend for college tuition."
+   ]
+  },
+  {
+   "begin": "369.280",
+   "children": [],
+   "end": "385.360",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "Also, tax relief for first-time home buyers, tax encouragement for savings and help in paying health care expenses, and a tax break, actually, the elimination of capital gains taxes on the -- on the profits from the sale of a home."
+   ]
+  },
+  {
+   "begin": "385.360",
+   "children": [],
+   "end": "392.520",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "All of this is within a balanced budget plan, which protects Medicare, Medicaid, education and the environment."
+   ]
+  },
+  {
+   "begin": "392.520",
+   "children": [],
+   "end": "401.480",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Jim, this economy is overtaxed, overregulated, too many people suing each other, there's too much litigation."
+   ]
+  },
+  {
+   "begin": "401.480",
+   "children": [],
+   "end": "408.120",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Our education is not up to the standards that the American family and the American people want for their children."
+   ]
+  },
+  {
+   "begin": "408.120",
+   "children": [],
+   "end": "414.520",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "And, clearly, the welfare system is a disgrace to our Judeo-Christian principles."
+   ]
+  },
+  {
+   "begin": "414.520",
+   "children": [],
+   "end": "424.320",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "It is not the values of the poor that should be called into question, it is the values of the welfare system from Washington and uh that prevent people from climbing out of poverty."
+   ]
+  },
+  {
+   "begin": "424.320",
+   "children": [],
+   "end": "435.360",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Our biggest debate with this administration on domestic policy is that they think we're at our fullest capacity, that we\u00e2\u20ac\u2122ve reached our potential and 2.5 percent growth is enough for America."
+   ]
+  },
+  {
+   "begin": "435.360",
+   "children": [],
+   "end": "439.480",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Frankly, that is not good enough for this country."
+   ]
+  },
+  {
+   "begin": "439.480",
+   "children": [],
+   "end": "443.200",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "We can not just run the clock out on the 20th Century."
+   ]
+  },
+  {
+   "begin": "443.200",
+   "children": [],
+   "end": "448.560",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "It, clearly, we need to lower the tax rate across the board on working and saving and investing."
+   ]
+  },
+  {
+   "begin": "448.560",
+   "children": [],
+   "end": "451.800",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "I know my friend, Al, will suggest that is trickle-down economics."
+   ]
+  },
+  {
+   "begin": "451.800",
+   "children": [],
+   "end": "459.520",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "Well, Al, if it's trickle-down economics, ask Van Woods, a young entrepreneur who owns a restaurant in Harlem, if it's trickle down."
+   ]
+  },
+  {
+   "begin": "459.520",
+   "children": [],
+   "end": "464.080",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "He said he would hire 60 more people if we cut the Capital Gains Tax."
+   ]
+  },
+  {
+   "begin": "464.080",
+   "children": [],
+   "end": "468.920",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "I talked about our positive agenda for the future a moment ago."
+   ]
+  },
+  {
+   "begin": "468.920",
+   "children": [],
+   "end": "471.200",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Your original answer was about the contrast."
+   ]
+  },
+  {
+   "begin": "471.200",
+   "children": [],
+   "end": "485.000",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "The plan from Senator Dole and Mr. Kemp is a risky, $550-billion tax scheme that actually raises taxes on 9 million of the hardest pressed working families."
+   ]
+  },
+  {
+   "begin": "485.000",
+   "children": [],
+   "end": "497.960",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "It would blow a hole in the deficit, cause much deeper cuts in Medicare, Medicaid, education and the environment and knock our economy off track, raising interest rates, mortgage rates and car payments."
+   ]
+  },
+  {
+   "begin": "497.960",
+   "children": [],
+   "end": "500.120",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "We stopped that plan before."
+   ]
+  },
+  {
+   "begin": "500.120",
+   "children": [],
+   "end": "501.480",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "We will stop it again."
+   ]
+  },
+  {
+   "begin": "501.480",
+   "children": [],
+   "end": "506.080",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "We want a positive plan for growth and more jobs."
+   ]
+  },
+  {
+   "begin": "506.080",
+   "children": [],
+   "end": "509.280",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp, back to the philosophy question."
+   ]
+  },
+  {
+   "begin": "509.280",
+   "children": [],
+   "end": "517.640",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "Do you think there's a basic philosophy difference between these two tickets, or is it about specifics, which both of you have talked about?"
+   ]
+  },
+  {
+   "begin": "517.640",
+   "children": [],
+   "end": "519.280",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Well, this is a perfect example."
+   ]
+  },
+  {
+   "begin": "519.280",
+   "children": [],
+   "end": "529.000",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "Bob Dole and I want to cut the tax rates across the board on each and every American, working, saving, investing and taking risks in America."
+   ]
+  },
+  {
+   "begin": "529.000",
+   "children": [],
+   "end": "534.840",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "All wealth is created, and all growth is generated by risk-taking entrepreneurs."
+   ]
+  },
+  {
+   "begin": "534.840",
+   "children": [],
+   "end": "538.520",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "The tax rate on capital in America is way too high."
+   ]
+  },
+  {
+   "begin": "538.520",
+   "children": [],
+   "end": "543.800",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "It's too high on the family and it's particularly too high on working men and women."
+   ]
+  },
+  {
+   "begin": "543.800",
+   "children": [],
+   "end": "552.440",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "The average family in America, at median level of income, probably is spending 25 to 26 percent of their income sent to the federal government."
+   ]
+  },
+  {
+   "begin": "552.440",
+   "children": [],
+   "end": "556.320",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "That's more than shelter, food, clothing, and energy."
+   ]
+  },
+  {
+   "begin": "556.320",
+   "children": [],
+   "end": "557.640",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "That's just not right."
+   ]
+  },
+  {
+   "begin": "557.640",
+   "children": [],
+   "end": "566.520",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "When I was growing up in Los Angeles, my parents were a one working family, one breadwinner per family was all that was necessary."
+   ]
+  },
+  {
+   "begin": "566.520",
+   "children": [],
+   "end": "576.240",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "Now if a woman wants to go to work or a man wants to go to work, it ought to be their choice, not the choice of the Washington, D.C. establishment."
+   ]
+  },
+  {
+   "begin": "576.240",
+   "children": [],
+   "end": "584.400",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "Bill Clinton, the President, and Al Gore, suggest that they'll give us a tax cut, but only if we do exactly what they want us to do."
+   ]
+  },
+  {
+   "begin": "584.400",
+   "children": [],
+   "end": "585.520",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "That isn't America."
+   ]
+  },
+  {
+   "begin": "585.520",
+   "children": [],
+   "end": "587.080",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "That's social engineering."
+   ]
+  },
+  {
+   "begin": "587.080",
+   "children": [],
+   "end": "603.720",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "The tax code should reflect our values in a Judeo-Christian sense, that work, honesty and integrity and contracts and property and investment and savings should be rewarded, and Bob Dole and Jack Kemp are not only going to cut the tax rates across the board and lower the Capital Gain Tax."
+   ]
+  },
+  {
+   "begin": "603.720",
+   "children": [],
+   "end": "616.480",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "I'll be glad to talk about it a little later, because there's not enough time, but we are going to repeal the 83-year-old code and replace the seven and a half million words with a flatter, fairer, simpler code that will take this country roaring in the 21st Century."
+   ]
+  },
+  {
+   "begin": "616.480",
+   "children": [],
+   "end": "623.400",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "This risky tax scheme would blow a hole in the deficit."
+   ]
+  },
+  {
+   "begin": "623.400",
+   "children": [],
+   "end": "625.360",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "You don't have to take my word for it."
+   ]
+  },
+  {
+   "begin": "625.360",
+   "children": [],
+   "end": "638.480",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "\"Time,\" \"Newsweek,\" \"U.S. News &amp; World Report,\" \"Business Week,\" 83 percent of hundreds of economists in a random survey just recently all said it would blow a hole in the deficit."
+   ]
+  },
+  {
+   "begin": "638.480",
+   "children": [],
+   "end": "642.080",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "There's another feature I would like to hear Mr. Kemp speak about."
+   ]
+  },
+  {
+   "begin": "642.080",
+   "children": [],
+   "end": "659.000",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "Just before he joined Senator Dole on the ticket, he said that the plan -- the part of the plan that raises taxes on 9 million of the hardest working families in America was unconscionable, that means it's wrong and it shouldn't happen."
+   ]
+  },
+  {
+   "begin": "659.000",
+   "children": [],
+   "end": "663.120",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I agree, it is still part of the plan."
+   ]
+  },
+  {
+   "begin": "663.120",
+   "children": [],
+   "end": "666.920",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "We believe that taxes should not be increased on those families."
+   ]
+  },
+  {
+   "begin": "666.920",
+   "children": [],
+   "end": "680.640",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "We have a plan to cut taxes on middle income families within a balanced budget plan, eliminating the deficit and protecting Medicare, Medicaid, education and the environment."
+   ]
+  },
+  {
+   "begin": "680.640",
+   "children": [],
+   "end": "682.760",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp?"
+   ]
+  },
+  {
+   "begin": "682.760",
+   "children": [],
+   "end": "710.880",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Every time this country in the 20th Century has cut tax rates across the board, revenues went up, the economy grew, and I am surprised at this point in his career that Vice President Gore and the President cannot understand that you get more revenue from a bigger pie, and clearly, creating more jobs reduces the social welfare drain, clearly makes more opportunity for capital to be invested in our inner cities."
+   ]
+  },
+  {
+   "begin": "710.880",
+   "children": [],
+   "end": "722.880",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "And frankly, Al, we shouldn't just tinker with the Capital Gain Tax, we should eliminate it in the inner cities of America to put capital to work to make democratic capitalism and jobs available in our inner cities of the United States."
+   ]
+  },
+  {
+   "begin": "722.880",
+   "children": [],
+   "end": "729.440",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, should federal government Affirmative Action programs be continued?"
+   ]
+  },
+  {
+   "begin": "729.440",
+   "children": [],
+   "end": "729.960",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "729.960",
+   "children": [],
+   "end": "735.000",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "President Clinton addressed this issue when he said, \"Mend it, don't end it.\""
+   ]
+  },
+  {
+   "begin": "735.000",
+   "children": [],
+   "end": "737.840",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Diversity is a great strength in America."
+   ]
+  },
+  {
+   "begin": "737.840",
+   "children": [],
+   "end": "749.680",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Look around the world at other places where they have not paid attention to the necessity of promoting harmony of, between different ethnic, racial and religious, and cultural groups."
+   ]
+  },
+  {
+   "begin": "749.680",
+   "children": [],
+   "end": "760.440",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "We ought to be very proud in our country, as most Americans are, that we've made tremendous progress, but we ought to recognize that we have more work to do."
+   ]
+  },
+  {
+   "begin": "760.440",
+   "children": [],
+   "end": "774.680",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Now, the first thing that we are trying to do is to create a million new jobs in the inner cities of this country, with tax credits for employers who hire people who are now unemployed."
+   ]
+  },
+  {
+   "begin": "774.680",
+   "children": [],
+   "end": "780.840",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "We are seeking to have vigorous enforcement of the laws that bar discrimination."
+   ]
+  },
+  {
+   "begin": "780.840",
+   "children": [],
+   "end": "790.240",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Now, I want to congratulate Mr. Kemp for being a lonely voice in the Republican party over the years on this question."
+   ]
+  },
+  {
+   "begin": "790.240",
+   "children": [],
+   "end": "809.840",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "It is -- it is with some sadness that I refer to the fact that the day after he joined Senator Dole's ticket, he announced that he was changing his position and was hereto, thereafter going to adopt Senator Dole's position to end all affirmative action."
+   ]
+  },
+  {
+   "begin": "809.840",
+   "children": [],
+   "end": "812.040",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "That's not good for our country."
+   ]
+  },
+  {
+   "begin": "812.040",
+   "children": [],
+   "end": "826.360",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Bill Clinton and I believe that the United States of America has its brightest days ahead, and we will see them even brighter if we promote diversity and harmony among all our people."
+   ]
+  },
+  {
+   "begin": "826.360",
+   "children": [],
+   "end": "828.840",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp?"
+   ]
+  },
+  {
+   "begin": "828.840",
+   "children": [],
+   "end": "836.280",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Jim, my position on Affirmative Action has been clear ever since I left the professional football career for Congress in 1970."
+   ]
+  },
+  {
+   "begin": "836.280",
+   "children": [],
+   "end": "841.040",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "Some people think I quit playing a few years earlier, but I retired in 1970."
+   ]
+  },
+  {
+   "begin": "841.040",
+   "children": [],
+   "end": "849.080",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "My life has been dedicated to equality of opportunity and our democracy should provide that, not equality of reward."
+   ]
+  },
+  {
+   "begin": "849.080",
+   "children": [],
+   "end": "857.360",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Uh, Affirmative Action should be predicated upon need, not equality of reward, not equality of outcome."
+   ]
+  },
+  {
+   "begin": "857.360",
+   "children": [],
+   "end": "860.640",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Quotas have always been against the American ideal."
+   ]
+  },
+  {
+   "begin": "860.640",
+   "children": [],
+   "end": "887.400",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "We should promote diversity and we should do it the way Bob Dole has been talking about, with a new civil rights agenda, based upon expanding access to credit and capital, job opportunities, educational choice in our inner cities for a young urban mother who can't get the type of an education she wants for her child, and, ultimately, the type of ownership and entrepreneurship from public housing in, D.C. to Nickerson Gardens in Watts, Los Angeles."
+   ]
+  },
+  {
+   "begin": "887.400",
+   "children": [],
+   "end": "888.760",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "People need to own."
+   ]
+  },
+  {
+   "begin": "888.760",
+   "children": [],
+   "end": "890.840",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "And that's what Abraham Lincoln believed."
+   ]
+  },
+  {
+   "begin": "890.840",
+   "children": [],
+   "end": "893.640",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "That when people own something, they have a stake in the American dream."
+   ]
+  },
+  {
+   "begin": "893.640",
+   "children": [],
+   "end": "895.680",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "That is Affirmative Action in America."
+   ]
+  },
+  {
+   "begin": "895.680",
+   "children": [],
+   "end": "897.320",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "897.320",
+   "children": [],
+   "end": "908.840",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "With all due respect, I do not believe that Abraham Lincoln would have adopted Bob Dole's position to end all affirmative action."
+   ]
+  },
+  {
+   "begin": "908.840",
+   "children": [],
+   "end": "913.760",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "There is a specific measure on the ballot in California."
+   ]
+  },
+  {
+   "begin": "913.760",
+   "children": [],
+   "end": "919.600",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "It was embodied in legislation, introduced by Senator Dole, to apply to the whole nation."
+   ]
+  },
+  {
+   "begin": "919.600",
+   "children": [],
+   "end": "929.680",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp campaigned against it, spoke against it, wrote letters against it, went to California to fight against it, and now has endorsed it."
+   ]
+  },
+  {
+   "begin": "929.680",
+   "children": [],
+   "end": "931.880",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "I don't think it's a minor matter."
+   ]
+  },
+  {
+   "begin": "931.880",
+   "children": [],
+   "end": "943.520",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "I think this is one of the most important challenges that our country has to face in the future, and I hope that Mr. Kemp will try to persuade Senator Dole to adopt Mr. Kemp's position, instead of the other way around."
+   ]
+  },
+  {
+   "begin": "943.520",
+   "children": [],
+   "end": "944.920",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp, what is your position?"
+   ]
+  },
+  {
+   "begin": "944.920",
+   "children": [],
+   "end": "947.040",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "That red light means we're supposed to stop?"
+   ]
+  },
+  {
+   "begin": "947.040",
+   "children": [],
+   "end": "948.360",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Right."
+   ]
+  },
+  {
+   "begin": "948.360",
+   "children": [],
+   "end": "951.200",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "You thought that was going to be your problem, not mine."
+   ]
+  },
+  {
+   "begin": "951.200",
+   "children": [],
+   "end": "951.960",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "[ Laughter ]"
+   ]
+  },
+  {
+   "begin": "951.960",
+   "children": [],
+   "end": "954.320",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Yeah, right."
+   ]
+  },
+  {
+   "begin": "954.320",
+   "children": [],
+   "end": "957.280",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "I can't believe I'm keeping within the time limit."
+   ]
+  },
+  {
+   "begin": "957.280",
+   "children": [],
+   "end": "961.240",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Mr. Kemp, do we have a serious race problem in the United States right now?"
+   ]
+  },
+  {
+   "begin": "961.240",
+   "children": [],
+   "end": "962.920",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "Yeah, we really do."
+   ]
+  },
+  {
+   "begin": "962.920",
+   "children": [],
+   "end": "969.080",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "Um, this country has yet to deal with the type of inclusionary policies."
+   ]
+  },
+  {
+   "begin": "969.080",
+   "children": [],
+   "end": "984.760",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "It is so very important for Americans, white and black, Jew and Christian, immigrant and native-born, to sit down and talk and listen and begin to understand what it's like to come from that different perspective."
+   ]
+  },
+  {
+   "begin": "984.760",
+   "children": [],
+   "end": "994.480",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "Our country is as the Kerner Commission Report suggested a number of years ago was being split, but they said between white and black."
+   ]
+  },
+  {
+   "begin": "994.480",
+   "children": [],
+   "end": "1000.640",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "I think it's being split, Jim, not so much between white and black, although that's still a very serious problem."
+   ]
+  },
+  {
+   "begin": "1000.640",
+   "children": [],
+   "end": "1002.400",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "We really have two economies."
+   ]
+  },
+  {
+   "begin": "1002.400",
+   "children": [],
+   "end": "1028.040",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "Our general economy, our national economy, our mainstream economy is democratic, is based on incentives, a small \"d\" Al, it's capitalism and incentives for working and saving and investing and producing, and families and the things that really lead to progress up that ladder that we call \"The American Dream,\" but is what is really universal."
+   ]
+  },
+  {
+   "begin": "1028.040",
+   "children": [],
+   "end": "1036.840",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "But unfortunately, in urban America, and I was glad to hear the Vice President talk a little bit about it, uh there -- they have abandoned the inner cities."
+   ]
+  },
+  {
+   "begin": "1036.840",
+   "children": [],
+   "end": "1038.680",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "There's a socialist economy."
+   ]
+  },
+  {
+   "begin": "1038.680",
+   "children": [],
+   "end": "1040.040",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "There's no private housing."
+   ]
+  },
+  {
+   "begin": "1040.040",
+   "children": [],
+   "end": "1041.760",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "There's mostly public housing."
+   ]
+  },
+  {
+   "begin": "1041.760",
+   "children": [],
+   "end": "1045.800",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "You're told where to go to school, you're told what to buy with food stamps."
+   ]
+  },
+  {
+   "begin": "1045.800",
+   "children": [],
+   "end": "1054.600",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "It is a welfare system that is more like a third-world socialist country than what we would expect from the world's greatest democratic free-enterprise system."
+   ]
+  },
+  {
+   "begin": "1054.600",
+   "children": [],
+   "end": "1060.840",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "That must change, and it will under Bob Dole and Jack Kemp."
+   ]
+  },
+  {
+   "begin": "1060.840",
+   "children": [],
+   "end": "1062.920",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "Remember what I said just a moment ago."
+   ]
+  },
+  {
+   "begin": "1062.920",
+   "children": [],
+   "end": "1066.560",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "If it were not so, he would have told you."
+   ]
+  },
+  {
+   "begin": "1066.560",
+   "children": [],
+   "end": "1073.080",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "The problems between races in America must be addressed."
+   ]
+  },
+  {
+   "begin": "1073.080",
+   "children": [],
+   "end": "1076.720",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "The good news is we're making progress."
+   ]
+  },
+  {
+   "begin": "1076.720",
+   "children": [],
+   "end": "1082.280",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "We've seen 10.5 million new jobs created in the last four years."
+   ]
+  },
+  {
+   "begin": "1082.280",
+   "children": [],
+   "end": "1086.560",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "We've seen the unemployment rate come down dramatically."
+   ]
+  },
+  {
+   "begin": "1086.560",
+   "children": [],
+   "end": "1096.640",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "We've seen the African-American unemployment rate go below double digits for the first time in 25 years and it stayed below for 25 months in a row."
+   ]
+  },
+  {
+   "begin": "1096.640",
+   "children": [],
+   "end": "1104.880",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "We have empowerment zones and enterprise communities, 105 of them in communities all across the United States of America."
+   ]
+  },
+  {
+   "begin": "1104.880",
+   "children": [],
+   "end": "1108.840",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Let me tell you a story about Joann Crowder in Detroit."
+   ]
+  },
+  {
+   "begin": "1108.840",
+   "children": [],
+   "end": "1114.240",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "She was on welfare for eight years until the empowerment zone was created there."
+   ]
+  },
+  {
+   "begin": "1114.240",
+   "children": [],
+   "end": "1122.000",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "She just got a job in the new business that -- that launched its enterprise right in that empowerment zone."
+   ]
+  },
+  {
+   "begin": "1122.000",
+   "children": [],
+   "end": "1125.600",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "We want to do that for millions more all across the country."
+   ]
+  },
+  {
+   "begin": "1125.600",
+   "children": [],
+   "end": "1135.200",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Well, with all due respect, Jim, there are nine empowerment zones, a few little tinkering with tax credits around the country for inner cities."
+   ]
+  },
+  {
+   "begin": "1135.200",
+   "children": [],
+   "end": "1140.720",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Los Angeles, after the riots, did not even get an empowerment zone, believe it or not."
+   ]
+  },
+  {
+   "begin": "1140.720",
+   "children": [],
+   "end": "1145.960",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "That is just unconscionable in America to have left Watts, South Central and East L.A. out."
+   ]
+  },
+  {
+   "begin": "1145.960",
+   "children": [],
+   "end": "1155.120",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "Earl Graves of \"Black Enterprise\" magazine said the single greatest deterrent to black advancement is the lack of access to capital, the credit and ownership."
+   ]
+  },
+  {
+   "begin": "1155.120",
+   "children": [],
+   "end": "1156.000",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "That will change."
+   ]
+  },
+  {
+   "begin": "1156.000",
+   "children": [],
+   "end": "1165.920",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "We will green-line every city in the United States where there is unemployment and welfare and we will eliminate the Capital Gains Tax, eliminate the tax on a welfare mother that takes a job."
+   ]
+  },
+  {
+   "begin": "1165.920",
+   "children": [],
+   "end": "1167.200",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "That is the answer."
+   ]
+  },
+  {
+   "begin": "1167.200",
+   "children": [],
+   "end": "1172.280",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "Give ownership and entrepreneurship to low income people based on need, not the color of their skin."
+   ]
+  },
+  {
+   "begin": "1172.280",
+   "children": [],
+   "end": "1181.760",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, if re-elected, what would, what could we look forward to in the way of an inner city policy from a Clinton/Gore second term?"
+   ]
+  },
+  {
+   "begin": "1181.760",
+   "children": [],
+   "end": "1190.040",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Before I answer that specific question, let me say that we did put an empowerment zone in South Central, Los Angeles."
+   ]
+  },
+  {
+   "begin": "1190.040",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "It is in the form of the largest community development financial institution ever created in the United States or in any other country and it is creating jobs in South"
+   ]
+  }
+ ]
+}

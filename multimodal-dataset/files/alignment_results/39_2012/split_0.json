@@ -1,0 +1,2794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from Hofstra University in Hempstead, New York."
+   ]
+  },
+  {
+   "begin": "3.560",
+   "children": [],
+   "end": "6.400",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Candy Crowley from CNN's \"State of the Union.\""
+   ]
+  },
+  {
+   "begin": "6.400",
+   "children": [],
+   "end": "12.920",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "We are here for the second presidential debate, a town hall, sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "12.920",
+   "children": [],
+   "end": "17.280",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "The Gallup organization chose 82 uncommitted voters from the New York area."
+   ]
+  },
+  {
+   "begin": "17.280",
+   "children": [],
+   "end": "19.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Their questions will drive the night."
+   ]
+  },
+  {
+   "begin": "19.480",
+   "children": [],
+   "end": "24.320",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "My goal is to give the conversation direction and to ensure questions get answered."
+   ]
+  },
+  {
+   "begin": "24.320",
+   "children": [],
+   "end": "27.160",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The questions are known to me and my team only."
+   ]
+  },
+  {
+   "begin": "27.160",
+   "children": [],
+   "end": "30.000",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Neither the commission, nor the candidates have seen them."
+   ]
+  },
+  {
+   "begin": "30.000",
+   "children": [],
+   "end": "32.360",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "I hope to get to as many questions as possible."
+   ]
+  },
+  {
+   "begin": "32.360",
+   "children": [],
+   "end": "38.520",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "And because I am the optimistic sort, I'm sure the candidates will oblige by keeping their answers concise and on point."
+   ]
+  },
+  {
+   "begin": "38.520",
+   "children": [],
+   "end": "44.920",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Each candidate has as much as two minutes to respond to a common question, and there will be a two-minute follow-up."
+   ]
+  },
+  {
+   "begin": "44.920",
+   "children": [],
+   "end": "51.000",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "The audience here in the hall has agreed to be polite and attentive -- no cheering or booing or outbursts of any sort."
+   ]
+  },
+  {
+   "begin": "51.000",
+   "children": [],
+   "end": "56.840",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "We will set aside that agreement just this once to welcome President Barack Obama and Governor Mitt Romney."
+   ]
+  },
+  {
+   "begin": "56.840",
+   "children": [],
+   "end": "57.040",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, thank you both for joining us here tonight."
+   ]
+  },
+  {
+   "begin": "57.040",
+   "children": [],
+   "end": "93.160",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "We have a lot of folks who've been waiting all day to talk to you, so I want to get right to it."
+   ]
+  },
+  {
+   "begin": "93.160",
+   "children": [],
+   "end": "99.560",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Governor Romney, as you know, you won the coin toss, so the first question will go to you."
+   ]
+  },
+  {
+   "begin": "99.560",
+   "children": [],
+   "end": "106.080",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "And I want to turn to a first-time voter, Jeremy Epstein, who has a question for you."
+   ]
+  },
+  {
+   "begin": "106.080",
+   "children": [],
+   "end": "115.640",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Mr. President, Governor Romney, as a 20-year-old college student, all I hear from professors, neighbors and others is that when I graduate, I will have little chance to get employment."
+   ]
+  },
+  {
+   "begin": "115.640",
+   "children": [],
+   "end": "122.800",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "What can you say to reassure me, but more importantly my parents, that I will be able to sufficiently support myself after I graduate?"
+   ]
+  },
+  {
+   "begin": "122.800",
+   "children": [],
+   "end": "123.760",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Thank you, Jeremy."
+   ]
+  },
+  {
+   "begin": "123.760",
+   "children": [],
+   "end": "130.400",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "I appreciate your -- your question, and thank you for being here this evening and to all of those from Nassau County that have come, thank you for your time."
+   ]
+  },
+  {
+   "begin": "130.400",
+   "children": [],
+   "end": "136.080",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Thank you to Hofstra University and to Candy Crowley for organizing and leading this -- this event."
+   ]
+  },
+  {
+   "begin": "136.080",
+   "children": [],
+   "end": "140.200",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. President, also for being part of this -- this debate."
+   ]
+  },
+  {
+   "begin": "140.200",
+   "children": [],
+   "end": "144.760",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Your question -- your question is one that's being asked by college kids all over this country."
+   ]
+  },
+  {
+   "begin": "144.760",
+   "children": [],
+   "end": "151.320",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "I was in Pennsylvania with someone who had just graduated -- this was in Philadelphia -- and she said, \"I've got my degree."
+   ]
+  },
+  {
+   "begin": "151.320",
+   "children": [],
+   "end": "152.520",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "I can't find a job."
+   ]
+  },
+  {
+   "begin": "152.520",
+   "children": [],
+   "end": "154.480",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "I've got three part- time jobs."
+   ]
+  },
+  {
+   "begin": "154.480",
+   "children": [],
+   "end": "157.320",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "They're just barely enough to pay for my food and pay for an apartment."
+   ]
+  },
+  {
+   "begin": "157.320",
+   "children": [],
+   "end": "159.800",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "I can't begin to pay back my student loans.\""
+   ]
+  },
+  {
+   "begin": "159.800",
+   "children": [],
+   "end": "161.280",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "So what we have to do is two things."
+   ]
+  },
+  {
+   "begin": "161.280",
+   "children": [],
+   "end": "164.560",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "We have to make sure that we make it easier for kids to afford college."
+   ]
+  },
+  {
+   "begin": "164.560",
+   "children": [],
+   "end": "168.040",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "And also make sure that when they get out of college, there's a job."
+   ]
+  },
+  {
+   "begin": "168.040",
+   "children": [],
+   "end": "172.760",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "When I was governor of Massachusetts, to get a high school degree, you had to pass an exam."
+   ]
+  },
+  {
+   "begin": "172.760",
+   "children": [],
+   "end": "184.160",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "If you graduated in the top quarter of your airlines, we gave you a John and Abigail Adams scholarship, four years tuition free in the college of your choice in Massachusetts, it's a public institution."
+   ]
+  },
+  {
+   "begin": "184.160",
+   "children": [],
+   "end": "187.800",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "I want to make sure we keep our Pell grant program growing."
+   ]
+  },
+  {
+   "begin": "187.800",
+   "children": [],
+   "end": "192.000",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "We're also going to have our loan program, so that people are able to afford school."
+   ]
+  },
+  {
+   "begin": "192.000",
+   "children": [],
+   "end": "195.280",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "But the key thing is to make sure you can get a job when you get out of school."
+   ]
+  },
+  {
+   "begin": "195.280",
+   "children": [],
+   "end": "199.960",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "And what's happened over the last four years has been very, very hard for America's young people."
+   ]
+  },
+  {
+   "begin": "199.960",
+   "children": [],
+   "end": "202.160",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "I want you to be able to get a job."
+   ]
+  },
+  {
+   "begin": "202.160",
+   "children": [],
+   "end": "204.800",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "I know what it takes to get this economy going."
+   ]
+  },
+  {
+   "begin": "204.800",
+   "children": [],
+   "end": "210.640",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "With half of college kids graduating this year without a college -- excuse me, without a job."
+   ]
+  },
+  {
+   "begin": "210.640",
+   "children": [],
+   "end": "213.720",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "And without a college level job, that's just unacceptable."
+   ]
+  },
+  {
+   "begin": "213.720",
+   "children": [],
+   "end": "216.120",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "And likewise you've got more and more debt on your back."
+   ]
+  },
+  {
+   "begin": "216.120",
+   "children": [],
+   "end": "218.320",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "So more debt and less jobs."
+   ]
+  },
+  {
+   "begin": "218.320",
+   "children": [],
+   "end": "219.520",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "I'm going to change that."
+   ]
+  },
+  {
+   "begin": "219.520",
+   "children": [],
+   "end": "222.200",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "I know what it takes to create good jobs again."
+   ]
+  },
+  {
+   "begin": "222.200",
+   "children": [],
+   "end": "226.280",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "I know what it takes to make sure that you have the kind of opportunity you deserve."
+   ]
+  },
+  {
+   "begin": "226.280",
+   "children": [],
+   "end": "230.080",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "And kids across this country are going to recognize, we're bringing back an economy."
+   ]
+  },
+  {
+   "begin": "230.080",
+   "children": [],
+   "end": "232.280",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "It's not going to be like the last four years."
+   ]
+  },
+  {
+   "begin": "232.280",
+   "children": [],
+   "end": "236.960",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "The middle-class has been crushed over the last four years, and jobs have been too scarce."
+   ]
+  },
+  {
+   "begin": "236.960",
+   "children": [],
+   "end": "240.360",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "I know what it takes to bring them back, and I'm going to do that, and make sure that when you graduate -- when do you graduate?"
+   ]
+  },
+  {
+   "begin": "240.360",
+   "children": [],
+   "end": "241.560",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "2014."
+   ]
+  },
+  {
+   "begin": "241.560",
+   "children": [],
+   "end": "242.960",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "2014."
+   ]
+  },
+  {
+   "begin": "242.960",
+   "children": [],
+   "end": "246.240",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "When you come out in 2014, I presume I'm going to be president."
+   ]
+  },
+  {
+   "begin": "246.240",
+   "children": [],
+   "end": "247.640",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "I'm going to make sure you get a job."
+   ]
+  },
+  {
+   "begin": "247.640",
+   "children": [],
+   "end": "248.600",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Thanks Jeremy."
+   ]
+  },
+  {
+   "begin": "248.600",
+   "children": [],
+   "end": "250.040",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Yeah, you bet."
+   ]
+  },
+  {
+   "begin": "250.040",
+   "children": [],
+   "end": "252.400",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Mr. President?"
+   ]
+  },
+  {
+   "begin": "252.400",
+   "children": [],
+   "end": "254.920",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Jeremy, first of all, your future is bright."
+   ]
+  },
+  {
+   "begin": "254.920",
+   "children": [],
+   "end": "258.760",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And the fact that you're making an investment in higher education is critical."
+   ]
+  },
+  {
+   "begin": "258.760",
+   "children": [],
+   "end": "261.840",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Not just to you, but to the entire nation."
+   ]
+  },
+  {
+   "begin": "261.840",
+   "children": [],
+   "end": "267.320",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Now, the most important thing we can do is to make sure that we are creating jobs in this country."
+   ]
+  },
+  {
+   "begin": "267.320",
+   "children": [],
+   "end": "270.200",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "But not just jobs, good paying jobs."
+   ]
+  },
+  {
+   "begin": "270.200",
+   "children": [],
+   "end": "273.200",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Ones that can support a family."
+   ]
+  },
+  {
+   "begin": "273.200",
+   "children": [],
+   "end": "279.160",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "And what I want to do, is build on the five million jobs that we've created over the last 30 months in the private sector alone."
+   ]
+  },
+  {
+   "begin": "279.160",
+   "children": [],
+   "end": "283.480",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "And there are a bunch of things we can do to make sure your future is bright."
+   ]
+  },
+  {
+   "begin": "283.480",
+   "children": [],
+   "end": "289.240",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Number one, I want to build manufacturing jobs in this country again."
+   ]
+  },
+  {
+   "begin": "289.240",
+   "children": [],
+   "end": "293.600",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Now when Governor Romney said we should let Detroit go bankrupt."
+   ]
+  },
+  {
+   "begin": "293.600",
+   "children": [],
+   "end": "299.080",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "I said we're going to bet on American workers and the American auto industry and it's come surging back."
+   ]
+  },
+  {
+   "begin": "299.080",
+   "children": [],
+   "end": "309.840",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "I want to do that in industries, not just in Detroit, but all across the country and that means we change our tax code so we're giving incentives to companies that are investing here in the United States and creating jobs here."
+   ]
+  },
+  {
+   "begin": "309.840",
+   "children": [],
+   "end": "316.080",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "It also means we're helping them and small businesses to export all around the world to new markets."
+   ]
+  },
+  {
+   "begin": "316.080",
+   "children": [],
+   "end": "321.320",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Number two, we've got to make sure that we have the best education system in the world."
+   ]
+  },
+  {
+   "begin": "321.320",
+   "children": [],
+   "end": "338.520",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "And the fact that you're going to college is great, but I want everybody to get a great education and we've worked hard to make sure that student loans are available for folks like you, but I also want to make sure that community colleges are offering slots for workers to get retrained for the jobs that are out there right now and the jobs of the future."
+   ]
+  },
+  {
+   "begin": "338.520",
+   "children": [],
+   "end": "342.360",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Number three, we've got to control our own energy."
+   ]
+  },
+  {
+   "begin": "342.360",
+   "children": [],
+   "end": "353.480",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "Now, not only oil and natural gas, which we've been investing in; but also, we've got to make sure we're building the energy source of the future, not just thinking about next year, but ten years from now, 20 years from now."
+   ]
+  },
+  {
+   "begin": "353.480",
+   "children": [],
+   "end": "358.760",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "That's why we've invested in solar and wind and biofuels, energy efficient cars."
+   ]
+  },
+  {
+   "begin": "358.760",
+   "children": [],
+   "end": "362.200",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "We've got to reduce our deficit, but we've got to do it in a balanced way."
+   ]
+  },
+  {
+   "begin": "362.200",
+   "children": [],
+   "end": "367.320",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Asking the wealthy to pay a little bit more along with cuts so that we can invest in education like yours."
+   ]
+  },
+  {
+   "begin": "367.320",
+   "children": [],
+   "end": "374.280",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "And let's take the money that we've been spending on war over the last decade to rebuild America, roads, bridges schools."
+   ]
+  },
+  {
+   "begin": "374.280",
+   "children": [],
+   "end": "379.880",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "We do those things, not only is your future going to be bright but America's future is going to bright as well."
+   ]
+  },
+  {
+   "begin": "379.880",
+   "children": [],
+   "end": "388.000",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "Let me ask you for more immediate answer and begin with Mr. Romney just quickly what -- what can you do?"
+   ]
+  },
+  {
+   "begin": "388.000",
+   "children": [],
+   "end": "394.160",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "We're looking at a situation where 40 percent of the unemployed have been unemployed have been unemployed for six months or more."
+   ]
+  },
+  {
+   "begin": "394.160",
+   "children": [],
+   "end": "396.760",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "They don't have the two years that Jeremy has."
+   ]
+  },
+  {
+   "begin": "396.760",
+   "children": [],
+   "end": "401.360",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "What about those long term unemployed who need a job right now?"
+   ]
+  },
+  {
+   "begin": "401.360",
+   "children": [],
+   "end": "406.440",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Well what you're seeing in this country is 23 million people struggling to find a job."
+   ]
+  },
+  {
+   "begin": "406.440",
+   "children": [],
+   "end": "410.320",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "And a lot of them, as you say, Candy, have been out of work for a long, long, long time."
+   ]
+  },
+  {
+   "begin": "410.320",
+   "children": [],
+   "end": "417.080",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "The president's policies have been exercised over the last four years and they haven't put Americans back to work."
+   ]
+  },
+  {
+   "begin": "417.080",
+   "children": [],
+   "end": "421.240",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "We have fewer people working today than we had when the president took office."
+   ]
+  },
+  {
+   "begin": "421.240",
+   "children": [],
+   "end": "427.000",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "If the -- the unemployment rate was 7.8 percent when he took office, it's 7.8 percent now."
+   ]
+  },
+  {
+   "begin": "427.000",
+   "children": [],
+   "end": "433.720",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "But if you calculated that unemployment rate, taking back the people who dropped out of the workforce, it would be 10.7 percent."
+   ]
+  },
+  {
+   "begin": "433.720",
+   "children": [],
+   "end": "437.080",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "We have not made the progress we need to make to put people back to work."
+   ]
+  },
+  {
+   "begin": "437.080",
+   "children": [],
+   "end": "445.200",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "That's why I put out a five-point plan that gets America 12 million new jobs in four years and rising take-home pay."
+   ]
+  },
+  {
+   "begin": "445.200",
+   "children": [],
+   "end": "447.800",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "It's going to help Jeremy get a job when he comes out of school."
+   ]
+  },
+  {
+   "begin": "447.800",
+   "children": [],
+   "end": "451.200",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "It's going to help people across the country that are unemployed right now."
+   ]
+  },
+  {
+   "begin": "451.200",
+   "children": [],
+   "end": "457.880",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "And one thing that the president said, which I want to make sure that we understand, he said that I said we should take Detroit bankrupt."
+   ]
+  },
+  {
+   "begin": "457.880",
+   "children": [],
+   "end": "459.240",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "And that's right."
+   ]
+  },
+  {
+   "begin": "459.240",
+   "children": [],
+   "end": "467.680",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "My plan was to have the company go through bankruptcy like 7-Eleven did and Macy's and Condell (ph) Airlines and come out stronger."
+   ]
+  },
+  {
+   "begin": "467.680",
+   "children": [],
+   "end": "470.960",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "And I know he keeps saying, you want to take Detroit bankrupt."
+   ]
+  },
+  {
+   "begin": "470.960",
+   "children": [],
+   "end": "473.240",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Well, the president took Detroit bankrupt."
+   ]
+  },
+  {
+   "begin": "473.240",
+   "children": [],
+   "end": "474.680",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "You took General Motors bankrupt."
+   ]
+  },
+  {
+   "begin": "474.680",
+   "children": [],
+   "end": "476.440",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "You took Chrysler bankrupt."
+   ]
+  },
+  {
+   "begin": "476.440",
+   "children": [],
+   "end": "482.000",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "So when you say that I wanted to take the auto industry bankrupt, you actually did."
+   ]
+  },
+  {
+   "begin": "482.000",
+   "children": [],
+   "end": "490.120",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "And I think it's important to know that that was a process that was necessary to get those companies back on their feet, so they could start hiring more people."
+   ]
+  },
+  {
+   "begin": "490.120",
+   "children": [],
+   "end": "493.480",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "That was precisely what I recommended and ultimately what happened."
+   ]
+  },
+  {
+   "begin": "493.480",
+   "children": [],
+   "end": "495.560",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Let me give the president a chance.Go ahead."
+   ]
+  },
+  {
+   "begin": "495.560",
+   "children": [],
+   "end": "499.080",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Candy, what Governor Romney said just isn't true."
+   ]
+  },
+  {
+   "begin": "499.080",
+   "children": [],
+   "end": "505.600",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "He wanted to take them into bankruptcy without providing them any way to stay open."
+   ]
+  },
+  {
+   "begin": "505.600",
+   "children": [],
+   "end": "509.000",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "And we would have lost a million jobs."
+   ]
+  },
+  {
+   "begin": "509.000",
+   "children": [],
+   "end": "516.640",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "And that -- don't take my word for it, take the executives at GM and Chrysler, some of whom are Republicans, may even support Governor Romney."
+   ]
+  },
+  {
+   "begin": "516.640",
+   "children": [],
+   "end": "519.880",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "But they'll tell you his prescription wasn't going to work."
+   ]
+  },
+  {
+   "begin": "519.880",
+   "children": [],
+   "end": "522.160",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "And Governor Romney's says he's got a five-point plan?"
+   ]
+  },
+  {
+   "begin": "522.160",
+   "children": [],
+   "end": "523.800",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Governor Romney doesn't have a five-point plan."
+   ]
+  },
+  {
+   "begin": "523.800",
+   "children": [],
+   "end": "525.080",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "He has a one-point plan."
+   ]
+  },
+  {
+   "begin": "525.080",
+   "children": [],
+   "end": "531.000",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "And that plan is to make sure that folks at the top play by a different set of rules."
+   ]
+  },
+  {
+   "begin": "531.000",
+   "children": [],
+   "end": "539.000",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "That's been his philosophy in the private sector, that's been his philosophy as governor, that's been his philosophy as a presidential candidate."
+   ]
+  },
+  {
+   "begin": "539.000",
+   "children": [],
+   "end": "544.280",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "You can make a lot of money and pay lower tax rates than somebody who makes a lot less."
+   ]
+  },
+  {
+   "begin": "544.280",
+   "children": [],
+   "end": "547.800",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "You can ship jobs overseas and get tax breaks for it."
+   ]
+  },
+  {
+   "begin": "547.800",
+   "children": [],
+   "end": "554.840",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "You can invest in a company, bankrupt it, lay off the workers, strip away their pensions, and you still make money."
+   ]
+  },
+  {
+   "begin": "554.840",
+   "children": [],
+   "end": "561.000",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "That's exactly the philosophy that we've seen in place for the last decade."
+   ]
+  },
+  {
+   "begin": "561.000",
+   "children": [],
+   "end": "564.560",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "That's what's been squeezing middle class families."
+   ]
+  },
+  {
+   "begin": "564.560",
+   "children": [],
+   "end": "568.520",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "And we have fought back for four years to get out of that mess."
+   ]
+  },
+  {
+   "begin": "568.520",
+   "children": [],
+   "end": "572.320",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "The last thing we need to do is to go back to the very same policies that got us there."
+   ]
+  },
+  {
+   "begin": "572.320",
+   "children": [],
+   "end": "576.360",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "Mr. President, the next question is going to be for you here."
+   ]
+  },
+  {
+   "begin": "576.360",
+   "children": [],
+   "end": "579.400",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "And, Mr. Romney -- Governor Romney -- there'll be plenty of chances here to go on, but I want to..."
+   ]
+  },
+  {
+   "begin": "579.400",
+   "children": [],
+   "end": "580.520",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "That -- that Detroit -- that Detroit answer..."
+   ]
+  },
+  {
+   "begin": "580.520",
+   "children": [],
+   "end": "581.920",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "We have all these folks."
+   ]
+  },
+  {
+   "begin": "581.920",
+   "children": [],
+   "end": "582.680",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "... that Detroit answer..."
+   ]
+  },
+  {
+   "begin": "582.680",
+   "children": [],
+   "end": "583.720",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "I will let you absolutely..."
+   ]
+  },
+  {
+   "begin": "583.720",
+   "children": [],
+   "end": "585.440",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "... and the rest of the answer, way off the mark."
+   ]
+  },
+  {
+   "begin": "585.440",
+   "children": [],
+   "end": "588.880",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "OK. Will -- will -- you certainly will have lots of time here coming up."
+   ]
+  },
+  {
+   "begin": "588.880",
+   "children": [],
+   "end": "594.760",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Because I want to move you on to something that's sort of connected to cars here, and -- and go over."
+   ]
+  },
+  {
+   "begin": "594.760",
+   "children": [],
+   "end": "602.720",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "And we want to get a question from Phillip Tricolla."
+   ]
+  },
+  {
+   "begin": "602.720",
+   "children": [],
+   "end": "612.920",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Your energy secretary, Steven Chu, has now been on record three times stating it's not policy of his department to help lower gas prices."
+   ]
+  },
+  {
+   "begin": "612.920",
+   "children": [],
+   "end": "617.080",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Do you agree with Secretary Chu that this is not the job of the Energy Department?"
+   ]
+  },
+  {
+   "begin": "617.080",
+   "children": [],
+   "end": "625.040",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "The most important thing we can do is to make sure we control our own energy."
+   ]
+  },
+  {
+   "begin": "625.040",
+   "children": [],
+   "end": "629.160",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "So here's what I've done since I've been president."
+   ]
+  },
+  {
+   "begin": "629.160",
+   "children": [],
+   "end": "633.200",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "We have increased oil production to the highest levels in 16 years."
+   ]
+  },
+  {
+   "begin": "633.200",
+   "children": [],
+   "end": "637.440",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Natural gas production is the highest it's been in decades."
+   ]
+  },
+  {
+   "begin": "637.440",
+   "children": [],
+   "end": "643.200",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "We have seen increases in coal production and coal employment."
+   ]
+  },
+  {
+   "begin": "643.200",
+   "children": [],
+   "end": "649.120",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "But what I've also said is we can't just produce traditional source of energy."
+   ]
+  },
+  {
+   "begin": "649.120",
+   "children": [],
+   "end": "650.400",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "We've also got to look to the future."
+   ]
+  },
+  {
+   "begin": "650.400",
+   "children": [],
+   "end": "653.800",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "That's why we doubled fuel efficiency standards on cars."
+   ]
+  },
+  {
+   "begin": "653.800",
+   "children": [],
+   "end": "660.360",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "That means that in the middle of the next decade, any car you buy, you're going to end up going twice as far on a gallon of gas."
+   ]
+  },
+  {
+   "begin": "660.360",
+   "children": [],
+   "end": "664.960",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "That's why we doubled clean -- clean energy production like wind and solar and biofuels."
+   ]
+  },
+  {
+   "begin": "664.960",
+   "children": [],
+   "end": "671.960",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "And all these things have contributed to us lowering our oil imports to the lowest levels in 16 years."
+   ]
+  },
+  {
+   "begin": "671.960",
+   "children": [],
+   "end": "674.160",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "Now, I want to build on that."
+   ]
+  },
+  {
+   "begin": "674.160",
+   "children": [],
+   "end": "679.120",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "And that means, yes, we still continue to open up new areas for drilling."
+   ]
+  },
+  {
+   "begin": "679.120",
+   "children": [],
+   "end": "684.400",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "We continue to make it a priority for us to go after natural gas."
+   ]
+  },
+  {
+   "begin": "684.400",
+   "children": [],
+   "end": "690.680",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "We've got potentially 600,000 jobs and 100 years worth of energy right beneath our feet with natural gas."
+   ]
+  },
+  {
+   "begin": "690.680",
+   "children": [],
+   "end": "693.480",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "And we can do it in an environmentally sound way."
+   ]
+  },
+  {
+   "begin": "693.480",
+   "children": [],
+   "end": "705.080",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "But we've also got to continue to figure out how we have efficiency energy, because ultimately that's how we're going to reduce demand and that's what's going to keep gas prices lower."
+   ]
+  },
+  {
+   "begin": "705.080",
+   "children": [],
+   "end": "715.280",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "Now, Governor Romney will say he's got an all-of-the-above plan, but basically his plan is to let the oil companies write the energy policies."
+   ]
+  },
+  {
+   "begin": "715.280",
+   "children": [],
+   "end": "721.480",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "So he's got the oil and gas part, but he doesn't have the clean energy part."
+   ]
+  },
+  {
+   "begin": "721.480",
+   "children": [],
+   "end": "732.000",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "And if we are only thinking about tomorrow or the next day and not thinking about 10 years from now, we're not going to control our own economic future."
+   ]
+  },
+  {
+   "begin": "732.000",
+   "children": [],
+   "end": "736.120",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "Because China, Germany, they're making these investments."
+   ]
+  },
+  {
+   "begin": "736.120",
+   "children": [],
+   "end": "740.160",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "And I'm not going to cede those jobs of the future to those countries."
+   ]
+  },
+  {
+   "begin": "740.160",
+   "children": [],
+   "end": "744.000",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "I expect those new energy sources to be built right here in the United States."
+   ]
+  },
+  {
+   "begin": "744.000",
+   "children": [],
+   "end": "745.600",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "That's going to help Jeremy get a job."
+   ]
+  },
+  {
+   "begin": "745.600",
+   "children": [],
+   "end": "748.640",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "It's also going to make sure that you're not paying as much for gas."
+   ]
+  },
+  {
+   "begin": "748.640",
+   "children": [],
+   "end": "751.080",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "Governor, on the subject of gas prices?"
+   ]
+  },
+  {
+   "begin": "751.080",
+   "children": [],
+   "end": "759.440",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Well, let's look at the president's policies, all right, as opposed to the rhetoric, because we've had four years of policies being played out."
+   ]
+  },
+  {
+   "begin": "759.440",
+   "children": [],
+   "end": "765.600",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "And the president's right in terms of the additional oil production, but none of it came on federal land."
+   ]
+  },
+  {
+   "begin": "765.600",
+   "children": [],
+   "end": "772.520",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, oil production is down 14 percent this year on federal land, and gas production was down 9 percent."
+   ]
+  },
+  {
+   "begin": "772.520",
+   "children": [],
+   "end": "773.120",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Why?"
+   ]
+  },
+  {
+   "begin": "773.120",
+   "children": [],
+   "end": "780.320",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Because the president cut in half the number of licenses and permits for drilling on federal lands, and in federal waters."
+   ]
+  },
+  {
+   "begin": "780.320",
+   "children": [],
+   "end": "781.880",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "So where'd the increase come from?"
+   ]
+  },
+  {
+   "begin": "781.880",
+   "children": [],
+   "end": "784.800",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Well a lot of it came from the Bakken Range in North Dakota."
+   ]
+  },
+  {
+   "begin": "784.800",
+   "children": [],
+   "end": "786.760",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "What was his participation there?"
+   ]
+  },
+  {
+   "begin": "786.760",
+   "children": [],
+   "end": "793.440",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "The administration brought a criminal action against the people drilling up there for oil, this massive new resource we have."
+   ]
+  },
+  {
+   "begin": "793.440",
+   "children": [],
+   "end": "795.640",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "And what was the cost?"
+   ]
+  },
+  {
+   "begin": "795.640",
+   "children": [],
+   "end": "801.880",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "20 or 25 birds were killed and brought out a migratory bird act to go after them on a criminal basis."
+   ]
+  },
+  {
+   "begin": "801.880",
+   "children": [],
+   "end": "809.440",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Look, I want to make sure we use our oil, our coal, our gas, our nuclear, our renewables."
+   ]
+  },
+  {
+   "begin": "809.440",
+   "children": [],
+   "end": "815.480",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "I believe very much in our renewable capabilities; ethanol, wind, solar will be an important part of our energy mix."
+   ]
+  },
+  {
+   "begin": "815.480",
+   "children": [],
+   "end": "822.080",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "But what we don't need is to have the president keeping us from taking advantage of oil, coal and gas."
+   ]
+  },
+  {
+   "begin": "822.080",
+   "children": [],
+   "end": "825.760",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "This has not been Mr. Oil, or Mr. Gas, or Mr. Coal."
+   ]
+  },
+  {
+   "begin": "825.760",
+   "children": [],
+   "end": "828.280",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Talk to the people that are working in those industries."
+   ]
+  },
+  {
+   "begin": "828.280",
+   "children": [],
+   "end": "829.720",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "I was in coal country."
+   ]
+  },
+  {
+   "begin": "829.720",
+   "children": [],
+   "end": "833.160",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "People grabbed my arms and said, \"Please save my job.\""
+   ]
+  },
+  {
+   "begin": "833.160",
+   "children": [],
+   "end": "836.880",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "The head of the EPA said, \"You can't build a coal plant."
+   ]
+  },
+  {
+   "begin": "836.880",
+   "children": [],
+   "end": "840.200",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "You'll virtually -- it's virtually impossible given our regulations.\""
+   ]
+  },
+  {
+   "begin": "840.200",
+   "children": [],
+   "end": "845.320",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "When the president ran for office, he said if you build a coal plant, you can go ahead, but you'll go bankrupt."
+   ]
+  },
+  {
+   "begin": "845.320",
+   "children": [],
+   "end": "847.400",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "That's not the right course for America."
+   ]
+  },
+  {
+   "begin": "847.400",
+   "children": [],
+   "end": "853.120",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Let's take advantage of the energy resources we have, as well as the energy sources for the future."
+   ]
+  },
+  {
+   "begin": "853.120",
+   "children": [],
+   "end": "866.080",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "And if we do that, if we do what I'm planning on doing, which is getting us energy independent, North America energy independence within eight years, you're going to see manufacturing jobs come back."
+   ]
+  },
+  {
+   "begin": "866.080",
+   "children": [],
+   "end": "871.880",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "Because our energy is low cost, that are already beginning to come back because of our abundant energy."
+   ]
+  },
+  {
+   "begin": "871.880",
+   "children": [],
+   "end": "874.880",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "I'll get America and North America energy independent."
+   ]
+  },
+  {
+   "begin": "874.880",
+   "children": [],
+   "end": "878.600",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "I'll do it by more drilling, more permits and licenses."
+   ]
+  },
+  {
+   "begin": "878.600",
+   "children": [],
+   "end": "880.760",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "We're going to bring that pipeline in from Canada."
+   ]
+  },
+  {
+   "begin": "880.760",
+   "children": [],
+   "end": "883.480",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "How in the world the president said no to that pipeline?"
+   ]
+  },
+  {
+   "begin": "883.480",
+   "children": [],
+   "end": "884.560",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "I will never know."
+   ]
+  },
+  {
+   "begin": "884.560",
+   "children": [],
+   "end": "889.640",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "This is about bringing good jobs back for the middle class of America, and that's what I'm going to do."
+   ]
+  },
+  {
+   "begin": "889.640",
+   "children": [],
+   "end": "896.200",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "CROWLEY: Mr. President, let me just see if I can move you to the gist of this question, which is, are we looking at the new normal?"
+   ]
+  },
+  {
+   "begin": "896.200",
+   "children": [],
+   "end": "903.160",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "I can tell you that tomorrow morning, a lot of people in Hempstead will wake up and fill up and they will find that the price of gas is over $4 a gallon."
+   ]
+  },
+  {
+   "begin": "903.160",
+   "children": [],
+   "end": "910.080",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "Is it within the purview of the government to bring those prices down, or are we looking at the new normal?"
+   ]
+  },
+  {
+   "begin": "910.080",
+   "children": [],
+   "end": "917.000",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "Candy, there's no doubt that world demand's gone up, but our production is going up, and we're using oil more efficiently."
+   ]
+  },
+  {
+   "begin": "917.000",
+   "children": [],
+   "end": "920.480",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "And very little of what Governor Romney just said is true."
+   ]
+  },
+  {
+   "begin": "920.480",
+   "children": [],
+   "end": "923.920",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "We've opened up public lands."
+   ]
+  },
+  {
+   "begin": "923.920",
+   "children": [],
+   "end": "930.160",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "We're actually drilling more on public lands than in the previous administration and my -- the previous president was an oil man."
+   ]
+  },
+  {
+   "begin": "930.160",
+   "children": [],
+   "end": "935.800",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "And natural gas isn't just appearing magically."
+   ]
+  },
+  {
+   "begin": "935.800",
+   "children": [],
+   "end": "938.440",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "We're encouraging it and working with the industry."
+   ]
+  },
+  {
+   "begin": "938.440",
+   "children": [],
+   "end": "954.160",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "And when I hear Governor Romney say he's a big coal guy, I mean, keep in mind, when -- Governor, when you were governor of Massachusetts, you stood in front of a coal plant and pointed at it and said, \"This plant kills,\" and took great pride in shutting it down."
+   ]
+  },
+  {
+   "begin": "954.160",
+   "children": [],
+   "end": "957.240",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "And now suddenly you're a big champion of coal."
+   ]
+  },
+  {
+   "begin": "957.240",
+   "children": [],
+   "end": "960.880",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "So what I've tried to do is be consistent."
+   ]
+  },
+  {
+   "begin": "960.880",
+   "children": [],
+   "end": "971.800",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "With respect to something like coal, we made the largest investment in clean coal technology, to make sure that even as we're producing more coal, we're producing it cleaner and smarter."
+   ]
+  },
+  {
+   "begin": "971.800",
+   "children": [],
+   "end": "974.640",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "Same thing with oil, same thing with natural gas."
+   ]
+  },
+  {
+   "begin": "974.640",
+   "children": [],
+   "end": "980.160",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "And the proof is our oil imports are down to the lowest levels in 20 years."
+   ]
+  },
+  {
+   "begin": "980.160",
+   "children": [],
+   "end": "988.640",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "Oil production is up, natural gas production is up, and, most importantly, we're also starting to build cars that are more efficient."
+   ]
+  },
+  {
+   "begin": "988.640",
+   "children": [],
+   "end": "990.720",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "And that's creating jobs."
+   ]
+  },
+  {
+   "begin": "990.720",
+   "children": [],
+   "end": "997.120",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "That means those cars can be exported, 'cause that's the demand around the world, and it also means that it'll save money in your pocketbook."
+   ]
+  },
+  {
+   "begin": "997.120",
+   "children": [],
+   "end": "1001.400",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "That's the strategy you need, an all-of-the-above strategy, and that's what we're going to do in the next four years."
+   ]
+  },
+  {
+   "begin": "1001.400",
+   "children": [],
+   "end": "1005.400",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "But that's not what you've done in the last four years."
+   ]
+  },
+  {
+   "begin": "1005.400",
+   "children": [],
+   "end": "1006.840",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "That's the problem."
+   ]
+  },
+  {
+   "begin": "1006.840",
+   "children": [],
+   "end": "1012.400",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "In the last four years, you cut permits and licenses on federal land and federal waters in half."
+   ]
+  },
+  {
+   "begin": "1012.400",
+   "children": [],
+   "end": "1013.520",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "Not true, Governor Romney."
+   ]
+  },
+  {
+   "begin": "1013.520",
+   "children": [],
+   "end": "1014.880",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "So how much did you cut (inaudible)?"
+   ]
+  },
+  {
+   "begin": "1014.880",
+   "children": [],
+   "end": "1015.000",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "Not true."
+   ]
+  },
+  {
+   "begin": "1015.000",
+   "children": [],
+   "end": "1016.280",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "How much did you cut them by, then?"
+   ]
+  },
+  {
+   "begin": "1016.280",
+   "children": [],
+   "end": "1018.400",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "Governor, we have actually produced more oil --"
+   ]
+  },
+  {
+   "begin": "1018.400",
+   "children": [],
+   "end": "1018.680",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "No, no."
+   ]
+  },
+  {
+   "begin": "1018.680",
+   "children": [],
+   "end": "1021.240",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "How much did you cut licenses and permits on federal land and federal waters?"
+   ]
+  },
+  {
+   "begin": "1021.240",
+   "children": [],
+   "end": "1022.520",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "Governor Romney, here's what we did."
+   ]
+  },
+  {
+   "begin": "1022.520",
+   "children": [],
+   "end": "1023.480",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "There were a whole bunch of oil companies."
+   ]
+  },
+  {
+   "begin": "1023.480",
+   "children": [],
+   "end": "1025.280",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1025.280",
+   "children": [],
+   "end": "1028.280",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "No, no, I had a question and the question was how much did you cut them by?"
+   ]
+  },
+  {
+   "begin": "1028.280",
+   "children": [],
+   "end": "1029.400",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "You want me to answer a question --"
+   ]
+  },
+  {
+   "begin": "1029.400",
+   "children": [],
+   "end": "1030.440",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "How much did you cut them by?"
+   ]
+  },
+  {
+   "begin": "1030.440",
+   "children": [],
+   "end": "1031.520",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "I'm happy to answer the question."
+   ]
+  },
+  {
+   "begin": "1031.520",
+   "children": [],
+   "end": "1031.880",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "1031.880",
+   "children": [],
+   "end": "1032.800",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "And it is --"
+   ]
+  },
+  {
+   "begin": "1032.800",
+   "children": [],
+   "end": "1033.560",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "Here's what happened."
+   ]
+  },
+  {
+   "begin": "1033.560",
+   "children": [],
+   "end": "1039.720",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "You had a whole bunch of oil companies who had leases on public lands that they weren't using."
+   ]
+  },
+  {
+   "begin": "1039.720",
+   "children": [],
+   "end": "1051.320",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "So what we said was you can't just sit on this for 10, 20, 30 years, decide when you want to drill, when you want to produce, when it's most profitable for you."
+   ]
+  },
+  {
+   "begin": "1051.320",
+   "children": [],
+   "end": "1052.360",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "These are public lands."
+   ]
+  },
+  {
+   "begin": "1052.360",
+   "children": [],
+   "end": "1057.520",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "So if you want to drill on public lands, you use it or you lose it."
+   ]
+  },
+  {
+   "begin": "1057.520",
+   "children": [],
+   "end": "1057.880",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "OK, (inaudible) --"
+   ]
+  },
+  {
+   "begin": "1057.880",
+   "children": [],
+   "end": "1059.800",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "And so what we did was take away those leases."
+   ]
+  },
+  {
+   "begin": "1059.800",
+   "children": [],
+   "end": "1063.800",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "And we are now reletting them so that we can actually make a profit."
+   ]
+  },
+  {
+   "begin": "1063.800",
+   "children": [],
+   "end": "1065.640",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "And production on private -- on government land --"
+   ]
+  },
+  {
+   "begin": "1065.640",
+   "children": [],
+   "end": "1066.400",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "Production is up."
+   ]
+  },
+  {
+   "begin": "1066.400",
+   "children": [],
+   "end": "1066.920",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "-- is down."
+   ]
+  },
+  {
+   "begin": "1066.920",
+   "children": [],
+   "end": "1067.360",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "No, it isn't."
+   ]
+  },
+  {
+   "begin": "1067.360",
+   "children": [],
+   "end": "1069.680",
+   "id": "f000242",
+   "language": "en",
+   "lines": [
+    "Production on government land of oil is down 14 percent."
+   ]
+  },
+  {
+   "begin": "1069.680",
+   "children": [],
+   "end": "1070.560",
+   "id": "f000243",
+   "language": "en",
+   "lines": [
+    "Governor --"
+   ]
+  },
+  {
+   "begin": "1070.560",
+   "children": [],
+   "end": "1072.400",
+   "id": "f000244",
+   "language": "en",
+   "lines": [
+    "And production on gas -- (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1072.400",
+   "children": [],
+   "end": "1073.160",
+   "id": "f000245",
+   "language": "en",
+   "lines": [
+    "It's just not true."
+   ]
+  },
+  {
+   "begin": "1073.160",
+   "children": [],
+   "end": "1074.320",
+   "id": "f000246",
+   "language": "en",
+   "lines": [
+    "It's absolutely true."
+   ]
+  },
+  {
+   "begin": "1074.320",
+   "children": [],
+   "end": "1081.920",
+   "id": "f000247",
+   "language": "en",
+   "lines": [
+    "Look, there's no question but the people recognize that we have not produced more (inaudible) on federal lands and in federal waters."
+   ]
+  },
+  {
+   "begin": "1081.920",
+   "children": [],
+   "end": "1085.240",
+   "id": "f000248",
+   "language": "en",
+   "lines": [
+    "And coal, coal production is not up; coal jobs are not up."
+   ]
+  },
+  {
+   "begin": "1085.240",
+   "children": [],
+   "end": "1089.040",
+   "id": "f000249",
+   "language": "en",
+   "lines": [
+    "I was just at a coal facility, where some 1,200 people lost their jobs."
+   ]
+  },
+  {
+   "begin": "1089.040",
+   "children": [],
+   "end": "1092.880",
+   "id": "f000250",
+   "language": "en",
+   "lines": [
+    "The right course for America is to have a true all-of-the-above policy."
+   ]
+  },
+  {
+   "begin": "1092.880",
+   "children": [],
+   "end": "1099.360",
+   "id": "f000251",
+   "language": "en",
+   "lines": [
+    "I don't think anyone really believes that you're a person who's going to be pushing for oil and gas and coal."
+   ]
+  },
+  {
+   "begin": "1099.360",
+   "children": [],
+   "end": "1100.440",
+   "id": "f000252",
+   "language": "en",
+   "lines": [
+    "You'll get your chance in a moment."
+   ]
+  },
+  {
+   "begin": "1100.440",
+   "children": [],
+   "end": "1101.320",
+   "id": "f000253",
+   "language": "en",
+   "lines": [
+    "I'm still speaking."
+   ]
+  },
+  {
+   "begin": "1101.320",
+   "children": [],
+   "end": "1101.640",
+   "id": "f000254",
+   "language": "en",
+   "lines": [
+    "Well --"
+   ]
+  },
+  {
+   "begin": "1101.640",
+   "children": [],
+   "end": "1104.120",
+   "id": "f000255",
+   "language": "en",
+   "lines": [
+    "And the answer is I don't believe people think that's the case --"
+   ]
+  },
+  {
+   "begin": "1104.120",
+   "children": [],
+   "end": "1104.800",
+   "id": "f000256",
+   "language": "en",
+   "lines": [
+    "-- (inaudible)."
+   ]
+  },
+  {
+   "begin": "1104.800",
+   "children": [],
+   "end": "1105.720",
+   "id": "f000257",
+   "language": "en",
+   "lines": [
+    "That wasn't the question."
+   ]
+  },
+  {
+   "begin": "1105.720",
+   "children": [],
+   "end": "1105.960",
+   "id": "f000258",
+   "language": "en",
+   "lines": [
+    "OK."
+   ]
+  },
+  {
+   "begin": "1105.960",
+   "children": [],
+   "end": "1107.040",
+   "id": "f000259",
+   "language": "en",
+   "lines": [
+    "That was a statement."
+   ]
+  },
+  {
+   "begin": "1107.040",
+   "children": [],
+   "end": "1108.920",
+   "id": "f000260",
+   "language": "en",
+   "lines": [
+    "I don't think the American people believe that."
+   ]
+  },
+  {
+   "begin": "1108.920",
+   "children": [],
+   "end": "1111.600",
+   "id": "f000261",
+   "language": "en",
+   "lines": [
+    "I will fight for oil, coal and natural gas."
+   ]
+  },
+  {
+   "begin": "1111.600",
+   "children": [],
+   "end": "1117.240",
+   "id": "f000262",
+   "language": "en",
+   "lines": [
+    "And the proof, the proof of whether a strategy is working or not is what the price is that you're paying at the pump."
+   ]
+  },
+  {
+   "begin": "1117.240",
+   "children": [],
+   "end": "1123.080",
+   "id": "f000263",
+   "language": "en",
+   "lines": [
+    "If you're paying less than you paid a year or two ago, why, then, the strategy is working."
+   ]
+  },
+  {
+   "begin": "1123.080",
+   "children": [],
+   "end": "1124.640",
+   "id": "f000264",
+   "language": "en",
+   "lines": [
+    "But you're paying more."
+   ]
+  },
+  {
+   "begin": "1124.640",
+   "children": [],
+   "end": "1128.960",
+   "id": "f000265",
+   "language": "en",
+   "lines": [
+    "When the president took office, the price of gasoline here in Nassau County was about $1.86 a gallon."
+   ]
+  },
+  {
+   "begin": "1128.960",
+   "children": [],
+   "end": "1130.720",
+   "id": "f000266",
+   "language": "en",
+   "lines": [
+    "Now, it's $4.00 a gallon."
+   ]
+  },
+  {
+   "begin": "1130.720",
+   "children": [],
+   "end": "1132.560",
+   "id": "f000267",
+   "language": "en",
+   "lines": [
+    "The price of electricity is up."
+   ]
+  },
+  {
+   "begin": "1132.560",
+   "children": [],
+   "end": "1137.600",
+   "id": "f000268",
+   "language": "en",
+   "lines": [
+    "If the president's energy policies are working, you're going to see the cost of energy come down."
+   ]
+  },
+  {
+   "begin": "1137.600",
+   "children": [],
+   "end": "1143.320",
+   "id": "f000269",
+   "language": "en",
+   "lines": [
+    "I will fight to create more energy in this country, to get America energy secure."
+   ]
+  },
+  {
+   "begin": "1143.320",
+   "children": [],
+   "end": "1154.320",
+   "id": "f000270",
+   "language": "en",
+   "lines": [
+    "And part of that is bringing in a pipeline of oil from Canada, taking advantage of the oil and coal we have here, drilling offshore in Alaska, drilling offshore in Virginia where the people want it."
+   ]
+  },
+  {
+   "begin": "1154.320",
+   "children": [],
+   "end": "1156.480",
+   "id": "f000271",
+   "language": "en",
+   "lines": [
+    "Those things will get us the energy we need."
+   ]
+  },
+  {
+   "begin": "1156.480",
+   "children": [],
+   "end": "1169.840",
+   "id": "f000272",
+   "language": "en",
+   "lines": [
+    "Mr. President, could you address, because we did finally get to gas prices here, could you address what the governor said, which is if your energy policy was working, the price of gasoline would not be $4 a gallon here."
+   ]
+  },
+  {
+   "begin": "1169.840",
+   "children": [],
+   "end": "1169.840",
+   "id": "f000273",
+   "language": "en",
+   "lines": [
+    "Is that true?"
+   ]
+  },
+  {
+   "begin": "1169.840",
+   "children": [],
+   "end": "1172.680",
+   "id": "f000274",
+   "language": "en",
+   "lines": [
+    "Well, think about what the governor -- think about what the governor just said."
+   ]
+  },
+  {
+   "begin": "1172.680",
+   "children": [],
+   "end": "1176.040",
+   "id": "f000275",
+   "language": "en",
+   "lines": [
+    "He said when I took office, the price of gasoline was $1.80, $1.86."
+   ]
+  },
+  {
+   "begin": "1176.040",
+   "children": [],
+   "end": "1176.960",
+   "id": "f000276",
+   "language": "en",
+   "lines": [
+    "Why is that?"
+   ]
+  },
+  {
+   "begin": "1176.960",
+   "children": [],
+   "end": "1190.920",
+   "id": "f000277",
+   "language": "en",
+   "lines": [
+    "Because the economy was on the verge of collapse, because we were about to go through the worst recession since the Great Depression, as a consequence of some of the same policies that Governor Romney's now promoting."
+   ]
+  },
+  {
+   "begin": "1190.920",
+   "children": [],
+   "end": "1197.600",
+   "id": "f000278",
+   "language": "en",
+   "lines": [
+    "So, it's conceivable that Governor Romney could bring down gas prices because with his policies, we might be back in that same mess."
+   ]
+  },
+  {
+   "begin": "1197.600",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000279",
+   "language": "en",
+   "lines": [
+    "What I"
+   ]
+  }
+ ]
+}

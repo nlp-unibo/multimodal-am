@@ -1,0 +1,1704 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "4.000",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Bill Shadel of ABC News."
+   ]
+  },
+  {
+   "begin": "4.000",
+   "children": [],
+   "end": "13.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "It's my privilege this evening to preside at this the third in the series of meetings on radio and television of the two major presidential candidates."
+   ]
+  },
+  {
+   "begin": "13.640",
+   "children": [],
+   "end": "21.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Now like the last meeting the subjects to be discussed will be suggested by questions from a panel of correspondents."
+   ]
+  },
+  {
+   "begin": "21.040",
+   "children": [],
+   "end": "27.680",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Unlike the first two programs, however, the two candidates will not be sharing the same platform."
+   ]
+  },
+  {
+   "begin": "27.680",
+   "children": [],
+   "end": "48.640",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "In New York the Democratic presidential nominee, Senator John F. Kennedy; separated by three thousand miles in a Los Angeles studio, the Republican presidential nominee, Vice President Richard M. Nixon; now joined for tonight's discussion by a network of electronic facilities which permits each candidate to see and hear the other."
+   ]
+  },
+  {
+   "begin": "48.640",
+   "children": [],
+   "end": "50.280",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Good evening, Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "50.280",
+   "children": [],
+   "end": "51.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Good evening, Mr. Shadel."
+   ]
+  },
+  {
+   "begin": "51.680",
+   "children": [],
+   "end": "54.080",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "And good evening to you, Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "54.080",
+   "children": [],
+   "end": "55.400",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Good evening, Mr. Shadel."
+   ]
+  },
+  {
+   "begin": "55.400",
+   "children": [],
+   "end": "57.960",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "And now to meet the panel of correspondents."
+   ]
+  },
+  {
+   "begin": "57.960",
+   "children": [],
+   "end": "72.400",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "Frank McGee, NBC News; Charles Van Fremd, CBS News; Douglass Cater, Reporter magazine; Roscoe Drummond, New York Herald Tribune."
+   ]
+  },
+  {
+   "begin": "72.400",
+   "children": [],
+   "end": "86.760",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Now, as you've probably noted, the four reporters include a newspaper man and a magazine reporter; these two selected by lot by the press secretaries of the candidates from among the reporters traveling with the candidates."
+   ]
+  },
+  {
+   "begin": "86.760",
+   "children": [],
+   "end": "90.680",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "The broadcasting representatives were chosen by their companies."
+   ]
+  },
+  {
+   "begin": "90.680",
+   "children": [],
+   "end": "99.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "The rules for this evening have been agreed upon by the representatives of both candidates and the radio and television networks and I should like to read them."
+   ]
+  },
+  {
+   "begin": "99.040",
+   "children": [],
+   "end": "104.720",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "There will be no opening statements by the candidates nor any closing summation."
+   ]
+  },
+  {
+   "begin": "104.720",
+   "children": [],
+   "end": "110.120",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "The entire hour will be devoted to answering questions from the reporters."
+   ]
+  },
+  {
+   "begin": "110.120",
+   "children": [],
+   "end": "115.840",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Each candidate to be questioned in turn with opportunity for comment by the other."
+   ]
+  },
+  {
+   "begin": "115.840",
+   "children": [],
+   "end": "122.640",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Each answer will be limited to two and one-half minutes, each comment to one and a half minutes."
+   ]
+  },
+  {
+   "begin": "122.640",
+   "children": [],
+   "end": "128.160",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "The reporters are free to ask any question they choose on any subject."
+   ]
+  },
+  {
+   "begin": "128.160",
+   "children": [],
+   "end": "131.400",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Neither candidate knows what questions will be asked."
+   ]
+  },
+  {
+   "begin": "131.400",
+   "children": [],
+   "end": "137.600",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Time alone will dete- determine who will be asked the final question."
+   ]
+  },
+  {
+   "begin": "137.600",
+   "children": [],
+   "end": "142.680",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Now the first question is from Mr. McGee and is for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "142.680",
+   "children": [],
+   "end": "153.960",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Senator Kennedy, yesterday you used the words \"trigger-happy\" in referring to Vice President Richard Nixon's stand on defending the islands of Quemoy and Matsu."
+   ]
+  },
+  {
+   "begin": "153.960",
+   "children": [],
+   "end": "160.520",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Last week on a program like this one, you said the next president would come face to face with a serious crisis in Berlin."
+   ]
+  },
+  {
+   "begin": "160.520",
+   "children": [],
+   "end": "168.280",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "So the question is: would you take military action to defend Berlin?"
+   ]
+  },
+  {
+   "begin": "168.280",
+   "children": [],
+   "end": "176.880",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "Mr. McGee, we have a contractual right to be in Berlin coming out of the conversations at Potsdam and of World War II."
+   ]
+  },
+  {
+   "begin": "176.880",
+   "children": [],
+   "end": "184.200",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "That has been reinforced by direct commitments of the president of the United States; it's been reinforced by a number of other nations under NATO."
+   ]
+  },
+  {
+   "begin": "184.200",
+   "children": [],
+   "end": "189.280",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "I've stated on many occasions that the United States must meet its commitment on Berlin."
+   ]
+  },
+  {
+   "begin": "189.280",
+   "children": [],
+   "end": "194.520",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "It is a commitment that we have to meet if we're going to protect the security of Western Europe."
+   ]
+  },
+  {
+   "begin": "194.520",
+   "children": [],
+   "end": "206.440",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "And therefore on this question I don't think that there is any doubt in the mind of any American; I hope there is not any doubt in the mind of any member of the community of West Berlin; I'm sure there isn't any doubt in the mind of the Russians."
+   ]
+  },
+  {
+   "begin": "206.440",
+   "children": [],
+   "end": "212.000",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "We will meet our commitments to maintain the freedom and independence of West Berlin."
+   ]
+  },
+  {
+   "begin": "212.000",
+   "children": [],
+   "end": "214.720",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, do you wish to comment?"
+   ]
+  },
+  {
+   "begin": "214.720",
+   "children": [],
+   "end": "215.240",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "215.240",
+   "children": [],
+   "end": "227.200",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, the statement that Senator Kennedy made was that - to the effect that there were trigger-happy Republicans, that my stand on Quemoy and Matsu was an indication of trigger-happy Republicans."
+   ]
+  },
+  {
+   "begin": "227.200",
+   "children": [],
+   "end": "228.800",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "I resent that comment."
+   ]
+  },
+  {
+   "begin": "228.800",
+   "children": [],
+   "end": "236.560",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "I resent it because th- it's an implication that Republicans have been trigger-happy and, therefore, would lead this nation into war."
+   ]
+  },
+  {
+   "begin": "236.560",
+   "children": [],
+   "end": "240.040",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "I would remind Senator Kennedy of the past fifty years."
+   ]
+  },
+  {
+   "begin": "240.040",
+   "children": [],
+   "end": "244.880",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "I would ask him to name one Republican president who led this nation into war."
+   ]
+  },
+  {
+   "begin": "244.880",
+   "children": [],
+   "end": "248.440",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "There were three Democratic presidents who led us into war."
+   ]
+  },
+  {
+   "begin": "248.440",
+   "children": [],
+   "end": "253.240",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "I do not mean by that that one party is a war party and the other party is a peace party."
+   ]
+  },
+  {
+   "begin": "253.240",
+   "children": [],
+   "end": "260.920",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "But I do say that any statement to the effect that the Republican party is trigger-happy is belied by the record."
+   ]
+  },
+  {
+   "begin": "260.920",
+   "children": [],
+   "end": "265.040",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "We had a war when we came into power in 1953."
+   ]
+  },
+  {
+   "begin": "265.040",
+   "children": [],
+   "end": "270.200",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "We got rid of that; we've kept out of other wars; and certainly that doesn't indicate that we're trigger-happy."
+   ]
+  },
+  {
+   "begin": "270.200",
+   "children": [],
+   "end": "273.440",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "We've been strong, but we haven't been trigger-happy."
+   ]
+  },
+  {
+   "begin": "273.440",
+   "children": [],
+   "end": "294.280",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "As far as Berlin is concerned, there isn't any question about the necessity of defending Berlin; the rights of people there to be free; and there isn't any question about what the united American people - Republicans and Democrats alike - would do in the event there were an attempt by the Communists to take over Berlin."
+   ]
+  },
+  {
+   "begin": "294.280",
+   "children": [],
+   "end": "295.920",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "The next question is by Mr."
+   ]
+  },
+  {
+   "begin": "295.920",
+   "children": [],
+   "end": "299.200",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "Von Fremd for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "299.200",
+   "children": [],
+   "end": "304.840",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, a two-part question concerning the offshore islands in the Formosa Straits."
+   ]
+  },
+  {
+   "begin": "304.840",
+   "children": [],
+   "end": "327.760",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "If you were president and the Chinese Communists tomorrow began an invasion of Quemoy and Matsu, would you launch the uh - United States into a war by sending the Seventh Fleet and other military forces to resist this aggression; and secondly, if the uh - regular conventional forces failed to halt such uh - such an invasion, would you authorize the use of nuclear weapons?"
+   ]
+  },
+  {
+   "begin": "327.760",
+   "children": [],
+   "end": "327.960",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "Mr."
+   ]
+  },
+  {
+   "begin": "327.960",
+   "children": [],
+   "end": "338.960",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Von Fremd, it would be completely irresponsible for a candidate for the presidency, or for a president himself, to indicate the course of action and the weapons he would use in the event of such an attack."
+   ]
+  },
+  {
+   "begin": "338.960",
+   "children": [],
+   "end": "373.200",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "I will say this: in the event that such an attack occurred and in the event the attack was a prelude to an attack on Formosa - which would be the indication today because the Chinese Communists say over and over again that their objective is not the offshore islands, that they consider them only steppingstones to taking Formosa - in the event that their attack then were a prelude to an attack on Formosa, there isn't any question but that the United States would then again, as in the case of Berlin, honor our treaty obligations and stand by our ally of Formosa."
+   ]
+  },
+  {
+   "begin": "373.200",
+   "children": [],
+   "end": "384.680",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "But to indicate in advance how we would respond, to indicate the nature of this response would be incorrect; it would certainly be inappropriate; it would not be in the best interests of the United States."
+   ]
+  },
+  {
+   "begin": "384.680",
+   "children": [],
+   "end": "404.720",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "I will only say this, however, in addition: to do what Senator Kennedy has suggested - to suggest that we will surrender these islands or force our Chinese Nationalist allies to surrender them in advance - is not something that would lead to peace; it is something that would lead, in my opinion, to war."
+   ]
+  },
+  {
+   "begin": "404.720",
+   "children": [],
+   "end": "407.440",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "This is the history of dealing with dictators."
+   ]
+  },
+  {
+   "begin": "407.440",
+   "children": [],
+   "end": "411.480",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "This is something that Senator Kennedy and all Americans must know."
+   ]
+  },
+  {
+   "begin": "411.480",
+   "children": [],
+   "end": "413.800",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "We tried this with Hitler."
+   ]
+  },
+  {
+   "begin": "413.800",
+   "children": [],
+   "end": "415.040",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "It didn't work."
+   ]
+  },
+  {
+   "begin": "415.040",
+   "children": [],
+   "end": "424.840",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "He wanted first uh - we know, Austria, and then he went on to the Sudetenland and then Danzig, and each time it was thought this is all that he wanted."
+   ]
+  },
+  {
+   "begin": "424.840",
+   "children": [],
+   "end": "427.200",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Now what do the Chinese Communists want?"
+   ]
+  },
+  {
+   "begin": "427.200",
+   "children": [],
+   "end": "432.320",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "They don't want just Quemoy and Matsu; they don't want just Formosa; they want the world."
+   ]
+  },
+  {
+   "begin": "432.320",
+   "children": [],
+   "end": "443.440",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "And the question is if you surrender or indicate in advance that you're not going to defend any part of the free world, and you figure that's going to satisfy them, it doesn't satisfy them."
+   ]
+  },
+  {
+   "begin": "443.440",
+   "children": [],
+   "end": "449.440",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "It only whets their appetite; and then the question comes, when do you stop them?"
+   ]
+  },
+  {
+   "begin": "449.440",
+   "children": [],
+   "end": "468.080",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I've often heard President Eisenhower in discussing this question, make the statement that if we once start the process of indicating that this point or that point is not the place to stop those who threaten the peace and freedom of the world, where do we stop them?"
+   ]
+  },
+  {
+   "begin": "468.080",
+   "children": [],
+   "end": "479.400",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "And I say that those of us who stand against surrender of territory - this or any others - in the face of blackmail, in the s- face of force by the Communists are standing for the course that will lead to peace."
+   ]
+  },
+  {
+   "begin": "479.400",
+   "children": [],
+   "end": "482.720",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Senator Kennedy, do you wish to comment?"
+   ]
+  },
+  {
+   "begin": "482.720",
+   "children": [],
+   "end": "483.000",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "483.000",
+   "children": [],
+   "end": "491.880",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "The whole th- the United States now has a treaty - which I voted for in the United States Senate in 1955 - to defend Formosa and the Pescadores Island."
+   ]
+  },
+  {
+   "begin": "491.880",
+   "children": [],
+   "end": "498.800",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "The islands which Mr. Nixon is discussing are five or four miles, respectively, off the coast of China."
+   ]
+  },
+  {
+   "begin": "498.800",
+   "children": [],
+   "end": "515.160",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "Now when Senator Green, the chairman of the Senate Foreign Relations Committee, wrote to the President, he received back on the second of October, 1958 - \"neither you nor any other American need feel the U.S. will be involved in military hostilities merely in the defense of Quemoy and Matsu.\""
+   ]
+  },
+  {
+   "begin": "515.160",
+   "children": [],
+   "end": "517.680",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Now, that is the issue."
+   ]
+  },
+  {
+   "begin": "517.680",
+   "children": [],
+   "end": "520.760",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "I believe we must meet our commitment to uh - Formosa."
+   ]
+  },
+  {
+   "begin": "520.760",
+   "children": [],
+   "end": "522.800",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "I support it and the Pescadores Island."
+   ]
+  },
+  {
+   "begin": "522.800",
+   "children": [],
+   "end": "525.240",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "That is the present American position."
+   ]
+  },
+  {
+   "begin": "525.240",
+   "children": [],
+   "end": "528.080",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "The treaty does not include these two islands."
+   ]
+  },
+  {
+   "begin": "528.080",
+   "children": [],
+   "end": "533.840",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Mr. Nixon suggests uh - that the United States should go to war if these two islands are attacked."
+   ]
+  },
+  {
+   "begin": "533.840",
+   "children": [],
+   "end": "546.880",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "I suggest that if Formosa is attacked or the Pescadores, or if there's any military action in any area which indicates an attack on Formosa and the Pescadores, then of course the United States is at war to defend its treaty."
+   ]
+  },
+  {
+   "begin": "546.880",
+   "children": [],
+   "end": "560.600",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "Now, I must say what Mr. Nixon wants to do is commit us - as I understand him, so that we can be clear if there's a disagreement - he wants us to be committed to the defense of these islands merely as the defense of these islands as free territory, not as part of the defense of Formosa."
+   ]
+  },
+  {
+   "begin": "560.600",
+   "children": [],
+   "end": "566.200",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Admiral Yarnell, the commander of the Asiatic fleet, has said that these islands are not worth the bones of a single American."
+   ]
+  },
+  {
+   "begin": "566.200",
+   "children": [],
+   "end": "570.840",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "The President of the United States has indicated they are not within the treaty area."
+   ]
+  },
+  {
+   "begin": "570.840",
+   "children": [],
+   "end": "575.520",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "They were not within the treaty area when the treaty was passed in fifty-five."
+   ]
+  },
+  {
+   "begin": "575.520",
+   "children": [],
+   "end": "581.800",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "We have attempted to persuade Chiang Kai-shek as late as January of 1959 to reduce the number of troops he has on them."
+   ]
+  },
+  {
+   "begin": "581.800",
+   "children": [],
+   "end": "588.040",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "This is a serious issue, and I think we ought to understand completely if we disagree, and if so, where."
+   ]
+  },
+  {
+   "begin": "588.040",
+   "children": [],
+   "end": "591.440",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Mr. Cater has the next question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "591.440",
+   "children": [],
+   "end": "600.280",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Senator Kennedy, last week you said that before we should hold another summit conference, that it was important that the United States build its strength."
+   ]
+  },
+  {
+   "begin": "600.280",
+   "children": [],
+   "end": "603.640",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Modern weapons take quite a long time to build."
+   ]
+  },
+  {
+   "begin": "603.640",
+   "children": [],
+   "end": "610.080",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "What sort of prolonged period do you envisage before there can be a summit conference?"
+   ]
+  },
+  {
+   "begin": "610.080",
+   "children": [],
+   "end": "620.200",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "And do you think that there can be any new initiatives on the grounds of nuclear disarmament uh - nuclear control or weapons control d- uh - during this period?"
+   ]
+  },
+  {
+   "begin": "620.200",
+   "children": [],
+   "end": "630.680",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Well I think we should st- strengthen our conventional forces, and we should attempt in January, February, and March of next year to increase the airlift capacity of our conventional forces."
+   ]
+  },
+  {
+   "begin": "630.680",
+   "children": [],
+   "end": "636.160",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "Then I believe that we should move full time on our missile production, particularly on Minuteman and on Polaris."
+   ]
+  },
+  {
+   "begin": "636.160",
+   "children": [],
+   "end": "640.480",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "It may be a long period, but we must - we must get started immediately."
+   ]
+  },
+  {
+   "begin": "640.480",
+   "children": [],
+   "end": "664.040",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Now on the question of disarmament, particularly nuclear disarmament, I must say that I feel that another effort should be made by a new Administration in January of 1961, to renew negotiations with the Soviet Union and see whether it's possible to come to some conclusion which will lessen the chances of contamination of the atmosphere, and also lessen the chances that other powers will begin to possess a nuclear capacity."
+   ]
+  },
+  {
+   "begin": "664.040",
+   "children": [],
+   "end": "676.320",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "There are indications, because of new inventions, that ten, fifteen, or twenty nations will have a nuclear capacity - including Red China - by the end of the presidential office in 1964."
+   ]
+  },
+  {
+   "begin": "676.320",
+   "children": [],
+   "end": "678.160",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "This is extremely serious."
+   ]
+  },
+  {
+   "begin": "678.160",
+   "children": [],
+   "end": "681.720",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "There have been many wars in the history of mankind."
+   ]
+  },
+  {
+   "begin": "681.720",
+   "children": [],
+   "end": "691.080",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "And to take a chance uh - now be - and not make every effort that we could make to provide for some control over these weapons, I think would be a great mistake."
+   ]
+  },
+  {
+   "begin": "691.080",
+   "children": [],
+   "end": "701.640",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "One of my disagreements with the present Administration has been that I don't feel a real effort has been made an this very sensitive subject, not only of nuclear controls, but also of general disarmament."
+   ]
+  },
+  {
+   "begin": "701.640",
+   "children": [],
+   "end": "710.480",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Less than a hundred people have been working throughout the entire federal government on this subject, and I believe it's been reflected in our success and failures at Geneva."
+   ]
+  },
+  {
+   "begin": "710.480",
+   "children": [],
+   "end": "711.560",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Now, we may not succeed."
+   ]
+  },
+  {
+   "begin": "711.560",
+   "children": [],
+   "end": "714.840",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "The Soviet Union may not agree to an inspection system."
+   ]
+  },
+  {
+   "begin": "714.840",
+   "children": [],
+   "end": "717.480",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "We may be able to get satisfactory assurances."
+   ]
+  },
+  {
+   "begin": "717.480",
+   "children": [],
+   "end": "720.240",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "It may be necessary for us to begin testing again."
+   ]
+  },
+  {
+   "begin": "720.240",
+   "children": [],
+   "end": "739.360",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "But I hope the next Administration - and if I have anything to do with it, the next Administration will - make one last great effort to provide for control of nuclear testing, control of nuclear weapons, if possible, control of outer space, free from weapons, and also to begin again the subject of general disarmament levels."
+   ]
+  },
+  {
+   "begin": "739.360",
+   "children": [],
+   "end": "741.360",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "These must be done."
+   ]
+  },
+  {
+   "begin": "741.360",
+   "children": [],
+   "end": "743.400",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "If we cannot succeed, then we must strengthen ourselves."
+   ]
+  },
+  {
+   "begin": "743.400",
+   "children": [],
+   "end": "753.840",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "But I would make the effort because I think the fate not only of our own civilization, but I think the fate of world and the future of the human race is involved in preventing a nuclear war."
+   ]
+  },
+  {
+   "begin": "753.840",
+   "children": [],
+   "end": "756.400",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "Mr. Vice President, your comment?"
+   ]
+  },
+  {
+   "begin": "756.400",
+   "children": [],
+   "end": "757.760",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "757.760",
+   "children": [],
+   "end": "767.640",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "I am going to make a major speech on this whole subject next week before the next debate, and I will have an opportunity then to answer any other questions that may arise with regard to my position on it."
+   ]
+  },
+  {
+   "begin": "767.640",
+   "children": [],
+   "end": "787.000",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "There isn't any question but that we must move forward in every possible way to reduce the danger of war; to move toward controlled disarmament; to control tests; but also let's have in mind this: when Senator Kennedy suggests that we haven't been making an effort, he simply doesn't know what he's talking about."
+   ]
+  },
+  {
+   "begin": "787.000",
+   "children": [],
+   "end": "791.400",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "It isn't a question of the number of people who are working in an Administration."
+   ]
+  },
+  {
+   "begin": "791.400",
+   "children": [],
+   "end": "793.000",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "It's a question of who they are."
+   ]
+  },
+  {
+   "begin": "793.000",
+   "children": [],
+   "end": "798.760",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "This has been one of the highest level operations in the whole State Department right under the President himself."
+   ]
+  },
+  {
+   "begin": "798.760",
+   "children": [],
+   "end": "808.160",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "We have gone certainly the extra mile and then some in making offers to the Soviet Union on control of tests, on disarmament, and in every other way."
+   ]
+  },
+  {
+   "begin": "808.160",
+   "children": [],
+   "end": "810.400",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "And I just want to make one thing very clear."
+   ]
+  },
+  {
+   "begin": "810.400",
+   "children": [],
+   "end": "812.520",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "Yes, we should make a great effort."
+   ]
+  },
+  {
+   "begin": "812.520",
+   "children": [],
+   "end": "819.280",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "But under no circumstances must the United States ever make an agreement based on trust."
+   ]
+  },
+  {
+   "begin": "819.280",
+   "children": [],
+   "end": "822.440",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "There must be an absolute guarantee."
+   ]
+  },
+  {
+   "begin": "822.440",
+   "children": [],
+   "end": "825.080",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "Now, just a comment on Senator Kennedy's last answer."
+   ]
+  },
+  {
+   "begin": "825.080",
+   "children": [],
+   "end": "840.640",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "He forgets that in this same debate on the Formosa resolution, which he said he voted for - which he did - that he voted against an amendment, or was recorded against an amendment - and on this particular - or for an amendment, I should say - which passed the Senate overwhelmingly, seventy to twelve."
+   ]
+  },
+  {
+   "begin": "840.640",
+   "children": [],
+   "end": "859.600",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "And that amendment put the Senate of the United States on record with a majority of the Senator's own party voting for it, as well as the majority of Republicans - put them on record - against the very position that the Senator takes now of surrendering, of indicating in advance, that the United States will not defend the offshore islands."
+   ]
+  },
+  {
+   "begin": "859.600",
+   "children": [],
+   "end": "864.680",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "The next question is by Mr. Drummond for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "864.680",
+   "children": [],
+   "end": "871.000",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Mr. Nixon, I would like to ask eh - one more aspect or raise another aspect of this same question."
+   ]
+  },
+  {
+   "begin": "871.000",
+   "children": [],
+   "end": "882.040",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Uh - it is my understanding that President Eisenhower never advocated that Quemoy and Matsu should be defended under all circumstances as a matter of principle."
+   ]
+  },
+  {
+   "begin": "882.040",
+   "children": [],
+   "end": "893.520",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "I heard Secretary Dulles at a press conference in fifty-eight say that he thought that it was a mistake for Chiang Kai-shek to deploy troops to these islands."
+   ]
+  },
+  {
+   "begin": "893.520",
+   "children": [],
+   "end": "901.240",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "I would like to ask what has led you to take what appears to be a different position on this subject."
+   ]
+  },
+  {
+   "begin": "901.240",
+   "children": [],
+   "end": "922.160",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Well Mr. Drummond, first of all, referring to Secretary Dulles' press conference, I think if you read it all - and I know that you have - you will find that Secretary Dulles also indicated in that press conference that when the troops were withdrawn from Quemoy, that the implication was certainly of everything that he said, that Quemoy could better be defended."
+   ]
+  },
+  {
+   "begin": "922.160",
+   "children": [],
+   "end": "937.760",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "There were too many infantrymen there, not enough heavy artillery; and certainly I don't think there was any implication in Secretary Dulles' statement that Quemoy and Matsu should not be defended in the event that they were attacked, and that attack was a preliminary to an attack on Formosa."
+   ]
+  },
+  {
+   "begin": "937.760",
+   "children": [],
+   "end": "943.360",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Now as far as President Eisenhower is concerned, I have often heard him discuss this question."
+   ]
+  },
+  {
+   "begin": "943.360",
+   "children": [],
+   "end": "957.560",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "As I uh - related a moment ago, the President has always indicated that we must not make the mistake in dealing with the dictator of indicating that we are going to make a concession at the point of a gun."
+   ]
+  },
+  {
+   "begin": "957.560",
+   "children": [],
+   "end": "963.120",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Whenever you do that, inevitably the dictator is encouraged to try it again."
+   ]
+  },
+  {
+   "begin": "963.120",
+   "children": [],
+   "end": "967.480",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "So first it will be Quemoy and Matsu, next it may be Formosa."
+   ]
+  },
+  {
+   "begin": "967.480",
+   "children": [],
+   "end": "968.200",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "What do we do then?"
+   ]
+  },
+  {
+   "begin": "968.200",
+   "children": [],
+   "end": "986.440",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "My point is this: that once you do this - follow this course of action - of indicating that you are not going to defend a particular area, the inevitable result is that it encourages a man who is determined to conquer the world to press you to the point of no return."
+   ]
+  },
+  {
+   "begin": "986.440",
+   "children": [],
+   "end": "987.760",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "And that means war."
+   ]
+  },
+  {
+   "begin": "987.760",
+   "children": [],
+   "end": "991.360",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "We went through this tragic experience leading to World War II."
+   ]
+  },
+  {
+   "begin": "991.360",
+   "children": [],
+   "end": "996.040",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "We learned our lesson again in Korea, We must not learn it again."
+   ]
+  },
+  {
+   "begin": "996.040",
+   "children": [],
+   "end": "1005.960",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "That is why I think the Senate was right, including a majority of the Democrats, a majority of the Republicans, when they rejected Senator Kennedy's position in 1955."
+   ]
+  },
+  {
+   "begin": "1005.960",
+   "children": [],
+   "end": "1011.680",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "And incidentally, Senator Johnson was among those who rejected that position - voted with the seventy against the twelve."
+   ]
+  },
+  {
+   "begin": "1011.680",
+   "children": [],
+   "end": "1015.080",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "The Senate was right because they knew the lesson of history."
+   ]
+  },
+  {
+   "begin": "1015.080",
+   "children": [],
+   "end": "1039.880",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "And may I say, too, that I would trust that Senator Kennedy would change his position on this - change it; because as long as he as a major presidential candidate continues to suggest that we are going to turn over these islands, he is only encouraging the aggressors - the Chinese Communist and the Soviet aggressors - to press the United States, to press us to the point where war would be inevitable."
+   ]
+  },
+  {
+   "begin": "1039.880",
+   "children": [],
+   "end": "1044.960",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "The road to war is always paved with good intentions."
+   ]
+  },
+  {
+   "begin": "1044.960",
+   "children": [],
+   "end": "1048.640",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "And in this instance the good intentions, of course, are a desire for peace."
+   ]
+  },
+  {
+   "begin": "1048.640",
+   "children": [],
+   "end": "1056.800",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "But certainly we're not going to have peace by giving in and indicating in advance that we are not going to defend what has become a symbol of freedom."
+   ]
+  },
+  {
+   "begin": "1056.800",
+   "children": [],
+   "end": "1058.880",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "1058.880",
+   "children": [],
+   "end": "1065.680",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "I don't think it's possible for Mr. Nixon to state the record in distortion of the facts with more precision than he just did."
+   ]
+  },
+  {
+   "begin": "1065.680",
+   "children": [],
+   "end": "1074.960",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "In 1955, Mr. Dulles at a press conference said: \"The treaty that we have with the Republic of China excludes Quemoy and Matsu from the treaty area.\""
+   ]
+  },
+  {
+   "begin": "1074.960",
+   "children": [],
+   "end": "1077.760",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "That was done with much thought and deliberation."
+   ]
+  },
+  {
+   "begin": "1077.760",
+   "children": [],
+   "end": "1088.000",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Therefore that treaty does not commit the United States to defend anything except Formosa and the Pescadores, and to deal with acts against that treaty area."
+   ]
+  },
+  {
+   "begin": "1088.000",
+   "children": [],
+   "end": "1090.320",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "I completely sustained the treaty."
+   ]
+  },
+  {
+   "begin": "1090.320",
+   "children": [],
+   "end": "1091.480",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "I voted for it."
+   ]
+  },
+  {
+   "begin": "1091.480",
+   "children": [],
+   "end": "1096.880",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "I would take any action necessary to defend the treaty, Formosa, and the Pescadores Island."
+   ]
+  },
+  {
+   "begin": "1096.880",
+   "children": [],
+   "end": "1107.240",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "What we're now talking about is the Vice President's determination to guarantee Quemoy and Matsu, which are four and five miles off the coast of Red China, which are not within the treaty area."
+   ]
+  },
+  {
+   "begin": "1107.240",
+   "children": [],
+   "end": "1115.680",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "I do not suggest that Chiang Kai-shek - and this Administration has been attempting since 1955 to persuade Chiang Kai-shek to lessen his troop commitments."
+   ]
+  },
+  {
+   "begin": "1115.680",
+   "children": [],
+   "end": "1121.880",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Uh - He sent a mission - the President - in 1955 of Mr. uh - Robertson and Admiral Radford."
+   ]
+  },
+  {
+   "begin": "1121.880",
+   "children": [],
+   "end": "1124.880",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "General Twining said they were still doing it in 1959."
+   ]
+  },
+  {
+   "begin": "1124.880",
+   "children": [],
+   "end": "1132.920",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "General Ridgway said - who was Chief of Staff: \"To go to war for Quemoy and Matsu to me would seem an unwarranted and tragic course to take."
+   ]
+  },
+  {
+   "begin": "1132.920",
+   "children": [],
+   "end": "1135.800",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "To me that concept is completely repugnant.\""
+   ]
+  },
+  {
+   "begin": "1135.800",
+   "children": [],
+   "end": "1137.320",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "So I stand with them."
+   ]
+  },
+  {
+   "begin": "1137.320",
+   "children": [],
+   "end": "1141.280",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "I stand with the Secretary of State, Mr. Herter, who said these islands were indefensible."
+   ]
+  },
+  {
+   "begin": "1141.280",
+   "children": [],
+   "end": "1149.720",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "I believe that we should meet our commitments, and if the Chinese Communists attack the Pescadores and Formosa, they know that it will mean a war."
+   ]
+  },
+  {
+   "begin": "1149.720",
+   "children": [],
+   "end": "1153.400",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "I would not ho- hand over these islands under any point of gun."
+   ]
+  },
+  {
+   "begin": "1153.400",
+   "children": [],
+   "end": "1157.680",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "But I merely say that the treaty is quite precise and I sustain the treaty."
+   ]
+  },
+  {
+   "begin": "1157.680",
+   "children": [],
+   "end": "1168.680",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Mr. Nixon would add a guarantee to islands five miles off the coast of the re- Republic of China when he's never really protested the Communists seizing Cuba, ninety miles off the coast of the United States."
+   ]
+  },
+  {
+   "begin": "1168.680",
+   "children": [],
+   "end": "1170.160",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "Mr."
+   ]
+  },
+  {
+   "begin": "1170.160",
+   "children": [],
+   "end": "1172.720",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Von Fremd has a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "1172.720",
+   "children": [],
+   "end": "1178.280",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Senator Kennedy, I'd like to uh - shift the conversation, if I may, to a domestic uh - political argument."
+   ]
+  },
+  {
+   "begin": "1178.280",
+   "children": [],
+   "end": "1196.280",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "The chairman of the Republican National Committee, Senator Thruston Morton, declared earlier this week that you owed Vice President Nixon and the Republican party a public apology for some strong charges made by former President Harry Truman, who bluntly suggested where the Vice President and the Republican party could go."
+   ]
+  },
+  {
+   "begin": "1196.280",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Do you feel that you owe the Vice President an apology?"
+   ]
+  }
+ ]
+}

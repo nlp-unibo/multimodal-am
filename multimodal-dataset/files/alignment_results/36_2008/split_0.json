@@ -1,0 +1,2634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "0.600",
+   "children": [],
+   "end": "4.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "And welcome to the third and last presidential debate of 2008, sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "4.280",
+   "children": [],
+   "end": "4.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "I'm Bob Schieffer of CBS News."
+   ]
+  },
+  {
+   "begin": "4.640",
+   "children": [],
+   "end": "4.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "The rules tonight are simple."
+   ]
+  },
+  {
+   "begin": "4.800",
+   "children": [],
+   "end": "5.040",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "The subject is domestic policy."
+   ]
+  },
+  {
+   "begin": "5.040",
+   "children": [],
+   "end": "6.200",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "I will divide the next hour-and-a-half into nine-minute segments."
+   ]
+  },
+  {
+   "begin": "6.200",
+   "children": [],
+   "end": "7.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "I will ask a question at the beginning of each segment."
+   ]
+  },
+  {
+   "begin": "7.040",
+   "children": [],
+   "end": "7.200",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Each candidate will then have two minutes to respond, and then we'll have a discussion."
+   ]
+  },
+  {
+   "begin": "7.200",
+   "children": [],
+   "end": "8.080",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "I'll encourage them to ask follow-up questions of each other."
+   ]
+  },
+  {
+   "begin": "8.080",
+   "children": [],
+   "end": "8.400",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "If they do not, I will."
+   ]
+  },
+  {
+   "begin": "8.400",
+   "children": [],
+   "end": "9.720",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "The audience behind me has promised to be quiet, except at this moment, when we welcome Barack Obama and John McCain."
+   ]
+  },
+  {
+   "begin": "9.720",
+   "children": [],
+   "end": "10.760",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, welcome."
+   ]
+  },
+  {
+   "begin": "10.760",
+   "children": [],
+   "end": "13.480",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "By now, we've heard all the talking points, so let's try to tell the people tonight some things that they -- they haven't heard."
+   ]
+  },
+  {
+   "begin": "13.480",
+   "children": [],
+   "end": "13.800",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Let's get to it."
+   ]
+  },
+  {
+   "begin": "13.800",
+   "children": [],
+   "end": "15.160",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Another very bad day on Wall Street, as both of you know."
+   ]
+  },
+  {
+   "begin": "15.160",
+   "children": [],
+   "end": "17.440",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Both of you proposed new plans this week to address the economic crisis."
+   ]
+  },
+  {
+   "begin": "17.440",
+   "children": [],
+   "end": "21.800",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "Senator McCain, you proposed a $52 billion plan that includes new tax cuts on capital gains, tax breaks for seniors, write-offs for stock losses, among other things."
+   ]
+  },
+  {
+   "begin": "21.800",
+   "children": [],
+   "end": "28.480",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Senator Obama, you proposed $60 billion in tax cuts for middle- income and lower-income people, more tax breaks to create jobs, new spending for public works projects to create jobs."
+   ]
+  },
+  {
+   "begin": "28.480",
+   "children": [],
+   "end": "29.480",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "I will ask both of you: Why is your plan better than his?"
+   ]
+  },
+  {
+   "begin": "29.480",
+   "children": [],
+   "end": "29.880",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Senator McCain, you go first."
+   ]
+  },
+  {
+   "begin": "29.880",
+   "children": [],
+   "end": "30.040",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "30.040",
+   "children": [],
+   "end": "32.000",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "And welcome to the third and last presidential debate of 2008, sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "32.000",
+   "children": [],
+   "end": "32.360",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "I'm Bob Schieffer of CBS News."
+   ]
+  },
+  {
+   "begin": "32.360",
+   "children": [],
+   "end": "33.160",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "The rules tonight are simple."
+   ]
+  },
+  {
+   "begin": "33.160",
+   "children": [],
+   "end": "34.320",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "The subject is domestic policy."
+   ]
+  },
+  {
+   "begin": "34.320",
+   "children": [],
+   "end": "35.600",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "I will divide the next hour-and-a-half into nine-minute segments."
+   ]
+  },
+  {
+   "begin": "35.600",
+   "children": [],
+   "end": "36.840",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "I will ask a question at the beginning of each segment."
+   ]
+  },
+  {
+   "begin": "36.840",
+   "children": [],
+   "end": "39.000",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Each candidate will then have two minutes to respond, and then we'll have a discussion."
+   ]
+  },
+  {
+   "begin": "39.000",
+   "children": [],
+   "end": "41.480",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "I'll encourage them to ask follow-up questions of each other."
+   ]
+  },
+  {
+   "begin": "41.480",
+   "children": [],
+   "end": "42.080",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "If they do not, I will."
+   ]
+  },
+  {
+   "begin": "42.080",
+   "children": [],
+   "end": "65.000",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "The audience behind me has promised to be quiet, except at this moment, when we welcome Barack Obama and John McCain."
+   ]
+  },
+  {
+   "begin": "65.000",
+   "children": [],
+   "end": "65.840",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, welcome."
+   ]
+  },
+  {
+   "begin": "65.840",
+   "children": [],
+   "end": "72.040",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "By now, we've heard all the talking points, so let's try to tell the people tonight some things that they -- they haven't heard."
+   ]
+  },
+  {
+   "begin": "72.040",
+   "children": [],
+   "end": "73.840",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "Let's get to it."
+   ]
+  },
+  {
+   "begin": "73.840",
+   "children": [],
+   "end": "78.080",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Another very bad day on Wall Street, as both of you know."
+   ]
+  },
+  {
+   "begin": "78.080",
+   "children": [],
+   "end": "82.160",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Both of you proposed new plans this week to address the economic crisis."
+   ]
+  },
+  {
+   "begin": "82.160",
+   "children": [],
+   "end": "93.280",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "Senator McCain, you proposed a $52 billion plan that includes new tax cuts on capital gains, tax breaks for seniors, write-offs for stock losses, among other things."
+   ]
+  },
+  {
+   "begin": "93.280",
+   "children": [],
+   "end": "107.000",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "Senator Obama, you proposed $60 billion in tax cuts for middle- income and lower-income people, more tax breaks to create jobs, new spending for public works projects to create jobs."
+   ]
+  },
+  {
+   "begin": "107.000",
+   "children": [],
+   "end": "111.560",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "I will ask both of you: Why is your plan better than his?"
+   ]
+  },
+  {
+   "begin": "111.560",
+   "children": [],
+   "end": "113.920",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Senator McCain, you go first."
+   ]
+  },
+  {
+   "begin": "113.920",
+   "children": [],
+   "end": "115.760",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Well, let -- let me say, Bob, thank you."
+   ]
+  },
+  {
+   "begin": "115.760",
+   "children": [],
+   "end": "116.880",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "And thanks to Hofstra."
+   ]
+  },
+  {
+   "begin": "116.880",
+   "children": [],
+   "end": "123.560",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "And, by the way, our beloved Nancy Reagan is in the hospital tonight, so our thoughts and prayers are going with you."
+   ]
+  },
+  {
+   "begin": "123.560",
+   "children": [],
+   "end": "126.440",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "It's good to see you again, Senator Obama."
+   ]
+  },
+  {
+   "begin": "126.440",
+   "children": [],
+   "end": "130.040",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "Americans are hurting right now, and they're angry."
+   ]
+  },
+  {
+   "begin": "130.040",
+   "children": [],
+   "end": "132.320",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "They're hurting, and they're angry."
+   ]
+  },
+  {
+   "begin": "132.320",
+   "children": [],
+   "end": "145.200",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "They're innocent victims of greed and excess on Wall Street and as well as Washington, D.C. And they're angry, and they have every reason to be angry."
+   ]
+  },
+  {
+   "begin": "145.200",
+   "children": [],
+   "end": "148.160",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "And they want this country to go in a new direction."
+   ]
+  },
+  {
+   "begin": "148.160",
+   "children": [],
+   "end": "153.440",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "And there are elements of my proposal that you just outlined which I won't repeat."
+   ]
+  },
+  {
+   "begin": "153.440",
+   "children": [],
+   "end": "158.360",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "But we also have to have a short-term fix, in my view, and long- term fixes."
+   ]
+  },
+  {
+   "begin": "158.360",
+   "children": [],
+   "end": "162.160",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "Let me just talk to you about one of the short-term fixes."
+   ]
+  },
+  {
+   "begin": "162.160",
+   "children": [],
+   "end": "176.680",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "The catalyst for this housing crisis was the Fannie and Freddie Mae that caused subprime lending situation that now caused the housing market in America to collapse."
+   ]
+  },
+  {
+   "begin": "176.680",
+   "children": [],
+   "end": "192.120",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "I am convinced that, until we reverse this continued decline in home ownership and put a floor under it, and so that people have not only the hope and belief they can stay in their homes and realize the American dream, but that value will come up."
+   ]
+  },
+  {
+   "begin": "192.120",
+   "children": [],
+   "end": "196.520",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "Now, we have allocated $750 billion."
+   ]
+  },
+  {
+   "begin": "196.520",
+   "children": [],
+   "end": "211.160",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "Let's take 300 of that billion and go in and buy those home loan mortgages and negotiate with those people in their homes, 11 million homes or more, so that they can afford to pay the mortgage, stay in their home."
+   ]
+  },
+  {
+   "begin": "211.160",
+   "children": [],
+   "end": "213.480",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Now, I know the criticism of this."
+   ]
+  },
+  {
+   "begin": "213.480",
+   "children": [],
+   "end": "216.560",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Well, what about the citizen that stayed in their homes?"
+   ]
+  },
+  {
+   "begin": "216.560",
+   "children": [],
+   "end": "219.920",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "That paid their mortgage payments?"
+   ]
+  },
+  {
+   "begin": "219.920",
+   "children": [],
+   "end": "225.600",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "It doesn't help that person in their home if the next door neighbor's house is abandoned."
+   ]
+  },
+  {
+   "begin": "225.600",
+   "children": [],
+   "end": "228.040",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And so we've got to reverse this."
+   ]
+  },
+  {
+   "begin": "228.040",
+   "children": [],
+   "end": "229.800",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "We ought to put the homeowners first."
+   ]
+  },
+  {
+   "begin": "229.800",
+   "children": [],
+   "end": "236.440",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "And I am disappointed that Secretary Paulson and others have not made that their first priority."
+   ]
+  },
+  {
+   "begin": "236.440",
+   "children": [],
+   "end": "237.080",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "237.080",
+   "children": [],
+   "end": "238.320",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Senator Obama?"
+   ]
+  },
+  {
+   "begin": "238.320",
+   "children": [],
+   "end": "247.720",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Well, first of all, I want to thank Hofstra University and the people of New York for hosting us tonight and it's wonderful to join Senator McCain again, and thank you, Bob."
+   ]
+  },
+  {
+   "begin": "247.720",
+   "children": [],
+   "end": "255.760",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "I think everybody understands at this point that we are experiencing the worst financial crisis since the Great Depression."
+   ]
+  },
+  {
+   "begin": "255.760",
+   "children": [],
+   "end": "263.040",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "And the financial rescue plan that Senator McCain and I supported is an important first step."
+   ]
+  },
+  {
+   "begin": "263.040",
+   "children": [],
+   "end": "269.720",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "And I pushed for some core principles: making sure that taxpayer can get their money back if they're putting money up."
+   ]
+  },
+  {
+   "begin": "269.720",
+   "children": [],
+   "end": "273.640",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "Making sure that CEOs are not enriching themselves through this process."
+   ]
+  },
+  {
+   "begin": "273.640",
+   "children": [],
+   "end": "277.480",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "And I think that it's going to take some time to work itself out."
+   ]
+  },
+  {
+   "begin": "277.480",
+   "children": [],
+   "end": "282.200",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "But what we haven't yet seen is a rescue package for the middle class."
+   ]
+  },
+  {
+   "begin": "282.200",
+   "children": [],
+   "end": "287.320",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Because the fundamentals of the economy were weak even before this latest crisis."
+   ]
+  },
+  {
+   "begin": "287.320",
+   "children": [],
+   "end": "290.680",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "So I've proposed four specific things that I think can help."
+   ]
+  },
+  {
+   "begin": "290.680",
+   "children": [],
+   "end": "292.920",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "Number one, let's focus on jobs."
+   ]
+  },
+  {
+   "begin": "292.920",
+   "children": [],
+   "end": "301.320",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "I want to end the tax breaks for companies that are shipping jobs overseas and provide a tax credit for every company that's creating a job right here in America."
+   ]
+  },
+  {
+   "begin": "301.320",
+   "children": [],
+   "end": "316.920",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Number two, let's help families right away by providing them a tax cut -- a middle-class tax cut for people making less than $200,000, and let's allow them to access their IRA accounts without penalty if they're experiencing a crisis."
+   ]
+  },
+  {
+   "begin": "316.920",
+   "children": [],
+   "end": "321.480",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Now Senator McCain and I agree with your idea that we've got to help homeowners."
+   ]
+  },
+  {
+   "begin": "321.480",
+   "children": [],
+   "end": "329.480",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "That's why we included in the financial package a proposal to get homeowners in a position where they can renegotiate their mortgages."
+   ]
+  },
+  {
+   "begin": "329.480",
+   "children": [],
+   "end": "340.320",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "I disagree with Senator McCain in how to do it, because the way Senator McCain has designed his plan, it could be a giveaway to banks if we're buying full price for mortgages that now are worth a lot less."
+   ]
+  },
+  {
+   "begin": "340.320",
+   "children": [],
+   "end": "342.240",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "And we don't want to waste taxpayer money."
+   ]
+  },
+  {
+   "begin": "342.240",
+   "children": [],
+   "end": "347.680",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "And we've got to get the financial package working much quicker than it has been working."
+   ]
+  },
+  {
+   "begin": "347.680",
+   "children": [],
+   "end": "349.240",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Last point I want to make, though."
+   ]
+  },
+  {
+   "begin": "349.240",
+   "children": [],
+   "end": "353.240",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "We've got some long-term challenges in this economy that have to be dealt with."
+   ]
+  },
+  {
+   "begin": "353.240",
+   "children": [],
+   "end": "356.040",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "We've got to fix our energy policy that's giving our wealth away."
+   ]
+  },
+  {
+   "begin": "356.040",
+   "children": [],
+   "end": "362.240",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "We've got to fix our health care system and we've got to invest in our education system for every young person to be able to learn."
+   ]
+  },
+  {
+   "begin": "362.240",
+   "children": [],
+   "end": "362.640",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "362.640",
+   "children": [],
+   "end": "364.400",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Would you like to ask him a question?"
+   ]
+  },
+  {
+   "begin": "364.400",
+   "children": [],
+   "end": "365.320",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "No."
+   ]
+  },
+  {
+   "begin": "365.320",
+   "children": [],
+   "end": "377.400",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "I would like to mention that a couple days ago Senator Obama was out in Ohio and he had an encounter with a guy who's a plumber, his name is Joe Wurzelbacher."
+   ]
+  },
+  {
+   "begin": "377.400",
+   "children": [],
+   "end": "383.960",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Joe wants to buy the business that he has been in for all of these years, worked 10, 12 hours a day."
+   ]
+  },
+  {
+   "begin": "383.960",
+   "children": [],
+   "end": "391.600",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "And he wanted to buy the business but he looked at your tax plan and he saw that he was going to pay much higher taxes."
+   ]
+  },
+  {
+   "begin": "391.600",
+   "children": [],
+   "end": "404.760",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "You were going to put him in a higher tax bracket which was going to increase his taxes, which was going to cause him not to be able to employ people, which Joe was trying to realize the American dream."
+   ]
+  },
+  {
+   "begin": "404.760",
+   "children": [],
+   "end": "408.040",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Now Senator Obama talks about the very, very rich."
+   ]
+  },
+  {
+   "begin": "408.040",
+   "children": [],
+   "end": "421.760",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "Joe, I want to tell you, I'll not only help you buy that business that you worked your whole life for and be able -- and I'll keep your taxes low and I'll provide available and affordable health care for you and your employees."
+   ]
+  },
+  {
+   "begin": "421.760",
+   "children": [],
+   "end": "428.600",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "And I will not have -- I will not stand for a tax increase on small business income."
+   ]
+  },
+  {
+   "begin": "428.600",
+   "children": [],
+   "end": "435.880",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "Fifty percent of small business income taxes are paid by small businesses."
+   ]
+  },
+  {
+   "begin": "435.880",
+   "children": [],
+   "end": "438.640",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "That's 16 million jobs in America."
+   ]
+  },
+  {
+   "begin": "438.640",
+   "children": [],
+   "end": "449.360",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "And what you want to do to Joe the plumber and millions more like him is have their taxes increased and not be able to realize the American dream of owning their own business."
+   ]
+  },
+  {
+   "begin": "449.360",
+   "children": [],
+   "end": "451.080",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Is that what you want to do?"
+   ]
+  },
+  {
+   "begin": "451.080",
+   "children": [],
+   "end": "452.160",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "That's what Joe believes."
+   ]
+  },
+  {
+   "begin": "452.160",
+   "children": [],
+   "end": "453.960",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "He has been watching ads of Senator McCain's."
+   ]
+  },
+  {
+   "begin": "453.960",
+   "children": [],
+   "end": "456.640",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "Let me tell you what I'm actually going to do."
+   ]
+  },
+  {
+   "begin": "456.640",
+   "children": [],
+   "end": "461.760",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "I think tax policy is a major difference between Senator McCain and myself."
+   ]
+  },
+  {
+   "begin": "461.760",
+   "children": [],
+   "end": "467.920",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "And we both want to cut taxes, the difference is who we want to cut taxes for."
+   ]
+  },
+  {
+   "begin": "467.920",
+   "children": [],
+   "end": "478.560",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Now, Senator McCain, the centerpiece of his economic proposal is to provide $200 billion in additional tax breaks to some of the wealthiest corporations in America."
+   ]
+  },
+  {
+   "begin": "478.560",
+   "children": [],
+   "end": "484.280",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Exxon Mobil, and other oil companies, for example, would get an additional $4 billion in tax breaks."
+   ]
+  },
+  {
+   "begin": "484.280",
+   "children": [],
+   "end": "492.440",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "What I've said is I want to provide a tax cut for 95 percent of working Americans, 95 percent."
+   ]
+  },
+  {
+   "begin": "492.440",
+   "children": [],
+   "end": "501.320",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "If you make more -- if you make less than a quarter million dollars a year, then you will not see your income tax go up, your capital gains tax go up, your payroll tax."
+   ]
+  },
+  {
+   "begin": "501.320",
+   "children": [],
+   "end": "502.720",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Not one dime."
+   ]
+  },
+  {
+   "begin": "502.720",
+   "children": [],
+   "end": "507.480",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "And 95 percent of working families, 95 percent of you out there, will get a tax cut."
+   ]
+  },
+  {
+   "begin": "507.480",
+   "children": [],
+   "end": "518.760",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "In fact, independent studies have looked at our respective plans and have concluded that I provide three times the amount of tax relief to middle-class families than Senator McCain does."
+   ]
+  },
+  {
+   "begin": "518.760",
+   "children": [],
+   "end": "528.480",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Now, the conversation I had with Joe the plumber, what I essentially said to him was, \"Five years ago, when you were in a position to buy your business, you needed a tax cut then.\""
+   ]
+  },
+  {
+   "begin": "528.480",
+   "children": [],
+   "end": "539.200",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "And what I want to do is to make sure that the plumber, the nurse, the firefighter, the teacher, the young entrepreneur who doesn't yet have money, I want to give them a tax break now."
+   ]
+  },
+  {
+   "begin": "539.200",
+   "children": [],
+   "end": "542.120",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "And that requires us to make some important choices."
+   ]
+  },
+  {
+   "begin": "542.120",
+   "children": [],
+   "end": "543.840",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "The last point I'll make about small businesses."
+   ]
+  },
+  {
+   "begin": "543.840",
+   "children": [],
+   "end": "554.840",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Not only do 98 percent of small businesses make less than $250,000, but I also want to give them additional tax breaks, because they are the drivers of the economy."
+   ]
+  },
+  {
+   "begin": "554.840",
+   "children": [],
+   "end": "556.280",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "They produce the most jobs."
+   ]
+  },
+  {
+   "begin": "556.280",
+   "children": [],
+   "end": "563.400",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "You know, when Senator Obama ended up his conversation with Joe the plumber -- we need to spread the wealth around."
+   ]
+  },
+  {
+   "begin": "563.400",
+   "children": [],
+   "end": "570.960",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "In other words, we're going to take Joe's money, give it to Senator Obama, and let him spread the wealth around."
+   ]
+  },
+  {
+   "begin": "570.960",
+   "children": [],
+   "end": "573.840",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "I want Joe the plumber to spread that wealth around."
+   ]
+  },
+  {
+   "begin": "573.840",
+   "children": [],
+   "end": "576.840",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "You told him you wanted to spread the wealth around."
+   ]
+  },
+  {
+   "begin": "576.840",
+   "children": [],
+   "end": "585.360",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "The whole premise behind Senator Obama's plans are class warfare, let's spread the wealth around."
+   ]
+  },
+  {
+   "begin": "585.360",
+   "children": [],
+   "end": "593.640",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "I want small businesses -- and by the way, the small businesses that we're talking about would receive an increase in their taxes right now."
+   ]
+  },
+  {
+   "begin": "593.640",
+   "children": [],
+   "end": "597.080",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Who -- why would you want to increase anybody's taxes right now?"
+   ]
+  },
+  {
+   "begin": "597.080",
+   "children": [],
+   "end": "610.240",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Why would you want to do that, anyone, anyone in America, when we have such a tough time, when these small business people, like Joe the plumber, are going to create jobs, unless you take that money from him and spread the wealth around."
+   ]
+  },
+  {
+   "begin": "610.240",
+   "children": [],
+   "end": "611.520",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "I'm not going to..."
+   ]
+  },
+  {
+   "begin": "611.520",
+   "children": [],
+   "end": "612.440",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "OK. Can I..."
+   ]
+  },
+  {
+   "begin": "612.440",
+   "children": [],
+   "end": "614.000",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "We're not going to do that in my administration."
+   ]
+  },
+  {
+   "begin": "614.000",
+   "children": [],
+   "end": "614.960",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "If I can answer the question."
+   ]
+  },
+  {
+   "begin": "614.960",
+   "children": [],
+   "end": "620.920",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Number one, I want to cut taxes for 95 percent of Americans."
+   ]
+  },
+  {
+   "begin": "620.920",
+   "children": [],
+   "end": "629.680",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Now, it is true that my friend and supporter, Warren Buffett, for example, could afford to pay a little more in taxes in order..."
+   ]
+  },
+  {
+   "begin": "629.680",
+   "children": [],
+   "end": "632.560",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "We're talking about Joe the plumber."
+   ]
+  },
+  {
+   "begin": "632.560",
+   "children": [],
+   "end": "641.000",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "... in order to give -- in order to give additional tax cuts to Joe the plumber before he was at the point where he could make $250,000."
+   ]
+  },
+  {
+   "begin": "641.000",
+   "children": [],
+   "end": "660.920",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Then Exxon Mobil, which made $12 billion, record profits, over the last several quarters, they can afford to pay a little more so that ordinary families who are hurting out there -- they're trying to figure out how they're going to afford food, how they're going to save for their kids' college education, they need a break."
+   ]
+  },
+  {
+   "begin": "660.920",
+   "children": [],
+   "end": "664.000",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "So, look, nobody likes taxes."
+   ]
+  },
+  {
+   "begin": "664.000",
+   "children": [],
+   "end": "667.800",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "I would prefer that none of us had to pay taxes, including myself."
+   ]
+  },
+  {
+   "begin": "667.800",
+   "children": [],
+   "end": "673.840",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "But ultimately, we've got to pay for the core investments that make this economy strong and somebody's got to do it."
+   ]
+  },
+  {
+   "begin": "673.840",
+   "children": [],
+   "end": "675.160",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Nobody likes taxes."
+   ]
+  },
+  {
+   "begin": "675.160",
+   "children": [],
+   "end": "677.080",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "Let's not raise anybody's taxes."
+   ]
+  },
+  {
+   "begin": "677.080",
+   "children": [],
+   "end": "677.720",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "OK?"
+   ]
+  },
+  {
+   "begin": "677.720",
+   "children": [],
+   "end": "679.840",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "Well, I don't mind paying a little more."
+   ]
+  },
+  {
+   "begin": "679.840",
+   "children": [],
+   "end": "685.240",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "The fact is that businesses in America today are paying the second highest tax rate of anywhere in the world."
+   ]
+  },
+  {
+   "begin": "685.240",
+   "children": [],
+   "end": "688.680",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Our tax rate for business in America is 35 percent."
+   ]
+  },
+  {
+   "begin": "688.680",
+   "children": [],
+   "end": "690.760",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "Ireland, it's 11 percent."
+   ]
+  },
+  {
+   "begin": "690.760",
+   "children": [],
+   "end": "698.120",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Where are companies going to go where they can create jobs and where they can do best in business?"
+   ]
+  },
+  {
+   "begin": "698.120",
+   "children": [],
+   "end": "700.560",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "We need to cut the business tax rate in America."
+   ]
+  },
+  {
+   "begin": "700.560",
+   "children": [],
+   "end": "702.400",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "We need to encourage business."
+   ]
+  },
+  {
+   "begin": "702.400",
+   "children": [],
+   "end": "706.800",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Now, of all times in America, we need to cut people's taxes."
+   ]
+  },
+  {
+   "begin": "706.800",
+   "children": [],
+   "end": "711.200",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "We need to encourage business, create jobs, not spread the wealth around."
+   ]
+  },
+  {
+   "begin": "711.200",
+   "children": [],
+   "end": "711.960",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "711.960",
+   "children": [],
+   "end": "713.320",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "Let's go to another topic."
+   ]
+  },
+  {
+   "begin": "713.320",
+   "children": [],
+   "end": "714.080",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "It's related."
+   ]
+  },
+  {
+   "begin": "714.080",
+   "children": [],
+   "end": "717.200",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "So if you have other things you want to say, you can get back to that."
+   ]
+  },
+  {
+   "begin": "717.200",
+   "children": [],
+   "end": "719.800",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "This question goes to you first, Senator Obama."
+   ]
+  },
+  {
+   "begin": "719.800",
+   "children": [],
+   "end": "727.560",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "We found out yesterday that this year's deficit will reach an astounding record high $455 billion."
+   ]
+  },
+  {
+   "begin": "727.560",
+   "children": [],
+   "end": "731.880",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Some experts say it could go to $1 trillion next year."
+   ]
+  },
+  {
+   "begin": "731.880",
+   "children": [],
+   "end": "752.600",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Both of you have said you want to reduce the deficit, but the nonpartisan Committee for a Responsible Federal Budget ran the numbers on both of your proposals and they say the cost of your proposals, even with the savings you claim can be made, each will add more than $200 billion to the deficit."
+   ]
+  },
+  {
+   "begin": "752.600",
+   "children": [],
+   "end": "755.920",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "Aren't you both ignoring reality?"
+   ]
+  },
+  {
+   "begin": "755.920",
+   "children": [],
+   "end": "763.280",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "Won't some of the programs you are proposing have to be trimmed, postponed, even eliminated?"
+   ]
+  },
+  {
+   "begin": "763.280",
+   "children": [],
+   "end": "766.720",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "Give us some specifics on what you're going to cut back."
+   ]
+  },
+  {
+   "begin": "766.720",
+   "children": [],
+   "end": "767.560",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Senator Obama?"
+   ]
+  },
+  {
+   "begin": "767.560",
+   "children": [],
+   "end": "783.080",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Well, first of all, I think it's important for the American public to understand that the $750 billion rescue package, if it's structured properly, and, as president, I will make sure it's structured properly, means that ultimately taxpayers get their money back, and that's important to understand."
+   ]
+  },
+  {
+   "begin": "783.080",
+   "children": [],
+   "end": "790.400",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "But there is no doubt that we've been living beyond our means and we're going to have to make some adjustments."
+   ]
+  },
+  {
+   "begin": "790.400",
+   "children": [],
+   "end": "796.600",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Now, what I've done throughout this campaign is to propose a net spending cut."
+   ]
+  },
+  {
+   "begin": "796.600",
+   "children": [],
+   "end": "797.840",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "I haven't made a promise about..."
+   ]
+  },
+  {
+   "begin": "797.840",
+   "children": [],
+   "end": "800.640",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "But you're going to have to cut some of these programs, certainly."
+   ]
+  },
+  {
+   "begin": "800.640",
+   "children": [],
+   "end": "801.280",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Absolutely."
+   ]
+  },
+  {
+   "begin": "801.280",
+   "children": [],
+   "end": "802.680",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "So let me get to that."
+   ]
+  },
+  {
+   "begin": "802.680",
+   "children": [],
+   "end": "807.440",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "What I want to emphasize, though, is that I have been a strong proponent of pay-as- you-go."
+   ]
+  },
+  {
+   "begin": "807.440",
+   "children": [],
+   "end": "813.200",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Every dollar that I've proposed, I've proposed an additional cut so that it matches."
+   ]
+  },
+  {
+   "begin": "813.200",
+   "children": [],
+   "end": "820.760",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "And some of the cuts, just to give you an example, we spend $15 billion a year on subsidies to insurance companies."
+   ]
+  },
+  {
+   "begin": "820.760",
+   "children": [],
+   "end": "825.240",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "It doesn't -- under the Medicare plan -- it doesn't help seniors get any better."
+   ]
+  },
+  {
+   "begin": "825.240",
+   "children": [],
+   "end": "827.440",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "It's not improving our health care system."
+   ]
+  },
+  {
+   "begin": "827.440",
+   "children": [],
+   "end": "828.200",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "It's just a giveaway."
+   ]
+  },
+  {
+   "begin": "828.200",
+   "children": [],
+   "end": "831.920",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "We need to eliminate a whole host of programs that don't work."
+   ]
+  },
+  {
+   "begin": "831.920",
+   "children": [],
+   "end": "837.480",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "And I want to go through the federal budget line by line, page by page, programs that don't work, we should cut."
+   ]
+  },
+  {
+   "begin": "837.480",
+   "children": [],
+   "end": "841.120",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Programs that we need, we should make them work better."
+   ]
+  },
+  {
+   "begin": "841.120",
+   "children": [],
+   "end": "850.800",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Now, what is true is that Senator McCain and I have a difference in terms of the need to invest in America and the American people."
+   ]
+  },
+  {
+   "begin": "850.800",
+   "children": [],
+   "end": "852.600",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "I mentioned health care earlier."
+   ]
+  },
+  {
+   "begin": "852.600",
+   "children": [],
+   "end": "861.080",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "If we make investments now so that people have coverage, that we are preventing diseases, that will save on Medicare and Medicaid in the future."
+   ]
+  },
+  {
+   "begin": "861.080",
+   "children": [],
+   "end": "868.160",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "If we invest in a serious energy policy, that will save in the amount of money we're borrowing from China to send to Saudi Arabia."
+   ]
+  },
+  {
+   "begin": "868.160",
+   "children": [],
+   "end": "876.720",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "If we invest now in our young people and their ability to go to college, that will allow them to drive this economy into the 21st century."
+   ]
+  },
+  {
+   "begin": "876.720",
+   "children": [],
+   "end": "889.480",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "But what is absolutely true is that, once we get through this economic crisis and some of the specific proposals to get us out of this slump, that we're not going to be able to go back to our profligate ways."
+   ]
+  },
+  {
+   "begin": "889.480",
+   "children": [],
+   "end": "897.640",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "And we're going to have to embrace a culture and an ethic of responsibility, all of us, corporations, the federal government, and individuals out there who may be living beyond their means."
+   ]
+  },
+  {
+   "begin": "897.640",
+   "children": [],
+   "end": "898.520",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "Time's up."
+   ]
+  },
+  {
+   "begin": "898.520",
+   "children": [],
+   "end": "899.480",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "Senator?"
+   ]
+  },
+  {
+   "begin": "899.480",
+   "children": [],
+   "end": "900.480",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "Well, thank you, Bob."
+   ]
+  },
+  {
+   "begin": "900.480",
+   "children": [],
+   "end": "902.880",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "I just want to get back to this home ownership."
+   ]
+  },
+  {
+   "begin": "902.880",
+   "children": [],
+   "end": "908.920",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "During the Depression era, we had a thing called the home ownership loan corporation."
+   ]
+  },
+  {
+   "begin": "908.920",
+   "children": [],
+   "end": "911.760",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "And they went out and bought up these mortgages."
+   ]
+  },
+  {
+   "begin": "911.760",
+   "children": [],
+   "end": "916.040",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "And people were able to stay in their homes, and eventually the values of those homes went up, and they actually made money."
+   ]
+  },
+  {
+   "begin": "916.040",
+   "children": [],
+   "end": "921.000",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "And, by the way, this was a proposal made by Senator Clinton not too long ago."
+   ]
+  },
+  {
+   "begin": "921.000",
+   "children": [],
+   "end": "928.120",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "So, obviously, if we can start increasing home values, then there will be creation of wealth."
+   ]
+  },
+  {
+   "begin": "928.120",
+   "children": [],
+   "end": "928.520",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "But what..."
+   ]
+  },
+  {
+   "begin": "928.520",
+   "children": [],
+   "end": "929.120",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "But -- OK. All right."
+   ]
+  },
+  {
+   "begin": "929.120",
+   "children": [],
+   "end": "931.200",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "The question was, what are you going to cut?"
+   ]
+  },
+  {
+   "begin": "931.200",
+   "children": [],
+   "end": "933.960",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "Energy -- well, first -- second of all, energy independence."
+   ]
+  },
+  {
+   "begin": "933.960",
+   "children": [],
+   "end": "935.480",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "We have to have nuclear power."
+   ]
+  },
+  {
+   "begin": "935.480",
+   "children": [],
+   "end": "939.680",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "We have to stop sending $700 billion a year to countries that don't like us very much."
+   ]
+  },
+  {
+   "begin": "939.680",
+   "children": [],
+   "end": "945.720",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "It's wind, tide, solar, natural gas, nuclear, off-shore drilling, which Senator Obama has opposed."
+   ]
+  },
+  {
+   "begin": "945.720",
+   "children": [],
+   "end": "953.600",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "And the point is that we become energy independent and we will create millions of jobs -- millions of jobs in America."
+   ]
+  },
+  {
+   "begin": "953.600",
+   "children": [],
+   "end": "955.320",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "OK, what -- what would I cut?"
+   ]
+  },
+  {
+   "begin": "955.320",
+   "children": [],
+   "end": "958.720",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "I would have, first of all, across-the-board spending freeze, OK?"
+   ]
+  },
+  {
+   "begin": "958.720",
+   "children": [],
+   "end": "960.560",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Some people say that's a hatchet."
+   ]
+  },
+  {
+   "begin": "960.560",
+   "children": [],
+   "end": "963.680",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "That's a hatchet, and then I would get out a scalpel, OK?"
+   ]
+  },
+  {
+   "begin": "963.680",
+   "children": [],
+   "end": "968.880",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "Because we've got -- we have presided over the largest increase -- we've got to have a new direction for this country."
+   ]
+  },
+  {
+   "begin": "968.880",
+   "children": [],
+   "end": "973.080",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "We have presided over the largest increase in government since the Great Society."
+   ]
+  },
+  {
+   "begin": "973.080",
+   "children": [],
+   "end": "982.320",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "Government spending has gone completely out of control; $10 trillion dollar debt we're giving to our kids, a half-a-trillion dollars we owe China."
+   ]
+  },
+  {
+   "begin": "982.320",
+   "children": [],
+   "end": "985.640",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "I know how to save billions of dollars in defense spending."
+   ]
+  },
+  {
+   "begin": "985.640",
+   "children": [],
+   "end": "987.440",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "I know how to eliminate programs."
+   ]
+  },
+  {
+   "begin": "987.440",
+   "children": [],
+   "end": "987.800",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "Which ones?"
+   ]
+  },
+  {
+   "begin": "987.800",
+   "children": [],
+   "end": "992.480",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "I have fought against -- well, one of them would be the marketing assistance program."
+   ]
+  },
+  {
+   "begin": "992.480",
+   "children": [],
+   "end": "997.200",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "Another one would be a number of subsidies for ethanol."
+   ]
+  },
+  {
+   "begin": "997.200",
+   "children": [],
+   "end": "1004.840",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "I oppose subsidies for ethanol because I thought it distorted the market and created inflation; Senator Obama supported those subsidies."
+   ]
+  },
+  {
+   "begin": "1004.840",
+   "children": [],
+   "end": "1011.360",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "I would eliminate the tariff on imported sugarcane-based ethanol from Brazil."
+   ]
+  },
+  {
+   "begin": "1011.360",
+   "children": [],
+   "end": "1013.200",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "I know how to save billions."
+   ]
+  },
+  {
+   "begin": "1013.200",
+   "children": [],
+   "end": "1024.880",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "I saved the taxpayer $6.8 billion by fighting a deal for a couple of years, as you might recall, that was a sweetheart deal between an aircraft manufacturer, DOD, and people ended up in jail."
+   ]
+  },
+  {
+   "begin": "1024.880",
+   "children": [],
+   "end": "1030.280",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "But I would fight for a line-item veto, and I would certainly veto every earmark pork-barrel bill."
+   ]
+  },
+  {
+   "begin": "1030.280",
+   "children": [],
+   "end": "1037.360",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "Senator Obama has asked for nearly $1 billion in pork-barrel earmark projects..."
+   ]
+  },
+  {
+   "begin": "1037.360",
+   "children": [],
+   "end": "1038.080",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "Time's up."
+   ]
+  },
+  {
+   "begin": "1038.080",
+   "children": [],
+   "end": "1042.600",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "... including $3 million for an overhead projector in a planetarium in his hometown."
+   ]
+  },
+  {
+   "begin": "1042.600",
+   "children": [],
+   "end": "1045.440",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "That's not the way we cut -- we'll cut out all the pork."
+   ]
+  },
+  {
+   "begin": "1045.440",
+   "children": [],
+   "end": "1046.120",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "Time's up."
+   ]
+  },
+  {
+   "begin": "1046.120",
+   "children": [],
+   "end": "1052.040",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "Well, look, I think that we do have a disagreement about an across-the-board spending freeze."
+   ]
+  },
+  {
+   "begin": "1052.040",
+   "children": [],
+   "end": "1052.840",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "It sounds good."
+   ]
+  },
+  {
+   "begin": "1052.840",
+   "children": [],
+   "end": "1054.520",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "It's proposed periodically."
+   ]
+  },
+  {
+   "begin": "1054.520",
+   "children": [],
+   "end": "1055.840",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "It doesn't happen."
+   ]
+  },
+  {
+   "begin": "1055.840",
+   "children": [],
+   "end": "1063.760",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "And, in fact, an across-the-board spending freeze is a hatchet, and we do need a scalpel, because there are some programs that don't work at all."
+   ]
+  },
+  {
+   "begin": "1063.760",
+   "children": [],
+   "end": "1067.000",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "There are some programs that are underfunded."
+   ]
+  },
+  {
+   "begin": "1067.000",
+   "children": [],
+   "end": "1071.560",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "And I want to make sure that we are focused on those programs that work."
+   ]
+  },
+  {
+   "begin": "1071.560",
+   "children": [],
+   "end": "1075.160",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "Now, Senator McCain talks a lot about earmarks."
+   ]
+  },
+  {
+   "begin": "1075.160",
+   "children": [],
+   "end": "1077.200",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "That's one of the centerpieces of his campaign."
+   ]
+  },
+  {
+   "begin": "1077.200",
+   "children": [],
+   "end": "1083.080",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "Earmarks account for 0.5 percent of the total federal budget."
+   ]
+  },
+  {
+   "begin": "1083.080",
+   "children": [],
+   "end": "1089.680",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "There's no doubt that the system needs reform and there are a lot of screwy things that we end up spending money on, and they need to be eliminated."
+   ]
+  },
+  {
+   "begin": "1089.680",
+   "children": [],
+   "end": "1091.920",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "But it's not going to solve the problem."
+   ]
+  },
+  {
+   "begin": "1091.920",
+   "children": [],
+   "end": "1098.760",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "Now, the last thing I think we have to focus on is a little bit of history, just so that we understand what we're doing going forward."
+   ]
+  },
+  {
+   "begin": "1098.760",
+   "children": [],
+   "end": "1108.280",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "When President Bush came into office, we had a budget surplus and the national debt was a little over $5 trillion."
+   ]
+  },
+  {
+   "begin": "1108.280",
+   "children": [],
+   "end": "1110.680",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "It has doubled over the last eight years."
+   ]
+  },
+  {
+   "begin": "1110.680",
+   "children": [],
+   "end": "1116.520",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "And we are now looking at a deficit of well over half a trillion dollars."
+   ]
+  },
+  {
+   "begin": "1116.520",
+   "children": [],
+   "end": "1126.040",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "So one of the things that I think we have to recognize is pursuing the same kinds of policies that we pursued over the last eight years is not going to bring down the deficit."
+   ]
+  },
+  {
+   "begin": "1126.040",
+   "children": [],
+   "end": "1130.720",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "And, frankly, Senator McCain voted for four out of five of President Bush's budgets."
+   ]
+  },
+  {
+   "begin": "1130.720",
+   "children": [],
+   "end": "1134.280",
+   "id": "f000242",
+   "language": "en",
+   "lines": [
+    "We've got to take this in a new direction, that's what I propose as president."
+   ]
+  },
+  {
+   "begin": "1134.280",
+   "children": [],
+   "end": "1137.560",
+   "id": "f000243",
+   "language": "en",
+   "lines": [
+    "Do either of you think you can balance the budget in four years?"
+   ]
+  },
+  {
+   "begin": "1137.560",
+   "children": [],
+   "end": "1140.800",
+   "id": "f000244",
+   "language": "en",
+   "lines": [
+    "You have said previously you thought you could, Senator McCain."
+   ]
+  },
+  {
+   "begin": "1140.800",
+   "children": [],
+   "end": "1141.880",
+   "id": "f000245",
+   "language": "en",
+   "lines": [
+    "Sure I do."
+   ]
+  },
+  {
+   "begin": "1141.880",
+   "children": [],
+   "end": "1142.840",
+   "id": "f000246",
+   "language": "en",
+   "lines": [
+    "And let me tell you..."
+   ]
+  },
+  {
+   "begin": "1142.840",
+   "children": [],
+   "end": "1143.720",
+   "id": "f000247",
+   "language": "en",
+   "lines": [
+    "You can still do that?"
+   ]
+  },
+  {
+   "begin": "1143.720",
+   "children": [],
+   "end": "1144.080",
+   "id": "f000248",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1144.080",
+   "children": [],
+   "end": "1147.080",
+   "id": "f000249",
+   "language": "en",
+   "lines": [
+    "Senator Obama, I am not President Bush."
+   ]
+  },
+  {
+   "begin": "1147.080",
+   "children": [],
+   "end": "1150.440",
+   "id": "f000250",
+   "language": "en",
+   "lines": [
+    "If you wanted to run against President Bush, you should have run four years ago."
+   ]
+  },
+  {
+   "begin": "1150.440",
+   "children": [],
+   "end": "1154.600",
+   "id": "f000251",
+   "language": "en",
+   "lines": [
+    "I'm going to give a new direction to this economy in this country."
+   ]
+  },
+  {
+   "begin": "1154.600",
+   "children": [],
+   "end": "1157.080",
+   "id": "f000252",
+   "language": "en",
+   "lines": [
+    "Senator Obama talks about voting for budgets."
+   ]
+  },
+  {
+   "begin": "1157.080",
+   "children": [],
+   "end": "1165.520",
+   "id": "f000253",
+   "language": "en",
+   "lines": [
+    "He voted twice for a budget resolution that increases the taxes on individuals making $42,000 a year."
+   ]
+  },
+  {
+   "begin": "1165.520",
+   "children": [],
+   "end": "1169.200",
+   "id": "f000254",
+   "language": "en",
+   "lines": [
+    "Of course, we can take a hatchet and a scalpel to this budget."
+   ]
+  },
+  {
+   "begin": "1169.200",
+   "children": [],
+   "end": "1170.920",
+   "id": "f000255",
+   "language": "en",
+   "lines": [
+    "It's completely out of control."
+   ]
+  },
+  {
+   "begin": "1170.920",
+   "children": [],
+   "end": "1177.840",
+   "id": "f000256",
+   "language": "en",
+   "lines": [
+    "The mayor of New York, Mayor Bloomberg, just imposed an across- the-board spending freeze on New York City."
+   ]
+  },
+  {
+   "begin": "1177.840",
+   "children": [],
+   "end": "1180.360",
+   "id": "f000257",
+   "language": "en",
+   "lines": [
+    "They're doing it all over America because they have to."
+   ]
+  },
+  {
+   "begin": "1180.360",
+   "children": [],
+   "end": "1182.320",
+   "id": "f000258",
+   "language": "en",
+   "lines": [
+    "Because they have to balance their budgets."
+   ]
+  },
+  {
+   "begin": "1182.320",
+   "children": [],
+   "end": "1186.280",
+   "id": "f000259",
+   "language": "en",
+   "lines": [
+    "I will balance our budgets and I will get them and I will..."
+   ]
+  },
+  {
+   "begin": "1186.280",
+   "children": [],
+   "end": "1186.640",
+   "id": "f000260",
+   "language": "en",
+   "lines": [
+    "In four years?"
+   ]
+  },
+  {
+   "begin": "1186.640",
+   "children": [],
+   "end": "1191.640",
+   "id": "f000261",
+   "language": "en",
+   "lines": [
+    "... reduce this -- I can -- we can do it with this kind of job creation of energy independence."
+   ]
+  },
+  {
+   "begin": "1191.640",
+   "children": [],
+   "end": "1196.360",
+   "id": "f000262",
+   "language": "en",
+   "lines": [
+    "Now, look, Americans are hurting tonight and they're angry and I understand that, and they want a new direction."
+   ]
+  },
+  {
+   "begin": "1196.360",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000263",
+   "language": "en",
+   "lines": [
+    "I can bring them in that direction by eliminating"
+   ]
+  }
+ ]
+}

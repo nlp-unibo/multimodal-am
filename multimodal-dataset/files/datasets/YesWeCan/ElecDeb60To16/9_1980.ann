@@ -1,0 +1,548 @@
+T1	Premise 12299 12368	when you were elected in 1976, the Consumer Price Index stood at 4.8%
+T2	Premise 12370 12400	It now stands at more than 12%
+T3	Premise 12430 12503	the nation's broader, underlying inflation rate has gone up from 7% to 9%
+T4	Claim 12510 12637	a part of that was due to external factors beyond U.S. control, notably the more than doubling. of oil prices by OPEC last year
+T5	Claim 12647 12707	the United States remains vulnerable to such external shocks
+T6	Premise 12869 12975	In 1974, we had a so-called oil shock, wherein the price of OPEC oil was raised to an extraordinary degree
+T7	Premise 12977 13015	We had an even worse oil shock in 1979
+T8	Premise 13017 13123	In 1974, we had the worst recession, the deepest and most penetrating recession since the Second World War
+T9	Claim 13125 13206	The recession that resulted this time was the briefest since the Second World War
+T10	Claim 13221 13249	we've brought down inflation
+T11	Premise 13251 13377	Earlier this year, in the first quarter, we did have a very severe inflation pressure brought about by the OPEC price increase
+T12	Premise 13379 13434	It averaged about 18% in the first quarter of this year
+T13	Premise 13436 13494	In the second quarter, we had dropped it down to about 13%
+T14	Premise 13496 13620	The most recent figures, the last three months, on the third quarter of this year, the inflation rate is 7% - still too high
+T15	Claim 13674 13710	providing an enormous number of jobs
+T16	Premise 13713 13769	nine million new jobs in the last three and a half years
+T17	Claim 13777 13822	the inflationary threat is still urgent on us
+T18	Premise 13910 14029	his own running mate, George Bush, described as voodoo economics, and said that it would result in a 30% inflation rate
+T19	Premise 14035 14263	Business Week, which is not a Democratic publication, said that this Reagan-Kemp-Roth proposal - and I quote them, I think - was completely irresponsible and would result in inflationary pressures which would destroy this nation
+T20	Claim 14268 14296	our proposals are very sound
+T21	Claim 14301 14344	very carefully considered to stimulate jobs
+T22	Claim 14346 14395	to improve the industrial complex of this country
+T23	Claim 14397 14433	to create tools for American workers
+T24	Claim 14439 14492	at the same time would be anti-inflationary in nature
+T25	Claim 14497 14656	to add nine million new jobs, to control inflation, and to plan for the future with an energy policy now intact as a foundation is our plan for the years ahead
+T26	Claim 2790 2832	I don't know what the differences might be
+T27	Premise 2842 2885	I don't know what Mr. Carter's policies are
+T28	Claim 2961 3032	I believe with all my heart that our first priority must be world peace
+T29	Premise 3043 3173	use of force is always and only a last resort, when everything else has failed, and then only with regard to our national security
+T30	Claim 3180 3189;3229 3334	I believe this responsibility for preserving the peace, which I believe is a responsibility peculiar to our country
+T31	Claim 3345 3409	we cannot shirk our responsibility as a leader of the free world
+T32	Premise 3418 3452	we're the only ones that can do it
+T33	Claim 3465 3512	the burden of maintaining the peace falls on us
+T34	Claim 3518 3558	to maintain that peace requires strength
+T35	Claim 3560 3620	America has never gotten in a war because we were too strong
+T37	Claim 3622 3677	We can get into a war by letting events get out of hand
+T38	Premise 3679 3792	as they have in the last three and a half years under the foreign policies of this Administration of Mr. Carter's
+T39	Premise 3794 3835	until we're faced each time with a crisis
+T40	Claim 4046 4243	I don't ever want to see another generation of young Americans bleed their lives into sandy beachheads in the Pacific, or rice paddies and jungles in the in Asia or the muddy battlefields of Europe
+T41	Premise 3967 4003	I have seen four wars in my lifetime
+T42	Premise 4005 4025	I'm a father of sons
+T43	Premise 4027 4044	I have a grandson
+T44	Premise 3841 3965	good management in preserving the peace requires that we control the events and try to intercept before they become a crisis
+T45	Premise 5548 5619	my tax cut does not come close to eliminating that $86 billion increase
+T46	Premise 5621 5665	I'm only reducing the amount of the increase
+T47	Claim 5683 5837	what I'm talking about is not putting government back to getting less money than government's been getting, but simply cutting the increase in in spending
+T49	Claim 5199 5324	we can afford - along with the cuts that I have proposed in Government. spending - we can afford the tax cuts I have proposed
+T50	Premise 5353 5542	Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year
+T52	Premise 4846 4986	I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it
+T53	Claim 4992 5122	believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture
+T54	Claim 5129 5188	it can provide for a balanced budget by 1983 if not earlier
+T55	Claim 6775 6888	I think I'm a much wiser and more experienced man than I was when I debated four years ago against President Ford
+T56	Premise 6574 6667	I've had to make thousands of decisions since I've been President, serving in the Oval Office
+T57	Premise 6673 6773	with each one of those decisions that affect the future of my country, I have learned in the process
+T51	Claim 6890 6965	I've also learned that there are no simple answers to complicated questions
+T58	Premise 6967 7074	H. L. Mencken said that for every problem there's a simple answer. It would be neat and plausible and wrong
+T48	Premise 7418 7538	what we've done is use that enormous power and prestige and military strength of the United States to preserve the peace
+T59	Claim 7540 7648	We've not only kept peace for our own country, but we've been able to extend the benefits of peace to others
+T60	Premise 7650 7827	In the Middle East, we've worked for a peace treaty between Israel and Egypt, successfully, and have tied ourselves together with Israel and Egypt in a common defense capability
+T61	Claim 7093 7191	this nation, in the eight years before I became President, had its own military strength decreased
+T62	Premise 7193 7275	Seven out of eight years, the budget commitments for defense went down, 37% in all
+T63	Claim 7277 7412	Since I've been in office, we've had a steady, carefully planned, methodical but, very effective increase in our commitment for defense
+T64	Claim 7965 8065	there are decisions that are made in the Oval Office by every President which are profound in nature
+T65	Premise 8067 8293	There are always trouble spots in the world, and how those troubled areas are addressed by a President alone in that Oval Office affects our nation directly, the involvement of the United States and also our American interests
+T66	Claim 8386 8430	That is what I have tried to do successfully
+T67	Premise 8431 8462	by keeping our country at peace
+T68	Premise 7829 7887	This is a very good step forward for our nation's security
+T69	Claim 7893 7941	we'll continue to do as we have done in the past
+T70	Claim 9492 9613	we are prepared to address any foreseeable eventuality which might interrupt commerce with that crucial area of the world
+T71	Premise 9235 9308	In the past, we have not had an adequate military presence in that region
+T72	Premise 9310 9351	Now we have two major carrier task forces
+T73	Premise 9353 9420	We have access to facilities in five different areas of that region
+T74	Premise 9050 9233	in my State of the Union address earlier this year, I pointed out that any threat to the stability or security of the Persian Gulf would be a threat to the security of our own country
+T75	Claim 9634 9692	we have made sure that we address this question peacefully
+T76	Premise 9694 9744	not injecting American military forces into combat
+T77	Premise 9750 9812	letting the strength of our nation be felt in a beneficial way
+T78	Claim 9814 9967	This, I believe, has assured that our interests will be protected in the Persian Gulf region, as we have done in the Middle East and throughout the world
+T79	Claim 10052 10202	I question the figure about the decline in defense spending under the two previous Administrations in the preceding eight years to this Administration
+T80	Premise 10204 10386	I would call to your attention that we were in a war that wound down during those eight years, which of course made a change in military spending because of turning from war to peace
+T81	Premise 10388 10592	I also would like to point out that Republican presidents in those years, faced with a Democratic majority in both houses of the Congress, found that their requests for defense budgets were very often cut
+T82	Premise 10599 10690	Gerald Ford left a five-year projected plan for a military build-up to restore our defenses
+T83	Premise 10696 10749	President Carter's administration reduced that by 38%
+T84	Premise 10751 10819	cut 60 ships out of the Navy building program that had been proposed
+T85	Premise 10825 10844	stopped the the B-l
+T86	Premise 10846 10872	delayed the cruise missile
+T87	Premise 10874 10927	stopped the production line for the Minuteman missile
+T88	Premise 10929 10981	stopped the Trident or delayed the Trident submarine
+T89	Premise 10987 11078	now is planning a mobile military force that can be delivered to various spots in the world
+T90	Claim 11079 11181	which does make me question his assaults on whether I am the one who is quick to look for use of force
+T91	Claim 11818 11873	the build-up of military forces is good for our country
+T92	Premise 11882 11939	we've got to have military strength to preserve the peace
+T93	Premise 11971 12031	the best weapons are the ones that are never fired in combat
+T94	Premise 12037 12118	the best soldier is one who never has to lay his life down on the field of battle
+T95	Claim 12120 12186	Strength is imperative for peace, but the two must go hand in hand
+T96	Claim 11265 11302	there are various elements of defense
+T97	Premise 11304 11337	One is to control nuclear weapons
+T98	Premise 11440 11497	Another one is how to address troubled areas of the world
+T99	Claim 15210 15213	Yes
+T100	Claim 15272 15296	they have done very well
+T101	Premise 15319 15407	we're importing today about one-third less oil from overseas than we did just a year ago
+T102	Premise 15409 15471	We've had a 25% reduction since the first year I was in office
+T103	Premise 15515 15616	we have added about nine million net new jobs in that period of time - a record never before achieved
+T104	Claim 15748 15821	increase in production of American energy, which is going along very well
+T105	Premise 15824 15880	more coal this year than ever before in American history
+T106	Premise 15882 15950	more oil and gas wells drilled this year than ever before in history
+T107	Claim 15952 16078	The new economic revitalization program that we have in mind, which will be implemented next year, would result in tax credits
+T108	Claim 16079 16212	which would let business invest in new tools and new factories to create even more new jobs - about one million in the next two years
+T109	Claim 16218 16317	we also have planned a youth employment program which would encompass 600,000 jobs for young people
+T110	Premise 16551 16645	during the past four years, the Consumer Price Index has risen from 4.8% to currently over 12%
+T111	Premise 16651 16755	perhaps more significantly, the nation's broader, underlying rate of inflation has gone up from 7% to 9%
+T112	Claim 16762 16890	a part of that has been due to external factors beyond U.S. control, notably the more than doubling of OPEC oil prices last year
+T113	Claim 16933 16993	the United States remains vulnerable to such external shocks
+T114	Claim 18193 18231	he has blamed the people for inflation
+T115	Premise 18233 18279	OPEC, he has blamed the Federal Reserve system
+T116	Premise 18281 18342	he has blamed the lack of productivity of the American people
+T117	Premise 18344 18479	he has then accused the people of living too well and that we must share in scarcity, we must sacrifice and get used to doing with less
+T118	Claim 18481 18543	We don't have inflation because the people are living too well
+T119	Claim 18545 18604	We have inflation because the Government is living too well
+T120	Claim 19340 19398	we will have a very poor nation and a very unsound economy
+T121	Premise 19399 19421	if we follow that path
+T122	Claim 17105 17351	I think this idea that has been spawned here in our country that inflation somehow came upon us like a plague and therefore it's uncontrollable and no one can do anything about it, is entirely spurious and it's dangerous to say this to the people
+T123	Premise 17353 17418	When Mr. Carter became President, inflation was 4.8%, as you said
+T124	Premise 17420 17467	It had been cut in two by President Gerald Ford
+T125	Premise 17469 17495	It is now running at 12.7%
+T126	Premise 17497 17553	President Carter also has spoken of the new jobs created
+T127	Premise 17561 17665	we always, with the normal growth in our country and increase in population, increase the number of jobs
+T128	Premise 17671 17837	that can't hide the fact that there are eight million men and women out of work in America today, and two million of those lost their jobs in just the last few months
+T129	Claim 17839 17939	Mr. Carter had also promised that he would not use unemployment as a tool to fight against inflation
+T130	Premise 17950 18179	his 1980 economic message stated that we would reduce productivity and gross national product and increase unemployment in order to get a handle on inflation, because in January, at the beginning of the year, it was more than 18%
+T131	Claim 19129 19160	my economic plan calls for that
+T132	Claim 18851 18873	you can lick inflation
+T133	Premise 18874 18900	by increasing productivity
+T134	Premise 18905 19123	by decreasing the cost of government to the place that we have balanced budgets, and are no longer grinding out printing press money, flooding the market with it because the Government is spending more than it takes in
+T135	Premise 19162 19334	The President's economic plan calls for increasing the taxes to the point that we finally take so much money away from the people that we can balance the budget in that way
+T136	Claim 20008 20073	I believe that there is enough extravagance and fat in government
+T137	Premise 20096 20272	one of the secretaries of HEW under Mr. Carter testified that he thought there was $7 billion worth of fraud and waste in welfare and in the medical programs associated with it
+T138	Premise 20308 20457	Office estimate that there is probably tens of billions of dollars that is lost in fraud alone, and they have added that waste adds even more to that
+T139	Premise 20459 20547	We have a program for a gradual reduction of Government spending based on these theories
+T140	Premise 20553 20632	I have a task force now that has been working on where those cuts could be made
+T141	Claim 20634 20701	I'm confident that it can be done and that it will reduce inflation
+T142	Premise 20710 20732	I did it in California
+T143	Premise 20738 20871	inflation went down below the national average in California when we returned the money to the people and reduced Government spending
+T144	Claim 20908 21063	Governor Reagan's proposal, the Reagan-Kemp-Roth proposal, is one of the most highly inflationary ideas that ever has been presented to the American public
+T145	Premise 21065 21201	He would actually have to cut Government spending by at least $130 billion in order to balance the budget under this ridiculous proposal
+T146	Premise 21203 21338	I notice that his task force that is working for his future plans had some of their ideas revealed in The Wall Street Journal this week
+T147	Premise 21340 21389	One of those ideas was to repeal the minimum wage
+T148	Premise 21395 21501	several times this year, Governor Reagan has said that the major cause of unemployment is the minimum wage
+T149	Claim 21503 21578	This is a heartless kind of approach to the working families of our country
+T150	Claim 21853 21910	He more than doubled state spending while he was Governor
+T151	Premise 21913 21994	122% increase - and had between a 20% and 30% increase in the number of employees
+T152	Premise 21695 21708;21759 21851	In California he had the three largest tax increases in the history of that state under his administration
+T153	Claim 22149 22249	The figures that the President has just used about California is a distortion of the situation there
+T154	Premise 22259 22440	while I was Governor of California, our spending in California increased less per capita than the spending in Georgia while Mr. Carter was Governor of Georgia in the same four years
+T155	Premise 22442 22567	The size of government increased only one-sixth in California of what it increased in proportion to the population in Georgia
+T156	Premise 23505 23591	I have been talking to a number of Congressmen who have much the same idea that I have
+T157	Claim 23610 23811	in the inner city areas, that in cooperation with the local government and the national Government, and using tax incentives and with cooperating with the private sector, that we have development zones
+T158	Premise 23813 23976	Let the local entity, the city, declare this particular area, based on the standards of the percentage of people on welfare, unemployed, and so forth, in that area
+T159	Premise 23988 24088	through tax incentives, induce the creation of businesses providing jobs and so forth in those areas
+T160	Premise 24146 24244	For example, a business that would not have, for a period of time, an increase in the property tax
+T161	Claim 24256 24346	its development of the unused property that it was making wouldn't be any loss to the city
+T162	Premise 24355 24399	the city isn't getting any tax from that now
+T163	Premise 24405 24434	there would simply be a delay
+T164	Claim 24459 24594	many of the people who would then be given jobs are presently wards of the Government and it wouldn't hurt to give them a tax incentive
+T165	Premise 24612 24663	that wouldn't be costing Government anything either
+T166	Claim 25232 25253	nothing has been done
+T167	Premise 24712 24795	I stood in the South Bronx on the exact spot that President Carter stood on in 1977
+T168	Premise 24797 24829	You have to see it to believe it
+T169	Premise 24831 24900	It looks like a bombed-out city - great, gaunt skeletons of buildings
+T170	Premise 24902 24921	Windows smashed out
+T171	Premise 24923 24987	painted on one of them "Unkept promises;" on another, "Despair."
+T172	Premise 24992 25120	this was the spot at which President Carter had promised that he was going to bring in a vast program to rebuild this department
+T173	Premise 25122 25226	There are whole or this area there are whole blocks of land that are left bare, just bulldozed down flat
+T174	Claim 24665 24710	I think there are things to do in this regard
+T175	Claim 25983 25998	I believe in it
+T176	Premise 26056 26175	we've made great progress from the days when I was young and when this country didn't even know it had a racial problem
+T177	Premise 26000 26025	I am eternally optimistic
+T179	Claim 26345 26405	I believe the Presidency is what Teddy Roosevelt said it was
+T180	Claim 26407 26426	It's a bully pulpit
+T181	Claim 26487 26744	a goal for all of us should be that one day, things will be done neither because of nor in spite of any of the differences between us - ethnic differences or racial differences, whatever they may be - that we will have total equal opportunity for all people
+T182	Claim 26750 26811	I would do everything I could in my power to bring that about
+T178	Claim 27670 27708	This has been a very successful effort
+T183	Claim 27989 28105	We now are planning to continue the revitalization program with increased commitments of rapid transit, mass transit
+T184	Claim 28251 28288	We also are pursuing housing programs
+T185	Claim 27746 27805	we've had such an increase in the number of people employed
+T188	Premise 27807 27987	Of the nine million people put to work in new jobs since I've been in office, 1.3 million of those has been among black Americans, and another million among those who speak Spanish
+T189	Premise 28107 28249	Under the windfall profits tax, we expect to spend about $43 billion in the next 10 years to rebuild the transportation systems of our country
+T190	Premise 28290 28371	We've had a 73% increase in the allotment of Federal funds for improved education
+T191	Premise 28373 28560	These are the kinds of efforts worked on a joint basis with community leaders, particularly in the minority areas of the central cities that have been deteriorating so rapidly in the past
+T186	Claim 28562 28652	It's very important to us that this be done with the full involvement of minority citizens
+T187	Premise 28654 28903	I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded
+T192	Claim 29199 29229	we still have a long way to go
+T193	Claim 29137 29193	We have gone a long way toward correcting these problems
+T194	Claim 29760 29812	Ours is a nation of refugees, a nation of immigrants
+T195	Premise 29814 30092	Almost all of our citizens came here from other lands and now have hopes, which are being realized, for a better life, preserving their ethnic commitments, their family structures, their religious beliefs, preserving their relationships with their relatives in foreign countries
+T196	Premise 30098 30195	still holding themselves together in a very coherent society, which gives our nation its strength
+T197	Claim 30197 30304	In the past, those minority groups have often been excluded from participation in the affairs of government
+T198	Premise 30306 30465	Since I've been President, I've appointed, for instance, more than twice as many black Federal judges as all previous presidents in the history of this country
+T199	Premise 30467 30556	I've done the same thing in the appointment of women, and also Spanish-speaking Americans
+T200	Claim 30558 30835	To involve them in the administration of government and the feeling that they belong to the societal structure that makes decisions in the judiciary and in the executive branch is a very important commitment which I am trying to realize and will continue to do so in the future
+T201	Claim 30983 31131	as governor, when I was at that end of the line and receiving some of these grants for Government programs, I saw that so many of them were dead-end
+T202	Premise 31133 31268	They were public employment that these people who really want to get out into the private job market where there are jobs with a future
+T203	Claim 31724 31775	I have been in favor of a separate minimum for them
+T204	Premise 31351 31587	I wish he could have been with me when I sat with a group of teenagers who were black, and who were telling me about their unemployment problems, and that it was the minimum wage that had done away with the jobs that they once could get
+T205	Premise 31593 31707	indeed, every time it has increased you will find there is an increase in minority unemployment among young people
+T206	Premise 31777 31920	With regard to the great progress that has been made with this Government spending, the rate of black unemployment in Detroit, Michigan, is 56%
+T207	Claim 32160 32457	there is no doubt in my mind that the commitment to unemployment compensation, the minimum wage, welfare, national health insurance, those kinds of commitments that have typified the Democratic party since ancient history in this country's political life are a very important element of the future
+T208	Premise 31998 32126	It's obvious that we still have a long way to go in fully incorporating the minority groups into the mainstream of American life
+T209	Premise 32459 32536	In all those elements, Governor Reagan has repeatedly spoken out against them
+T210	Claim 32538 32636	which, to me, shows a very great insensitivity to giving deprived families a better chance in life
+T211	Claim 32638 32717	This, to me, is a very important difference between him and me in this election
+T212	Claim 33030 33112	this will give us an additional opportunity for jobs which will pay rich dividends
+T213	Premise 32811 32896	in the downtown central cities, with the, with the new commitment on an energy policy
+T214	Premise 32898 32968	with a chance to revitalize homes and to make them more fuel efficient
+T215	Premise 32970 33028	with a chance for our synthetic fuels program, solar power
+T216	Claim 34024 34086	we committed ourselves to take strong action against terrorism
+T217	Claim 33835 33914	one of the blights on this world is the threat and the activities of terrorists
+T218	Premise 34088 34149	Airplane hijacking was one of the elements of that commitment
+T219	Claim 34630 34720	In countries like Libya or Iraq, we have even alienated some of our closest trade partners
+T220	Premise 34729 34836	we have insisted upon the control of the spread of nuclear weapons to those potentially terrorist countries
+T221	Premise 34174 34369	we have seen in recent years - in recent months - additional acts of violence against Jews in France and, of course, against those who live in Israel, by the PLO and other terrorist organizations
+T222	Claim 34383 34517	the most serious terrorist threat is if one of those radical nations, who believe in terrorism as a policy, should have atomic weapons
+T223	Premise 34524 34628	I and all my predecessors have had a deep commitment to controlling the proliferation of nuclear weapons
+T224	Premise 35122 35180	This ultimate terrorist threat is the most fearsome of all
+T225	Claim 35186 35276	it's part of a pattern where our country must stand firm to control terrorism of all kinds
+T226	Claim 34838 34922	When Governor Reagan has been asked about that, he makes the very disturbing comment
+T227	Premise 34928 35019	non-proliferation, or the control of the spread of nuclear weapons, is none of our business
+T228	Premise 35025 35120	recently when he was asked specifically about Iraq, he said there is nothing we can do about it
+T229	Claim 35777 35845	We will maintain our position of neutrality in the Iran and Iraq war
+T230	Premise 35847 35943	We have no plans to sell additional materiel or goods to Iran, that might be of a warlike nature
+T231	Claim 36295 36353	That's been a consistent policy, one I intend to carry out
+T232	Premise 35945 36293	When I made my decision to stop all trade with Iran as a result of the taking of our hostages, I announced then, and have consistently maintained since then, that if the hostages are released safely, we would make delivery on those items which Iran owns - which they have bought and paid for - also, that the frozen Iranian assets would be released
+T233	Claim 37456 37602	I think that anyone that's seeking this position, as well as other people, probably, have thought to themselves, what about this, what about that?
+T234	Premise 37603 37770	These are just ideas of what I would think of if I were in that position and had access to the information, and which I would know all the options that were open to me
+T235	Claim 37175 37253	I have been accused lately of having a secret plan with regard to the hostages
+T236	Premise 37260 37428	this comes from an answer that I've made at least 50 times during this campaign to the press, when I am asked have you any ideas of what you would do if you were there?
+T237	Premise 37772 37806	I have never answered the question
+T238	Claim 38201 38237	Your question is difficult to answer
+T239	Premise 38248 38468	in the situation right now, no one wants to say anything that would inadvertently delay, in any way, the return of those hostages if there if there is a chance that they're coming home soon, or that might cause them harm
+T240	Claim 38470 38573;38647 38887	What I do think should be done, once they are safely here with their families, and that tragedy is over - then, I think, it is time for us to have a complete investigation as to the diplomatic efforts that were made in the beginning, why they have been there so long, and when they came home, what did we have to do in order to bring that about
+T241	Claim 38923 38986	I would suggest that Congress should hold such an investigation
+T242	Premise 37903 38042	I would be fearful that I might say something that was presently under way or in negotiations, and thus expose it and endanger the hostages
+T243	Claim 38059 38199	I think some of my ideas might require quiet diplomacy where you don't say in advance, or say to anyone, what it is you're thinking of doing
+T244	Claim 40055 40080	we've been guilty of that
+T245	Premise 40090 40390	someone didn't meet exactly our standards of human rights, even though they were an ally of ours, instead of trying patiently to persuade them to change their ways, we have, in a number of instances, aided a revolutionary overthrow which results in complete totalitarianism, instead, for those people
+T246	Claim 40392 40444	I think that this is a kind of a hypocritical policy
+T247	Premise 40451 40587	at the same time, we're maintaining a detente with the one nation in the world where there are no human rights at all - the Soviet Union
+T248	Claim 40594 40682	there was a second phase in the Iranian affair in which we had something to do with that
+T249	Premise 40698 40760	we had adequate warning that there was a threat to our embassy
+T250	Premise 40766 40919	we could have done what other embassies did - either strengthen our security there, or remove our personnel before the kidnap and the takeover took place
+T251	Claim 41924 41963	we will continue with these commitments
+T252	Claim 41344 41582	we all committed ourselves, as have all my predecessors in the Oval Office not to permit the spread of nuclear weapons to a terrorist nation, or to any other nation that does not presently have those weapons or capabilities for explosives
+T253	Claim 41591 41689	not to make any sales of materiel or weapons to a nation which is involved in terrorist activities
+T254	Claim 41704 41854	not to deal with the PLO until and unless the PLO recognizes Israel's right to exist and recognizes UN Resolution 242 as a basis for Middle East peace
+T255	Claim 41184 41332	to stop all air flights - commercial air flights - to any nation involved in terrorism or the hijacking of air planes, or the harboring of hijackers
+T256	Claim 42045 42109	I have no quarrel whatsoever with the things that have been done
+T257	Premise 42129 42246	it is high time that the civilized countries of the world made it plain that there is no room worldwide for terrorism
+T258	Claim 42248 42304	there will be no negotiation with terrorists of any kind
+T259	Claim 42406 42586	I have never made the statement that he suggested about nuclear proliferation and nuclear proliferation, or the trying to halt it, would be a major part of a foreign policy of mine
+T260	Claim 43802 43819	I think I'm right
+T261	Premise 43843 43923	we must have a consistent foreign policy, a strong America, and a strong economy
+T262	Claim 43935 44061	as we build up our national security, to restore our margin of safety, we at the same time try to restrain the Soviet build-up
+T263	Premise 44063 44132	which has been going forward at a rapid pace, and for quite some time
+T264	Claim 44760 44901	The Soviet Union sat at the table knowing that we had gone forward with unilateral concessions without any reciprocation from them whatsoever
+T265	Premise 44134 44321	The SALT II treaty was the result of negotiations that Mr. Carter's team entered into after he had asked the Soviet Union for a discussion of actual reduction of nuclear strategic weapons
+T266	Premise 44327 44405	his emissary, I think, came home in 12 hours having heard a very definite nyet
+T267	Premise 44411 44503	taking that one no from the Soviet Union, we then went back into negotiations on their terms
+T268	Premise 44513 44551	Mr. Carter had canceled the B-I bomber
+T269	Premise 44553 44567	delayed the MX
+T270	Premise 44569 44598	delayed the Trident submarine
+T271	Premise 44600 44626	delayed the cruise missile
+T272	Premise 44628 44705	shut down the Missile Man - the three - the Minuteman missile production line
+T273	Claim 44908 44945	I have not blocked the SALT II treaty
+T274	Premise 44993 45064	It has been blocked by a Senate in which there is a Democratic majority
+T275	Premise 45074 45261	the Senate Armed Services Committee voted 10 to 0, with seven abstentions, against the SALT II treaty, and declared that it was not in the national security interests of the United States
+T276	Claim 45278 45291	it is illegal
+T277	Premise 45301 45403	the law of the land, passed by Congress, says that we cannot accept a treaty in which we are not equal
+T278	Claim 45409 45461	we are not equal in this treaty for one reason alone
+T279	Premise 45464 45550	our B-2 bombers are considered to be strategic weapons; their Backfire bombers are not
+T280	Claim 46645 46825	To negotiate with the Soviet Union a balanced, controlled, observable, and then reducing levels of atomic weaponry, there is a disturbing pattern in the attitude of Governor Reagan
+T281	Premise 46827 47034	He has never supported any of those arms control agreements - the limited test ban, SALT I, nor the Antiballistic Missile Treaty, nor the Vladivostok Treaty negotiated with the Soviet Union by President Ford
+T282	Premise 47041 47271	now he wants to throw into the wastebasket a treaty to control nuclear weapons on a balanced and equal basis between ourselves and the Soviet Union, negotiated over a seven-year period, by myself and my two Republican predecessors
+T283	Claim 47504 47638	It's understandable that a Senator in the preliminary debates can make an irresponsible statement, or, maybe, an ill-advised statement
+T284	Premise 47640 47712	You've got 99 other senators to correct that mistake, if it is a mistake
+T285	Claim 47718 47944	when a man who hopes to be President says, take this treaty, discard it, do not vote, do not debate, do not explore the issues, do not finally capitalize on this long negotiation - that is a very dangerous and disturbing thing
+T286	Premise 47273 47341	The Senate has not voted yet on the Strategic Arms Limitation Treaty
+T287	Premise 47343 47502	There have been preliminary skirmishing in the committees of the Senate, but the Treaty has never come to the floor of the Senate for either a debate or a vote
+T288	Claim 48088 48143	I have been critical of some of the previous agreements
+T289	Premise 48158 48205	we've been out-negotiated for quite a long time
+T290	Premise 48211 48352	they have managed, in spite of all of our attempts at arms limitation, to go forward with the biggest military build-up in the history of man
+T291	Claim 48807 48836	I am not talking of scrapping
+T292	Claim 48838 48910	I am talking of taking the treaty back, and going back into negotiations
+T293	Premise 48916 49167	I would say to the Soviet Union, we will sit and negotiate with you as long as it takes, to have not only legitimate arms limitation, but to have a reduction of these nuclear weapons to the point that neither one of us represents a threat to the other
+T294	Claim 49169 49243	That is hardly throwing away a treaty and being opposed to arms limitation
+T295	Claim 49285 49357	Governor Reagan is making some very misleading and disturbing statements
+T296	Premise 49359 49499	He not only advocates the scrapping of this treaty - and I don't know that these men that he quotes are against the treaty in its final form
+T297	Premise 49506 49649	he also advocates the possibility, he said it's been a missing element, of playing a trump card against the Soviet Union of a nuclear arms race
+T298	Premise 49655 49780	is insisting upon nuclear superiority by our own nation, as a predication for negotiation in the future with the Soviet Union
+T299	Claim 50677 50780	This attitude is extremely dangerous and belligerent in its tone, although it's said with a quiet voice
+T300	Premise 50565 50675	the adversarial relationship between ourselves and the Soviet Union would undoubtedly deteriorate very rapidly
+T301	Premise 50450 50542	it would also be very disturbing to our allies, all of whom support this nuclear arms treaty
+T302	Claim 50170 50238	This would mean the resumption of a very dangerous nuclear arms race
+T303	Claim 50240 50286	It would be very disturbing to American people
+T304	Premise 50288 50444	It would change the basic tone and commitment that our nation has experienced ever since the Second World War, with al Presidents, Democratic and Republican
+T305	Premise 49782 50168	If President Brezhnev said, we will scrap this treaty, negotiated under three American Presidents over a seven-year period of time, we insist upon nuclear superiority as a basis for future negotiations, and we believe that the launching of a nuclear arms race is a good basis for future negotiations, it's obvious that I, as President, and all Americans, would reject such a proposition
+T306	Claim 51145 51246	with regard to negotiating: it does not call for nuclear superiority on the part of the United States
+T307	Premise 51248 51362	It calls for a mutual reduction of these weapons, as I say, that neither of us can represent a threat to the other
+T308	Claim 51368 51547	to suggest that the SALT II treaty that your negotiators negotiated was just a continuation, and based on all of the preceding efforts by two previous Presidents, is just not true
+T309	Claim 51549 51573	It was a new negotiation
+T310	Premise 51593 51674	President Ford was within about 10% of having a solution that could be acceptable
+T311	Claim 51680 51772	I think our allies would be very happy to go along with a fair and verifiable SALT agreement
+T312	Claim 52154 52180	This is a formidable force
+T313	Premise 52182 52233	Some of these weapons have 10 megatons of explosion
+T314	Premise 52235 52373	If you put 50 tons of TNT in each one of railroad cars, you would have a carload of TNT - a trainload of TNT stretching across this nation
+T315	Premise 52375 52418	That's one major war explosion in a warhead
+T316	Premise 52420 52494	We have thousands, equivalent of megaton, or million tons, of TNT warheads
+T317	Claim 53212 53257	a bridge must be built out of this dependence
+T318	Premise 52849 52944	Americans, through conservation, are importing much less oil today than we were even a year ago
+T319	Premise 52950 53194	U.S. dependence on Arab oil as a percentage of total imports is today much higher than it was at the time of the 1973 Arab oil embargo, and for some time to came, the loss of substantial amounts of Arab oil could plunge the U.S. into depression
+T320	Claim 53794 53834	We've been very successful in both cases
+T321	Premise 53836 53918	We've now reduced the importing of foreign oil in the last year alone by one-third
+T322	Premise 53920 54009	We imported today 2 million barrels of oil less than we did the same date just a year ago
+T323	Claim 54011 54095	This commitment has been opening up a very bright vista for our nation in the future
+T324	Premise 54105 54308	with the windfall profits tax as a base, we now have an opportunity to use American technology and American ability and American natural resources to expand rapidly the production of synthetic fuels, yes
+T325	Premise 54310 54363	to expand rapidly the production of solar energy, yes
+T326	Premise 54374 54425	to produce the traditional kinds of American energy
+T327	Premise 54427 54498	We will drill more oil and gas wells this year than any year in history
+T328	Premise 54500 54558	We'll produce more coal this year than any year in history
+T329	Premise 54560 54621	We are exporting more coal this year than any year in history
+T330	Premise 54627 54864	we have an opportunity now with improved transportation systems and improved loading facilities in our ports, to see a very good opportunity on a world international market, to replace OPEC oil with American coal as a basic energy source
+T331	Claim 54866 55107	This exciting future will not only give us more energy security, but will also open up vast opportunities for Americans to live a better life and to have millions of new jobs associated with this new and very dynamic industry now in prospect
+T332	Premise 55108 55167	because of the new energy policy that we've put into effect
+T333	Premise 55257 55352	Americans, through conservation, are importing much less oil today than we were even a year ago
+T334	Premise 55363 55487	U.S. reliance on Arab oil as a percentage of total imports is much higher today than it was during the 1973 Arab oil embargo
+T335	Claim 55493 55572	the substantial loss of Arab oil could plunge the United States into depression
+T336	Claim 55865 55991	I do believe that this nation has been portrayed for too long a time to the people as being energy-poor when it is energy-rich
+T337	Premise 55993 56136	The coal that the President mentioned - yes, we have it - and yet one-eighth of our total coal resources is not being utilized at all right now
+T338	Premise 56138 56163	The mines are closed down
+T339	Premise 56165 56199	there are 22000 miners out of work
+T340	Premise 56506 56723	we have only leased out - begun to explore - 2% of our outer continental shelf for oil, where it is believed, by everyone familiar with that fuel and that source of energy, that there are vast supplies yet to be found
+T341	Claim 56201 56309	Most of this is due to regulations which either interfere with the mining of it or prevent the burning of it
+T342	Premise 56312 56404	With our modern technology, yes, we can burn our coal within the limits of the Clean Air Act
+T343	Premise 56406 56480	I think, as technology improves, we'll be able to do even better with that
+T344	Claim 57623 57647	We have the sources here
+T345	Premise 57673 57716	coal is one of the great potentials we have
+T346	Premise 57649 57667	We are energy rich
+T347	Premise 57200 57265	Nuclear power: There were 36 power plants planned in this country
+T348	Claim 57346 57405	32 of those have given up and canceled their plans to build
+T349	Premise 57418 57621	because Government regulations and permits, and so forth, take - make it take - more than twice as long to build a nuclear plant in the United States as it does to build one in Japan or in Western Europe
+T350	Premise 56725 56938	Our Government has, in the last year or so, taken out of multiple use millions of acres of public lands that once were - well, they were public lands subject to multiple use - exploration for minerals and so forth
+T351	Premise 56940 57121	It is believed that probably 70% of the potential oil in the United States is probably hidden in those lands, and no one is allowed to even go and explore to find out if it is there
+T352	Premise 57123 57198	This is particularly true of the recent efforts to shut down part of Alaska
+T353	Claim 58215 58253	We cannot cast aside these regulations
+T354	Premise 57930 58046	Governor Reagan says that this is not a good achievement, and he blames restraints on coal production on regulations
+T355	Premise 57785 57928	we have this year the opportunity, which we'll realize, to produce 800 million tons of coal - an unequaled record in the history of our country
+T356	Premise 58049 58117	regulations that affect the life and the health and safety of miners
+T357	Premise 58128 58213	regulations that protect the purity of our air and the quality our water and our land
+T358	Claim 58255 58464	We have a chance in the next 15 years, insisting upon the health and safety of workers in the mines, and also preserving the same high air and water pollution standards, to triple the amount of coal we produce
+T359	Claim 58466 58625	Governor Reagan's approach to our energy policy, which has already proven its effectiveness, is to repeal, or to change substantially, the windfall profits tax
+T360	Premise 58628 58695	to return a major portion of $227 billion back to the oil companies
+T361	Premise 58697 58737	to do away with the Department of Energy
+T362	Premise 58739 58783	to short-circuit our synthetic fuels program
+T363	Premise 58785 58825	to put a minimal emphasis on solar power
+T364	Premise 58827 58911	to emphasize strongly nuclear power plants as a major source of energy in the future
+T365	Claim 58913 59003	He wants to put all our eggs in one basket and give that basket to the major oil companies
+T366	Claim 59039 59088	That is a misstatement, of course, of my position
+T367	Claim 59090 59216	I just happen to believe that free enterprise can do a better job of producing the things that people need than government can
+T368	Premise 59545 59730	As Governor of California, I took charge of passing the strictest air pollution laws in the United States - the strictest air quality law that has even been adopted in the United States
+T369	Premise 59736 59878	we created an OSHA - an Occupational Safety and Health Agency - for the protection of employees before the Federal Government had one in place
+T370	Claim 59963 60014	I think some of those charges are missing the point
+T371	Premise 59884 59957	to this day, not one of its decisions or rulings has ever been challenged
+T372	Claim 60016 60196	I am suggesting that there are literally thousands of unnecessary regulations that invade every facet of business, and indeed, very much of our personal lives, that are unnecessary
+T373	Claim 60198 60228	that Government can do without
+T374	Claim 60230 60300	that have added $130 billion to the cost of production in this country
+T375	Claim 60306 60351	that are contributing their part to inflation
+T376	Premise 59218 59301	The Department of Energy has a multi-billion-dollar budget in excess of $10 billion
+T377	Premise 59303 59394	It hasn't produced a quart of oil or a lump of coal, or anything else in the line of energy
+T379	Claim 61279 61373	we're not putting restraints on American exploration, we're encouraging it in every way we can
+T380	Premise 61096 61274	We have, with our five-year plan for the leasing of offshore lands, proposed more land to be drilled than has been opened up for drilling since this program first started in 1954
+T381	Claim 61455 61718	If it is a well-known fact that I opposed air pollution laws in California, the only thing I can possibly think of is that the President must be suggesting the law that the Federal Government tried to impose on the State of California - not a law, but regulations
+T382	Claim 61902 61951	It would have destroyed the economy of California
+T383	Premise 61721 61900	that would have made it impossible to drive an automobile within the city limits of any California city, or to have a place to put it if you did drive it against their regulations
+T384	Premise 61970 62091	we had the support of Congress when we pointed out how ridiculous this attempt was by the Environmental Protection Agency
+T385	Premise 62093 62170	We still have the strictest air control, or air pollution laws in the country
+T386	Claim 62331 62389	we're already five years behind in what we should be doing
+T387	Premise 62172 62241	As for offshore oiling, only 2% now is so leased and is producing oil
+T388	Premise 62391 62513	There is more oil now, in the wells that have been drilled, than has been taken out in 121 years that they've been drilled
+T389	Claim 63238 63270	It is actuarially out of balance
+T390	Premise 63068 63236	The Social Security system was based on a false premise, with regard to how fast the number of workers would increase and how fast the number of retirees would increase
+T391	Claim 64242 64305	I believe that the system can be put on a sound actuarial basis
+T392	Claim 64198 64236	They must continue to get those checks
+T393	Premise 64311 64354	it's going to take some study and some work
+T394	Premise 64360 64458	not just passing a tax increase to let the load - or the roof - fall in on the next administration
+T395	Claim 63659 63732	What is needed is a study that I have proposed by a task force of experts
+T396	Premise 63733 63970	to look into this entire problem as to how it can be reformed and made actuarially sound, but with the premise that no one presently dependent on Social Security is going to have the rug pulled out from under them and not get their check
+T397	Premise 63276 63363	this first became evident about 16 years ago, and some of us were voicing warnings then
+T398	Premise 63365 63411	Now, it is trillions of dollars out of balance
+T399	Premise 63417 63657	the only answer that has come so far is the biggest single tax increase in our nation's history - the payroll tax increase for Social Security - which will only put a band-aid on this and postpone the day of reckoning by a few years at most
+T400	Premise 63972 64196	We cannot frighten, as we have with the threats and the campaign rhetoric that has gone on in this campaign, our senior citizens - leave them thinking that in some way, they're endangered and they would have no place to turn
+T401	Claim 64950 65102	As long as there is a Democratic President in the White House, we will have a strong and viable Social Security System, free of the threat of bankruptcy
+T402	Claim 65560 65733	These kinds of approaches are very dangerous to the security, the well being and the peace of mind of the retired people of this country and those approaching retirement age
+T403	Premise 65316 65558	in The Wall Street Journal early this week, that a preliminary report of his task force advocates making Social Security more sound by reducing the adjustment in Social Security for the retired people to compensate for the impact of inflation
+T404	Claim 65739 65832	no matter what it takes in the future to keep Social Security sound, it must be kept that way
+T405	Claim 66095 66123	That is the way it will stay
+T406	Premise 65104 65249	Although Governor Reagan has changed his position lately, on four different occasions, he has advocated making Social Security a voluntary system
+T407	Premise 65847 65946	there was a serious threat to the Social Security System and its integrity during the 1976 campaign
+T408	Premise 65951 66093	when I became President, the action of the Democratic Congress working with me has been to put Social Security back on a sound financial basis
+T409	Claim 66165 66185	that just isn't true
+T410	Premise 66187 66300	It has, as I said, delayed the actuarial imbalance falling on us for just a few years with that increase in taxes
+T411	Claim 66306 66353	I don't believe we can go on increasing the tax
+T412	Premise 66363 66474	the problem for the young people today is that they are paying in far more than they can ever expect to get out
+T413	Claim 66865 66995	I suggested that if this is an insurance program, certainly the person who is paying in should be able to name his own beneficiary
+T414	Premise 66656 66859	the voluntary thing that I suggested many years ago was that with a young man orphaned and raised by an aunt who died, his aunt was ineligible for Social Security insurance because she was not his mother
+T415	Claim 66997 67076	That is the closest I have ever come to anything voluntary with Social Security
+T416	Claim 67078 67225	I, too, am pledged to a Social Security program that will reassure these senior citizens of ours that they are going to continue to get their money
+T417	Claim 67227 67275	There are some changes that I would like to make
+T418	Premise 67277 67629	I would like to make a change in the regulation that discriminates against a wife who works and finds that she then is faced with a choice between her father's or her husband's benefits, if he dies first, or what she has paid in; but it does not recognize that she has also been paying in herself, and she is entitled to more than she presently can get
+T419	Claim 67631 67654	I'd like to change that
+T420	Claim 68090 68148	We also need to continue to index Social Security payments
+T421	Premise 68150 68306	so that if inflation rises, the Social Security payments would rise a commensurate degree to let the buying power of a Social Security check continue intact
+T422	Claim 67860 67914	It is obvious that we should have a commitment to them
+T423	Claim 67916 67965	that Social Security benefits should not be taxed
+T424	Claim 67970 68088	that there would be no peremptory change in the standards by which Social Security payments are made to retired people
+T425	Claim 68608 68671	we have an opportunity to move toward national health insurance
+T426	Premise 68673 68718	with an emphasis on the prevention of disease
+T427	Premise 68720 68772	an emphasis on out-patient care, not in-patient care
+T428	Premise 68774 68875	an emphasis on hospital cost containment to hold down the cost of hospital care far those who are ill
+T429	Premise 68877 69068	an emphasis on catastrophic health insurance, so that if a family is threatened with being wiped out economically because of a very high medical bill, then the insurance would help pay for it
+T430	Claim 69070 69166	These are the kinds of elements of a national health insurance, important to the American people
+T431	Premise 69257 69365	When I opposed Medicare, there was another piece of legislation meeting the same problem before the Congress
+T432	Claim 69540 69599	I was not opposing the principle of providing care for them
+T433	Premise 69367 69538	I happened to favor the other piece of legislation and thought that it would be better for the senior citizens and provide better care than the one that was finally passed
+T434	Claim 69601 69655	I was opposing one piece of legislation versus another
+T435	Claim 69826 70037	I think it is disgraceful that the Disability Insurance Fund in Social Security finds checks going every month to tens of thousands of people who are locked up in our institutions for crime or for mental illness
+T436	Premise 70043 70185	they are receiving disability checks from Social Security every month while a state institution provides for all of their needs and their care
+T437	Claim 70263 70469	I think this debate on Social Security, Medicare, national health insurance typifies, as vividly any other subject tonight, the basic historical differences between the Democratic Party and Republican Party
+T438	Premise 70471 70624	The allusions to basic changes in the minimum wage is another, and the deleterious comments that Governor Reagan has made about unemployment compensation
+T439	Claim 71042 71102	when they get in office, they try to govern like Republicans
+T440	Premise 70834 70939	I noticed recently that Governor Reagan frequently quotes Democratic presidents in his acceptance address
+T441	Premise 70941 71036	I have never heard a candidate for President, who is a Republican, quote a Republican president
+T442	Claim 71108 71308	it is good fo the American people to remember that there is a sharp basic historical difference between Governor Reagan and me on these crucial issues - also, between the two parties that we represent
+T443	Premise 70626 70832	These commitments that the Democratic Party has historically made to the working families of this nation have been extremely important to the growth in their stature and in a better quality of life for them
+T444	Claim 72585 72871	The most important crucial difference in this election campaign, in my judgment, is the approach to the control of nuclear weaponry and the inclination to control or not to control the spread of atomic weapons to other nations who don't presently have it, particularly terrorist nations
+T445	Claim 72194 72251	there is the historical perspective that I just described
+T446	Claim 73279 73481	his long-standing inclination, on the use of American power, not to resolve disputes diplomatically and peacefully, but to show that the exercise of military power is best proven by the actual use of it
+T447	Premise 72873 73073	The inclination that Governor Reagan has exemplified in many troubled times since he has been running for President - I think since 1968 - to inject American military forces in places like North Korea
+T448	Premise 73075 73114	to put a blockade around Cuba this year
+T449	Premise 73119 73258	in some instances, to project American forces into a fishing dispute against the small nation of Ecuador on the west coast of South America
+T450	Claim 72428 72583	Governor Reagan, who in most cases does typify his party, but in some cases, there is a radical departure by him from the heritage of Eisenhower and others
+T451	Premise 73494 73516	no President wants war
+T452	Claim 73522 73607	I certainly do not believe that Governor Reagan, if he were President, would want war
+T453	Premise 73613 73871	a President in the Oval Office has to make a judgment on almost a daily basis about how to exercise the enormous power of our country for peace, through diplomacy, or in a careless way in a belligerent attitude which has exemplified his attitudes in the past
+T454	Claim 74283 74519	I believe that there is a fundamental difference - and I think it has been evident in most of the answers that Mr. Carter has given tonight - that he seeks the solution to anything as another opportunity for a Federal Government program
+T455	Claim 74521 74659	I happen to believe that the Federal Government has usurped powers of autonomy and authority that belong back at the state and local level
+T456	Premise 74661 74716	It has imposed on the individual freedoms of the people
+T457	Premise 74722 74884	there are more of these things that could be solved by the people themselves, if they were given a chance, or by the levels of government that were closer to them
+T458	Premise 74934 75027	when he was a candidate in 1976, President Carter invented a thing he called the misery index
+T459	Premise 75029 75146	He added the rate of unemployment and the rate of inflation, and it came, at that time, to 12.5% under President Ford
+T460	Premise 75148 75244	He said that no man with that size misery index has a right to seek reelection to the Presidency
+T461	Claim 75738 75839	I believe there are going to be millions of Democrats that are going to vote with us this time around
+T462	Premise 75849 75880	they too want that promise kept
+T463	Premise 75246 75310	Today, by his own decision, the misery index is in excess of 20%
+T464	Claim 75316 75351	I think this must suggest something
+T465	Premise 75492 75604	the President that I quoted had made a promise, a Democratic promise, and I quoted him because it was never kept
+T466	Claim 75610 75725	today, you would find that that promise is at the very heart of what Republicanism represents in this country today
+T467	Premise 75882 75965	It was a promise for less government and less taxes and more freedom for the people
+T468	Claim 76129 76262	I don't think that can be better illustrated than in the case of guaranteeing women equal rights under the Constitution of our nation
+T469	Premise 76264 76383	For 40 years, the Republican Party platforms called for guaranteeing women equal rights with a constitutional amendment
+T470	Premise 76385 76483	Six predecessors of mine who served in the Oval Office called for this guarantee of women's rights
+T471	Premise 76485 76564	Governor Reagan and his new Republican Party have departed from this commitment
+T472	Premise 76567 76679	a very severe blow to the opportunity for women to finally correct discrimination under which they have suffered
+T473	Premise 76681 76786	When a man and a women do the same amount of work, a man gets paid $1.00, a women only gets paid 59 cents
+T474	Premise 76792 76935	the equal rights amendment only says that equality of rights shall not be abridged for omen b the Federal Government or by he state governments
+T475	Claim 76966 77087	guarantee of equality of opportunity which typifies the Democratic arty, and which is a very important commitment of mine
+T476	Premise 77089 77190	as contrasted with Governor Reagan's radical departure from the long-standing policy of his own party
+T477	Claim 77258 77294	I happen to be against the amendment
+T478	Premise 77304 77431	I think the amendment will take this problem out of the hands of elected legislators and put it in the hands f unelected judges
+T479	Claim 77433 77454	I am for equal rights
+T480	Premise 77460 77665	while you have been in office for four ears and not one single state - and most f them have a majority of Democratic legislators - has added to the ratification r voted to ratify the equal rights amendment
+T481	Premise 77667 77985	While I was Governor, more than eight years ago, I found 14 separate instances where women were discriminated against in the body of California law, and I had passed and signed into law 14 statutes that eliminated those discriminations, including the economic ones that you have just mentioned - equal pay and so forth
+T482	Premise 78184 78370	If I were President, I would also now take a look at the hundreds of Federal regulations which discriminate against women and which go right on while everyone is looking for an amendment
+T483	Claim 78372 78423	I would have someone ride herd on those regulations
+T484	Claim 78429 78517	we would start eliminating those discriminations in the Federal Government against women
+T485	Claim 78864 78936	We've been remarkably successful, with the help of a Democratic Congress
+T486	Premise 78773 78862	One of the commitments that I made was to deregulate the major industries of this country
+T487	Premise 78562 78771	I'm a Southerner, and I share the basic beliefs of my region that an excessive government intrusion into the private affairs of American citizens and also into the private affairs of the free enterprise system
+T488	Premise 78938 79040	We have deregulated the air industry, the rail industry, the trucking industry, financial institutions
+T489	Premise 79042 79090	We're now working on the communications industry
+T490	Claim 79113 79374	I believe that this element of discrimination is something that the South has seen so vividly as a blight on our region of the country which has now been corrected - not only racial discrimination but discrimination against people that have to work for a living
+T491	Premise 79385 79540	we have been trying to pick ourselves up by our bootstraps, since the long depression years, and lead a full and useful life in the affairs of this country
+T492	Claim 79542 79573	We have made remarkable success
+T493	Claim 79575 79652	It is part of my consciousness and of my commitment to continue this progress
+T494	Claim 79739 79799	what I have just described is a proper course for the future
+T495	Premise 79658 79738	my heritage as a Southerner, my experience in the Oval Office, convinces me that
+T496	Claim 79996 80019	I am for women's rights
+T497	Claim 80096 80365	so-called simple amendment would be used by mischievous men to destroy discriminations that properly belong, by law, to women respecting the physical differences between the two sexes, labor laws that protect them against things that would be physically harmful to them
+T498	Premise 80367 80414	Those would all, could all be challenged by men
+T499	Claim 80420 80501	the same would be true with regard to combat service in the military and so forth
+T500	Claim 81940 81981	The United States must be a nation strong
+T501	Claim 81983 82024	the United States must be a nation secure
+T502	Claim 82026 82069	We must have a society that's just and fair
+T503	Claim 82075 82161	we must extend the benefits of our own commitment to peace, to create a peaceful world
+T504	Claim 83173 83246	I think they ought to remember that one vote can make a lot of difference
+T505	Premise 83248 83353	If one vote per precinct had changed in 1960, John Kennedy would never have been President of this nation
+T506	Premise 83359 83487	if a few more people had gone to the polls and voted in 1968, Hubert Humphrey would have been President; Richard Nixon would not
+T507	Claim 83536 83758	To stay strong, to stay at peace, to raise high the banner of human rights, to set an example for the rest of the world, to let our deep beliefs and commitments be felt by others in other nations, is my plan for the future
+T508	Claim 80999 81160	I think it's been a very constructive debate and I hope it's helped to acquaint the American people with the sharp differences between myself and Governor Reagan
+T509	Premise 81289 81334	I've been President now for almost four years
+T510	Premise 81336 81436	I've had to make thousands of decisions, and each one of those decisions has been a learning process
+T511	Premise 81438 81532	I've seen the strength of my nation, and I've seen the crises it approached in a tentative way
+T512	Premise 81538 81588	I've had to deal with those crises as best I could
+T513	Premise 81593 81721	I've studied the record between myself and Governor Reagan, I've been impressed with the stark differences that exist between us
+T514	Claim 81723 81789	I think the result of this debate indicates that that fact is true
+T515	Claim 81791 81838	I consider myself in the mainstream of my party
+T516	Claim 81840 81938	I consider myself in the mainstream even of the bipartisan list of Presidents who served before me
+T517	Claim 82867 82884	It's a lonely job
+T518	Premise 82163 82285	I believe that since I've been in office, there have been six or eight areas of combat evolved in other parts of the world
+T519	Premise 82287 82402	In each case, I alone have had to determine the interests of my country and the degree of involvement of my country
+T520	Premise 82404 82496	I've done that with moderation, with care, with thoughtfulness; sometimes consulting experts
+T521	Premise 82503 82680	I've learned in this last three and a half years that when an issue is extremely difficult, when the call is very close, the chances are the experts will be divided almost 50-50
+T522	Premise 82686 82865	the final judgment about the future of the nation - war, peace, involvement, reticence, thoughtfulness, care, consideration, concern - has to be made by the man in the Oval Office
+T523	Claim 82975 83007	the job is a very gratifying one
+T524	Premise 82890 82948	with the involvement of the American people in the process
+T525	Premise 82950 82973	with an open Government
+T526	Claim 84842 84906	I think your choice is very obvious as to whom you will vote for
+T527	Premise 84790 84830	if you answer all of those questions yes
+T528	Claim 85071 85115	I could suggest another choice that you have
+T529	Premise 84908 84926	If you don't agree
+T530	Premise 84928 85064	if you don't think that this course that we've been on for the last four years is what you would like to see us follow for the next four
+T531	Claim 85117 85175	This country doesn't have to be in the shape that it is in
+T532	Claim 85480 85532	All of this can be cured and all of it can be solved
+T533	Claim 85177 85282	We do not have to go on sharing in scarcity with the country getting worse off, with unemployment growing
+T534	Premise 85322 85478	If all of the unemployed today were in a single line allowing two feet for each of them, that line would reach from New York City to Los Angeles, California
+T535	Claim 85614 85830	I think in being Governor of California, the most populous state in the Union - if it were a nation, it would be the seventh-ranking economic power in the world - I, too, had some lonely moments and decisions to make
+T536	Claim 85832 85978	I know that the economic program that I have proposed for this nation in the next few years can resolve many of the problems that trouble us today
+T537	Claim 85980 85986	I know
+T538	Premise 85995 86010	we did it there
+T539	Premise 86012 86093	We cut the cost - the increased cost of government - in half over the eight years
+T540	Premise 86095 86166	We returned $5.7 billion in tax rebates, credits and cuts to our people
+T541	Premise 86168 86257	We, as I have said earlier, fell below the national average in inflation when we did that
+T542	Premise 86263 86328	I know that we did give back authority and autonomy to the people
+T543	Claim 86330 86420	I would like to have a crusade today, and I would like to lead that crusade with your help
+T544	Claim 86426 86586	it would be one to take Government off the backs of the great people of this country, and turn you loose again to do those things that I know you can do so well
+T545	Premise 86596 86636	you did them and made this country great
+T36	Premise 60503 60652	the air pollution standard laws that were passed in California were passed over the objections of Governor Reagan, and this is a very well-known fact
+T378	Premise 60670 60789	when someone suggested that the Occupational Safety and Health Act should be abolished, Governor Reagan responded, amen
+T546	Premise 60890 61000	in the proposal for the Alaska lands legislation, 100% of all the offshore lands would be open for exploration
+T547	Premise 61006 61094	95% of all the Alaska lands, where it is suspected or believed that minerals might exist
+T548	Claim 65251 65299	which would, in effect, very quickly bankrupt it

@@ -1,0 +1,1964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from Washington University in St. Louis, Missouri."
+   ]
+  },
+  {
+   "begin": "4.240",
+   "children": [],
+   "end": "8.600",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Gwen Ifill of \"The NewsHour\" and \"Washington Week\" on PBS."
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "26.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Welcome to the first and the only 2008 vice presidential debate between the Republican nominee, Governor Sarah Palin of Alaska, and the Democratic nominee, Joe Biden of Delaware.The Commission on Presidential Debates is the sponsor of this event and the two remaining presidential debates."
+   ]
+  },
+  {
+   "begin": "26.440",
+   "children": [],
+   "end": "36.400",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Tonight's discussion will cover a wide range of topics, including domestic and foreign policy matters.It will be divided roughly into five-minute segments."
+   ]
+  },
+  {
+   "begin": "36.400",
+   "children": [],
+   "end": "44.360",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Each candidate will have 90 seconds to respond to a direct question and then an additional two minutes for rebuttal and follow-up."
+   ]
+  },
+  {
+   "begin": "44.360",
+   "children": [],
+   "end": "55.960",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "The order has been determined by a coin toss.The specific subjects and questions were chosen by me and have not been shared or cleared with anyone on the campaigns or on the commission."
+   ]
+  },
+  {
+   "begin": "55.960",
+   "children": [],
+   "end": "63.160",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "The audience here in the hall has promised to remain very polite, no cheers, applause, no untoward outbursts, except right at this minute now, as we welcome Governor Palin and Senator Biden."
+   ]
+  },
+  {
+   "begin": "63.160",
+   "children": [],
+   "end": "63.760",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)"
+   ]
+  },
+  {
+   "begin": "63.760",
+   "children": [],
+   "end": "64.240",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Nice to meet you."
+   ]
+  },
+  {
+   "begin": "64.240",
+   "children": [],
+   "end": "65.440",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "It's a pleasure."
+   ]
+  },
+  {
+   "begin": "65.440",
+   "children": [],
+   "end": "66.320",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Hey, can I call you Joe?"
+   ]
+  },
+  {
+   "begin": "66.320",
+   "children": [],
+   "end": "67.080",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "(OFF-MIKE)"
+   ]
+  },
+  {
+   "begin": "67.080",
+   "children": [],
+   "end": "67.720",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Thank you.Thank you, Gwen."
+   ]
+  },
+  {
+   "begin": "67.720",
+   "children": [],
+   "end": "68.000",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "68.000",
+   "children": [],
+   "end": "68.200",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "68.200",
+   "children": [],
+   "end": "109.280",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Welcome to you both.As we have determined by a coin toss, the first question will go to Senator Biden, with a 90-second follow-up from Governor Palin.The House of Representatives this week passed a bill, a big bailout bill -- or didn't pass it, I should say."
+   ]
+  },
+  {
+   "begin": "109.280",
+   "children": [],
+   "end": "121.440",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "The Senate decided to pass it, and the House is wrestling with it still tonight.As America watches these things happen on Capitol Hill, Senator Biden, was this the worst of Washington or the best of Washington that we saw play out?"
+   ]
+  },
+  {
+   "begin": "121.440",
+   "children": [],
+   "end": "137.400",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Let me begin by thanking you, Gwen, for hosting this.And, Governor, it's a pleasure to meet you, and it's a pleasure to be with you.I think it's neither the best or worst of Washington, but it's evidence of the fact that the economic policies of the last eight years have been the worst economic policies we've ever had."
+   ]
+  },
+  {
+   "begin": "137.400",
+   "children": [],
+   "end": "159.800",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "As a consequence, you've seen what's happened on Wall Street.If you need any more proof positive of how bad the economic theories have been, this excessive deregulation, the failure to oversee what was going on, letting Wall Street run wild, I don't think you needed any more evidence than what you see now.So the Congress has been put -- Democrats and Republicans have been put in a very difficult spot."
+   ]
+  },
+  {
+   "begin": "159.800",
+   "children": [],
+   "end": "168.000",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "But Barack Obama laid out four basic criteria for any kind of rescue plan here."
+   ]
+  },
+  {
+   "begin": "168.000",
+   "children": [],
+   "end": "169.920",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "He, first of all, said there has to be oversight."
+   ]
+  },
+  {
+   "begin": "169.920",
+   "children": [],
+   "end": "174.240",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "We're not going to write any check to anybody unless there's oversight for the -- of the secretary of Treasury."
+   ]
+  },
+  {
+   "begin": "174.240",
+   "children": [],
+   "end": "178.080",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "He secondly said you have to focus on homeowners and folks on Main Street."
+   ]
+  },
+  {
+   "begin": "178.080",
+   "children": [],
+   "end": "183.040",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Thirdly, he said that you have to treat the taxpayers like investors in this case."
+   ]
+  },
+  {
+   "begin": "183.040",
+   "children": [],
+   "end": "192.280",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "And, lastly, what you have to do is make sure that CEOs don't benefit from this, because this could end up, in the long run, people making money off of this rescue plan."
+   ]
+  },
+  {
+   "begin": "192.280",
+   "children": [],
+   "end": "206.880",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "And so, as a consequence of that, it brings us back to maybe the fundamental disagreement between Governor Palin and me and Senator McCain and Barack Obama, and that is that the -- we're going to fundamentally change the focus of the economic policy."
+   ]
+  },
+  {
+   "begin": "206.880",
+   "children": [],
+   "end": "215.440",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "We're going to focus on the middle class, because it's -- when the middle class is growing, the economy grows and everybody does well, not just focus on the wealthy and corporate America."
+   ]
+  },
+  {
+   "begin": "215.440",
+   "children": [],
+   "end": "218.040",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Thank you, Senator.Governor Palin?"
+   ]
+  },
+  {
+   "begin": "218.040",
+   "children": [],
+   "end": "218.400",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Thank you, Gwen."
+   ]
+  },
+  {
+   "begin": "218.400",
+   "children": [],
+   "end": "220.320",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "And I thank the commission, also."
+   ]
+  },
+  {
+   "begin": "220.320",
+   "children": [],
+   "end": "239.280",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "I appreciate this privilege of being able to be here and speak with Americans.You know, I think a good barometer here, as we try to figure out has this been a good time or a bad time in America's economy, is go to a kid's soccer game on Saturday, and turn to any parent there on the sideline and ask them, \"How are you feeling about the economy?\""
+   ]
+  },
+  {
+   "begin": "239.280",
+   "children": [],
+   "end": "248.040",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "And I'll bet you, you're going to hear some fear in that parent's voice, fear regarding the few investments that some of us have in the stock market."
+   ]
+  },
+  {
+   "begin": "248.040",
+   "children": [],
+   "end": "251.360",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Did we just take a major hit with those investments?"
+   ]
+  },
+  {
+   "begin": "251.360",
+   "children": [],
+   "end": "254.960",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "Fear about, how are we going to afford to send our kids to college?"
+   ]
+  },
+  {
+   "begin": "254.960",
+   "children": [],
+   "end": "261.920",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "A fear, as small-business owners, perhaps, how we're going to borrow any money to increase inventory or hire more people."
+   ]
+  },
+  {
+   "begin": "261.920",
+   "children": [],
+   "end": "274.120",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "The barometer there, I think, is going to be resounding that our economy is hurting and the federal government has not provided the sound oversight that we need and that we deserve, and we need reform to that end."
+   ]
+  },
+  {
+   "begin": "274.120",
+   "children": [],
+   "end": "277.640",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "Now, John McCain thankfully has been one representing reform."
+   ]
+  },
+  {
+   "begin": "277.640",
+   "children": [],
+   "end": "283.920",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "Two years ago, remember, it was John McCain who pushed so hard with the Fannie Mae and Freddie Mac reform measures."
+   ]
+  },
+  {
+   "begin": "283.920",
+   "children": [],
+   "end": "285.640",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "He sounded that warning bell."
+   ]
+  },
+  {
+   "begin": "285.640",
+   "children": [],
+   "end": "293.640",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "People in the Senate with him, his colleagues, didn't want to listen to him and wouldn't go towards that reform that was needed then."
+   ]
+  },
+  {
+   "begin": "293.640",
+   "children": [],
+   "end": "312.160",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "I think that the alarm has been heard, though, and there will be that greater oversight, again thanks to John McCain's bipartisan efforts that he was so instrumental in bringing folks together over this past week, even suspending his own campaign to make sure he was putting excessive politics aside and putting the country first."
+   ]
+  },
+  {
+   "begin": "312.160",
+   "children": [],
+   "end": "323.080",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "You both would like to be vice president.Senator Biden, how, as vice president, would you work to shrink this gap of polarization which has sprung up in Washington, which you both have spoken about here tonight?"
+   ]
+  },
+  {
+   "begin": "323.080",
+   "children": [],
+   "end": "339.680",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Well, that's what I've done my whole career, Gwen, on very, very controversial issues, from dealing with violence against women, to putting 100,000 police officers on the street, to trying to get something done about the genocide in -- that was going on in Bosnia.And I -- I have been able to reach across the aisle."
+   ]
+  },
+  {
+   "begin": "339.680",
+   "children": [],
+   "end": "346.080",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "I think it's fair to say that I have almost as many friends on the Republican side of the aisle as I do the Democratic side of the aisle."
+   ]
+  },
+  {
+   "begin": "346.080",
+   "children": [],
+   "end": "349.800",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "But am I able to respond to -- are we able to stay on the -- on the topic?"
+   ]
+  },
+  {
+   "begin": "349.800",
+   "children": [],
+   "end": "350.720",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "You may, if you like."
+   ]
+  },
+  {
+   "begin": "350.720",
+   "children": [],
+   "end": "360.240",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "Yes, well, you know, until two weeks ago -- it was two Mondays ago John McCain said at 9 o'clock in the morning that the fundamentals of the economy were strong."
+   ]
+  },
+  {
+   "begin": "360.240",
+   "children": [],
+   "end": "368.400",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "Two weeks before that, he said George -- we've made great economic progress under George Bush's policies.Nine o'clock, the economy was strong."
+   ]
+  },
+  {
+   "begin": "368.400",
+   "children": [],
+   "end": "374.400",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Eleven o'clock that same day, two Mondays ago, John McCain said that we have an economic crisis."
+   ]
+  },
+  {
+   "begin": "374.400",
+   "children": [],
+   "end": "378.240",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "That doesn't make John McCain a bad guy, but it does point out he's out of touch."
+   ]
+  },
+  {
+   "begin": "378.240",
+   "children": [],
+   "end": "380.920",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "Those folks on the sidelines knew that two months ago."
+   ]
+  },
+  {
+   "begin": "380.920",
+   "children": [],
+   "end": "383.440",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Governor Palin, you may respond."
+   ]
+  },
+  {
+   "begin": "383.440",
+   "children": [],
+   "end": "391.840",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "John McCain, in referring to the fundamental of our economy being strong, he was talking to and he was talking about the American workforce."
+   ]
+  },
+  {
+   "begin": "391.840",
+   "children": [],
+   "end": "399.840",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "And the American workforce is the greatest in this world, with the ingenuity and the work ethic that is just entrenched in our workforce."
+   ]
+  },
+  {
+   "begin": "399.840",
+   "children": [],
+   "end": "400.920",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "That's a positive."
+   ]
+  },
+  {
+   "begin": "400.920",
+   "children": [],
+   "end": "401.560",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "That's encouragement."
+   ]
+  },
+  {
+   "begin": "401.560",
+   "children": [],
+   "end": "408.360",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "And that's what John McCain meant.Now, what I've done as a governor and as a mayor is (inaudible) I've had that track record of reform."
+   ]
+  },
+  {
+   "begin": "408.360",
+   "children": [],
+   "end": "418.640",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "And I've joined this team that is a team of mavericks with John McCain, also, with his track record of reform, where we're known for putting partisan politics aside to just get the job done."
+   ]
+  },
+  {
+   "begin": "418.640",
+   "children": [],
+   "end": "424.080",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Now, Barack Obama, of course, he's pretty much only voted along his party lines."
+   ]
+  },
+  {
+   "begin": "424.080",
+   "children": [],
+   "end": "439.400",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "In fact, 96 percent of his votes have been solely along party line, not having that proof for the American people to know that his commitment, too, is, you know, put the partisanship, put the special interests aside, and get down to getting business done for the people of America."
+   ]
+  },
+  {
+   "begin": "439.400",
+   "children": [],
+   "end": "441.240",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "We're tired of the old politics as usual."
+   ]
+  },
+  {
+   "begin": "441.240",
+   "children": [],
+   "end": "452.360",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "And that's why, with all due respect, I do respect your years in the U.S. Senate, but I think Americans are craving something new and different and that new energy and that new commitment that's going to come with reform."
+   ]
+  },
+  {
+   "begin": "452.360",
+   "children": [],
+   "end": "457.680",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "I think that's why we need to send the maverick from the Senate and put him in the White House, and I'm happy to join him there."
+   ]
+  },
+  {
+   "begin": "457.680",
+   "children": [],
+   "end": "461.440",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Governor, Senator, neither of you really answered that last question about what you would do as vice president."
+   ]
+  },
+  {
+   "begin": "461.440",
+   "children": [],
+   "end": "463.560",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I'm going to come back to that... (LAUGHTER)"
+   ]
+  },
+  {
+   "begin": "463.560",
+   "children": [],
+   "end": "470.640",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "... throughout the evening to try to see if we can look forward, as well.Now, let's talk about -- the next question is to talk about the subprime lending meltdown."
+   ]
+  },
+  {
+   "begin": "470.640",
+   "children": [],
+   "end": "472.320",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Who do you think was at fault?"
+   ]
+  },
+  {
+   "begin": "472.320",
+   "children": [],
+   "end": "476.160",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "I start with you, Governor Palin."
+   ]
+  },
+  {
+   "begin": "476.160",
+   "children": [],
+   "end": "477.960",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "Was it the greedy lenders?"
+   ]
+  },
+  {
+   "begin": "477.960",
+   "children": [],
+   "end": "482.080",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "Was it the risky home-buyers who shouldn't have been buying a home in the first place?"
+   ]
+  },
+  {
+   "begin": "482.080",
+   "children": [],
+   "end": "483.480",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "And what should you be doing about it?"
+   ]
+  },
+  {
+   "begin": "483.480",
+   "children": [],
+   "end": "493.920",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Darn right it was the predator lenders, who tried to talk Americans into thinking that it was smart to buy a $300,000 house if we could only afford a $100,000 house."
+   ]
+  },
+  {
+   "begin": "493.920",
+   "children": [],
+   "end": "498.840",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "There was deception there, and there was greed and there is corruption on Wall Street."
+   ]
+  },
+  {
+   "begin": "498.840",
+   "children": [],
+   "end": "507.360",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "And we need to stop that.Again, John McCain and I, that commitment that we have made, and we're going to follow through on that, getting rid of that corruption."
+   ]
+  },
+  {
+   "begin": "507.360",
+   "children": [],
+   "end": "521.240",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "One thing that Americans do at this time, also, though, is let's commit ourselves just every day American people, Joe Six Pack, hockey moms across the nation, I think we need to band together and say never again."
+   ]
+  },
+  {
+   "begin": "521.240",
+   "children": [],
+   "end": "529.400",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Never will we be exploited and taken advantage of again by those who are managing our money and loaning us these dollars."
+   ]
+  },
+  {
+   "begin": "529.400",
+   "children": [],
+   "end": "540.920",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "We need to make sure that we demand from the federal government strict oversight of those entities in charge of our investments and our savings and we need also to not get ourselves in debt."
+   ]
+  },
+  {
+   "begin": "540.920",
+   "children": [],
+   "end": "546.160",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Let's do what our parents told us before we probably even got that first credit card."
+   ]
+  },
+  {
+   "begin": "546.160",
+   "children": [],
+   "end": "548.200",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "Don't live outside of our means."
+   ]
+  },
+  {
+   "begin": "548.200",
+   "children": [],
+   "end": "553.200",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "We need to make sure that as individuals we're taking personal responsibility through all of this."
+   ]
+  },
+  {
+   "begin": "553.200",
+   "children": [],
+   "end": "566.400",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "It's not the American peoples\u00e2\u20ac\u2122s fault that the economy is hurting like it is, but we have an opportunity to learn a heck of a lot of good lessons through this and say never again will we be taken advantage of."
+   ]
+  },
+  {
+   "begin": "566.400",
+   "children": [],
+   "end": "566.920",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Senator?"
+   ]
+  },
+  {
+   "begin": "566.920",
+   "children": [],
+   "end": "572.560",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "Well Gwen, two years ago Barack Obama warned about the sub prime mortgage crisis."
+   ]
+  },
+  {
+   "begin": "572.560",
+   "children": [],
+   "end": "579.240",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "John McCain said shortly after that in December he was surprised there was a sub prime mortgage problem."
+   ]
+  },
+  {
+   "begin": "579.240",
+   "children": [],
+   "end": "589.800",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "John McCain while Barack Obama was warning about what we had to do was literally giving an interview to \"The Wall Street Journal\" saying that I'm always for cutting regulations."
+   ]
+  },
+  {
+   "begin": "589.800",
+   "children": [],
+   "end": "592.360",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "We let Wall Street run wild."
+   ]
+  },
+  {
+   "begin": "592.360",
+   "children": [],
+   "end": "606.040",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "John McCain and he's a good man, but John McCain thought the answer is that tried and true Republican response, deregulate, deregulate.So what you had is you had overwhelming \"deregulation.\""
+   ]
+  },
+  {
+   "begin": "606.040",
+   "children": [],
+   "end": "610.160",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "You had actually the belief that Wall Street could self-regulate itself."
+   ]
+  },
+  {
+   "begin": "610.160",
+   "children": [],
+   "end": "619.280",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "And while Barack Obama was talking about reinstating those regulations, John on 20 different occasions in the previous year and a half called for more deregulation."
+   ]
+  },
+  {
+   "begin": "619.280",
+   "children": [],
+   "end": "631.760",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, John recently wrote an article in a major magazine saying that he wants to do for the health care industry deregulate it and let the free market move like he did for the banking industry."
+   ]
+  },
+  {
+   "begin": "631.760",
+   "children": [],
+   "end": "633.680",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "So deregulation was the promise."
+   ]
+  },
+  {
+   "begin": "633.680",
+   "children": [],
+   "end": "634.480",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "And guess what?"
+   ]
+  },
+  {
+   "begin": "634.480",
+   "children": [],
+   "end": "639.160",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Those people who say don't go into debt, they can barely pay to fill up their gas tank."
+   ]
+  },
+  {
+   "begin": "639.160",
+   "children": [],
+   "end": "643.120",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "I was recently at my local gas station and asked a guy named Joey Danco (ph)."
+   ]
+  },
+  {
+   "begin": "643.120",
+   "children": [],
+   "end": "645.840",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "I said Joey, how much did it cost to fill your tank?"
+   ]
+  },
+  {
+   "begin": "645.840",
+   "children": [],
+   "end": "647.080",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "You know what his answer was?"
+   ]
+  },
+  {
+   "begin": "647.080",
+   "children": [],
+   "end": "648.640",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "He said I don't know, Joe."
+   ]
+  },
+  {
+   "begin": "648.640",
+   "children": [],
+   "end": "650.640",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "I never have enough money to do it."
+   ]
+  },
+  {
+   "begin": "650.640",
+   "children": [],
+   "end": "653.240",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "The middle class needs relief, tax relief."
+   ]
+  },
+  {
+   "begin": "653.240",
+   "children": [],
+   "end": "654.200",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "They need it now."
+   ]
+  },
+  {
+   "begin": "654.200",
+   "children": [],
+   "end": "655.280",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "They need help now."
+   ]
+  },
+  {
+   "begin": "655.280",
+   "children": [],
+   "end": "657.240",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "The focus will change with Barack Obama."
+   ]
+  },
+  {
+   "begin": "657.240",
+   "children": [],
+   "end": "661.360",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "Governor, please if you want to respond to what he said about Senator McCain's comments about health care?"
+   ]
+  },
+  {
+   "begin": "661.360",
+   "children": [],
+   "end": "663.640",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "I would like to respond about the tax increases."
+   ]
+  },
+  {
+   "begin": "663.640",
+   "children": [],
+   "end": "671.400",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "We can speak in agreement here that darn right we need tax relief for Americans so that jobs can be created here."
+   ]
+  },
+  {
+   "begin": "671.400",
+   "children": [],
+   "end": "678.440",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Now, Barack Obama and Senator Biden also voted for the largest tax increases in U.S. history."
+   ]
+  },
+  {
+   "begin": "678.440",
+   "children": [],
+   "end": "696.680",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "Barack had 94 opportunities to side on the people's side and reduce taxes and 94 times he voted to increase taxes or not support a tax reduction, 94 times.Now, that's not what we need to create jobs and really bolster and heat up our economy."
+   ]
+  },
+  {
+   "begin": "696.680",
+   "children": [],
+   "end": "701.240",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "We do need the private sector to be able to keep more of what we earn and produce."
+   ]
+  },
+  {
+   "begin": "701.240",
+   "children": [],
+   "end": "708.960",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Government is going to have to learn to be more efficient and live with less if that's what it takes to reign in the government growth that we've seen today."
+   ]
+  },
+  {
+   "begin": "708.960",
+   "children": [],
+   "end": "719.960",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "But we do need tax relief and Barack Obama even supported increasing taxes as late as last year for those families making only $42,000 a year."
+   ]
+  },
+  {
+   "begin": "719.960",
+   "children": [],
+   "end": "725.600",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "That's a lot of middle income average American families to increase taxes on them."
+   ]
+  },
+  {
+   "begin": "725.600",
+   "children": [],
+   "end": "729.720",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "I think that is the way to kill jobs and to continue to harm our economy."
+   ]
+  },
+  {
+   "begin": "729.720",
+   "children": [],
+   "end": "730.240",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Senator?"
+   ]
+  },
+  {
+   "begin": "730.240",
+   "children": [],
+   "end": "732.520",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "The charge is absolutely not true."
+   ]
+  },
+  {
+   "begin": "732.520",
+   "children": [],
+   "end": "735.040",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Barack Obama did not vote to raise taxes."
+   ]
+  },
+  {
+   "begin": "735.040",
+   "children": [],
+   "end": "738.320",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "The vote she's referring to, John McCain voted the exact same way."
+   ]
+  },
+  {
+   "begin": "738.320",
+   "children": [],
+   "end": "740.280",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "It was a budget procedural vote."
+   ]
+  },
+  {
+   "begin": "740.280",
+   "children": [],
+   "end": "741.760",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "John McCain voted the same way."
+   ]
+  },
+  {
+   "begin": "741.760",
+   "children": [],
+   "end": "742.840",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "It did not raise taxes."
+   ]
+  },
+  {
+   "begin": "742.840",
+   "children": [],
+   "end": "750.920",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "Number two, using the standard that the governor uses, John McCain voted 477 times to raise taxes."
+   ]
+  },
+  {
+   "begin": "750.920",
+   "children": [],
+   "end": "766.240",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "It's a bogus standard it but if you notice, Gwen, the governor did not answer the question about deregulation, did not answer the question of defending John McCain about not going along with the deregulation, letting Wall Street run wild."
+   ]
+  },
+  {
+   "begin": "766.240",
+   "children": [],
+   "end": "770.480",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "He did support deregulation almost across the board."
+   ]
+  },
+  {
+   "begin": "770.480",
+   "children": [],
+   "end": "771.920",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "That's why we got into so much trouble."
+   ]
+  },
+  {
+   "begin": "771.920",
+   "children": [],
+   "end": "774.160",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Would you like to have an opportunity to answer that before we move on?"
+   ]
+  },
+  {
+   "begin": "774.160",
+   "children": [],
+   "end": "776.720",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "I'm still on the tax thing because I want to correct you on that again."
+   ]
+  },
+  {
+   "begin": "776.720",
+   "children": [],
+   "end": "779.680",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "And I want to let you know what I did as a mayor and as a governor."
+   ]
+  },
+  {
+   "begin": "779.680",
+   "children": [],
+   "end": "787.320",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "And I may not answer the questions the way that either the moderator or you want to hear, but I'm going to talk straight to the American people and let them know my track record also."
+   ]
+  },
+  {
+   "begin": "787.320",
+   "children": [],
+   "end": "790.840",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "As mayor, every year I was in office I did reduce taxes."
+   ]
+  },
+  {
+   "begin": "790.840",
+   "children": [],
+   "end": "799.040",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "I eliminated personal property taxes and eliminated small business inventory taxes and as governor we suspended our state fuel tax."
+   ]
+  },
+  {
+   "begin": "799.040",
+   "children": [],
+   "end": "803.160",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "We did all of those things knowing that that is how our economy would be heated up."
+   ]
+  },
+  {
+   "begin": "803.160",
+   "children": [],
+   "end": "814.080",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Now, as for John McCain's adherence to rules and regulations and pushing for even harder and tougher regulations, that is another thing that he is known for though."
+   ]
+  },
+  {
+   "begin": "814.080",
+   "children": [],
+   "end": "815.520",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Look at the tobacco industry."
+   ]
+  },
+  {
+   "begin": "815.520",
+   "children": [],
+   "end": "817.040",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Look at campaign finance reform."
+   ]
+  },
+  {
+   "begin": "817.040",
+   "children": [],
+   "end": "818.600",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "OK, our time is up here."
+   ]
+  },
+  {
+   "begin": "818.600",
+   "children": [],
+   "end": "820.360",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "We've got to move to the next question."
+   ]
+  },
+  {
+   "begin": "820.360",
+   "children": [],
+   "end": "823.640",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "Senator Biden, we want to talk about taxes, let's talk about taxes."
+   ]
+  },
+  {
+   "begin": "823.640",
+   "children": [],
+   "end": "829.360",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "You proposed raising taxes on people who earn over $250,000 a year."
+   ]
+  },
+  {
+   "begin": "829.360",
+   "children": [],
+   "end": "845.680",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "The question for you is, why is that not class warfare and the same question for you, Governor Palin, is you have proposed taxing employer health benefits which some studies say would actually throw five million more people onto the roles of the uninsured."
+   ]
+  },
+  {
+   "begin": "845.680",
+   "children": [],
+   "end": "851.120",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "I want to know why that isn't taking things out on the poor, starting with you, Senator Biden."
+   ]
+  },
+  {
+   "begin": "851.120",
+   "children": [],
+   "end": "855.600",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Well Gwen, where I come from, it's called fairness, just simple fairness."
+   ]
+  },
+  {
+   "begin": "855.600",
+   "children": [],
+   "end": "857.760",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "The middle class is struggling."
+   ]
+  },
+  {
+   "begin": "857.760",
+   "children": [],
+   "end": "872.400",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "The middle class under John McCain's tax proposal, 100 million families, middle class families, households to be precise, they got not a single change, they got not a single break in taxes."
+   ]
+  },
+  {
+   "begin": "872.400",
+   "children": [],
+   "end": "886.000",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "No one making less than $250,000 under Barack Obama's plan will see one single penny of their tax raised whether it's their capital gains tax, their income tax, investment tax, any tax."
+   ]
+  },
+  {
+   "begin": "886.000",
+   "children": [],
+   "end": "896.400",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "And 95 percent of the people in the United States of America making less than $150,000 will get a tax break.Now, that seems to me to be simple fairness."
+   ]
+  },
+  {
+   "begin": "896.400",
+   "children": [],
+   "end": "899.600",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "The economic engine of America is the middle class."
+   ]
+  },
+  {
+   "begin": "899.600",
+   "children": [],
+   "end": "901.680",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "It's the people listening to this broadcast."
+   ]
+  },
+  {
+   "begin": "901.680",
+   "children": [],
+   "end": "904.840",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "When you do well, America does well."
+   ]
+  },
+  {
+   "begin": "904.840",
+   "children": [],
+   "end": "906.440",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Even the wealthy do well."
+   ]
+  },
+  {
+   "begin": "906.440",
+   "children": [],
+   "end": "908.440",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "This is not punitive."
+   ]
+  },
+  {
+   "begin": "908.440",
+   "children": [],
+   "end": "918.600",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "John wants to add $300 million, billion in new tax cuts per year for corporate America and the very wealthy while giving virtually nothing to the middle class."
+   ]
+  },
+  {
+   "begin": "918.600",
+   "children": [],
+   "end": "920.160",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "We have a different value set."
+   ]
+  },
+  {
+   "begin": "920.160",
+   "children": [],
+   "end": "922.760",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "The middle class is the economic engine."
+   ]
+  },
+  {
+   "begin": "922.760",
+   "children": [],
+   "end": "923.760",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "It's fair."
+   ]
+  },
+  {
+   "begin": "923.760",
+   "children": [],
+   "end": "929.120",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "They deserve the tax breaks, not the super wealthy who are doing pretty well."
+   ]
+  },
+  {
+   "begin": "929.120",
+   "children": [],
+   "end": "931.160",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "They don't need any more tax breaks."
+   ]
+  },
+  {
+   "begin": "931.160",
+   "children": [],
+   "end": "935.080",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "And by the way, they'll pay no more than they did under Ronald Reagan."
+   ]
+  },
+  {
+   "begin": "935.080",
+   "children": [],
+   "end": "936.560",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Governor?"
+   ]
+  },
+  {
+   "begin": "936.560",
+   "children": [],
+   "end": "942.840",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "I do take issue with some of the principle there with that redistribution of wealth principle that seems to be espoused by you."
+   ]
+  },
+  {
+   "begin": "942.840",
+   "children": [],
+   "end": "954.880",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "But when you talk about Barack's plan to tax increase affecting only those making $250,000 a year or more, you're forgetting the millions of small businesses that are going to fit into that category."
+   ]
+  },
+  {
+   "begin": "954.880",
+   "children": [],
+   "end": "968.200",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "So they're going to be the ones paying higher taxes thus resulting in fewer jobs being created and less productivity.Now you said recently that higher taxes or asking for higher taxes or paying higher taxes is patriotic."
+   ]
+  },
+  {
+   "begin": "968.200",
+   "children": [],
+   "end": "975.640",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "In the middle class of America which is where Todd and I have been all of our lives, that's not patriotic."
+   ]
+  },
+  {
+   "begin": "975.640",
+   "children": [],
+   "end": "979.800",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Patriotic is saying, government, you know, you're not always the solution."
+   ]
+  },
+  {
+   "begin": "979.800",
+   "children": [],
+   "end": "992.000",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "In fact, too often you're the problem so, government, lessen the tax burden and on our families and get out of the way and let the private sector and our families grow and thrive and prosper."
+   ]
+  },
+  {
+   "begin": "992.000",
+   "children": [],
+   "end": "1003.520",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "An increased tax formula that Barack Obama is proposing in addition to nearly a trillion dollars in new spending that he's proposing is the backwards way of trying to grow our economy."
+   ]
+  },
+  {
+   "begin": "1003.520",
+   "children": [],
+   "end": "1007.280",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Governor, are you interested in defending Senator McCain's health care plan?"
+   ]
+  },
+  {
+   "begin": "1007.280",
+   "children": [],
+   "end": "1011.040",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "I am because he's got a good health care plan that is detailed."
+   ]
+  },
+  {
+   "begin": "1011.040",
+   "children": [],
+   "end": "1013.520",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "And I want to give you a couple details on that."
+   ]
+  },
+  {
+   "begin": "1013.520",
+   "children": [],
+   "end": "1022.000",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "He's proposing a $5,000 tax credit for families so that they can get out there and they can purchase their own health care coverage."
+   ]
+  },
+  {
+   "begin": "1022.000",
+   "children": [],
+   "end": "1023.360",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "That's a smart thing to do."
+   ]
+  },
+  {
+   "begin": "1023.360",
+   "children": [],
+   "end": "1024.360",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "That's budget neutral."
+   ]
+  },
+  {
+   "begin": "1024.360",
+   "children": [],
+   "end": "1044.600",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "That doesn't cost the government anything as opposed to Barack Obama's plan to mandate health care coverage and have this universal government run program and unless you're pleased with the way the federal government has been running anything lately, I don't think that it's going to be real pleasing for Americans to consider health care being taken over by the feds."
+   ]
+  },
+  {
+   "begin": "1044.600",
+   "children": [],
+   "end": "1050.080",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "But a $5,000 health care credit through our income tax that's budget neutral."
+   ]
+  },
+  {
+   "begin": "1050.080",
+   "children": [],
+   "end": "1051.280",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "That's going to help."
+   ]
+  },
+  {
+   "begin": "1051.280",
+   "children": [],
+   "end": "1062.160",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "And he also wants to erase those artificial lines between states so that through competition, we can cross state lines and if there's a better plan offered somewhere else, we would be able to purchase that."
+   ]
+  },
+  {
+   "begin": "1062.160",
+   "children": [],
+   "end": "1069.120",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "So affordability and accessibility will be the keys there with that $5,000 tax credit also being offered."
+   ]
+  },
+  {
+   "begin": "1069.120",
+   "children": [],
+   "end": "1069.760",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Thank you, governor."
+   ]
+  },
+  {
+   "begin": "1069.760",
+   "children": [],
+   "end": "1070.240",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Senator?"
+   ]
+  },
+  {
+   "begin": "1070.240",
+   "children": [],
+   "end": "1072.400",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Gwen, I don't know where to start."
+   ]
+  },
+  {
+   "begin": "1072.400",
+   "children": [],
+   "end": "1090.520",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "We don't call a redistribution in my neighborhood Scranton, Claymont, Wilmington, the places I grew up, to give the fair to say that not giving Exxon Mobil another $4 billion tax cut this year as John calls for and giving it to middle class people to be able to pay to get their kids to college, we don't call that redistribution."
+   ]
+  },
+  {
+   "begin": "1090.520",
+   "children": [],
+   "end": "1092.120",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "We call that fairness number one."
+   ]
+  },
+  {
+   "begin": "1092.120",
+   "children": [],
+   "end": "1099.920",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Number two fact, 95 percent of the small businesses in America, their owners make less than $250,000 a year."
+   ]
+  },
+  {
+   "begin": "1099.920",
+   "children": [],
+   "end": "1105.520",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "They would not get one single solitary penny increase in taxes, those small businesses."
+   ]
+  },
+  {
+   "begin": "1105.520",
+   "children": [],
+   "end": "1111.440",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Now, with regard to the -- to the health care plan, you know, it's with one hand you giveth, the other you take it."
+   ]
+  },
+  {
+   "begin": "1111.440",
+   "children": [],
+   "end": "1126.600",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "You know how Barack Obama -- excuse me, do you know how John McCain pays for his $5,000 tax credit you're going to get, a family will get?He taxes as income every one of you out there, every one of you listening who has a health care plan through your employer."
+   ]
+  },
+  {
+   "begin": "1126.600",
+   "children": [],
+   "end": "1139.360",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "That's how he raises $3.6 trillion, on your -- taxing your health care benefit to give you a $5,000 plan, which his Web site points out will go straight to the insurance company."
+   ]
+  },
+  {
+   "begin": "1139.360",
+   "children": [],
+   "end": "1146.880",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "And then you're going to have to replace a $12,000 -- that's the average cost of the plan you get through your employer -- it costs $12,000."
+   ]
+  },
+  {
+   "begin": "1146.880",
+   "children": [],
+   "end": "1153.120",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "You're going to have to pay -- replace a $12,000 plan, because 20 million of you are going to be dropped."
+   ]
+  },
+  {
+   "begin": "1153.120",
+   "children": [],
+   "end": "1155.160",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "Twenty million of you will be dropped."
+   ]
+  },
+  {
+   "begin": "1155.160",
+   "children": [],
+   "end": "1161.480",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "So you're going to have to place -- replace a $12,000 plan with a $5,000 check you just give to the insurance company."
+   ]
+  },
+  {
+   "begin": "1161.480",
+   "children": [],
+   "end": "1163.960",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "I call that the \"Ultimate Bridge to Nowhere.\""
+   ]
+  },
+  {
+   "begin": "1163.960",
+   "children": [],
+   "end": "1166.320",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "Thank you, Senator.Now... (LAUGHTER) ..."
+   ]
+  },
+  {
+   "begin": "1166.320",
+   "children": [],
+   "end": "1174.960",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "I want to get -- try to get you both to answer a question that neither of your principals quite answered when my colleague, Jim Lehrer, asked it last week, starting with you, Senator Biden."
+   ]
+  },
+  {
+   "begin": "1174.960",
+   "children": [],
+   "end": "1184.160",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "What promises -- given the events of the week, the bailout plan, all of this, what promises have you and your campaigns made to the American people that you're not going to be able to keep?"
+   ]
+  },
+  {
+   "begin": "1184.160",
+   "children": [],
+   "end": "1189.120",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "Well, the one thing we might have to slow down is a commitment we made to double foreign assistance."
+   ]
+  },
+  {
+   "begin": "1189.120",
+   "children": [],
+   "end": "1190.960",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "We'll probably have to slow that down."
+   ]
+  },
+  {
+   "begin": "1190.960",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "We also are going to make sure that we do not go forward with the tax cut proposals of the administration -- of John McCain, the existing one"
+   ]
+  }
+ ]
+}

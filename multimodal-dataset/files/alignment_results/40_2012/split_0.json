@@ -1,0 +1,2284 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.160",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the campus of Lynn University here in Boca Raton, Florida."
+   ]
+  },
+  {
+   "begin": "6.160",
+   "children": [],
+   "end": "13.400",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "This is the fourth and last debate of the 2012 campaign, brought to you by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "13.400",
+   "children": [],
+   "end": "15.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "This one's on foreign policy."
+   ]
+  },
+  {
+   "begin": "15.240",
+   "children": [],
+   "end": "17.240",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "I'm Bob Schieffer of CBS News."
+   ]
+  },
+  {
+   "begin": "17.240",
+   "children": [],
+   "end": "22.880",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "The questions are mine, and I have not shared them with the candidates or their aides."
+   ]
+  },
+  {
+   "begin": "22.880",
+   "children": [],
+   "end": "31.280",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "The audience has taken a vow of silence -- no applause, no reaction of any kind, except right now when we welcome President Barack Obama and Governor Mitt Romney."
+   ]
+  },
+  {
+   "begin": "31.280",
+   "children": [],
+   "end": "66.240",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, your campaigns have agreed to certain rules and they are simple."
+   ]
+  },
+  {
+   "begin": "66.240",
+   "children": [],
+   "end": "70.800",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "They've asked me to divide the evening into segments."
+   ]
+  },
+  {
+   "begin": "70.800",
+   "children": [],
+   "end": "75.880",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "I'll pose a question at the beginning of each segment."
+   ]
+  },
+  {
+   "begin": "75.880",
+   "children": [],
+   "end": "83.360",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "You will each have two minutes to respond and then we will have a general discussion until we move to the next segment."
+   ]
+  },
+  {
+   "begin": "83.360",
+   "children": [],
+   "end": "98.640",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Tonight's debate, as both of you know, comes on the 50th anniversary of the night that President Kennedy told the world that the Soviet Union had installed nuclear missiles in Cuba, perhaps the closest we've ever come to nuclear war."
+   ]
+  },
+  {
+   "begin": "98.640",
+   "children": [],
+   "end": "108.440",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "And it is a sobering reminder that every president faces at some point an unexpected threat to our national security from abroad."
+   ]
+  },
+  {
+   "begin": "108.440",
+   "children": [],
+   "end": "110.280",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "So let's begin."
+   ]
+  },
+  {
+   "begin": "110.280",
+   "children": [],
+   "end": "116.280",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "The first segment is the challenge of a changing Middle East and the new face of terrorism."
+   ]
+  },
+  {
+   "begin": "116.280",
+   "children": [],
+   "end": "124.360",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "I'm going to put this into two segments so you'll have two topic questions within this one segment on the subject."
+   ]
+  },
+  {
+   "begin": "124.360",
+   "children": [],
+   "end": "129.480",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "The first question, and it concerns Libya."
+   ]
+  },
+  {
+   "begin": "129.480",
+   "children": [],
+   "end": "132.640",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "The controversy over what happened there continues."
+   ]
+  },
+  {
+   "begin": "132.640",
+   "children": [],
+   "end": "135.680",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Four Americans are dead, including an American ambassador."
+   ]
+  },
+  {
+   "begin": "135.680",
+   "children": [],
+   "end": "137.760",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Questions remain."
+   ]
+  },
+  {
+   "begin": "137.760",
+   "children": [],
+   "end": "139.120",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "What happened?"
+   ]
+  },
+  {
+   "begin": "139.120",
+   "children": [],
+   "end": "140.360",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "What caused it?"
+   ]
+  },
+  {
+   "begin": "140.360",
+   "children": [],
+   "end": "142.120",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Was it spontaneous?"
+   ]
+  },
+  {
+   "begin": "142.120",
+   "children": [],
+   "end": "144.320",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Was it an intelligence failure?"
+   ]
+  },
+  {
+   "begin": "144.320",
+   "children": [],
+   "end": "146.480",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Was it a policy failure?"
+   ]
+  },
+  {
+   "begin": "146.480",
+   "children": [],
+   "end": "150.080",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Was there an attempt to mislead people about what really happened?"
+   ]
+  },
+  {
+   "begin": "150.080",
+   "children": [],
+   "end": "159.320",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "Governor Romney, you said this was an example of an American policy in the Middle East that is unraveling before our very eyes."
+   ]
+  },
+  {
+   "begin": "159.320",
+   "children": [],
+   "end": "163.160",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "I'd like to hear each of you give your thoughts on that."
+   ]
+  },
+  {
+   "begin": "163.160",
+   "children": [],
+   "end": "165.080",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Governor Romney, you won the toss."
+   ]
+  },
+  {
+   "begin": "165.080",
+   "children": [],
+   "end": "165.880",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "You go first."
+   ]
+  },
+  {
+   "begin": "165.880",
+   "children": [],
+   "end": "166.880",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Thank you, Bob."
+   ]
+  },
+  {
+   "begin": "166.880",
+   "children": [],
+   "end": "169.920",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "And thank you for agreeing to moderate this debate this evening."
+   ]
+  },
+  {
+   "begin": "169.920",
+   "children": [],
+   "end": "172.880",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Thank you to Lynn University for welcoming us here."
+   ]
+  },
+  {
+   "begin": "172.880",
+   "children": [],
+   "end": "175.080",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "And Mr. President, it's good to be with you again."
+   ]
+  },
+  {
+   "begin": "175.080",
+   "children": [],
+   "end": "180.560",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "We were together at a humorous event a little earlier, and it's nice to maybe funny this time, not on purpose."
+   ]
+  },
+  {
+   "begin": "180.560",
+   "children": [],
+   "end": "183.040",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "We'll see what happens."
+   ]
+  },
+  {
+   "begin": "183.040",
+   "children": [],
+   "end": "195.960",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "This is obviously an area of great concern to the entire world, and to America in particular, which is to see a -- a complete change in the -- the structure and the -- the environment in the Middle East."
+   ]
+  },
+  {
+   "begin": "195.960",
+   "children": [],
+   "end": "209.240",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "With the Arab Spring, came a great deal of hope that there would be a change towards more moderation, and opportunity for greater participation on the part of women in public life, and in economic life in the Middle East."
+   ]
+  },
+  {
+   "begin": "209.240",
+   "children": [],
+   "end": "213.720",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "But instead, we've seen in nation after nation, a number of disturbing events."
+   ]
+  },
+  {
+   "begin": "213.720",
+   "children": [],
+   "end": "218.800",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Of course we see in Syria, 30,000 civilians having been killed by the military there."
+   ]
+  },
+  {
+   "begin": "218.800",
+   "children": [],
+   "end": "229.320",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "We see in -- in Libya, an attack apparently by, I think we know now, by terrorists of some kind against -- against our people there, four people dead."
+   ]
+  },
+  {
+   "begin": "229.320",
+   "children": [],
+   "end": "231.440",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Our hearts and -- and minds go out to them."
+   ]
+  },
+  {
+   "begin": "231.440",
+   "children": [],
+   "end": "237.160",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Mali has been taken over, the northern part of Mali by al-Qaeda type individuals."
+   ]
+  },
+  {
+   "begin": "237.160",
+   "children": [],
+   "end": "240.400",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "We have in -- in Egypt, a Muslim Brotherhood president."
+   ]
+  },
+  {
+   "begin": "240.400",
+   "children": [],
+   "end": "245.400",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "And so what we're seeing is a pretty dramatic reversal in the kind of hopes we had for that region."
+   ]
+  },
+  {
+   "begin": "245.400",
+   "children": [],
+   "end": "250.560",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "Of course the greatest threat of all is Iran, four years closer to a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "250.560",
+   "children": [],
+   "end": "255.240",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "And -- and we're going to have to recognize that we have to do as the president has done."
+   ]
+  },
+  {
+   "begin": "255.240",
+   "children": [],
+   "end": "260.840",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "I congratulate him on -- on taking out Osama bin Laden and going after the leadership in al-Qaeda."
+   ]
+  },
+  {
+   "begin": "260.840",
+   "children": [],
+   "end": "263.480",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "But we can't kill our way out of this mess."
+   ]
+  },
+  {
+   "begin": "263.480",
+   "children": [],
+   "end": "276.720",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "We're going to have to put in place a very comprehensive and robust strategy to help the -- the world of Islam and other parts of the world, reject this radical violent extremism, which is -- it's certainly not on the run."
+   ]
+  },
+  {
+   "begin": "276.720",
+   "children": [],
+   "end": "279.040",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "It's certainly not hiding."
+   ]
+  },
+  {
+   "begin": "279.040",
+   "children": [],
+   "end": "293.320",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "This is a group that is now involved in 10 or 12 countries, and it presents an enormous threat to our friends, to the world, to America, long term, and we must have a comprehensive strategy to help reject this kind of extremism."
+   ]
+  },
+  {
+   "begin": "293.320",
+   "children": [],
+   "end": "294.760",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Mr. President?"
+   ]
+  },
+  {
+   "begin": "294.760",
+   "children": [],
+   "end": "299.280",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "Well, my first job as commander in chief, Bob, is to keep the American people safe."
+   ]
+  },
+  {
+   "begin": "299.280",
+   "children": [],
+   "end": "302.320",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "And that's what we've done over the last four years."
+   ]
+  },
+  {
+   "begin": "302.320",
+   "children": [],
+   "end": "308.760",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "We ended the war in Iraq, refocused our attention on those who actually killed us on 9/11."
+   ]
+  },
+  {
+   "begin": "308.760",
+   "children": [],
+   "end": "313.680",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "And as a consequence, Al Qaeda's core leadership has been decimated."
+   ]
+  },
+  {
+   "begin": "313.680",
+   "children": [],
+   "end": "324.560",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "In addition, we're now able to transition out of Afghanistan in a responsible way, making sure that Afghans take responsibility for their own security."
+   ]
+  },
+  {
+   "begin": "324.560",
+   "children": [],
+   "end": "333.960",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "And that allows us also to rebuild alliances and make friends around the world to combat future threats."
+   ]
+  },
+  {
+   "begin": "333.960",
+   "children": [],
+   "end": "357.880",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Now with respect to Libya, as I indicated in the last debate, when we received that phone call, I immediately made sure that, number one, that we did everything we could to secure those Americans who were still in harm's way; number two, that we would investigate exactly what happened, and number three, most importantly, that we would go after those who killed Americans and we would bring them to justice."
+   ]
+  },
+  {
+   "begin": "357.880",
+   "children": [],
+   "end": "361.040",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And that's exactly what we're going to do."
+   ]
+  },
+  {
+   "begin": "361.040",
+   "children": [],
+   "end": "366.720",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "But I think it's important to step back and think about what happened in Libya."
+   ]
+  },
+  {
+   "begin": "366.720",
+   "children": [],
+   "end": "384.520",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Keep in mind that I and Americans took leadership in organizing an international coalition that made sure that we were able to, without putting troops on the ground at the cost of less than what we spent in two weeks in Iraq, liberate a country that had been under the yoke of dictatorship for 40 years."
+   ]
+  },
+  {
+   "begin": "384.520",
+   "children": [],
+   "end": "398.440",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Got rid of a despot who had killed Americans and as a consequence, despite this tragedy, you had tens of thousands of Libyans after the events in Benghazi marching and saying America is our friend."
+   ]
+  },
+  {
+   "begin": "398.440",
+   "children": [],
+   "end": "400.240",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "We stand with them."
+   ]
+  },
+  {
+   "begin": "400.240",
+   "children": [],
+   "end": "403.400",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Now that represents the opportunity we have to take advantage of."
+   ]
+  },
+  {
+   "begin": "403.400",
+   "children": [],
+   "end": "424.520",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "And, you know, Governor Romney, I'm glad that you agree that we have been successful in going after Al Qaida, but I have to tell you that, you know, your strategy previously has been one that has been all over the map and is not designed to keep Americans safe or to build on the opportunities that exist in the Middle East."
+   ]
+  },
+  {
+   "begin": "424.520",
+   "children": [],
+   "end": "434.960",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Well, my strategy is pretty straightforward, which is to go after the bad guys, to make sure we do our very best to interrupt them, to -- to kill them, to take them out of the picture."
+   ]
+  },
+  {
+   "begin": "434.960",
+   "children": [],
+   "end": "436.800",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "But my strategy is broader than that."
+   ]
+  },
+  {
+   "begin": "436.800",
+   "children": [],
+   "end": "439.080",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "That's -- that's important, of course."
+   ]
+  },
+  {
+   "begin": "439.080",
+   "children": [],
+   "end": "446.160",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "But the key that we're going to have to pursue is a -- is a pathway to get the Muslim world to be able to reject extremism on its own."
+   ]
+  },
+  {
+   "begin": "446.160",
+   "children": [],
+   "end": "449.040",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "We don't want another Iraq, we don't want another Afghanistan."
+   ]
+  },
+  {
+   "begin": "449.040",
+   "children": [],
+   "end": "450.560",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "That's not the right course for us."
+   ]
+  },
+  {
+   "begin": "450.560",
+   "children": [],
+   "end": "460.960",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "The right course for us is to make sure that we go after the -- the people who are leaders of these various anti-American groups and these -- these jihadists, but also help the Muslim world."
+   ]
+  },
+  {
+   "begin": "460.960",
+   "children": [],
+   "end": "461.760",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "And how do we do that?"
+   ]
+  },
+  {
+   "begin": "461.760",
+   "children": [],
+   "end": "469.440",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "A group of Arab scholars came together, organized by the U.N., to look at how we can help the -- the world reject these -- these terrorists."
+   ]
+  },
+  {
+   "begin": "469.440",
+   "children": [],
+   "end": "472.640",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "And the answer they came up with was this:  One, more economic development."
+   ]
+  },
+  {
+   "begin": "472.640",
+   "children": [],
+   "end": "481.720",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "We should key our foreign aid, our direct foreign investment, and that of our friends, we should coordinate it to make sure that we -- we push back and give them more economic development."
+   ]
+  },
+  {
+   "begin": "481.720",
+   "children": [],
+   "end": "483.680",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Number two, better education."
+   ]
+  },
+  {
+   "begin": "483.680",
+   "children": [],
+   "end": "485.760",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "Number three, gender equality."
+   ]
+  },
+  {
+   "begin": "485.760",
+   "children": [],
+   "end": "487.720",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Number four, the rule of law."
+   ]
+  },
+  {
+   "begin": "487.720",
+   "children": [],
+   "end": "490.680",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "We have to help these nations create civil societies."
+   ]
+  },
+  {
+   "begin": "490.680",
+   "children": [],
+   "end": "503.280",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "But what's been happening over the last couple of years is, as we've watched this tumult in the Middle East, this rising tide of chaos occur, you see Al Qaida rushing in, you see other jihadist groups rushing in."
+   ]
+  },
+  {
+   "begin": "503.280",
+   "children": [],
+   "end": "506.280",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "And -- and they're throughout many nations in the Middle East."
+   ]
+  },
+  {
+   "begin": "506.280",
+   "children": [],
+   "end": "510.920",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "It's wonderful that Libya seems to be making some progress, despite this terrible tragedy."
+   ]
+  },
+  {
+   "begin": "510.920",
+   "children": [],
+   "end": "513.400",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "But next door, of course, we have Egypt."
+   ]
+  },
+  {
+   "begin": "513.400",
+   "children": [],
+   "end": "517.120",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Libya's 6 million population; Egypt, 80 million population."
+   ]
+  },
+  {
+   "begin": "517.120",
+   "children": [],
+   "end": "520.240",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "We want -- we want to make sure that we're seeing progress throughout the Middle East."
+   ]
+  },
+  {
+   "begin": "520.240",
+   "children": [],
+   "end": "531.800",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "With Mali now having North Mali taken over by Al Qaida; with Syria having Assad continuing to -- to kill, to murder his own people, this is a region in tumult."
+   ]
+  },
+  {
+   "begin": "531.800",
+   "children": [],
+   "end": "535.680",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "And, of course, Iran on the path to a nuclear weapon, we've got real (inaudible)."
+   ]
+  },
+  {
+   "begin": "535.680",
+   "children": [],
+   "end": "538.360",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "We'll get to that, but let's give the president a chance."
+   ]
+  },
+  {
+   "begin": "538.360",
+   "children": [],
+   "end": "556.160",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "Governor Romney, I'm glad that you recognize that Al Qaida is a threat, because a few months ago when you were asked what's the biggest geopolitical threat facing America, you said Russia, not Al Qaida; you said Russia, in the 1980s, they're now calling to ask for their foreign policy back because, you know, the Cold War's been over for 20 years."
+   ]
+  },
+  {
+   "begin": "556.160",
+   "children": [],
+   "end": "569.880",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "But Governor, when it comes to our foreign policy, you seem to want to import the foreign policies of the 1980s, just like the social policies of the 1950s and the economic policies of the 1920s."
+   ]
+  },
+  {
+   "begin": "569.880",
+   "children": [],
+   "end": "574.760",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "You say that you're not interested in duplicating what happened in Iraq."
+   ]
+  },
+  {
+   "begin": "574.760",
+   "children": [],
+   "end": "580.080",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "But just a few weeks ago, you said you think we should have more troops in Iraq right now."
+   ]
+  },
+  {
+   "begin": "580.080",
+   "children": [],
+   "end": "589.720",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "And the -- the challenge we have -- I know you haven't been in a position to actually execute foreign policy -- but every time you've offered an opinion, you've been wrong."
+   ]
+  },
+  {
+   "begin": "589.720",
+   "children": [],
+   "end": "596.360",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "You said we should have gone into Iraq, despite that fact that there were no weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "596.360",
+   "children": [],
+   "end": "600.840",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "You said that we should still have troops in Iraq to this day."
+   ]
+  },
+  {
+   "begin": "600.840",
+   "children": [],
+   "end": "613.440",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "You indicated that we shouldn't be passing nuclear treaties with Russia despite the fact that 71 senators, Democrats and Republicans, voted for it."
+   ]
+  },
+  {
+   "begin": "613.440",
+   "children": [],
+   "end": "618.120",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "You said that, first, we should not have a timeline in Afghanistan."
+   ]
+  },
+  {
+   "begin": "618.120",
+   "children": [],
+   "end": "619.040",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Then you said we should."
+   ]
+  },
+  {
+   "begin": "619.040",
+   "children": [],
+   "end": "628.440",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "Now you say maybe or it depends, which means not only were you wrong, but you were also confusing in sending mixed messages both to our troops and our allies."
+   ]
+  },
+  {
+   "begin": "628.440",
+   "children": [],
+   "end": "638.800",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "So, what -- what we need to do with respect to the Middle East is strong, steady leadership, not wrong and reckless leadership that is all over the map."
+   ]
+  },
+  {
+   "begin": "638.800",
+   "children": [],
+   "end": "649.680",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "And unfortunately, that's the kind of opinions that you've offered throughout this campaign, and it is not a recipe for American strength, or keeping America safe over the long haul."
+   ]
+  },
+  {
+   "begin": "649.680",
+   "children": [],
+   "end": "652.480",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "I'm going to add a couple of minutes here to give you a chance to respond."
+   ]
+  },
+  {
+   "begin": "652.480",
+   "children": [],
+   "end": "658.600",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Well, of course I don't concur with what the president said about my own record and the things that I've said."
+   ]
+  },
+  {
+   "begin": "658.600",
+   "children": [],
+   "end": "659.960",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "They don't happen to be accurate."
+   ]
+  },
+  {
+   "begin": "659.960",
+   "children": [],
+   "end": "670.520",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "But -- but I can say this, that we're talking about the Middle East and how to help the Middle East reject the kind of terrorism we're seeing, and the rising tide of tumult and -- and confusion."
+   ]
+  },
+  {
+   "begin": "670.520",
+   "children": [],
+   "end": "673.520",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "And -- and attacking me is not an agenda."
+   ]
+  },
+  {
+   "begin": "673.520",
+   "children": [],
+   "end": "682.320",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Attacking me is not talking about how we're going to deal with the challenges that exist in the Middle East, and take advantage of the opportunity there, and stem the tide of this violence."
+   ]
+  },
+  {
+   "begin": "682.320",
+   "children": [],
+   "end": "684.160",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "But I'll respond to a couple of things that you mentioned."
+   ]
+  },
+  {
+   "begin": "684.160",
+   "children": [],
+   "end": "687.520",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "First of all, Russia I indicated is a geopolitical foe."
+   ]
+  },
+  {
+   "begin": "687.520",
+   "children": [],
+   "end": "688.640",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Not...  (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "688.640",
+   "children": [],
+   "end": "690.480",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Excuse me."
+   ]
+  },
+  {
+   "begin": "690.480",
+   "children": [],
+   "end": "697.960",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "It's a geopolitical foe, and I said in the same -- in the same paragraph I said, and Iran is the greatest national security threat we face."
+   ]
+  },
+  {
+   "begin": "697.960",
+   "children": [],
+   "end": "701.400",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Russia does continue to battle us in the U.N. time and time again."
+   ]
+  },
+  {
+   "begin": "701.400",
+   "children": [],
+   "end": "702.840",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "I have clear eyes on this."
+   ]
+  },
+  {
+   "begin": "702.840",
+   "children": [],
+   "end": "706.360",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "I'm not going to wear rose-colored glasses when it comes to Russia, or Mr. Putin."
+   ]
+  },
+  {
+   "begin": "706.360",
+   "children": [],
+   "end": "710.800",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "And I'm certainly not going to say to him, I'll give you more flexibility after the election."
+   ]
+  },
+  {
+   "begin": "710.800",
+   "children": [],
+   "end": "712.480",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "After the election, he'll get more backbone."
+   ]
+  },
+  {
+   "begin": "712.480",
+   "children": [],
+   "end": "718.680",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "Number two, with regards to Iraq, you and I agreed I believe that there should be a status of forces agreement."
+   ]
+  },
+  {
+   "begin": "718.680",
+   "children": [],
+   "end": "719.640",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "719.640",
+   "children": [],
+   "end": "720.120",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "Oh you didn't?"
+   ]
+  },
+  {
+   "begin": "720.120",
+   "children": [],
+   "end": "721.720",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "You didn't want a status of..."
+   ]
+  },
+  {
+   "begin": "721.720",
+   "children": [],
+   "end": "726.600",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "What I would not have had done was left 10,000 troops in Iraq that would tie us down."
+   ]
+  },
+  {
+   "begin": "726.600",
+   "children": [],
+   "end": "729.160",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "And that certainly would not help us in the Middle East."
+   ]
+  },
+  {
+   "begin": "729.160",
+   "children": [],
+   "end": "738.000",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "I'm sorry, you actually -- there was a -- there was an effort on the part of the president to have a status of forces agreement, and I concurred in that, and said that we should have some number of troops that stayed on."
+   ]
+  },
+  {
+   "begin": "738.000",
+   "children": [],
+   "end": "739.720",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "That was something I concurred with... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "739.720",
+   "children": [],
+   "end": "740.440",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Governor... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "740.440",
+   "children": [],
+   "end": "740.720",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "...that your posture."
+   ]
+  },
+  {
+   "begin": "740.720",
+   "children": [],
+   "end": "742.360",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "That was my posture as well."
+   ]
+  },
+  {
+   "begin": "742.360",
+   "children": [],
+   "end": "744.000",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "You thought it should have been 5,000 troops... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "744.000",
+   "children": [],
+   "end": "744.000",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Governor?"
+   ]
+  },
+  {
+   "begin": "744.000",
+   "children": [],
+   "end": "744.000",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "..."
+   ]
+  },
+  {
+   "begin": "744.000",
+   "children": [],
+   "end": "746.080",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "I thought there should have been more troops, but you know what?"
+   ]
+  },
+  {
+   "begin": "746.080",
+   "children": [],
+   "end": "747.000",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "The answer was we got... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "747.000",
+   "children": [],
+   "end": "748.760",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "... no troops through whatsoever."
+   ]
+  },
+  {
+   "begin": "748.760",
+   "children": [],
+   "end": "752.120",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "This was just a few weeks ago that you indicated that we should still have troops in Iraq."
+   ]
+  },
+  {
+   "begin": "752.120",
+   "children": [],
+   "end": "752.160",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "No, I... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "752.160",
+   "children": [],
+   "end": "753.560",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "...I'm sorry that's a... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "753.560",
+   "children": [],
+   "end": "753.680",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "You -- you..."
+   ]
+  },
+  {
+   "begin": "753.680",
+   "children": [],
+   "end": "755.080",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "...that's a -- I indicated... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "755.080",
+   "children": [],
+   "end": "755.240",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "...major speech."
+   ]
+  },
+  {
+   "begin": "755.240",
+   "children": [],
+   "end": "755.600",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "755.600",
+   "children": [],
+   "end": "757.640",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "...I indicated that you failed to put in place a status... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "757.640",
+   "children": [],
+   "end": "757.960",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Governor?"
+   ]
+  },
+  {
+   "begin": "757.960",
+   "children": [],
+   "end": "757.960",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "757.960",
+   "children": [],
+   "end": "759.400",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "...of forces agreement at the end of the conflict that existed."
+   ]
+  },
+  {
+   "begin": "759.400",
+   "children": [],
+   "end": "761.920",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Governor -- here -- here's -- here's one thing... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "761.920",
+   "children": [],
+   "end": "764.320",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "...here's one thing I've learned as commander in chief."
+   ]
+  },
+  {
+   "begin": "764.320",
+   "children": [],
+   "end": "765.080",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "765.080",
+   "children": [],
+   "end": "765.560",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "Let him answer..."
+   ]
+  },
+  {
+   "begin": "765.560",
+   "children": [],
+   "end": "773.520",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "You've got to be clear, both to our allies and our enemies, about where you stand and what you mean."
+   ]
+  },
+  {
+   "begin": "773.520",
+   "children": [],
+   "end": "778.560",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "You just gave a speech a few weeks ago in which you said we should still have troops in Iraq."
+   ]
+  },
+  {
+   "begin": "778.560",
+   "children": [],
+   "end": "786.120",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "That is not a recipe for making sure that we are taking advantage of the opportunities and meeting the challenges of the Middle East."
+   ]
+  },
+  {
+   "begin": "786.120",
+   "children": [],
+   "end": "791.200",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "Now, it is absolutely true that we cannot just meet these challenges militarily."
+   ]
+  },
+  {
+   "begin": "791.200",
+   "children": [],
+   "end": "800.240",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "And so what I've done throughout my presidency and will continue to do is, number one, make sure that these countries are supporting our counterterrorism efforts."
+   ]
+  },
+  {
+   "begin": "800.240",
+   "children": [],
+   "end": "809.520",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Number two, make sure that they are standing by our interests in Israel's security, because it is a true friend and our greatest ally in the region."
+   ]
+  },
+  {
+   "begin": "809.520",
+   "children": [],
+   "end": "820.040",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "Number three, we do have to make sure that we're protecting religious minorities and women because these countries can't develop unless all the population, not just half of it, is developing."
+   ]
+  },
+  {
+   "begin": "820.040",
+   "children": [],
+   "end": "825.440",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "Number four, we do have to develop their economic -- their economic capabilities."
+   ]
+  },
+  {
+   "begin": "825.440",
+   "children": [],
+   "end": "832.360",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "But number five, the other thing that we have to do is recognize that we can't continue to do nation building in these regions."
+   ]
+  },
+  {
+   "begin": "832.360",
+   "children": [],
+   "end": "836.720",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Part of American leadership is making sure that we're doing nation building here at home."
+   ]
+  },
+  {
+   "begin": "836.720",
+   "children": [],
+   "end": "841.720",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "That will help us maintain the kind of American leadership that we need."
+   ]
+  },
+  {
+   "begin": "841.720",
+   "children": [],
+   "end": "852.280",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Let me interject the second topic question in this segment about the Middle East and so on, and that is, you both mentioned -- alluded to this, and that is Syria."
+   ]
+  },
+  {
+   "begin": "852.280",
+   "children": [],
+   "end": "855.640",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "The war in Syria has now spilled over into Lebanon."
+   ]
+  },
+  {
+   "begin": "855.640",
+   "children": [],
+   "end": "859.520",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "We have, what, more than 100 people that were killed there in a bomb."
+   ]
+  },
+  {
+   "begin": "859.520",
+   "children": [],
+   "end": "862.480",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "There were demonstrations there, eight people dead."
+   ]
+  },
+  {
+   "begin": "862.480",
+   "children": [],
+   "end": "868.120",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Mr. President, it's been more than a year since you saw -- you told Assad he had to go."
+   ]
+  },
+  {
+   "begin": "868.120",
+   "children": [],
+   "end": "870.720",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Since then, 30,000 Syrians have died."
+   ]
+  },
+  {
+   "begin": "870.720",
+   "children": [],
+   "end": "874.000",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "We've had 300,000 refugees."
+   ]
+  },
+  {
+   "begin": "874.000",
+   "children": [],
+   "end": "875.160",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "The war goes on."
+   ]
+  },
+  {
+   "begin": "875.160",
+   "children": [],
+   "end": "875.920",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "He's still there."
+   ]
+  },
+  {
+   "begin": "875.920",
+   "children": [],
+   "end": "884.320",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Should we reassess our policy and see if we can find a better way to influence events there?"
+   ]
+  },
+  {
+   "begin": "884.320",
+   "children": [],
+   "end": "885.800",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Or is that even possible?"
+   ]
+  },
+  {
+   "begin": "885.800",
+   "children": [],
+   "end": "887.080",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "And you go first, sir."
+   ]
+  },
+  {
+   "begin": "887.080",
+   "children": [],
+   "end": "893.480",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "What we've done is organize the international community, saying Assad has to go."
+   ]
+  },
+  {
+   "begin": "893.480",
+   "children": [],
+   "end": "897.160",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "We've mobilized sanctions against that government."
+   ]
+  },
+  {
+   "begin": "897.160",
+   "children": [],
+   "end": "900.040",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "We have made sure that they are isolated."
+   ]
+  },
+  {
+   "begin": "900.040",
+   "children": [],
+   "end": "910.120",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "We have provided humanitarian assistance and we are helping the opposition organize, and we're particularly interested in making sure that we're mobilizing the moderate forces inside of Syria."
+   ]
+  },
+  {
+   "begin": "910.120",
+   "children": [],
+   "end": "914.640",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "But ultimately, Syrians are going to have to determine their own future."
+   ]
+  },
+  {
+   "begin": "914.640",
+   "children": [],
+   "end": "928.080",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "And so everything we're doing, we're doing in consultation with our partners in the region, including Israel which obviously has a huge interest in seeing what happens in Syria; coordinating with Turkey and other countries in the region that have a great interest in this."
+   ]
+  },
+  {
+   "begin": "928.080",
+   "children": [],
+   "end": "937.240",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "This -- what we're seeing taking place in Syria is heartbreaking, and that's why we are going to do everything we can to make sure that we are helping the opposition."
+   ]
+  },
+  {
+   "begin": "937.240",
+   "children": [],
+   "end": "958.200",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "But we also have to recognize that, you know, for us to get more entangled militarily in Syria is a serious step, and we have to do so making absolutely certain that we know who we are helping; that we're not putting arms in the hands of folks who eventually could turn them against us or allies in the region."
+   ]
+  },
+  {
+   "begin": "958.200",
+   "children": [],
+   "end": "962.680",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "And I am confident that Assad's days are numbered."
+   ]
+  },
+  {
+   "begin": "962.680",
+   "children": [],
+   "end": "975.440",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "But what we can't do is to simply suggest that, as Governor Romney at times has suggested, that giving heavy weapons, for example, to the Syrian opposition is a simple proposition that would lead us to be safer over the long term."
+   ]
+  },
+  {
+   "begin": "975.440",
+   "children": [],
+   "end": "976.720",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "SCHIEFFER: Governor?"
+   ]
+  },
+  {
+   "begin": "976.720",
+   "children": [],
+   "end": "981.960",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "Well, let's step back and talk about what's happening in Syria and how important it is."
+   ]
+  },
+  {
+   "begin": "981.960",
+   "children": [],
+   "end": "987.560",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "First of all, 30,000 people being killed by their government is a humanitarian disaster."
+   ]
+  },
+  {
+   "begin": "987.560",
+   "children": [],
+   "end": "994.040",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "Secondly, Syria is an opportunity for us because Syria plays an important role in the Middle East, particularly right now."
+   ]
+  },
+  {
+   "begin": "994.040",
+   "children": [],
+   "end": "997.680",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "Syria is Iran's only ally in the Arab world."
+   ]
+  },
+  {
+   "begin": "997.680",
+   "children": [],
+   "end": "998.920",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "It's their route to the sea."
+   ]
+  },
+  {
+   "begin": "998.920",
+   "children": [],
+   "end": "1004.800",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "It's the route for them to arm Hezbollah in Lebanon, which threatens, of course, our ally, Israel."
+   ]
+  },
+  {
+   "begin": "1004.800",
+   "children": [],
+   "end": "1009.760",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "And so seeing Syria remove Assad is a very high priority for us."
+   ]
+  },
+  {
+   "begin": "1009.760",
+   "children": [],
+   "end": "1014.680",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "Number two, seeing a -- a replacement government being responsible people is critical for us."
+   ]
+  },
+  {
+   "begin": "1014.680",
+   "children": [],
+   "end": "1017.400",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "And finally, we don't want to have military involvement there."
+   ]
+  },
+  {
+   "begin": "1017.400",
+   "children": [],
+   "end": "1020.240",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "We don't want to get drawn into a military conflict."
+   ]
+  },
+  {
+   "begin": "1020.240",
+   "children": [],
+   "end": "1036.600",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "And so the right course for us, is working through our partners and with our own resources, to identify responsible parties within Syria, organize them, bring them together in a -- in a form of -- if not government, a form of -- of -- of council that can take the lead in Syria."
+   ]
+  },
+  {
+   "begin": "1036.600",
+   "children": [],
+   "end": "1040.320",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "And then make sure they have the arms necessary to defend themselves."
+   ]
+  },
+  {
+   "begin": "1040.320",
+   "children": [],
+   "end": "1044.840",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "We do need to make sure that they don't have arms that get into the -- the wrong hands."
+   ]
+  },
+  {
+   "begin": "1044.840",
+   "children": [],
+   "end": "1047.440",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "Those arms could be used to hurt us down the road."
+   ]
+  },
+  {
+   "begin": "1047.440",
+   "children": [],
+   "end": "1052.720",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "We need to make sure as well that we coordinate this effort with our allies, and particularly with -- with Israel."
+   ]
+  },
+  {
+   "begin": "1052.720",
+   "children": [],
+   "end": "1057.800",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "But the Saudi's and the Qatari, and -- and the Turks are all very concerned about this."
+   ]
+  },
+  {
+   "begin": "1057.800",
+   "children": [],
+   "end": "1059.160",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "They're willing to work with us."
+   ]
+  },
+  {
+   "begin": "1059.160",
+   "children": [],
+   "end": "1071.440",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "We need to have a very effective leadership effort in Syria, making sure that the -- the insurgent there are armed and that the insurgents that become armed, are people who will be the responsible parties."
+   ]
+  },
+  {
+   "begin": "1071.440",
+   "children": [],
+   "end": "1073.960",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Recognize -- I believe that Assad must go."
+   ]
+  },
+  {
+   "begin": "1073.960",
+   "children": [],
+   "end": "1075.560",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "I believe he will go."
+   ]
+  },
+  {
+   "begin": "1075.560",
+   "children": [],
+   "end": "1088.760",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "But I believe -- we want to make sure that we have the relationships of friendship with the people that take his place, steps that in the years to come we see Syria as a -- as a friend, and Syria as a responsible party in the Middle East."
+   ]
+  },
+  {
+   "begin": "1088.760",
+   "children": [],
+   "end": "1091.320",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "This -- this is a critical opportunity for America."
+   ]
+  },
+  {
+   "begin": "1091.320",
+   "children": [],
+   "end": "1097.160",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "And what I'm afraid of is we've watched over the past year or so, first the president saying, well we'll let the U.N. deal with it."
+   ]
+  },
+  {
+   "begin": "1097.160",
+   "children": [],
+   "end": "1101.720",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "And Assad -- excuse me, Kofi Annan came in and said we're going to try to have a ceasefire."
+   ]
+  },
+  {
+   "begin": "1101.720",
+   "children": [],
+   "end": "1102.520",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "That didn't work."
+   ]
+  },
+  {
+   "begin": "1102.520",
+   "children": [],
+   "end": "1106.240",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "Then it went to the Russians and said, let's see if you can do something."
+   ]
+  },
+  {
+   "begin": "1106.240",
+   "children": [],
+   "end": "1110.240",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "We should be playing the leadership role there, not on the ground with military."
+   ]
+  },
+  {
+   "begin": "1110.240",
+   "children": [],
+   "end": "1110.680",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "1110.680",
+   "children": [],
+   "end": "1111.960",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "...by the leadership role."
+   ]
+  },
+  {
+   "begin": "1111.960",
+   "children": [],
+   "end": "1113.280",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "We are playing the leadership role."
+   ]
+  },
+  {
+   "begin": "1113.280",
+   "children": [],
+   "end": "1115.240",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "We organized the Friends of Syria."
+   ]
+  },
+  {
+   "begin": "1115.240",
+   "children": [],
+   "end": "1120.280",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "We are mobilizing humanitarian support, and support for the opposition."
+   ]
+  },
+  {
+   "begin": "1120.280",
+   "children": [],
+   "end": "1128.960",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "And we are making sure that those we help are those who will be friends of ours in the long term and friends of our allies in the region over the long term."
+   ]
+  },
+  {
+   "begin": "1128.960",
+   "children": [],
+   "end": "1135.000",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "But going back to Libya -- because this is an example of how we make choices."
+   ]
+  },
+  {
+   "begin": "1135.000",
+   "children": [],
+   "end": "1145.400",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "When we went in to Libya, and we were able to immediately stop the massacre there, because of the unique circumstances and the coalition that we had helped to organize."
+   ]
+  },
+  {
+   "begin": "1145.400",
+   "children": [],
+   "end": "1148.920",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "We also had to make sure that Moammar Gadhafi didn't stay there."
+   ]
+  },
+  {
+   "begin": "1148.920",
+   "children": [],
+   "end": "1155.240",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "And to the governor's credit, you supported us going into Libya and the coalition that we organized."
+   ]
+  },
+  {
+   "begin": "1155.240",
+   "children": [],
+   "end": "1168.240",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "But when it came time to making sure that Gadhafi did not stay in power, that he was captured, Governor, your suggestion was that this was mission creep, that this was mission muddle."
+   ]
+  },
+  {
+   "begin": "1168.240",
+   "children": [],
+   "end": "1171.520",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "Imagine if we had pulled out at that point."
+   ]
+  },
+  {
+   "begin": "1171.520",
+   "children": [],
+   "end": "1178.440",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "You know, Moammar Gadhafi had more American blood on his hands than any individual other than Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "1178.440",
+   "children": [],
+   "end": "1181.400",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "And so we were going to make sure that we finished the job."
+   ]
+  },
+  {
+   "begin": "1181.400",
+   "children": [],
+   "end": "1184.160",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "That's part of the reason why the Libyans stand with us."
+   ]
+  },
+  {
+   "begin": "1184.160",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "But we did so in a careful, thoughtful way, making certain that we knew who we were dealing with, that those forces of moderation on the ground were ones that we could work with, and we have to take the same kind of"
+   ]
+  }
+ ]
+}

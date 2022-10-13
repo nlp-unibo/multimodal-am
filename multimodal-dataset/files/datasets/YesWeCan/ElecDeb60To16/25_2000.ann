@@ -1,0 +1,919 @@
+T1	Premise 2369 2402	I'm entrusted with the presidency
+T2	Claim 2443 2479	I will balance the budget every year
+T3	Claim 2481 2514	I will pay down the national debt
+T4	Claim 2516 2585	I will put Medicare and Social Security in a lockbox and protect them
+T5	Claim 2591 2633	I will cut taxes for middle-class families
+T6	Claim 2635 2708	I believe it's important to resist the temptation to squander our surplus
+T7	Claim 2740 2808	we can have a prosperity that endures and enriches all of our people
+T8	Premise 2710 2738	If we make the right choices
+T9	Claim 2848 2891	I will help parents and strengthen families
+T10	Premise 2810 2846	If I'm entrusted with the presidency
+T11	Premise 2911 3092	if we have prosperity that grows and grows, we still won't be successful unless we strengthen families by, for example, ensuring that children can always go to schools that are safe
+T12	Premise 3094 3174	By giving parents the tools to protect their children against cultural pollution
+T13	Claim 3176 3239	I will make sure that we invest in our country and our families
+T14	Claim 3245 3355	I mean investing in education, health care, the environment, and middle-class tax cuts and retirement security
+T15	Claim 3391 3442	I think that it's not just a question of experience
+T16	Claim 2305 2364	I believe we have to make the right and responsible choices
+T17	Claim 2062 2117	I think this is a very important moment for our country
+T18	Premise 2119 2160	We have achieved extraordinary prosperity
+T19	Premise 2166 2223	in this election, America has to make an important choice
+T20	Premise 2225 2304	Will we use our prosperity to enrich not just the few, but all of our families?
+T21	Claim 3502 3534	we do come from different places
+T22	Premise 3536 3558	I come from West Texas
+T23	Premise 3560 3603	The governor is the chief executive officer
+T25	Claim 3633 3692	I think you'll find the difference reflected in our budgets
+T24	Premise 3694 3767	I want to take one-half of the surplus and dedicate it to Social Security
+T26	Premise 3769 3818	One-quarter of the surplus for important projects
+T27	Premise 3824 3902	I want to send one-quarter of the surplus back to the people who pay the bills
+T28	Claim 3969 4078	that stands in contrast to my worthy opponent's plan, which will increase the size of government dramatically
+T29	Premise 3904 3963	I want everybody who pays taxes to have their tax rates cut
+T30	Premise 4080 4165	His plan is three times larger than President Clinton's proposed plan eight years ago
+T31	Premise 4167 4267	It is a plan that will have 200 new programs -- expanded programs and creates 20,000 new bureaucrats
+T32	Premise 4269 4294	It it empowers Washington
+T33	Claim 4332 4443	my passion and my vision is to empower Americans to be able to make decisions for themselves in their own lives
+T34	Claim 4726 4729	Yes
+T35	Claim 4565 4717	when you said that you questioned whether or not Governor Bush has experience enough to be president, you were talking about strictly policy differences
+T36	Claim 4748 4847	his tax cut plan, for example, raises the question of whether it's the right choice for the country
+T37	Premise 4896 5122	Under Governor Bush's tax cut proposal, he would spend more money on tax cuts for the wealthiest 1% than all of the new spending that he proposes for education, health care, prescription drugs and national defense all combined
+T38	Claim 5129 5167	I think those are the wrong priorities
+T39	Claim 5174 5332	under my proposal, for every dollar that I propose in spending for things like education and health care, I will put another dollar into middle class tax cuts
+T40	Claim 5338 5441	for every dollar that I spend in those two categories, I'll put $2 toward paying down the national debt
+T41	Claim 5443 5526	I think it's very important to keep the debt going down and completely eliminate it
+T42	Claim 5532 5606	I also think it's very important to go to the next stage of welfare reform
+T43	Premise 5608 5653	Our country has cut the welfare rolls in half
+T44	Claim 5655 5742	I fought hard from my days in the Senate and as vice president to cut the welfare rolls
+T45	Premise 5747 5803	we've moved millions of people in America into good jobs
+T46	Premise 5809 5901	it's now time for the next stage of welfare reform, and include fathers and not only mothers
+T47	Claim 6490 6564	My opponent thinks the government -- the surplus is the government's money
+T48	Claim 6566 6589	That's not what I think
+T49	Claim 6591 6646	I think it's the hard-working people of America's money
+T50	Claim 6651 6690	I want to share some of that money with
+T51	Premise 6695 6763	so you have more money to build and save and dream for your families
+T52	Claim 6456 6488	There is a difference of opinion
+T53	Claim 6765 6793	It's a difference of opinion
+T54	Premise 6795 6922	It's a difference between government making decisions for you and you getting more of your money to make decisions for yourself
+T55	Premise 6331 6454	Surely we can afford 5% of the $25 trillion that are coming into the treasury to the hard working people that pay the bills
+T56	Premise 6242 6330	my plan say why don't we pass 1.3 trillion of that back to the people who pay the bills?
+T57	Premise 6101 6236	over the next ten years it is going to be $25 trillion of revenue that comes into our treasurey and we anticipate spending $21 trillion
+T58	Claim 7120 7123	Yes
+T59	Claim 7125 7148	I take him for his word
+T60	Premise 7156 7195	I fully recognize I'm not of Washington
+T61	Premise 7197 7211	I'm from Texas
+T62	Claim 7217 7258	he's got a lot of experience, but so do I
+T63	Premise 7264 7342	I've been the chief executive officer of the second biggest state in the union
+T64	Premise 7344 7444	I have a proud record of working with both Republicans and Democrats, which is what our nation needs
+T65	Premise 7446 7605	Somebody that can come to Washington and say let's forget all the finger pointing and get positive things done on Medicare, prescription drugs, Social Security
+T66	Claim 7614 7637	I take him for his word
+T67	Claim 5985 6074	tonight we're going to hear some phony numbers about what I think and what we ought to do
+T68	Premise 7737 7783	if you look at the plan and add the numbers up
+T69	Claim 7785 7810	these numbers are correct
+T70	Premise 7812 7987	He spends more money for tax cuts for the wealthiest 1% than all of his new spending proposals for health care, prescription drugs, education and national defense all combined
+T71	Premise 7989 8044	I agree that the surplus is the American people's money
+T72	Premise 8046 8061	it's your money
+T73	Claim 8074 8141	I don't think we should give nearly half of it to the wealthiest 1%
+T74	Premise 8151 8236	the other 99% have had an awful lot to do with building the surplus in our prosperity
+T75	Claim 8901 8923	they can't get it done
+T76	Premise 8671 8736	eight years ago they campaigned on prescription drugs for seniors
+T77	Premise 8742 8814	four years ago they campaigned on getting prescription drugs for seniors
+T78	Premise 8820 8885	now they're campaigning on getting prescription drugs for seniors
+T79	Claim 9152 9190	there's been some missed opportunities
+T80	Claim 8962 9120	it's time to get somebody in Washington who is going to work with both Republicans and Democrats to get some positive things done when it comes to our seniors
+T81	Premise 9192 9212	They've had a chance
+T82	Premise 9214 9252	They've had a chance to form consensus
+T83	Claim 10096 10246	I think there was a good opportunity to bring Republicans and Democrats together to reform the Social Security system so seniors will never go without
+T84	Claim 9254 9281	I've got a plan on Medicare
+T85	Claim 9550 9661	we're going to give you additional choices like they give federal employees in the federal employee health plan
+T86	Premise 9283 9429	for example, that's a two-stage plan that says we'll have immediate help for seniors and what I call immediate Helping Hand, a $48 billion program
+T87	Premise 9663 9722	They have a variety of choices to choose, so should seniors
+T88	Claim 9747 10006	as opposed to politicizing an issue like Medicare, in other words, holding it up as an issue, hoping somebody bites it and try to clobber them over the head with it for political purposes, this year, in the year 2000, it's time to get it done once and for all
+T89	Claim 10069 10094	Same with Social Security
+T90	Premise 10502 10846	There are a lot of young workers at our rallies we go to that when they hear I'll trust them at their option to be able to manage, under certain guidelines, some of their own money to get a better rate of return so that they'll have a retirement plan in the future, they begin to nod their heads and they want a different attitude in Washington
+T91	Claim 10248 10500	Those on Social Security today will have their promise made, but also to give younger workers the option at their choice of being able to manage some of their own money in the private sector to make sure there's a Social Security system around tomorrow
+T92	Claim 10896 10964	under my plan all seniors will get prescription drugs under Medicare
+T93	Claim 11023 11031	It's not
+T94	Premise 11068 11173	Under the Medicare prescription drug proposal I'm making, here is how it works, you go to your own doctor
+T95	Premise 11175 11212	Your doctor chooses your prescription
+T96	Premise 11214 11278	No HMO or insurance company can take those choices away from you
+T97	Premise 11280 11312	Then you go to your own pharmacy
+T98	Premise 11314 11371	You fill the prescription and Medicare pays half the cost
+T99	Claim 11373 11558	If you're in a very poor family or if you have very high costs, Medicare will pay all the costs, a $25 premium, and much better benefits than you can possibly find in the private sector
+T100	Claim 11586 11691	95% of all seniors would get no help whatsoever under my opponent's plan for the first four or five years
+T101	Claim 11923 11955	the man is running on Medi-scare
+T102	Premise 11957 12002	Trying to frighten people in the voting booth
+T103	Claim 12004 12076	It's just not the way I think and it's not my intentions and not my plan
+T104	Claim 12078 12135	I want all seniors to have prescription drugs in Medicare
+T105	Claim 13387 13502	my plan not only trusts seniors with options, my plan sets aside $3.4 trillion for Medicare over the next ten years
+T106	Claim 13019 13066	I believe we ought to give seniors more options
+T107	Claim 13068 13117	I believe we ought to make the system work better
+T108	Claim 12253 12396	seniors will have not only a Medicare plan where the poor seniors will have prescription drugs paid for, but there will be a variety of options
+T109	Claim 12165 12244	Thereâ€™s been opportunity to do so but this administration has failed to do it
+T110	Claim 12137 12163	We need to reform Medicare
+T111	Premise 12398 12459	The current system today has meant a lot for a lot of seniors
+T112	Premise 12465 12536	I really appreciate the intentions of the current system as I mentioned
+T113	Premise 12594 12679	there are a lot of procedures that haven't kept up in Medicare with the current times
+T114	Premise 12681 12710	No prescription drug benefits
+T115	Premise 12712 12727	no drug therapy
+T116	Premise 12729 12754	no preventative medicines
+T117	Premise 12756 12770	no vision care
+T118	Claim 12772 12819	We need to have a modern system to help seniors
+T119	Premise 12825 13017	the idea of supporting a federally controlled 132,000-page document bureaucracy as being a compassionate way for seniors, and the only compassionate source of care for seniors is not my vision
+T120	Claim 13265 13303	You've had your chance, Vice President
+T121	Premise 13305 13364	you've been there for eight years and nothing has been done
+T122	Claim 13132 13263	I know it will require a different kind of leader to go to Washington to say to both Republicans and Democrats, let's come together
+T123	Claim 13504 13568	My plan also says it requires a new approach in Washington, D.C.
+T124	Premise 13569 13639	It's going to require somebody who can work across the partisan divide
+T125	Claim 13676 13804	Under my plan I will put Medicare in an iron clad lockbox and prevent the money from being used for anything other than Medicare
+T126	Premise 13806 13938	The governor has declined to endorse that idea even though the Republican as well as Democratic leaders in Congress have endorsed it
+T127	Claim 14031 14054	I donâ€™t think he will
+T128	Premise 14063 14184	under his plan if you work out the numbers Â $100 billion comes out of Medicare just for the wealthiest 1% in the tax cut
+T129	Claim 14270 14295;14368 14416	Under the governor's plan your premiums would go up by between 18% and 47%
+T130	Premise 14297 14366	if you kept the same fee for service that you have now under Medicare
+T131	Premise 14422 14525	that is the study of the Congressional plan that he's modeled his proposal on by the Medicare actuaries
+T132	Claim 14885 14944	Under my plan, half of their costs would be paid right away
+T133	Claim 14946 15225	Under Governor Bush's plan, they would get not one penny for four to five years and then they would be forced to go into an HMO or to an insurance company and ask them for coverage, but there would be no limit on the premiums or the deductibles or any of the terms and conditions
+T134	Premise 14527 14560	Let me give you one quick example
+T135	Premise 14562 14626	There is a man here tonight named George McKinney from Milwaukee
+T136	Premise 14672 14698	his wife has heart trouble
+T137	Premise 14628 14670	He's 70 years old, has high blood pressure
+T138	Premise 14700 14737	They have an income of $25,000 a year
+T139	Premise 14739 14883	They can't pay for their prescription drugs and so they're some of the ones that go to Canada regularly in order to get their prescription drugs
+T140	Claim 15343 15408	Under my plan the man gets immediate help with prescription drugs
+T141	Premise 15410 15444	It's called Immediate Helping Hand
+T142	Premise 15446 15511	Instead of squabbling and finger pointing, he gets immediate help
+T143	Claim 15598 15656	They get $25,000 a year income, that makes them ineligible
+T144	Claim 15975 16049	The federal government should take no more than a third of anybody's check
+T145	Premise 15908 15973	Under my tax plan that he continues to criticize, I set one-third
+T146	Claim 15859 15906	he's trying to scare people in the voting booth
+T147	Premise 15671 15706	this is a man who has great numbers
+T148	Premise 15708 15730	He talks about numbers
+T149	Premise 15732 15822	I'm beginning to think not only did he invent the Internet, but he invented the calculator
+T150	Premise 15824 15839	It's fuzzy math
+T151	Claim 16055 16101	I also dropped the bottom rate from 15% to 10%
+T152	Premise 16111 16203	by far the vast majority of the help goes to people at the bottom end of the economic ladder
+T153	Premise 16205 16319	If you're a family of four in Massachusetts, making $50,000, you get a 50% cut in the federal income taxes you pay
+T154	Premise 16321 16351	It's from $4000 to about $2000
+T155	Claim 16358 16420	the difference in our plans is I want that $2,000 to go to you
+T156	Claim 16426 16496	the vice president would like to be spending the $2,000 on your behalf
+T157	Premise 16732 16782	It's just clear you can go to the website and look
+T158	Claim 16784 16924	If you make more than $25,000 a year you don't get a penny of help under the Bush prescription drug proposal for at least four to five years
+T159	Claim 16930 17087	then you're pushed into a Medicare -- into an HMO or insurance company plan, and there's no limit on the premiums or the deductibles or any of the conditions
+T160	Premise 17093 17167	the insurance companies say it won't work and they won't offer these plans
+T161	Claim 17365 17440	The difference is I want to bring it to 100% and he wants to bring it to 5%
+T162	Claim 17449 17507	That's totally false for him to stand up here and say that
+T163	Claim 17562 17610	They have had their chance to get something done
+T164	Claim 17612 17681	I'm going to work with Democrats and Republicans to reform the system
+T165	Claim 17683 17710	All seniors will be covered
+T166	Claim 17712 17772	all poor seniors will have their prescription drugs paid for
+T167	Claim 17778 17887	in the meantime, we'll have a plan to help poor seniors and in the meantime it could be one year or two years
+T168	Premise 17946 17970	He said all poor seniors
+T169	Claim 17994 18053	All seniors are covered under prescription drugs in my plan
+T170	Premise 18088 18127	If we can get it done in the first year
+T171	Claim 18129 18136	you bet
+T172	Claim 18138 18171	Yours is phased in in eight years
+T173	Premise 18180 18201	It's a two-phase plan
+T174	Premise 18203 18312	For the first four years -- it takes a year to pass it and for the first four years only the poor are covered
+T175	Premise 18314 18407	Middle class seniors like George McKinney and his wife are not covered for four to five years
+T176	Claim 18777 18852	My plan has not only a short-term component, but also a long-term component
+T177	Claim 18858 18976	it focuses not only on increasing the supply, which I think we have to do, but also on working on the consumption side
+T178	Premise 18983 19161	in the short-term we have to free ourselves from the domination of the big oil companies that have the ability to manipulate the price from OPEC when they want to raise the price
+T179	Premise 19167 19357	in the long-term we have to give new incentives for the development of domestic resources like deep gas in the western Gulf, like stripper wells for oil, but also renewable sources of energy
+T180	Claim 19363 19407	domestic sources that are cleaner and better
+T181	Claim 19413 19760	I'm proposing a plan that will give tax credits and tax incentives for the rapid development of new kinds of cars and trucks and buses and factories and boilers and furnaces that don't have as much pollution, that don't burn as much energy, and that help us get out on the cutting edge of the new technologies that will create millions of new jobs
+T182	Premise 19771 19849	when we sell these new products here, we'll then be able to sell them overseas
+T183	Premise 19851 19895	There is a ravenous demand for them overseas
+T184	Claim 20124 20156	I think that is the wrong choice
+T185	Premise 20158 20272	It would only give us a few months' worth of oil and the oil wouldn't start flowing for many years into the future
+T186	Claim 20274 20363	I don't think it's a fair price to pay to destroy precious parts of America's environment
+T187	Claim 20365 20434	We have to bet on the future and move beyond the current technologies
+T188	Premise 20435 20511	to have a whole new generation of more efficient, cleaner, energy technology
+T189	Claim 19902 20122	another big difference is Governor Bush is proposing to open up some of our most precious environmental treasures, like the Arctic National Wildlife Refuge for the big oil companies to go in and start producing oil there
+T190	Claim 20520 20552	It's an issue I know a lot about
+T191	Premise 20554 20604	I was a small oil person for a while in west Texas
+T192	Claim 20938 21029	The only way to become less dependent on foreign sources of crude oil is to explore at home
+T193	Claim 21031 21079	You bet I want to open up a small part of Alaska
+T194	Claim 21081 21148	When that field is online it will produce one million barrels a day
+T195	Premise 21150 21205	Today we import one million barrels from Saddam Hussein
+T196	Premise 21207 21311	I would rather that a million come from our own hemisphere, our own country as opposed to Saddam Hussein
+T197	Claim 21313 21390	I want to build more pipelines to move natural gas throughout this hemisphere
+T198	Claim 21392 21439	I want to develop the coal resources in America
+T199	Claim 21441 21469	Have clean coal technologies
+T200	Premise 21471 21526	Weâ€™ve got abundant supplies of energy here in America
+T201	Claim 21531 21587	weâ€™d better get after it, we better start exploring it
+T202	Claim 21591 21639	otherwise we'll be in deep trouble in the future
+T203	Premise 21640 21695	because of our dependency upon foreign sources of crude
+T204	Premise 20606 20650	This is an administration that's had no plan
+T205	Premise 20656 20729	all of a sudden the results of having no plan have caught up with America
+T206	Claim 20750 20876	we have to fully fund LIHEAP which is a way to help low income folks, particularly here in the east to pay for high fuel bills
+T207	Claim 20888 20936	we need an active exploration program in America
+T208	Claim 22019 22114	I'm for doing something both on the supply side and production side and on the consumption side
+T209	Claim 22133 22257	I found one thing in Governor Bush's answer that we certainly agree on, and that's the low income heating assistance program
+T210	Premise 22294 22349	I worked to get $400 million just a couple of weeks ago
+T211	Premise 22351 22426	And to establish a permanent home heating oil reserve here in the northeast
+T212	Claim 22715 22815	I think we need to get serious about this energy crisis, both in the Congress and in the White House
+T213	Premise 22433 22544	as for the proposals that I've worked for for renewables and conservation and efficiencies and new technologies
+T214	Premise 22546 22637	The fact is for the last few years in the Congress, we've faced a lot of opposition to them
+T215	Premise 22639 22713	They've only approved about 10% of the agenda I've helped to send up there
+T216	Premise 22821 22858	if you entrust me with the presidency
+T217	Claim 22860 22975	I will tackle this problem and focus on new technologies that will make us less dependent on big oil or foreign oil
+T218	Premise 23051 23107	he should have been tackling it for the last seven years
+T219	Claim 23118 23162	the difference is we need to explore at home
+T220	Claim 23168 23227	the vice president doesn't believe in exploration in Alaska
+T221	Premise 23229 23309	There's a lot of shut-in gas that we need to be moving out of Alaska by pipeline
+T222	Premise 23311 23367	There's an interesting issue up in the northwest as well
+T223	Claim 23422 23464	I'm against removing dams in the northwest
+T224	Premise 23466 23561	I donâ€™t know where the vice president stands but thatâ€™s a renewable energy source of energy
+T225	Claim 23563 23591	We need to keep that in line
+T226	Claim 23691 23747	I know we can do a better job of clean coal technologies
+T227	Premise 23593 23641	I was in coal country in West Virginia yesterday
+T228	Premise 23643 23689	There is an abundant supply of coal in America
+T229	Claim 23749 23858	I'm going to ask the Congress for $2 billion to make sure we have the cleanest coal technologies in the world
+T230	Claim 23880 23937	in the short-term we need to get after it here in America
+T231	Claim 23939 23971	We need to explore our resources
+T232	Claim 23976 24032	we need to develop our reservoirs of domestic production
+T233	Claim 24034 24139	We also need to have a hemispheric energy policy where Canada, Mexico and the United States come together
+T234	Premise 24141 24253	I brought this up recently with Vincent Fox the newly elected president in Mexico, he's a man I know from Mexico
+T235	Premise 24255 24439	I talked to him about how best to expedite the exploration of natural gas in Mexico and transport it up to the United States so we become less dependent on foreign sources of crude oil
+T236	Claim 24522 24588	It's time for a new administration to deal with the energy problem
+T237	Premise 24441 24479	This is a major problem facing America
+T238	Premise 24481 24520	The administration did not deal with it
+T239	Claim 24745 24804	I strongly support new investments in clean coal technology
+T240	Premise 24806 24848	I made a proposal three months ago on this
+T241	Claim 24854 24883	also domestic exploration yes
+T242	Claim 24885 24938	but not in the environmental treasures of our country
+T243	Claim 24940 24964	We don't have to do that
+T244	Claim 24966 24989	That's the wrong choice
+T245	Claim 25050 25090	it is not the right thing for the future
+T246	Claim 25103 25141	It's the right thing for the consumers
+T247	Claim 25143 25210	Less dependency upon foreign sources of crude is good for consumers
+T248	Claim 25216 25263	we can do so in an environmentally friendly way
+T249	Claim 25514 25546	I was disappointed in the ruling
+T250	Premise 25563 25605	abortions ought to be more rare in America
+T251	Premise 25611 25704	I'm worried that that pill will create more abortions and cause more people to have abortions
+T252	Claim 25706 25768	This is a very important topic and it's a very sensitive topic
+T253	Premise 25778 25820	a lot of good people disagree on the issue
+T254	Claim 25822 25908	I think what the next president ought to do is to promote a culture of life in America
+T255	Claim 25910 25977	Life of the elderly and life of those living all across the country
+T256	Claim 25979 25997	Life of the unborn
+T257	Claim 26020 26143	I think a noble goal for this country is that every child, born or unborn, need to be protected by law and welcomed to life
+T258	Claim 26217 26329	What I do believe is that we can find good, common ground on issues of parental consent or parental notification
+T259	Claim 26338 26376	we need to ban partial birth abortions
+T260	Premise 26152 26215	we need to change a lot of minds before we get there in America
+T261	Claim 26444 26557	I believe banning partial birth abortions would be a positive step to reducing the number of abortions in America
+T262	Claim 26559 26608	This is an issue that will require a new attitude
+T263	Premise 26610 26669	We've been battling over abortion for a long period of time
+T264	Claim 26671 26736	Surely this nation can come together to promote the value of life
+T265	Claim 26738 26856	Surely we can fight off these laws that will encourage doctors to -- to allow doctors to take the lives of our seniors
+T266	Claim 26858 27059	Surely we can work together to create a cultural life so some of these youngsters who feel like they can take a neighbor's life with a gun will understand that that's not the way America is meant to be
+T267	Claim 27061 27138	Surely we can find common ground to reduce the number of abortions in America
+T268	Claim 27364 27390	I do support that decision
+T269	Premise 27337 27358	the FDA took 12 years
+T270	Premise 27392 27461	They determined it was medically safe for the women who use that drug
+T271	Claim 27578 27726	I would sign a law banning that procedure, provided that doctors have the ability to save a woman's life or to act if her health is severely at risk
+T272	Claim 27728 27753	That's not the main issue
+T273	Claim 27755 27838	The main issue is whether or not the Roe v. Wade decision is going to be overturned
+T274	Claim 27840 27875	I support a woman's right to choose
+T275	Claim 27877 27897	My opponent does not
+T276	Claim 27899 27914	It is important
+T277	Premise 27923 28017	the next president is going to appoint three and maybe even four justices of the Supreme Court
+T278	Premise 28023 28229	Governor Bush has declared to the anti-choice groups that he will appoint justices in the mold of Scalia and Clarence Thomas, who are known for being the most vigorous opponents of a woman's right to choose
+T279	Claim 28255 28333	He trusts the government to order a woman to do what it thinks she ought to do
+T280	Claim 28335 28428	I trust women to make the decisions that affect their lives, their destinies and their bodies
+T281	Claim 28434 28502	I think a woman's right to choose ought to be protected and defended
+T282	Claim 29325 29375	I just think that we ought to support the decision
+T283	Claim 29542 29555	I am pro-life
+T284	Claim 29739 29793	I have no litmus test on that issue or any other issue
+T285	Claim 29812 29850	I'll put competent judges on the bench
+T286	Premise 29852 29948	People who will strictly interpret the Constitution and not use the bench to write social policy
+T287	Claim 30015 30108	I believe that the judges ought not to take the place of the legislative branch of government
+T288	Premise 30110 30199	That they're appointed for life and that they ought to look at the Constitution as sacred
+T289	Premise 30201 30234	They shouldn't misuse their bench
+T290	Claim 29950 30013	That is going to be a big difference between my opponent and me
+T291	Claim 30236 30278	I don't believe in liberal activist judges
+T292	Claim 30280 30316	I believe in strict constructionists
+T293	Claim 30318 30361	Those are the kind of judges I will appoint
+T294	Premise 30363 30503	I've named four supreme court justices in the State of Texas and would ask the people to check out their qualifications, their deliberations
+T295	Premise 30505 30607	They're good, solid men and women who have made good, sound judgments on behalf of the people of Texas
+T296	Claim 30874 30984	in my view, the Constitution ought to be interpreted as a document that grows with our country and our history
+T297	Claim 31374 31489	I would appoint people that have a philosophy that I think would have it quite likely they would uphold Roe v. Wade
+T298	Premise 31076 31349	when the phrase a strict constructionist is used and when the names of Scalia and Thomas are used as the benchmarks for who would be appointed, those are code words, and nobody should mistake this, for saying the governor would appoint people who would overturn Roe v. Wade
+T299	Claim 30990 31070	I believe, for example, that there is a right of privacy in the Fourth Amendment
+T300	Claim 30680 30745	We both use similar language to reach an exactly opposite outcome
+T301	Premise 30747 30868	I don't favor a litmus test, but I know that there are ways to assess how a potential justice interprets the Constitution
+T302	Claim 31585 31656	It sounds like the vice presidentâ€™s not right very many times tonight
+T303	Premise 31658 31715	I just told you the criteria on which I'll appoint judges
+T304	Premise 31717 31775	I have a record of appointing judges in the State of Texas
+T305	Premise 31777 31810	That's what a governor gets to do
+T306	Premise 31812 31856	A governor gets to name supreme court judges
+T307	Premise 31858 31934	He also reads all kinds of things into my tax plan and into my Medicare plan
+T308	Claim 32195 32239	I do believe it's wrong to use a litmus test
+T309	Claim 32140 32193	It would be likely that they would uphold Roe v. Wade
+T310	Claim 32302 32367	you can get a pretty good idea of how they'll interpret questions
+T311	Premise 32241 32300	If you look at the history of a lower court judge's rulings
+T312	Premise 32369 32408	A lot of questions are first impression
+T313	Premise 32414 32485	these questions that have been seen many times come up in a new context
+T314	Claim 32511 32541	this is a very important issue
+T315	Premise 32551 32636	a lot of young women in this country take this right for granted and it could be lost
+T316	Premise 32639 32700	t is on the ballot in this election, make no mistake about it
+T317	Claim 32757 32845	He'll put liberal activists justices who will use their bench to subvert the legislature
+T318	Claim 32847 32867	that's what he'll do
+T319	Claim 32876 32894	Thatâ€™s not right
+T320	Claim 33355 33545	I think we should support the people of Serbia and Yugoslavia, as they call the Serbia plus Montenegro, and put pressure in every way possible to recognize the lawful outcome of the election
+T321	Premise 33136 33167	Milosevic has lost the election
+T322	Premise 33169 33214	His opponent, Kostunica, has won the election
+T323	Premise 33216 33233	It's overwhelming
+T324	Premise 33235 33291	Milosevic's government refuses to release the vote count
+T325	Premise 33293 33330	There's now a general strike going on
+T326	Premise 33332 33353	They're demonstrating
+T327	Premise 33547 33625	The people of Serbia have acted very bravely in kicking this guy out of office
+T328	Premise 33627 33774	Now he is trying to not release the votes and then go straight to a so-called runoff election without even announcing the results of the first vote
+T329	Claim 33941 34016	That is a very strong incentive that we've given them to do the right thing
+T330	Premise 33781 33939	we've made it clear, along with our allies, that when Milosevic leaves, then Serbia will be able to have a more normal relationship with the rest of the world
+T331	Claim 34087 34132	he should be held accountable for his actions
+T332	Premise 34037 34082	Milosevic has been indicted as a war criminal
+T333	Claim 34139 34169	we have to take measured steps
+T334	Claim 34178 34263	the sentiment within Serbia is, for understandable reasons, against the United States
+T335	Premise 34272 34394	their nationalism -- even if they don't like Milosevic, they still have some feelings lingering from the NATO action there
+T336	Claim 34399 34450	we have to be intelligent in the way we go about it
+T337	Claim 34482 34604	we should do everything we can to see that the will of the Serbian people expressed in this extraordinary election is done
+T338	Claim 34780 34807	It's time for the man to go
+T339	Premise 34823 34900	the United States must have a strong diplomatic hand with our friends in NATO
+T340	Claim 35460 35490	It's time for the man to leave
+T341	Claim 34913 35030	it's important to make sure our alliances are as strong as they possibly can be to keep the pressure on Mr. Milosevic
+T342	Claim 35036 35115	this will be an interesting moment for the Russians to step up and lead as well
+T343	Claim 35117 35284	Be a wonderful time for the Russians to step into the Balkans and convince Mr. Milosevic that it's in his best interest and his country's best interest to leave office
+T344	Premise 35286 35343	The Russians have a lot of sway in that part of the world
+T345	Premise 35345 35428	We would like to see the Russians use that sway to encourage democracy to take hold
+T346	Premise 35430 35458	It's an encouraging election
+T347	Claim 35764 35796	In this particular situation, no
+T348	Premise 35816 35876	we have a lot of sanctions in force against Serbia right now
+T349	Premise 35882 35983	the people of Serbia know that they can escape all those sanctions if this guy is turned out of power
+T350	Claim 36457 36487	I think that's the wrong thing
+T351	Claim 36489 36543	I think the governor's instinct is not necessarily bad
+T352	Premise 36552 36656	we have worked with the Russians in a constructive way in Kosovo, for example, to end the conflict there
+T353	Claim 36662 36786	I think we need to be very careful in the present situation before we invite the Russians to play the lead role in mediating
+T354	Claim 36810 36838	we wouldn't use the Russians
+T355	Premise 36839 36875	if they didn't agree with our answer
+T356	Premise 36904 36916	They donâ€™t
+T357	Claim 36949 36969	I wouldn't use force
+T358	Claim 36971 36991	I wouldn't use force
+T359	Claim 37033 37035	No
+T360	Premise 36141 36231	they have not yet been willing to recognize Kostunica as the lawful winner of the election
+T361	Claim 36233 36335	I'm not sure it's right for us to invite the president of Russia to mediate this -- this dispute there
+T362	Premise 36344 36396	we might not like the results that comes out of that
+T363	Premise 36398 36455	They currently favor going forward with a runoff election
+T364	Claim 37062 37121	It's not in our national interest to use force in this case
+T365	Claim 37123 37157	I would use pressure and diplomacy
+T366	Premise 37247 37316	It's up to the people in this region to take control of their country
+T367	Premise 37159 37245	There is a difference with what the president did in Kosovo which I supported and this
+T368	Premise 37466 37719	if it's in our vital national interests, and that means whether our territory is threatened or people could be harmed, whether or not the alliances are -- our defense alliances are threatened, whether or not our friends in the Middle East are threatened
+T369	Claim 37721 37780	That would be a time to seriously consider the use of force
+T370	Claim 37792 37828	whether or not the mission was clear
+T371	Claim 37830 37905	Whether or not it was a clear understanding as to what the mission would be
+T372	Claim 37916 37966	whether or not we were prepared and trained to win
+T373	Claim 37968 38049	Whether or not our forces were of high morale and high standing and well-equipped
+T374	Claim 38064 38105	whether or not there was an exit strategy
+T375	Claim 38107 38151	I would take the use of force very seriously
+T376	Claim 38153 38186	I would be guarded in my approach
+T377	Claim 38188 38249	I don't think we can be all things to all people in the world
+T378	Claim 38251 38313	I think we've got to be very careful when we commit our troops
+T379	Claim 38484 38602	I believe the role of the military is to fight and win war and therefore prevent war from happening in the first place
+T380	Claim 38607 38647	I would take my responsibility seriously
+T381	Claim 38315 38383	The vice president and I have a disagreement about the use of troops
+T382	Premise 38385 38415	He believes in nation building
+T383	Premise 38417 38482	I would be very careful about using our troops as nation builders
+T384	Claim 38653 38709	it starts with making sure we rebuild our military power
+T385	Premise 38711 38748	Morale in today's military is too low
+T386	Premise 38750 38795	We're having trouble meeting recruiting goals
+T387	Premise 38797 38883	We met the goals this year, but in the previous years we have not met recruiting goals
+T388	Premise 38885 38925	Some of our troops are not well-equipped
+T389	Claim 38927 38974	I believe we're overextended in too many places
+T390	Claim 38990 39026	I want to rebuild the military power
+T391	Claim 39368 39463	The mission is to fight and win war and therefore prevent war from happening in the first place
+T392	Claim 39028 39112	It starts with a billion dollar pay raise for the men and women who wear the uniform
+T393	Premise 39182 39244	It's to make sure our troops are well-housed and well-equipped
+T394	Premise 39246 39366	Bonus plans to keep some of our high-skilled folks in the services and a commander in chief who clearly sets the mission
+T395	Claim 39851 39947	I will do whatever is necessary in order to make sure our forces stay the strongest in the world
+T396	Premise 39812 39849	If you entrust me with the presidency
+T397	Claim 40088 40168	I think we should be reluctant to get involved in someplace in a foreign country
+T398	Claim 39586 39714	our military is the strongest, best-trained, best-equipped, best-led fighting force in the world and in the history of the world
+T399	Claim 39958 40081	in my ten-year budget proposal I've set aside more than twice as much for this purpose as Governor Bush has in his proposal
+T400	Claim 40362 40384	we should get involved
+T401	Premise 40174 40210	if our national security is at stake
+T402	Premise 40212 40229	if we have allies
+T403	Premise 40231 40264	if we've tried every other course
+T404	Premise 40266 40308	if we're sure military action will succeed
+T405	Premise 40314 40360	if the costs are proportionate to the benefits
+T406	Claim 40391 40497	just because we don't want to get involved everywhere doesn't mean we should back off anywhere it comes up
+T407	Claim 40614 40744	I think that there are situations like in Bosnia or Kosovo where there's a genocide, where our national security is at stake there
+T408	Claim 40753 40809	I agree our military is the strongest in the world today
+T409	Claim 40811 40834	that's not the question
+T410	Claim 40836 40898	The question is will it be the strongest in the years to come?
+T411	Premise 40899 40925	The warning signs are real
+T412	Premise 40927 41095	Everywhere I go on the campaign trail I see moms and dads whose son or daughter may wear the uniform and they tell me about how discouraged their son or daughter may be
+T413	Premise 41097 41250	A recent poll was taken among 1,000 enlisted personnel, as well as officers, over half of whom will leave the service when their time of enlistment is up
+T414	Premise 41252 41288	The captains are leaving the service
+T415	Claim 41290 41308	There is a problem
+T416	Claim 41314 41390	it's going to require a new commander in chief to rebuild the military power
+T417	Premise 41392 41526	The other day I was honored to be flanked by Colin Powell and General Norman Schwartzkopf recently stood by me side and agreed with me
+T418	Premise 41528 41826	They said even if we are the strongest if we donâ€™t do something if we don't have a clear vision of the military, if we don't stop extending our troops all around the world and nation building missions, then we're going to have a serious problem coming down the road, and I'm going to prevent that
+T419	Claim 41828 41867	I'm going to rebuild our military power
+T420	Claim 41869 41922	It's one of the major priorities of my administration
+T421	Claim 42150 42236	they should look at our proposals and look at us as people and make up their own minds
+T422	Claim 43293 43362	I know the value of making sure our troops have the latest technology
+T423	Claim 43431 43459	I think that's a big mistake
+T424	Premise 43469 43512	I think we have to stay at the cutting edge
+T425	Premise 43226 43277	We have to be willing to make good, sound judgments
+T426	Premise 43170 43224	Millions of Americans saw the results of that conflict
+T427	Premise 43124 43168	My uncle was a victim of poisonous gas there
+T428	Premise 43075 43122	that's where World War I started in the Balkans
+T429	Premise 42844 42913	For the last eight years I've served on the National Security Council
+T430	Premise 42919 43067	when the conflict came up in Bosnia, I saw a genocide in the heart of Europe with the most violent war on the continent of Europe since World War II
+T431	Premise 42747 42842	I served for eight years in the United States Senate and served on the Armed Services Committee
+T432	Premise 42606 42745	I served for eight years in the House of Representatives and I served on the Intelligence Committee, specialized in looking at arms control
+T433	Premise 42500 42604	I knew if I didn't, somebody else in the small town of Carthage, Tennessee, would have to go in my place
+T434	Claim 42478 42491	I went anyway
+T435	Premise 42384 42472	I went to college in this great city, and most of my peers felt against the war as I did
+T436	Premise 42322 42382	My father was a senator who strongly opposed the Vietnam War
+T437	Premise 42290 42320	I served my country in Vietnam
+T438	Premise 42238 42288	When I was a young man, I volunteered for the Army
+T439	Claim 43608 43682	I think you've got to look at how one has handled responsibility in office
+T440	Claim 43684 43742	Whether or not it's -- the same in domestic policy as well
+T441	Claim 43744 43809	Whether or not you have the capacity to convince people to follow
+T442	Claim 43811 43871	Whether or not one makes decisions based on sound principles
+T443	Claim 43875 43972	whether or not you rely upon polls and focus groups on how to decide what the course of action is
+T444	Claim 43974 44044	We have too much polling and focus groups going on in Washington today
+T445	Claim 44046 44088	We need decisions made on sound principles
+T446	Claim 44270 44316	I think that's an important part of leadership
+T447	Claim 44318 44358	I think what it means to build consensus
+T448	Claim 44360 44390	I've shown I know how to do so
+T449	Premise 44090 44127	I've been the governor of a big state
+T450	Premise 44137 44268	one of the hallmarks of my relationship in Austin, Texas, is that I've had the capacity to work with both Republicans and Democrats
+T451	Premise 44392 44561	Tonight in the audience there's one elected state senator who is a Democrat, a former state-wide officer who is a Democrat, a lot of Democrats who are here in the debate
+T452	Claim 44619 44637	I know how to lead
+T453	Claim 45358 45400	I think bipartisanship is a national asset
+T454	Claim 45402 45487	We have to find ways to reestablish it in foreign policy and national security policy
+T455	Claim 44849 45021	One of the key points in foreign policy and national security policy is the need to re-establish the old-fashioned principle that politics ought to stop at the water's edge
+T456	Premise 45023 45186	When I was in the United States Congress, I worked with former President Reagan to modernize our strategic weaponry and to pursue arms control in a responsible way
+T457	Premise 45188 45275	When I was in the United States Senate I worked with former President Bush, your father
+T458	Premise 45277 45356	I was one of only a few Democrats in the Senate to support the Persian Gulf War
+T459	Claim 45779 45789	absolutely
+T460	Claim 45791 45852	This is a very important moment in the history of our country
+T461	Premise 45860 45918	we've got the biggest surpluses in all of American history
+T462	Claim 46193 46250	I think we have to make the right and responsible choices
+T463	Claim 46252 46468	I think we have to invest in education, protecting the environment, health care, a prescription drug benefit that goes to all seniors, not just to the poor, under Medicare, not relying on HMOs and insurance companies
+T464	Claim 46470 46664	I think that we have to help parents and strengthen families by dealing with the kind of inappropriate entertainment material that families are just heart sick that their children are exposed to
+T465	Claim 46666 46730	I think we've got to have welfare reform taken to the next stage
+T466	Claim 46732 46824	I think that we have got to balance the budget every single year, pay down the national debt
+T467	Claim 46839 46921	under my proposal the national debt will be completely eliminated by the year 2012
+T468	Claim 46923 46987	I think we need to put Medicare and Social Security in a lockbox
+T469	Claim 45920 46087	The key question that has to be answered in this election is will we use that prosperity wisely in a way that benefits all of our people and doesn't go just to the few
+T470	Premise 46089 46191	Almost half of all the tax cut benefits, as I said under Governor Bush's plan, go to the wealthiest 1%
+T471	Premise 46989 47036	The governor will not put Medicare in a lockbox
+T472	Claim 47038 47104	I don't think it should be used as a piggy bank for other programs
+T473	Claim 47106 47166	I think it needs to be moved out of the budget and protected
+T474	Claim 47168 47290	I'll veto anything that takes money out of Social Security or Medicare for anything other than Social Security or Medicare
+T475	Claim 47297 47335	the priorities are just very different
+T476	Premise 47373 47497	For every new dollar that I propose for spending on health care, Governor Bush spends $3 for a tax cut for the wealthiest 1%
+T477	Premise 47504 47606	for every dollar that I propose to spend on education, he spends $5 on a tax cut for the wealthiest 1%
+T478	Claim 47608 47640	Those are very clear differences
+T479	Claim 47680 47718	The man is practicing fuzzy math again
+T480	Claim 47720 47739	There's differences
+T481	Premise 47741 47877	Under Vice President Gore's plan, he is going to grow the federal government in the largest increase since Lyndon Baines Johnson in 1965
+T482	Premise 47879 47919	We're talking about a massive government
+T483	Premise 47928 48008	We're talking about adding to or increasing 200 programs, 20,000 new bureaucrats
+T484	Premise 48010 48159	Imagine how many IRS agents it is going to take to be able to figure out his targeted tax cut for the middle class that excludes 50 million Americans
+T485	Claim 48161 48204	There is a huge difference in this campaign
+T486	Premise 48206 48245	He says he's going to give you tax cuts
+T487	Claim 48247 48281	50 million of you won't receive it
+T488	Premise 48283 48358	He said in his speech he wants to make sure the right people get tax relief
+T489	Claim 48360 48420	That's not the role of a president to decide right and wrong
+T490	Claim 48422 48470	Everybody who pays taxes ought to get tax relief
+T491	Claim 48472 48580	After my plan is in place, the wealthiest Americans will pay a higher percentage of taxes then they do today
+T492	Claim 48582 48654	the poorest of Americans, six million families, won't pay any tax at all
+T493	Claim 48656 48678	It's a huge difference
+T494	Premise 48680 48871	A difference between big exploding federal government that wants to think on your behalf and a plan that meets priorities and liberates working people to be able to make decisions on your own
+T495	Premise 48902 48951	you haven't heard the governor deny these numbers
+T496	Premise 48953 48985	He's called them phony and fuzzy
+T497	Claim 48987 49107	The fact remains almost 30% of his proposed tax cut goes to -- only to Americans that make more than $1 million per year
+T498	Claim 49246 49367	The facts are after my plan, the wealthiest of Americans pay more taxes of the percentage of the whole than they do today
+T499	Claim 49379 49460	if you're a family of four making $50,000 in Massachusetts, you get a 50% tax cut
+T500	Premise 49491 49573	The Strunk family in Allentown, Pennsylvania, I campaigned with them the other day
+T501	Premise 49575 49639	They make $51,000 combined income, they pay about $3500 in taxes
+T502	Premise 49641 49684	Under my plan, they get $1800 of tax relief
+T503	Premise 49686 49747	Under Vice President Gore's plan, they get $145 of tax relief
+T504	Claim 49851 49883	There is a difference of opinion
+T505	Claim 49885 49978	He would rather spend the family's $1800 and I would rather the Strunks spend their own money
+T506	Claim 50039 50050	No, I don't
+T507	Claim 50056 50105	I'm not going to go to calling names on his facts
+T508	Claim 50107 50154	I'm just gonna tell you what the real facts are
+T509	Claim 50156 50255	The analysis that he's talking about leaves out more than half of the tax cuts that I have proposed
+T510	Premise 50261 50291	if you just add the numbers up
+T511	Premise 50293 50318	he still hasn't denied it
+T512	Claim 50320 50479	he spends more money on a tax cut for the wealthiest 1% than all his new proposals for prescription drugs, healthcare, education, and national defense combined
+T513	Claim 50485 50515	those are the wrong priorities
+T514	Premise 50655 50724	Every middle class family is eligible for a tax cut under my proposal
+T515	Premise 50517 50566	$665 billion over ten years for the wealthiest 1%
+T516	Premise 50579 50653	almost 30% of it goes to Americans that make more than $1 million per year
+T517	Claim 50766 50911	I believe college tuition up to $10,000 per year ought to be tax deductible so middle-class families can choose to send their children to college
+T518	Claim 50913 51074	I believe all senior citizens should be able to choose their own doctors and get prescription drugs from their own pharmacists with Medicare paying half the bill
+T519	Claim 51076 51217	I believe parents ought to be able to make more choices need more public and charter school choice to send their kids always to a safe school
+T520	Claim 51219 51339	We need to make education the number one priority in our country and treat teachers like the professionals that they are
+T521	Claim 51356 51436	I have made it a number one priority in my budget, not a tax cut for the wealthy
+T522	Claim 51487 51541	This is a man whose plan excludes 50 million Americans
+T523	Claim 51550 51556	Not so
+T524	Claim 51731 51771	It's a fundamental difference of opinion
+T525	Premise 51565 51602	Take for example the marriage penalty
+T526	Premise 51604 51670	If you itemize your tax return, you get no marriage penalty relief
+T527	Premise 51672 51692	He picks and chooses
+T528	Premise 51694 51729	He decides who the right people are
+T529	Premise 51823 51932	We'll spend $25 trillion -- we'll collect $25 trillion in revenue in the next 10 years and spend $21 trillion
+T530	Claim 51941 51986	we can send 5% back to you that pay the bills
+T531	Claim 52408 52425	that is not right
+T532	Premise 52177 52402	If you're a single mother making $22,000 a year and you have two children, under this tax code, for every additional dollar you make, you pay a higher marginal rate on that dollar than someone making more than $200,000 a year
+T533	Premise 52427 52593	My plan drops the rate from 15% to 10% and increases the child credit from $500 to $1,000 to make the code more fair for everybody, not just a few, not just a handful
+T534	Claim 52595 52644	Everybody who pays taxes ought to get some relief
+T535	Claim 53014 53112	We can make a huge difference by saying if you receive federal money we expect you to show results
+T536	Premise 53114 53160	Let me give you a story about public education
+T537	Premise 53174 53215	It's about Kipp Academy in Houston, Texas
+T538	Premise 53217 53275	A charter school run by some people from Teach For America
+T539	Premise 53277 53341	Young folks saying I'm going to do something good for my country
+T540	Premise 53343 53358	I want to teach
+T541	Premise 53360 53395	A guy named Michael runs the school
+T542	Premise 53397 53446	It is a school full of so-called at-risk children
+T543	Premise 53448 53496	It's how we unfortunately label certain children
+T544	Premise 53498 53533	Basically it means they can't learn
+T545	Premise 53535 53588	It's a school of strong discipline and high standards
+T546	Premise 53590 53629	It's one of the best schools in Houston
+T547	Claim 53631 53699	Here are the key ingredients. High expectations, strong accountabily
+T548	Claim 53930 53986	That's my vision for public education all around America
+T549	Premise 53701 53829	What Michael says, don't put all these rules on us, just let us teach and hold us accountable for every grade. That's what we do
+T550	Premise 53835 53928	as a result, these mainly Hispanic youngsters are some of the best learners in Houston, Texas
+T551	Claim 54265 54307	Here is the role of the federal government
+T552	Claim 54309 54357	One is to change Head Start to a reading program
+T553	Claim 54359 54423	Two is to say if you want to access reading money, you can do so
+T554	Claim 54565 54684	we have to consolidate the federal programs to free districts to free the schools and encourage innovators like Michael
+T555	Claim 54805 54915	we're going to say if you receive federal money, measure third, fourth, fifth, sixth, seventh and eighth grade
+T556	Premise 54686 54797	Let them reach out beyond the confines of the current structure to recruit teach-for-the-children type teachers
+T557	Claim 54917 55014	Show us if they are learning to read, write, add and subtract and if so there will be bonus plans
+T558	Claim 55020 55203	if not, instead of continuing to subsidize failure, the money will go to -- the federal money will go to the parents for public school or charter school or tutorial or Catholic school
+T559	Claim 55285 55343	It can happen in America with the right kind of leadership
+T560	Premise 54425 54476	The goal is for every single child to learn to Read
+T561	Claim 54478 54556	there must by K-2 diagnostic teaching tools, teacher training money, available
+T562	Premise 54160 54263	unfortunately, a lot of schools are trapping children in schools that just won't teach and won't change
+T563	Claim 55352 55395	We agree on a couple of things on education
+T564	Claim 55397 55434	I strongly support new accountability
+T565	Claim 55459 55491	I strongly support local control
+T566	Premise 55436 55457	so does Governor Bush
+T567	Premise 55493 55514	so does Governor Bush
+T568	Claim 55516 55573	I'm in favor of testing as a way of measuring performance
+T569	Premise 55575 55649	Every school and every school district, have every state test the children
+T570	Claim 55787 55867	I think that all new teachers ought to be tested in the subjects that they teach
+T571	Premise 55651 55732	I've also proposed a voluntary national test in the fourth grade and eighth grade
+T572	Claim 56053 56090	We ought to have universal pre-school
+T573	Claim 56095 56164	we ought to make college tuition tax deductible, up to $10,000 a year
+T574	Claim 55942 55976	We've got to reduce the class size
+T575	Premise 55977 56051	so that the student who walks in has more one-on-one time with the teacher
+T576	Claim 55869 55910	We've got to recruit 100,000 new teachers
+T577	Premise 55916 55940	I have budgeted for that
+T578	Claim 56777 56920	I want the federal government, consistent with local control and new accountability, to make improvement of our schools the number one priority
+T579	Premise 56921 56998	so Caley will have a desk and can sit down in a classroom where she can learn
+T580	Premise 56206 56254	I got a letter today as I left Sarasota, Florida
+T581	Premise 56256 56336	I'm here with a group of 13 people from around the country who helped me prepare
+T582	Premise 56359 56400	Two days ago we ate lunch at a restaurant
+T583	Premise 56402 56453	The guy that served us lunch gave me a letter today
+T584	Premise 56455 56478	His name is Randy Ellis
+T585	Premise 56480 56553	He has a 15-year-old daughter named Caley, who is in Sarasota High School
+T586	Premise 56555 56607	Her science class was supposed to be for 24 students
+T587	Premise 56609 56649	She's the 36th student in that classroom
+T588	Premise 56651 56697	They sent me a picture of her in the classroom
+T589	Premise 56699 56775	They can't squeeze another desk in for her, so she has to stand during class
+T590	Claim 57214 57283	there is no new accountability measures in Vice President Gore's plan
+T591	Premise 57285 57319	He says he's for voluntary testing
+T592	Claim 57321 57353	You can't have voluntary testing
+T593	Claim 57355 57386	You must have mandatory testing
+T594	Claim 57388 57519	You must say that if you receive money you must show us whether or not children are learning to read and write and add and subtract
+T595	Claim 57648 57684	Testing is the cornerstone of reform
+T596	Premise 57715 57767	it's the cornerstone of reform in the State of Texas
+T597	Claim 57544 57620	You may claim you've got mandatory testing but you don't, Mr. Vice President
+T598	Claim 57936 58034	The cornerstone is to have strong accountability in return for money and in return for flexibility
+T599	Claim 58421 58465	We need to expand education savings accounts
+T600	Claim 58320 58419	I believe if we find poor children trapped in schools that won't teach, we need to free the parents
+T601	Premise 58467 58526	Something that the vice presidentâ€™s running mate supports
+T602	Premise 58553 58627	He won't support freeing local districts from the strings of federal money
+T603	Premise 58036 58134	We're going to ask you to show us whether or not -- we ask you to post the results on the Internet
+T604	Premise 58136 58209	We encourage parents to take a look at the comparative results of schools
+T605	Premise 58211 58318	We have a strong charter school movement that I signed the legislation to get started in the State of Texas
+T606	Claim 58650 58677	I do have mandatory testing
+T607	Claim 58679 58738	I think the governor may not have heard what I said clearly
+T608	Premise 58740 58836	The voluntary national testing is in addition to the mandatory testing that we require of states
+T609	Claim 58924 58991	which goes a step farther than Governor Bush has been willing to go
+T610	Premise 58838 58922	All schools, all school districts, students themselves, and required teacher testing
+T611	Claim 59385 59539	I don't think private schools should have a right to take taxpayer money away from public schools at a time when Caley Ellis is standing in that classroom
+T612	Premise 59040 59250	Governor Bush is in favor of vouchers which take taxpayer money away from public schools and give them to private schools that are not accountable for how the money is used and don't have to take all applicants
+T613	Claim 59768 59815	this is a funding crisis all around the country
+T614	Premise 59574 59760	I went to a school in Dade County, Florida where the facilities are so overcrowded the children have to eat lunch in shifts with the first shift for lunch starting at 9:30 in the morning
+T615	Premise 59817 59957	There are fewer parents of school-age children as a percentage of the voting population and there is the largest generation of students ever
+T616	Claim 60068 60110	We have to make it the number one priority
+T617	Premise 60030 60066	90% of our kids go to public schools
+T618	Claim 59959 60028	We're in an information age when learning is more important than ever
+T619	Claim 60112 60133	Modernize our schools
+T620	Claim 60135 60152	reduce class size
+T621	Claim 60154 60174	recruit new teachers
+T622	Claim 60176 60273	give every child a chance to learn with one-on-one time in a quality -- high-quality, safe school
+T623	Claim 60275 60387	If it's a failing school, shut it down and reopen it under a new principal with a turnaround team of specialists
+T624	Premise 60388 60436	the way Governor Jim Hunt does in North Carolina
+T625	Premise 60466 60766	The governor, if it's a failing school, would leave the children in that failing school for three years and then give a little bit of money to the parents, a down payment on a down payment for private school tuition, and pretend that that would be enough for them to go out and go to a private school
+T626	Claim 60768 60784	It's an illusion
+T627	Claim 61102 61127	You don't test every year
+T628	Claim 61236 61253	I didn't say that
+T629	Claim 61262 61289	You need to test every year
+T630	Premise 61291 61357	That's how you determine if children are progressing to excellence
+T631	Claim 61844 61893	we'll make sure you do early before it's too late
+T632	Premise 61796 61842	If you don't know what you're supposed to know
+T633	Claim 61369 61492	one of the things that we have to be careful about in politics is throwing money at a system that has not yet been reformed
+T634	Premise 61494 61644	More money is needed and I spend more money, but step one is to make sure we reform the system to have the system in place that leaves no child behind
+T635	Premise 61646 61749	Stop this business about asking gosh, how old are you? If you're 10 we'll put you here, 12 you put here
+T636	Premise 61751 61795	Start asking the question, what do you know?
+T637	Premise 63563 63636	The big drug companies support Governor Bush's prescription drug proposal
+T638	Claim 63638 63654	They oppose mine
+T639	Claim 63663 63703	they don't want to get Medicare involved
+T640	Premise 63712 63824	they're afraid that Medicare will negotiate lower prices for seniors who currently pay the highest prices of all
+T641	Claim 62834 62872	it was a calculated risk that paid off
+T642	Premise 62306 62510	When the action in Kosovo was dragging on and we were searching for a solution to the problem, our country had defeated the adversary on the battlefield without a single American life being lost in combat
+T643	Premise 62516 62553	the dictator Milosevic was hanging on
+T644	Premise 62555 62828	I invited the former prime minister of Russia to my house and took a risk in asking him to get personally involved, along with the head of Finland, to go to Belgrade and to take a set of proposals from the United States that would constitute basically a surrender by Serbia
+T645	Claim 63352 63528	I cast my lot with the people even when it means that you have to stand up to some powerful interests who are trying to turn the -- the policies and the laws to their advantage
+T646	Premise 63530 63561	You can see it in this campaign
+T647	Premise 63015 63104	throughout all that time the people I have fought for have been the middle-class families
+T648	Premise 62962 63004	I have been in public service for 24 years
+T649	Premise 63110 63245	I have been willing to stand up to powerful interests like the big insurance companies, the drug companies, the HMOs, the oil companies
+T650	Premise 63247 63350	They have good people and they play constructive roles sometimes, but sometimes they get too much power
+T651	Claim 63857 63914	I've been standing up to big Hollywood, big trial lawyers
+T652	Claim 64032 64099	as governor, one of the things you have to deal with is catastrophe
+T653	Premise 64101 64157	I can remember the fires that swept Parker County, Texas
+T654	Premise 64159 64201	I remember the floods that swept our state
+T655	Premise 64203 64242	I remember going down to Del Rio, Texas
+T656	Claim 64244 64289	I have to pay the administration a compliment
+T657	Premise 64291 64389	James Lee Witt of FEMA has done a really good job of working with governors during times of crisis
+T658	Claim 64395 64563	that's the time when you're tested not only -- it's the time to test your mettle, a time to test your heart when you see people whose lives have been turned upside down
+T659	Premise 64565 64672	It broke my heart to go to the flood scene in Del Rio where a fellow and his family got completely uprooted
+T660	Claim 64863 64922	They are often on the front line of catastrophic situations
+T661	Premise 64674 64835	The only thing I knew to do was to get aid as quickly as possible with state and federal help, and to put my arms around the man and his family and cry with them
+T662	Premise 64837 64861	That's what governors do
+T663	Claim 65288 65450	what I would do first and foremost, is I would get in touch with the Federal Reserve Chairman, Alan Greenspan, to find out all the facts and all the circumstances
+T664	Claim 65452 65559	I would have my Secretary of the Treasury be in touch with the financial centers not only here, but at home
+T665	Claim 65561 65662	I would make sure that key members of Congress were called in to discuss the gravity of the situation
+T666	Claim 65668 65716	I would come up with a game plan to deal with it
+T667	Premise 65718 65752	That's what governors end up doing
+T668	Claim 65754 65785	We end up being problem solvers
+T669	Premise 65787 65876	We come up with practical, common sense solutions for problems that we're confronted with
+T670	Claim 65892 66033	in the case of a financial crisis, I would gather all the facts before I made the decision as to what the government ought or ought not to do
+T671	Claim 67194 67223	We need to do more and better
+T672	Claim 67129 67149	it's not good enough
+T673	Premise 66359 66534	On the international financial crises that come up, my friend, Bob Rubin, the former Secretary of Treasury is here, he's a close advisor to me and great friend in all respects
+T674	Premise 66536 66659	I have had a chance to work with him and Alan Greenspan and others on the crisis following the collapse of the Mexican peso
+T675	Premise 66661 66762	When the Asian financial crisis raised the risk of world-wide recession that could affect our economy
+T676	Premise 66764 66849	And now, of course, the euro's value has been dropping, but seems to be under control
+T677	Premise 66855 67123	it started for me in the last eight years when I had the honor of casting the tie-breaking vote to end the old economic plan here at home and put into place a new economic plan that has helped us to make some progress, 22 million new jobs, the greatest prosperity ever
+T678	Claim 67427 67456	there's no difference on that
+T679	Claim 67458 67521	There is a difference, though, as to what the economy has meant
+T680	Claim 67523 67647	I think the economy has meant more for the Gore and Clinton folks than the Gore and Clinton folks have meant for the economy
+T681	Premise 67657 67816	most of the economic growth that has taken place is a result of ingenuity and hard work and entrepreneurship and that's the role of goverment to encourage that
+T682	Claim 67928 68005	I think the American people deserve credit for the great economy that we have
+T683	Premise 68007 68027	It's their ingenuity
+T684	Premise 68062 68107	they were working pretty hard eight years ago
+T685	Premise 68117 68151	they had ingenuity eight years ago
+T686	Claim 68153 68193	The difference is we've got a new policy
+T687	Premise 68199 68258	instead of concentrating on tax cuts mostly for the wealthy
+T688	Claim 68271 68316	I want tax cuts for the middle-class families
+T689	Claim 68321 68424	I want to continue the prosperity and make sure that it enriches not just a few but all of our families
+T690	Claim 68799 68826	We have got to do much more
+T691	Claim 68738 68758	It's not good enough
+T692	Premise 68760 68797	Too many people have been left behind
+T693	Premise 68596 68736	Instead of a high unemployment, we have the lowest African-American and Latin American unemployment rates in history and 22 million new jobs
+T694	Premise 68491 68594	We have gone from a triple-dip recession during the previous 12 years to a tripling of the stock market
+T695	Premise 68426 68489	We have gone from the biggest deficits to the biggest surpluses
+T696	Premise 68828 68938	The key is job training, education, investments in health care and education, environment, retirement security
+T697	Premise 68958 68997	we have got to preserve Social Security
+T698	Claim 68999 69151	I'm totally opposed to diverting one out of every six dollars out of the Social Security trust fund, as the Governor has proposed, into the stock market
+T699	Claim 69153 69376	I want new incentives for savings and investment for the young couples who are working hard so they can save and invest on their own on top of Social Security, not at the expense of Social Security, as the governor proposes
+T700	Claim 69646 69698	They've had their chance to deliver a tax cut to you
+T701	Premise 69402 69469	a lot of folks are still waiting for that 1992 middle-class tax cut
+T702	Premise 69471 69592	I remember the vice president saying, "Just give us a chance to get up there, we're going to make sure you get tax cuts."
+T703	Premise 69593 69609	It didn't happen
+T704	Premise 69611 69644	Now he's having to say that again
+T705	Claim 69710 69800	the surest way to bust this economy is to increase the role and size of the federal budget
+T706	Premise 69802 69878	The Senate Budget Committee did a study of the vice president's expenditures
+T707	Premise 69880 69959	It's been projected that they could conceivably bust the budget by $900 billion
+T708	Claim 69972 70081	he'll either have to raise your taxes by $900 billion or go into the Social Security surplus for $900 billion
+T709	Premise 70083 70156	This is a plan that is going to increase the bureaucracy by 20,000 people
+T710	Claim 70219 70261	it is going to require numerous IRS agents
+T711	Premise 70158 70213	His targeted tax cut is so detailed, so much fine print
+T712	Claim 70263 70300	We need somebody to simplify the code
+T713	Claim 70302 70312	to be fair
+T714	Claim 70314 70462	to continue prosperity by sharing some of the surplus with the people who pay the bills, particularly those at the bottom end of the economic ladder
+T715	Claim 70496 70548	What he's quoting is not the Senate Budget Commiitte
+T716	Claim 70550 70710	it is a partisan press release by the Republicans on the Senate Budget Committee that's not worth the government -- the taxpayer-paid paper that it's printed on
+T717	Claim 70776 70848	the size of the federal government will go down in a Gore administration
+T718	Premise 70850 70916	In the reinventing government program you just look at the numbers
+T719	Premise 70918 70980	It is 300,000 people smaller today than it was eight years ago
+T720	Claim 71281 71516	having a $1.9 trillion tax cut, almost half of which goes to the wealthy, and a $1 trillion Social Security privatization proposal is the surest way to put our budget into deficit â€“ raise interest rates and put our prosperity at risk
+T721	Claim 71571 71608	It is 1.3 trillion Mr. Vice President
+T722	Claim 71610 71648	It will go to everybody who pays taxes
+T723	Claim 71650 71734	I'm not going to be the kind of president that says you get tax relief and you don't
+T724	Claim 71736 71776	I'm not going to be a picker and chooser
+T725	Premise 71778 71838	What is fair is everybody who pays taxes ought to get relief
+T726	Claim 72433 72446	I do disagree
+T727	Premise 72456 72609	if we can keep our prosperity going, if we can continue balancing the budget and paying down the debt, then the strong economy keeps generating surpluses
+T728	Claim 72837 73040	I think that it's very important to understand that cutting benefits under Social Security means that people like Winifred Skinner from Des Moines, Iowa, who is here, would really have a much harder time
+T729	Premise 73050 73115	there are millions of seniors who are living almost hand to mouth
+T730	Claim 73154 73178	I don't go along with it
+T731	Claim 73180 73198	I am opposed to it
+T732	Claim 73200 73298	I'm also opposed to a plan that diverts 1 out of every $6 away from the Social Security Trust Fund
+T733	Claim 72628 72705	I will keep Social Security in a lockbox and that pays down the national debt
+T734	Claim 72711 72775	the interest savings I would put right back into Social Security
+T735	Claim 72777 72830	That extends the life of Social Security for 55 years
+T736	Premise 73300 73421	Social Security is a trust fund that pays the checks this year with the money that is paid into Social Security this year
+T737	Premise 73423 73495	The governor wants to divert 1 out of every $6 off into the stock market
+T738	Claim 73514 73628	he would drain a trillion dollars out of the Social Security Trust Fund in this generation over the next ten years
+T739	Claim 73634 73710	Social Security under that approach would go bankrupt within this generation
+T740	Premise 73712 73844	His leading advisor on this plan actually said that would be okay, because then the Social Security Trust Fund could start borrowing
+T741	Premise 73846 73879	It would borrow up to $3 trillion
+T742	Premise 73886 73921	Social Security has never done that
+T743	Claim 73927 73958	I don't think it should do that
+T744	Claim 73960 73995	I think it should stay in a lockbox
+T745	Claim 74021 74143	I will veto anything that takes money out of Social Security for privatization or anything else other than Social Security
+T746	Claim 74265 74350	he doesn't want you to know what he's doing is loading up IOUs for future generations
+T747	Premise 74186 74251	on the two minutes he spent about a million-and-a-half on my plan
+T748	Claim 74790 74843	The vice president thinks it's the government's money
+T749	Premise 74845 74877	The payroll taxes are your money
+T750	Premise 74879 74995	You ought to put it in prudent, safe investments so that $1 trillion over the next ten years grows to be $3 trillion
+T751	Claim 75248 75308	I want you to have your own asset that you can call your own
+T752	Claim 74690 74754	we want to allow younger workers to take some of their own money
+T753	Premise 74352 74406	He puts no real assets into the Social Security system
+T754	Premise 74408 74539	The revenues exceed the expenses in Social Security until the year 2015 which means all retirees are going to get the promises made
+T755	Premise 74997 75046	The money stays within the Social Security system
+T756	Premise 75048 75089	It's a part of the Social Security system
+T757	Premise 75091 75134	He claims it will be out of Social Security
+T758	Claim 75136 75151	It's your money
+T759	Premise 75153 75191	it's a part of your retirement benefit
+T760	Claim 75310 75362	That you can pass on from one generation to the next
+T761	Claim 75364 75489	I want to get a better rate of return for your own money than the paltry 2% that the current Social Security Trust gets today
+T762	Claim 75544 75563	there's a third way
+T763	Premise 75569 75659	that is to get a better rate of return on the Social Security monies coming into the trust
+T764	Premise 75661 75786	There is $2.3 trillion of surplus that we can use to make sure that younger workers have a Social Security plan in the future
+T765	Premise 75788 75802	If we're smart
+T766	Premise 75807 75826	if we trust workers
+T767	Premise 75831 75893	if we understand the power of the compounding rate of interest
+T768	Claim 75926 76089	I give a new incentive for younger workers to save their own money and invest their own money, but not at the expense of Social Security, on top of Social Security
+T769	Claim 76091 76122	My plan is Social Security plus
+T770	Claim 76124 76168	The governor's plan is Social Security minus
+T771	Premise 76170 76255	Your future benefits would be cut by the amount that's diverted into the stock market
+T772	Premise 76257 76300	If you make bad investments, that's too bad
+T773	Premise 76306 76416	even before then the problem hits because the money contributed to Social Security this year is an entitlement
+T774	Premise 76418 76437	That's how it works
+T775	Premise 76443 76502	the money is used to pay the benefits for seniors this year
+T776	Premise 76504 76552	If you cut the amount going in 1 out of every $6
+T777	Claim 76559 76673	you have to cut the value of each check by 1 out of every $6 unless you come up with the money from somewhere else
+T778	Claim 76913 76915	No
+T779	Premise 76917 77000	There's enough money to pay seniors today in the current affairs of Social Security
+T780	Premise 77002 77037	The trillion comes from the surplus
+T781	Premise 77039 77081	Surplus is money -- more money than needed
+T782	Claim 77083 77184	Let me tell you what your plan is. It's not Social Security plus, it's Social Security plus huge debt
+T783	Claim 77206 77255	You leave future generations with tremendous IOUs
+T784	Claim 77782 77803	the issue is changing
+T785	Premise 77805 77953	Seniors now understand that the promise made will be a promise kept, but younger workers now understand we better have a government that trusts them
+T786	Claim 77958 77993	that's exactly what I'm going to do
+T787	Claim 77257 77337	It's time to have a leader that doesn't put off tomorrow what we should do today
+T788	Claim 77339 77507	It's time to have somebody to step up and say look, let's let younger workers take some of their own money and under certain guidelines invest it in the private markets
+T789	Premise 77509 77552	The safest of federal investments yields 4%
+T790	Premise 77554 77634	That's twice the amount of rate of return than the current Social Security Trust
+T791	Premise 77690 77761	Younger worker after younger worker hears my call that says I trust you
+T792	Claim 78374 78437	the trust fund goes bankrupt in this generation within 20 years
+T793	Premise 78310 78361	If you take it out of the surplus in the trust fund
+T794	Premise 78142 78206	When FDR established Social Security, they didn't call them IOUs
+T795	Premise 78208 78269	they called it the full faith and credit of the United States
+T796	Claim 78530 78538	It's not
+T797	Claim 78625 78669	We need to think differently about the issue
+T798	Claim 78671 78724	We need to make sure our seniors get the promise made
+T799	Claim 78869 78919	it will be impossible to bridge the gap without it
+T800	Premise 78726 78826	If we don't trust younger workers to manage some of their own money with the Social Security surplus
+T801	Premise 78828 78867	to grow from $1 trillion to $3 trillion
+T802	Premise 78446 78528	This is a government that thinks a 2% rate of return on your money is satisfactory
+T803	Premise 78540 78623	This is a government that says younger workers can't possibly have their own assets
+T804	Claim 78921 79004	What Mr. Gore's plan will do causing huge payroll taxes or major benefit reductions
+T805	Claim 79263 79392	I think the thing that discouraged me about the vice president was uttering those famous words, "No controlling legal authority."
+T806	Premise 79393 79496	I felt like there needed to be a better sense of responsibility of what was going on in the White House
+T807	Claim 79113 79163	The man loves his wife and I appreciate that a lot
+T809	Premise 79169 79180	I love mine
+T808	Claim 79182 79235	The man loves his family a lot, and I appreciate that
+T810	Premise 79245 79261	I love my family
+T811	Claim 79648 79677	It's not good for the country
+T812	Claim 79682 79696	it's not right
+T813	Premise 79526 79646	they've moved that sign, "The buck stops here" from the Oval Office desk to "The buck stops here" on the Lincoln bedroom
+T814	Claim 79698 79765	We need to have a new look about how we conduct ourselves in office
+T815	Claim 79767 79787	There's a huge trust
+T816	Premise 79789 79883	I see it all the time when people come up to me and say, I don't want you to let me down again
+T817	Claim 79889 79943	we can do better than the past administration has done
+T818	Claim 80094 80191	I've been disappointed about how he and his administration have conducted the fundraising affairs
+T819	Premise 80203 80302	going to a Buddhist temple and then claiming it wasn't a fundraiser isn't my view of responsibility
+T820	Claim 79945 79972	It's time for a fresh start
+T821	Claim 79974 79998	It's time for a new look
+T822	Claim 80000 80027	It's time for a fresh start
+T823	Premise 80028 80054	after a season of cynicism
+T824	Claim 80341 80413	I think we ought to attack our country's problems, not attack each other
+T825	Claim 80415 80528	I want to spend my time making this country even better than it is, not trying to make you out to be a bad person
+T826	Premise 80530 80562	You may want to focus on scandal
+T827	Premise 80564 80590	I want to focus on results
+T828	Claim 80956 81037	I may not be the most exciting politician, but I will work hard for you every day
+T829	Premise 80815 80867	I have devoted 24 years of my life to public service
+T830	Premise 80917 80954	if you entrust me with the presidency
+T831	Claim 81039 81103	I will fight for middle-class families and working men and women
+T832	Claim 81108 81133	I will never let you down
+T833	Premise 80626 80697	I stand here as my own man and I want you to see me for who I really am
+T834	Premise 80699 80742	Tipper and I have been married for 30 years
+T835	Premise 80744 80788	We became grandparents a year-and-a-half ago
+T836	Premise 80790 80813	We've got four children
+T837	Claim 81380 81439	They ought to factor in it when they go to the voting booth
+T838	Claim 81470 81546	I think people need to be held responsible for the actions they take in life
+T839	Claim 81570 81623	I think that's part of the need for a cultural change
+T840	Premise 81785 81842	that's the way I've conducted myself as Governor of Texas
+T841	Claim 81847 81915	that's the way I'll conduct myself as President of the United States
+T842	Claim 81625 81685	We need to say we each need to be responsible for what we do
+T843	Premise 81687 81779	People in the highest office of the land must be responsible for decisions they make in life
+T844	Claim 82041 82043	No
+T845	Claim 82045 82203	I think the American people should take into account who we are as individuals, what our experience is, what our positions are on the issues and proposals are
+T846	Claim 82529 82683	if I'm president, the very first bill that Joe Lieberman and I will send to the United States Congress is the McCain-Feingold campaign finance reform bill
+T847	Premise 82359 82449	This current campaign financing system has not reflected credit on anybody in either party
+T848	Premise 82205 82249	I'm asking you to see me for who I really am
+T849	Premise 82251 82318	I'm offering you my own vision, my own experience, my own proposals
+T850	Claim 82994 83086	all these other proposals are going to be a lot easier to get passed for the American people
+T851	Premise 83087 83138	if we limit the influence of special interest money
+T852	Premise 83143 83185	give democracy back to the American people
+T853	Premise 82728 82992	all of the other issues, whether prescription drugs for all seniors that are opposed by the drug companies or the patient's bill of rights to take the decisions away from the HMOs and give them to the doctors and nurses, opposed by the HMOs and insurance companies
+T854	Claim 83319 83359	this man has no credibility on the issue
+T855	Premise 83382 83488	I read in the "New York Times" where he said he co-sponsored the McCain-Feingold Campaign Fundraising Bill
+T856	Premise 83490 83539	But he wasn't in the Senate with Senator Feingold
+T857	Claim 83605 83626	I will uphold the law
+T858	Claim 83628 83687	I'm going to have an attorney general that enforces the law
+T859	Claim 83824 83941	I am not going to lay down my arms in the middle of the campaign for somebody who has got no credibility on the issue
+T860	Premise 83689 83747	The time for campaign funding reform is after the election
+T861	Premise 83749 83818	This man has outspent me and the special interests are outspending me
+T862	Claim 84400 84516	I would support an effort to ban corporate soft money and labor union soft money so long as there was dues check-off
+T863	Premise 84518 84561	I've campaigned on this since the primaries
+T864	Claim 84563 84652	I believe there needs to be instant disclosure on the Internet as to who has given to who
+T865	Claim 84654 84694	I think we need to fully enforce the law
+T866	Claim 84696 84786	I think we need to have an attorney general that says if a law is broken, we'll enforce it
+T867	Claim 84788 84815	Be strict and firm about it
+T868	Claim 84931 84998	I think we ought to focus on the problems and not attack each other
+T869	Premise 84830 84929	Governor Bush, you have attacked my character and credibility and I am not going to respond in kind
+T870	Claim 85000 85152	One of the serious problems, hear me well, is that our system of government is being undermined by too much influence coming from special interest money
+T871	Claim 85154 85183	We have to get a handle on it
+T872	Premise 85189 85237	like John McCain, I have learned from experience
+T873	Premise 85243 85273	it's not a new position for me
+T874	Premise 85275 85346	24 years ago I supported full public financing of all federal elections
+T875	Claim 85391 85439	it will be the first bill I send to the Congress
+T876	Claim 85460 85490	I care passionately about this
+T877	Claim 85495 85528	I will fight until it becomes law
+T878	Claim 85638 85679	I'm absolutely, adamently opposed to that
+T879	Claim 85681 85742	I don't want the government financing congressional elections
+T880	Claim 86586 86634	I want to finally get something done on Medicare
+T881	Claim 86636 86704	I want to make sure prescription drugs are available for all seniors
+T882	Claim 86710 86801	I want seniors to have additional choices when it comes to choosing their health care plans
+T883	Claim 86803 86858	I want to finally get something done on Social Security
+T884	Claim 86860 86936	I want to make sure the seniors have the promise made will be a promise kept
+T885	Claim 86942 87138	I want younger workers to be able to manage some of their own money, some of their own payroll taxes in the private sector under certain guidelines to get a better rate of return on your own money
+T886	Claim 87140 87188	I want to rebuild our military to keep the peace
+T887	Claim 87190 87270	I want to have a strong hand when it comes to the United States in world affairs
+T888	Claim 87272 87336	I don't want to try to put our troops in all places at all times
+T889	Claim 87338 87378	I don't want to be the world's policeman
+T890	Claim 87380 87488	I want to be the world's peacemaker by having a military of high morale and a military that is well-equipped
+T891	Claim 87490 87651	I want anti-ballistic missile systems to protect ourselves and our allies from a rogue nation that may try to hold us hostage or blackmail our allies and friends
+T892	Claim 87653 87723	I want to make sure the education system fulfills its hope and promise
+T893	Premise 87725 87837	I've had a strong record of working with Democrats and Republicans in Texas to make sure no child is left behind
+T894	Premise 87839 88015	I understand the limited role of the federal government, but it could be a constructive role when it comes to reform, by insisting that there be a strong accountability systems
+T895	Claim 86135 86199	I also want to go to Washington to get some positive things done
+T896	Claim 86043 86133	There is a huge difference of opinion. Mine is I want to empower people in their own lives
+T897	Claim 86201 86236	It is going to require a new spirit
+T898	Premise 86238 86261	A spirit of cooperation
+T899	Premise 86263 86433	It will require the ability of a Republican president to reach out across the partisan divide and to say to Democrats, let's come together to do what is right for America
+T900	Premise 86435 86475	It's been my record as Governor of Texas
+T901	Claim 86477 86584	it will be how I conduct myself if I'm fortunate enough to earn your vote as President of the United States
+T902	Claim 89838 89906	I'm not going to cut her benefits or support any proposal that would
+T903	Claim 90175 90233	I'll fight for a prescription drug benefit for all seniors
+T904	Claim 90238 90309	fight for the people of this country for a prosperity that benefits all
+T905	Premise 89908 90061	She gets a small pension, but in order to pay for her prescription drug benefits, she has to go out seven days a week several hours a day picking up cans
+T906	Premise 90063 90153	She came all the way from Iowa in a Winnebago with her poodle in order attend here tonight
+T907	Premise 89704 89766	There is a woman named Winifred Skinner here tonight from Iowa
+T908	Premise 89813 89836	She has Social Security
+T909	Premise 89793 89811	She's 79 years old
+T910	Claim 89177 89298	they do have undue influence in Washington, D.C. and it makes a difference if you have a president who will fight for you
+T911	Claim 88396 88445	this is indeed a crucial time in American history
+T912	Premise 88447 88474	We're at a fork in the road
+T913	Premise 88476 88553	We have this incredible prosperity, but a lot of people have been left behind
+T914	Premise 88559 88600	we have a very important decision to make
+T915	Claim 88758 88880	Throughout my career in public service, I have fought for the working men and women of this country, middle-class families
+T916	Premise 88895 88985	you are the ones who have the hardest time paying taxes, the hardest time making ends meet
+T917	Premise 88987 89082	You are the ones who are making car payments and mortgage payments and doing right by your kids
+T918	Premise 89088 89149	a lot of times there are powerful forces that are against you
+T919	Premise 89300 89702	I know one thing about the position of president, it's the only position in our Constitution that is filled by an individual who is given the responsibility to fight not just for one state or one district or the well-connected or wealthy, but to fight for all of the people, including especially those who most need somebody who will stand up and take on whatever powerful forces might stand in the way

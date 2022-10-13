@@ -1,0 +1,1774 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.520",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Municipal Auditorium in Kansas City."
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "20.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I am Dorothy Ridings, the president of the League of Women Voters, the sponsor of this final Presidential debate of the 1984 campaign between Republican Ronald Reagan and Democrat Walter Mondale."
+   ]
+  },
+  {
+   "begin": "20.240",
+   "children": [],
+   "end": "48.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Our panelists for tonight's debate on defense and foreign policy issues are Georgie Anne Geyer, syndicated columnist for Universal Press Syndicate; Marvin Kalb, chief diplomatic correspondent for NBC News; Morton Kondracke, executive editor of the New Republic magazine; and Henry Trewhitt, diplomatic correspondent for the Baltimore Sun."
+   ]
+  },
+  {
+   "begin": "48.520",
+   "children": [],
+   "end": "55.080",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Edwin Newman, formerly of NBC News and now a syndicated columnist for King Features, is our moderator."
+   ]
+  },
+  {
+   "begin": "55.080",
+   "children": [],
+   "end": "56.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Ed."
+   ]
+  },
+  {
+   "begin": "56.520",
+   "children": [],
+   "end": "58.520",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "Dorothy Ridings, thank you."
+   ]
+  },
+  {
+   "begin": "58.520",
+   "children": [],
+   "end": "60.520",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "A brief word about our procedure tonight."
+   ]
+  },
+  {
+   "begin": "60.520",
+   "children": [],
+   "end": "62.600",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "The first question will go to Mr. Mondale."
+   ]
+  },
+  {
+   "begin": "62.600",
+   "children": [],
+   "end": "65.680",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "He'll have 2\\1/2\\ minutes to reply."
+   ]
+  },
+  {
+   "begin": "65.680",
+   "children": [],
+   "end": "68.640",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Then the panel member who put the question will ask a followup."
+   ]
+  },
+  {
+   "begin": "68.640",
+   "children": [],
+   "end": "72.360",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "The answer to that will be limited to 1 minute."
+   ]
+  },
+  {
+   "begin": "72.360",
+   "children": [],
+   "end": "75.320",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "After that, the same question will be put to President Reagan."
+   ]
+  },
+  {
+   "begin": "75.320",
+   "children": [],
+   "end": "76.960",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Again, there will be a followup."
+   ]
+  },
+  {
+   "begin": "76.960",
+   "children": [],
+   "end": "80.440",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "And then each man will have 1 minute for rebuttal."
+   ]
+  },
+  {
+   "begin": "80.440",
+   "children": [],
+   "end": "83.600",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "The second question will go to President Reagan first."
+   ]
+  },
+  {
+   "begin": "83.600",
+   "children": [],
+   "end": "86.040",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "After that, the alternating will continue."
+   ]
+  },
+  {
+   "begin": "86.040",
+   "children": [],
+   "end": "91.040",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "At the end there will be 4-minute summations, with President Reagan going last."
+   ]
+  },
+  {
+   "begin": "91.040",
+   "children": [],
+   "end": "93.960",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "We have asked the questioners to be brief."
+   ]
+  },
+  {
+   "begin": "93.960",
+   "children": [],
+   "end": "95.160",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Let's begin."
+   ]
+  },
+  {
+   "begin": "95.160",
+   "children": [],
+   "end": "98.400",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Ms. Geyer, your question to Mr. Mondale."
+   ]
+  },
+  {
+   "begin": "98.400",
+   "children": [],
+   "end": "99.840",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Central America"
+   ]
+  },
+  {
+   "begin": "99.840",
+   "children": [],
+   "end": "104.160",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale, two related questions on the crucial issue of Central America."
+   ]
+  },
+  {
+   "begin": "104.160",
+   "children": [],
+   "end": "117.920",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "You and the Democratic Party have said that the only policy toward the horrendous civil wars in Central America should be on the economic development and negotiations, with perhaps a quarantine of Marxist Nicaragua."
+   ]
+  },
+  {
+   "begin": "117.920",
+   "children": [],
+   "end": "123.880",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Do you believe that these answers would in any way solve the bitter conflicts there?"
+   ]
+  },
+  {
+   "begin": "123.880",
+   "children": [],
+   "end": "128.560",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Do you really believe that there is no need to resort to force at all?"
+   ]
+  },
+  {
+   "begin": "128.560",
+   "children": [],
+   "end": "135.960",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "Are not the solutions to Central America's gnawing problems simply, again, too weak and too late?"
+   ]
+  },
+  {
+   "begin": "135.960",
+   "children": [],
+   "end": "143.560",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "I believe that the question oversimplifies the difficulties of what we must do in Central America."
+   ]
+  },
+  {
+   "begin": "143.560",
+   "children": [],
+   "end": "155.040",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Our objectives ought to be to strengthen the democracies, to stop Communist and other extremist influences, and stabilize the community in that area."
+   ]
+  },
+  {
+   "begin": "155.040",
+   "children": [],
+   "end": "188.080",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "To do that we need a three-pronged attack: one is military assistance to our friends who are being pressured; secondly, a strong and sophisticated economic aid program and human rights program that offers a better life and a sharper alternative to the alternative offered by the totalitarians who oppose us; and finally, a strong diplomatic effort that pursues the possibilities of peace in the area."
+   ]
+  },
+  {
+   "begin": "188.080",
+   "children": [],
+   "end": "213.600",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "That's one of the big disagreements that we have with the President -- that they have not pursued the diplomatic opportunities either within El Salvador or as between the countries and have lost time during which we might have been able to achieve a peace  This brings up the whole question of what Presidential leadership is all about."
+   ]
+  },
+  {
+   "begin": "213.600",
+   "children": [],
+   "end": "229.200",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "I think the lesson in Central America, this recent embarrassment in Nicaragua where we are giving instructions for hired assassins, hiring criminals, and the rest -- all of this has strengthened our opponents."
+   ]
+  },
+  {
+   "begin": "229.200",
+   "children": [],
+   "end": "237.320",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "A President must not only assure that we're tough, but we must also be wise and smart in the exercise of that power."
+   ]
+  },
+  {
+   "begin": "237.320",
+   "children": [],
+   "end": "243.840",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "We saw the same thing in Lebanon, where we spent a good deal of America's assets."
+   ]
+  },
+  {
+   "begin": "243.840",
+   "children": [],
+   "end": "252.760",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "But because the leadership of this government did not pursue wise policies, we have been humiliated, and our opponents are stronger."
+   ]
+  },
+  {
+   "begin": "252.760",
+   "children": [],
+   "end": "259.720",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "The bottom line of national strength is that the President must be in command, he must lead."
+   ]
+  },
+  {
+   "begin": "259.720",
+   "children": [],
+   "end": "282.280",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "And when a President doesn't know that submarine missiles are recallable, says that 70 percent of our strategic forces are conventional, discovers 3 years into his administration that our arms control efforts have failed because he didn't know that most Soviet missiles were on land -- these are things a President must know to command."
+   ]
+  },
+  {
+   "begin": "282.280",
+   "children": [],
+   "end": "285.200",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "A President is called the Commander in Chief."
+   ]
+  },
+  {
+   "begin": "285.200",
+   "children": [],
+   "end": "292.720",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "And he's called that because he's supposed to be in charge of the facts and run our government and strengthen our nation."
+   ]
+  },
+  {
+   "begin": "292.720",
+   "children": [],
+   "end": "305.520",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale, if I could broaden the question just a little bit: Since World War II, every conflict that we as Americans have been involved with has been in non-conventional or irregular terms."
+   ]
+  },
+  {
+   "begin": "305.520",
+   "children": [],
+   "end": "311.800",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "And yet, we keep fighting in conventional or traditional military terms."
+   ]
+  },
+  {
+   "begin": "311.800",
+   "children": [],
+   "end": "319.080",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "The Central American wars are very much in the same pattern as China, as Lebanon, as Iran, as Cuba, in their early days."
+   ]
+  },
+  {
+   "begin": "319.080",
+   "children": [],
+   "end": "327.320",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Do you see any possibility that we are going to realize the change in warfare in our time, or react to it in those terms?"
+   ]
+  },
+  {
+   "begin": "327.320",
+   "children": [],
+   "end": "331.960",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "We absolutely must, which is why I responded to your first question the way I did."
+   ]
+  },
+  {
+   "begin": "331.960",
+   "children": [],
+   "end": "334.120",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "It's much more complex."
+   ]
+  },
+  {
+   "begin": "334.120",
+   "children": [],
+   "end": "344.200",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "You must understand the region; you must understand the politics in the area; you must provide a strong alternative; and you must show strength -- and all at the same time."
+   ]
+  },
+  {
+   "begin": "344.200",
+   "children": [],
+   "end": "347.720",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "That's why I object to the covert action in Nicaragua."
+   ]
+  },
+  {
+   "begin": "347.720",
+   "children": [],
+   "end": "361.280",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "That's a classic example of a strategy that's embarrassed us, strengthened our opposition, and undermined the moral authority of our people and our country in the region."
+   ]
+  },
+  {
+   "begin": "361.280",
+   "children": [],
+   "end": "364.800",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "Strength requires knowledge, command."
+   ]
+  },
+  {
+   "begin": "364.800",
+   "children": [],
+   "end": "376.400",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "We've seen in the Nicaraguan example a policy that has actually hurt us, strengthened our opposition, and undermined the moral authority of our country in that region."
+   ]
+  },
+  {
+   "begin": "376.400",
+   "children": [],
+   "end": "384.200",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "Mr. President, in the last few months it has seemed more and more that your policies in Central America were beginning to work."
+   ]
+  },
+  {
+   "begin": "384.200",
+   "children": [],
+   "end": "403.960",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "Yet, just at this moment, we are confronted with the extraordinary story of a CIA guerrilla manual for the anti-Sandinista contras whom we are backing, which advocates not only assassinations of Sandinistas but the hiring of criminals to assassinate the guerrillas we are supporting in order to create martyrs."
+   ]
+  },
+  {
+   "begin": "403.960",
+   "children": [],
+   "end": "408.640",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Is this not, in effect, our own state-supported terrorism?"
+   ]
+  },
+  {
+   "begin": "408.640",
+   "children": [],
+   "end": "412.720",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "No, but I'm glad you asked that question, because I know it's on many peoples' minds."
+   ]
+  },
+  {
+   "begin": "412.720",
+   "children": [],
+   "end": "414.720",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "I have ordered an investigation."
+   ]
+  },
+  {
+   "begin": "414.720",
+   "children": [],
+   "end": "417.320",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "I know that the CIA is already going forward with one."
+   ]
+  },
+  {
+   "begin": "417.320",
+   "children": [],
+   "end": "429.960",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "We have a gentleman down in Nicaragua who is on contract to the CIA, advising -- supposedly on military tactics -- the contras."
+   ]
+  },
+  {
+   "begin": "429.960",
+   "children": [],
+   "end": "432.760",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "And he drew up this manual."
+   ]
+  },
+  {
+   "begin": "432.760",
+   "children": [],
+   "end": "440.640",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "It was turned over to the agency head of the CIA in Nicaragua to be printed."
+   ]
+  },
+  {
+   "begin": "440.640",
+   "children": [],
+   "end": "452.000",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "And a number of pages were excised by that agency head there, the man in charge, and he sent it on up here to CIA, where more pages were excised before it was printed."
+   ]
+  },
+  {
+   "begin": "452.000",
+   "children": [],
+   "end": "462.840",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "But some way or other, there were 12 of the original copies that got out down there and were not submitted for this printing process by the CIA."
+   ]
+  },
+  {
+   "begin": "462.840",
+   "children": [],
+   "end": "465.200",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Now, those are the details as we have them."
+   ]
+  },
+  {
+   "begin": "465.200",
+   "children": [],
+   "end": "477.800",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "And as soon as we have an investigation and find out where any blame lies for the few that did not get excised or changed, we certainly are going to do something about that."
+   ]
+  },
+  {
+   "begin": "477.800",
+   "children": [],
+   "end": "481.120",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "We'll take the proper action at the proper time."
+   ]
+  },
+  {
+   "begin": "481.120",
+   "children": [],
+   "end": "507.160",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "I was very interested to hear about Central America and our process down there, and I thought for a moment that instead of a debate I was going to find Mr. Mondale in complete agreement with what we're doing, because the plan that he has outlined is the one we've been following for quite some time, including diplomatic processes throughout Central America and working closely with the Contadora group."
+   ]
+  },
+  {
+   "begin": "507.160",
+   "children": [],
+   "end": "519.840",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "So, I can only tell you about the manual -- that we're not in the habit of assigning guilt before there has been proper evidence produced and proof of that guilt."
+   ]
+  },
+  {
+   "begin": "519.840",
+   "children": [],
+   "end": "529.000",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "But if guilt is established, whoever is guilty we will treat with that situation then, and they will be removed."
+   ]
+  },
+  {
+   "begin": "529.000",
+   "children": [],
+   "end": "535.160",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Well, Mr. President, you are implying then that the CIA in Nicaragua is directing the contras there."
+   ]
+  },
+  {
+   "begin": "535.160",
+   "children": [],
+   "end": "548.760",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "I'd also like to ask whether having the CIA investigate its own manual in such a sensitive area is not sort of like sending the fox into the chicken coop a second time?"
+   ]
+  },
+  {
+   "begin": "548.760",
+   "children": [],
+   "end": "552.840",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "I'm afraid I misspoke when I said a CIA head in Nicaragua."
+   ]
+  },
+  {
+   "begin": "552.840",
+   "children": [],
+   "end": "556.120",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "There's not someone there directing all of this activity."
+   ]
+  },
+  {
+   "begin": "556.120",
+   "children": [],
+   "end": "563.480",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "There are, as you know, CIA men stationed in other countries in the world and, certainly, in Central America."
+   ]
+  },
+  {
+   "begin": "563.480",
+   "children": [],
+   "end": "584.360",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "And so it was a man down there in that area that this was delivered to, and he recognized that what was in that manual was in direct contravention of my own Executive order, in December of 1981, that we would have nothing to do with regard to political assassinations."
+   ]
+  },
+  {
+   "begin": "584.360",
+   "children": [],
+   "end": "586.920",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale, your rebuttal."
+   ]
+  },
+  {
+   "begin": "586.920",
+   "children": [],
+   "end": "591.720",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "What is a President charged with doing when he takes his oath of office?"
+   ]
+  },
+  {
+   "begin": "591.720",
+   "children": [],
+   "end": "601.440",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "He raises his right hand and takes an oath of office to take care to faithfully execute the laws of the land."
+   ]
+  },
+  {
+   "begin": "601.440",
+   "children": [],
+   "end": "610.840",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "A President can't know everything, but a President has to know those things that are essential to his leadership and the enforcement of our laws."
+   ]
+  },
+  {
+   "begin": "610.840",
+   "children": [],
+   "end": "620.520",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "This manual -- several thousands of which were produced -- was distributed, ordering political assassinations, hiring of criminals, and other forms of terrorism."
+   ]
+  },
+  {
+   "begin": "620.520",
+   "children": [],
+   "end": "625.880",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Some of it was excised, but the part dealing with political terrorism was continued."
+   ]
+  },
+  {
+   "begin": "625.880",
+   "children": [],
+   "end": "627.320",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "How can this happen?"
+   ]
+  },
+  {
+   "begin": "627.320",
+   "children": [],
+   "end": "636.880",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "How can something this serious occur in an administration and have a President of the United States in a situation like this say he didn't know?"
+   ]
+  },
+  {
+   "begin": "636.880",
+   "children": [],
+   "end": "638.840",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "A President must know these things."
+   ]
+  },
+  {
+   "begin": "638.840",
+   "children": [],
+   "end": "644.360",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "I don't know which is worse, not knowing or knowing and not stopping it."
+   ]
+  },
+  {
+   "begin": "644.360",
+   "children": [],
+   "end": "649.400",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "And what about the mining of the harbors in Nicaragua which violated international law?"
+   ]
+  },
+  {
+   "begin": "649.400",
+   "children": [],
+   "end": "654.360",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "This has hurt this country, and a President's supposed to command."
+   ]
+  },
+  {
+   "begin": "654.360",
+   "children": [],
+   "end": "656.120",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Mr. President, your rebuttal."
+   ]
+  },
+  {
+   "begin": "656.120",
+   "children": [],
+   "end": "656.960",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "656.960",
+   "children": [],
+   "end": "661.440",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "I have so many things there to respond to, I'm going to pick out something you said earlier."
+   ]
+  },
+  {
+   "begin": "661.440",
+   "children": [],
+   "end": "672.040",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "You've been all over the country repeating something that, I will admit, the press has also been repeating -- that I believed that nuclear missiles could be fired and then called back."
+   ]
+  },
+  {
+   "begin": "672.040",
+   "children": [],
+   "end": "674.280",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "I never, ever conceived of such a thing."
+   ]
+  },
+  {
+   "begin": "674.280",
+   "children": [],
+   "end": "676.840",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "I never said any such thing."
+   ]
+  },
+  {
+   "begin": "676.840",
+   "children": [],
+   "end": "700.000",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "In a discussion of our strategic arms negotiations, I said that submarines carrying missiles and airplanes carrying missiles were more conventional-type weapons, not as destabilizing as the land-based missiles, and that they were also weapons that -- or carriers -- that if they were sent out and there was a change, you could call them back before they had launched their missiles."
+   ]
+  },
+  {
+   "begin": "700.000",
+   "children": [],
+   "end": "707.920",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "But I hope that from here on you will no longer be saying that particular thing, which is absolutely false."
+   ]
+  },
+  {
+   "begin": "707.920",
+   "children": [],
+   "end": "718.240",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "How anyone could think that any sane person would believe you could call back a nuclear missile, I think is as ridiculous as the whole concept has been."
+   ]
+  },
+  {
+   "begin": "718.240",
+   "children": [],
+   "end": "720.880",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "So, thank you for giving me a chance to straighten the record."
+   ]
+  },
+  {
+   "begin": "720.880",
+   "children": [],
+   "end": "722.520",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "I'm sure that you appreciate that."
+   ]
+  },
+  {
+   "begin": "722.520",
+   "children": [],
+   "end": "723.240",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "[Laughter]"
+   ]
+  },
+  {
+   "begin": "723.240",
+   "children": [],
+   "end": "727.240",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Mr. Kalb, your question to President Reagan."
+   ]
+  },
+  {
+   "begin": "727.240",
+   "children": [],
+   "end": "727.920",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "begin": "727.920",
+   "children": [],
+   "end": "734.880",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Mr. President, you have often described the Soviet Union as a powerful, evil empire intent on world domination."
+   ]
+  },
+  {
+   "begin": "734.880",
+   "children": [],
+   "end": "737.680",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "But this year you have said, and I quote."
+   ]
+  },
+  {
+   "begin": "737.680",
+   "children": [],
+   "end": "741.640",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "\"If they want to keep their Mickey Mouse system, that's okay with me.''"
+   ]
+  },
+  {
+   "begin": "741.640",
+   "children": [],
+   "end": "742.880",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "Which is it, Mr. President?"
+   ]
+  },
+  {
+   "begin": "742.880",
+   "children": [],
+   "end": "755.080",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "Do you want to contain them within their present borders and perhaps try to reestablish detente -- or what goes for detente -- or do you really want to roll back their empire?"
+   ]
+  },
+  {
+   "begin": "755.080",
+   "children": [],
+   "end": "759.080",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "I have said on a number of occasions exactly what I believe about the Soviet Union."
+   ]
+  },
+  {
+   "begin": "759.080",
+   "children": [],
+   "end": "762.120",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "I retract nothing that I have said."
+   ]
+  },
+  {
+   "begin": "762.120",
+   "children": [],
+   "end": "767.520",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "I believe that many of the things they have done are evil in any concept of morality that we have."
+   ]
+  },
+  {
+   "begin": "767.520",
+   "children": [],
+   "end": "774.160",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "But I also recognize that as the two great superpowers in the world, we have to live with each other."
+   ]
+  },
+  {
+   "begin": "774.160",
+   "children": [],
+   "end": "777.040",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "And I told Mr. Gromyko we don't like their system."
+   ]
+  },
+  {
+   "begin": "777.040",
+   "children": [],
+   "end": "778.480",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "They don't like ours."
+   ]
+  },
+  {
+   "begin": "778.480",
+   "children": [],
+   "end": "783.040",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "And we're not going to change their system, and they sure better not try to change ours."
+   ]
+  },
+  {
+   "begin": "783.040",
+   "children": [],
+   "end": "790.480",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "But between us, we can either destroy the world or we can save it."
+   ]
+  },
+  {
+   "begin": "790.480",
+   "children": [],
+   "end": "801.920",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "And I suggested that, certainly, it was to their common interest, along with ours, to avoid a conflict and to attempt to save the world and remove the nuclear weapons."
+   ]
+  },
+  {
+   "begin": "801.920",
+   "children": [],
+   "end": "806.160",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "And I think that perhaps we established a little better understanding."
+   ]
+  },
+  {
+   "begin": "806.160",
+   "children": [],
+   "end": "810.320",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "I think that in dealing with the Soviet Union one has to be realistic."
+   ]
+  },
+  {
+   "begin": "810.320",
+   "children": [],
+   "end": "820.320",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "I know that Mr. Mondale, in the past, has made statements as if they were just people like ourselves, and if we were kind and good and did something nice, they would respond accordingly."
+   ]
+  },
+  {
+   "begin": "820.320",
+   "children": [],
+   "end": "822.760",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "And the result was unilateral disarmament."
+   ]
+  },
+  {
+   "begin": "822.760",
+   "children": [],
+   "end": "825.920",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "We canceled the B - 1 under the previous administration."
+   ]
+  },
+  {
+   "begin": "825.920",
+   "children": [],
+   "end": "827.120",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "What did we get for it?"
+   ]
+  },
+  {
+   "begin": "827.120",
+   "children": [],
+   "end": "828.040",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Nothing."
+   ]
+  },
+  {
+   "begin": "828.040",
+   "children": [],
+   "end": "840.000",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "The Soviet Union has been engaged in the biggest military buildup in the history of man at the same time that we tried the policy of unilateral disarmament, of weakness, if you will."
+   ]
+  },
+  {
+   "begin": "840.000",
+   "children": [],
+   "end": "845.840",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "And now we are putting up a defense of our own."
+   ]
+  },
+  {
+   "begin": "845.840",
+   "children": [],
+   "end": "849.200",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "And I've made it very plain to them, we seek no superiority."
+   ]
+  },
+  {
+   "begin": "849.200",
+   "children": [],
+   "end": "858.360",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "We simply are going to provide a deterrent so that it will be too costly for them if they are nursing any ideas of aggression against us."
+   ]
+  },
+  {
+   "begin": "858.360",
+   "children": [],
+   "end": "860.320",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Now, they claim they're not."
+   ]
+  },
+  {
+   "begin": "860.320",
+   "children": [],
+   "end": "863.720",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "And I made it plain to them, we're not."
+   ]
+  },
+  {
+   "begin": "863.720",
+   "children": [],
+   "end": "867.480",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "There's been no change in my attitude at all."
+   ]
+  },
+  {
+   "begin": "867.480",
+   "children": [],
+   "end": "876.720",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "I just thought when I came into office it was time that there was some realistic talk to and about the Soviet Union."
+   ]
+  },
+  {
+   "begin": "876.720",
+   "children": [],
+   "end": "878.720",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "And we did get their attention."
+   ]
+  },
+  {
+   "begin": "878.720",
+   "children": [],
+   "end": "880.320",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "Regions Vital to U.S."
+   ]
+  },
+  {
+   "begin": "880.320",
+   "children": [],
+   "end": "881.280",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Interests"
+   ]
+  },
+  {
+   "begin": "881.280",
+   "children": [],
+   "end": "884.960",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Mr. President, perhaps the other side of the coin, a related question, sir."
+   ]
+  },
+  {
+   "begin": "884.960",
+   "children": [],
+   "end": "893.120",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "Since World War II, the vital interests of the United States have always been defined by treaty commitments and by Presidential proclamations."
+   ]
+  },
+  {
+   "begin": "893.120",
+   "children": [],
+   "end": "907.680",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Aside from what is obvious, such as NATO, for example, which countries, which regions in the world do you regard as vital national interests of this country, meaning that you would send American troops to fight there if they were in danger?"
+   ]
+  },
+  {
+   "begin": "907.680",
+   "children": [],
+   "end": "915.360",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Ah, well, now you've added a hypothetical there at the end, Mr. Kalb, about where we would send troops in to fight."
+   ]
+  },
+  {
+   "begin": "915.360",
+   "children": [],
+   "end": "923.360",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "I am not going to make the decision as to what the tactics could be, but obviously there are a number of areas in the world that are of importance to us."
+   ]
+  },
+  {
+   "begin": "923.360",
+   "children": [],
+   "end": "934.200",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "One is the Middle East, and that is of interest to the whole Western World and the industrialized nations, because of the great supply of energy upon which so many depend there."
+   ]
+  },
+  {
+   "begin": "934.200",
+   "children": [],
+   "end": "941.000",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Our neighbors here in America are vital to us."
+   ]
+  },
+  {
+   "begin": "941.000",
+   "children": [],
+   "end": "954.960",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "We're working right now in trying to be of help in southern Africa with regard to the independence of Namibia and the removal of the Cuban surrogates, the thousands of them, from Angola."
+   ]
+  },
+  {
+   "begin": "954.960",
+   "children": [],
+   "end": "958.200",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "So, I can say there are a great many interests."
+   ]
+  },
+  {
+   "begin": "958.200",
+   "children": [],
+   "end": "961.200",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "I believe that we have a great interest in the Pacific Basin."
+   ]
+  },
+  {
+   "begin": "961.200",
+   "children": [],
+   "end": "964.280",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "That is where I think the future of the world lies."
+   ]
+  },
+  {
+   "begin": "964.280",
+   "children": [],
+   "end": "970.080",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "But I am not going to pick out one and, in advance, hypothetically say, \"Oh, yes, we would send troops there.''"
+   ]
+  },
+  {
+   "begin": "970.080",
+   "children": [],
+   "end": "971.200",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "I don't want to send troops any place."
+   ]
+  },
+  {
+   "begin": "971.200",
+   "children": [],
+   "end": "973.160",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "I'm sorry, Mr. President."
+   ]
+  },
+  {
+   "begin": "973.160",
+   "children": [],
+   "end": "975.800",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Sir, your time was up."
+   ]
+  },
+  {
+   "begin": "975.800",
+   "children": [],
+   "end": "976.280",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "976.280",
+   "children": [],
+   "end": "976.320",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "begin": "976.320",
+   "children": [],
+   "end": "980.200",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale, you have described the Soviet leaders as, and I'm quoting, \"."
+   ]
+  },
+  {
+   "begin": "980.200",
+   "children": [],
+   "end": "984.680",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    ". . cynical, ruthless, and dangerous,'' suggesting an almost total lack of trust in them."
+   ]
+  },
+  {
+   "begin": "984.680",
+   "children": [],
+   "end": "993.520",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "In that case, what makes you think that the annual summit meetings with them that you have proposed will result in agreements that would satisfy the interests of this country?"
+   ]
+  },
+  {
+   "begin": "993.520",
+   "children": [],
+   "end": "1015.240",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "Because the only type of agreements to reach with the Soviet Union are the types that are specifically defined, so we know exactly what they must do; subject to full verification, which means we know every day whether they're living up to it; and followups, wherever we find suggestions that they're violating it; and the strongest possible terms."
+   ]
+  },
+  {
+   "begin": "1015.240",
+   "children": [],
+   "end": "1021.320",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "I have no illusions about the Soviet Union leadership or the nature of that state."
+   ]
+  },
+  {
+   "begin": "1021.320",
+   "children": [],
+   "end": "1028.040",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "They are a tough and a ruthless adversary, and we must be prepared to meet that challenge, and I would."
+   ]
+  },
+  {
+   "begin": "1028.040",
+   "children": [],
+   "end": "1040.000",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "Where I part with the President is that despite all of those differences we must, as past Presidents before this one have done, meet on the common ground of survival."
+   ]
+  },
+  {
+   "begin": "1040.000",
+   "children": [],
+   "end": "1050.360",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "And that's where the President has opposed practically every arms control agreement, by every President, of both political parties, since the bomb went off."
+   ]
+  },
+  {
+   "begin": "1050.360",
+   "children": [],
+   "end": "1060.680",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "And he now completes this term with no progress toward arms control at all, but with a very dangerous arms race underway instead."
+   ]
+  },
+  {
+   "begin": "1060.680",
+   "children": [],
+   "end": "1069.640",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "There are now over 2,000 more warheads pointed at us today than there were when he was sworn in, and that does not strengthen us."
+   ]
+  },
+  {
+   "begin": "1069.640",
+   "children": [],
+   "end": "1088.720",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "We must be very, very realistic in the nature of that leadership, but we must grind away and talk to find ways of reducing these differences, particularly where arms races are concerned and other dangerous exercises of Soviet power."
+   ]
+  },
+  {
+   "begin": "1088.720",
+   "children": [],
+   "end": "1093.400",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "There will be no unilateral disarmament under my administration."
+   ]
+  },
+  {
+   "begin": "1093.400",
+   "children": [],
+   "end": "1095.520",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "I will keep this nation strong."
+   ]
+  },
+  {
+   "begin": "1095.520",
+   "children": [],
+   "end": "1102.080",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "I understand exactly what the Soviets are up to, but that, too, is a part of national strength."
+   ]
+  },
+  {
+   "begin": "1102.080",
+   "children": [],
+   "end": "1109.600",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "To do that, a President must know what is essential to command and to leadership and to strength."
+   ]
+  },
+  {
+   "begin": "1109.600",
+   "children": [],
+   "end": "1118.680",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "And that's where the President's failure to master, in my opinion, the essential elements of arms control has cost us dearly."
+   ]
+  },
+  {
+   "begin": "1118.680",
+   "children": [],
+   "end": "1121.960",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "He's 3 years into this administration."
+   ]
+  },
+  {
+   "begin": "1121.960",
+   "children": [],
+   "end": "1127.720",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "He said he just discovered that most Soviet missiles are on land, and that's why his proposal didn't work."
+   ]
+  },
+  {
+   "begin": "1127.720",
+   "children": [],
+   "end": "1136.920",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "I invite the American people tomorrow -- because I will issue the statement quoting President Reagan -- he said exactly what I said he said."
+   ]
+  },
+  {
+   "begin": "1136.920",
+   "children": [],
+   "end": "1146.800",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "He said that these missiles were less dangerous than ballistic missiles because you could fire them, and you could recall them if you decided there'd been a miscalculation."
+   ]
+  },
+  {
+   "begin": "1146.800",
+   "children": [],
+   "end": "1146.960",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "I'm sorry, sir -- --"
+   ]
+  },
+  {
+   "begin": "1146.960",
+   "children": [],
+   "end": "1148.920",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "A President must know those things."
+   ]
+  },
+  {
+   "begin": "1148.920",
+   "children": [],
+   "end": "1149.640",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Eastern Europe"
+   ]
+  },
+  {
+   "begin": "1149.640",
+   "children": [],
+   "end": "1152.520",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "A related question, Mr. Mondale, on Eastern Europe."
+   ]
+  },
+  {
+   "begin": "1152.520",
+   "children": [],
+   "end": "1158.920",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Do you accept the conventional diplomatic wisdom that Eastern Europe is a Soviet sphere of influence?"
+   ]
+  },
+  {
+   "begin": "1158.920",
+   "children": [],
+   "end": "1169.360",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "And if you do, what could a Mondale administration realistically do to help the people of Eastern Europe achieve the human rights that were guaranteed to them as a result of the Helsinki accords?"
+   ]
+  },
+  {
+   "begin": "1169.360",
+   "children": [],
+   "end": "1177.360",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "I think the essential strategy of the United States ought not accept any Soviet control over Eastern Europe."
+   ]
+  },
+  {
+   "begin": "1177.360",
+   "children": [],
+   "end": "1180.280",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "We ought to deal with each of these countries separately."
+   ]
+  },
+  {
+   "begin": "1180.280",
+   "children": [],
+   "end": "1187.760",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "We ought to pursue strategies with each of them, economic and the rest, that help them pull away from their dependence upon the Soviet Union."
+   ]
+  },
+  {
+   "begin": "1187.760",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Where the Soviet Union has acted irresponsibly, as they have in many of those countries, especially, recently, in Poland, I believe we ought to insist that Western credits extended to the Soviet Union"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2344 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.920",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from Arizona State University in Tempe, Arizona."
+   ]
+  },
+  {
+   "begin": "4.920",
+   "children": [],
+   "end": "6.760",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Bob Schieffer of CBS News."
+   ]
+  },
+  {
+   "begin": "6.760",
+   "children": [],
+   "end": "15.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "I want to welcome you to the third and last of the 2004 debates between President George Bush and Senator John Kerry."
+   ]
+  },
+  {
+   "begin": "15.280",
+   "children": [],
+   "end": "22.160",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "As Jim Lehrer told you before the first one, these debates are sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "22.160",
+   "children": [],
+   "end": "28.560",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Tonight the topic will be domestic affairs, but the format will be the same as that first debate."
+   ]
+  },
+  {
+   "begin": "28.560",
+   "children": [],
+   "end": "37.640",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "I'll moderate our discussion under detailed rules agreed to by the candidates, but the questions and the areas to be covered were chosen by me."
+   ]
+  },
+  {
+   "begin": "37.640",
+   "children": [],
+   "end": "41.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "I have not told the candidates or anyone else what they are."
+   ]
+  },
+  {
+   "begin": "41.040",
+   "children": [],
+   "end": "45.080",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "To refresh your memory on the rules, I will ask a question."
+   ]
+  },
+  {
+   "begin": "45.080",
+   "children": [],
+   "end": "47.960",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "The candidate is allowed two minutes to answer."
+   ]
+  },
+  {
+   "begin": "47.960",
+   "children": [],
+   "end": "51.920",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "His opponent then has a minute and a half to offer a rebuttal."
+   ]
+  },
+  {
+   "begin": "51.920",
+   "children": [],
+   "end": "58.440",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "At my discretion, I can extend the discussion by offering each candidate an additional 30 seconds."
+   ]
+  },
+  {
+   "begin": "58.440",
+   "children": [],
+   "end": "63.160",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "A green light will come on to signal the candidate has 30 seconds left."
+   ]
+  },
+  {
+   "begin": "63.160",
+   "children": [],
+   "end": "66.320",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "A yellow light signals 15 seconds left."
+   ]
+  },
+  {
+   "begin": "66.320",
+   "children": [],
+   "end": "69.280",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "A red light means five seconds left."
+   ]
+  },
+  {
+   "begin": "69.280",
+   "children": [],
+   "end": "72.440",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "There is also a buzzer, if it is needed."
+   ]
+  },
+  {
+   "begin": "72.440",
+   "children": [],
+   "end": "75.440",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "The candidates may not question each other directly."
+   ]
+  },
+  {
+   "begin": "75.440",
+   "children": [],
+   "end": "126.280",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "There are no opening statements, but there will be two-minute closing statements."
+   ]
+  },
+  {
+   "begin": "126.280",
+   "children": [],
+   "end": "130.240",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "There is an audience here tonight, but they have agreed to remain silent, except for right now, when they join me in welcoming President George Bush and Senator John Kerry."
+   ]
+  },
+  {
+   "begin": "130.240",
+   "children": [],
+   "end": "131.800",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, welcome to you both."
+   ]
+  },
+  {
+   "begin": "131.800",
+   "children": [],
+   "end": "133.680",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "By coin toss, the first question goes to Senator Kerry."
+   ]
+  },
+  {
+   "begin": "133.680",
+   "children": [],
+   "end": "143.840",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Senator, I want to set the stage for this discussion by asking the question that I think hangs over all of our politics today and is probably on the minds of many people watching this debate tonight."
+   ]
+  },
+  {
+   "begin": "143.840",
+   "children": [],
+   "end": "152.440",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "And that is, will our children and grandchildren ever live in a world as safe and secure as the world in which we grew up?"
+   ]
+  },
+  {
+   "begin": "152.440",
+   "children": [],
+   "end": "158.400",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Well, first of all, Bob, thank you for moderating tonight."
+   ]
+  },
+  {
+   "begin": "158.400",
+   "children": [],
+   "end": "161.360",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Thank you, Arizona State, for welcoming us."
+   ]
+  },
+  {
+   "begin": "161.360",
+   "children": [],
+   "end": "166.360",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "And thank you to the Presidential Commission for undertaking this enormous task."
+   ]
+  },
+  {
+   "begin": "166.360",
+   "children": [],
+   "end": "167.200",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "We're proud to be here."
+   ]
+  },
+  {
+   "begin": "167.200",
+   "children": [],
+   "end": "173.640",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "Mr. President, I'm glad to be here with you again to share similarities and differences with the American people."
+   ]
+  },
+  {
+   "begin": "173.640",
+   "children": [],
+   "end": "176.760",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Will we ever be safe and secure again?"
+   ]
+  },
+  {
+   "begin": "176.760",
+   "children": [],
+   "end": "177.960",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "177.960",
+   "children": [],
+   "end": "179.800",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "We absolutely must be."
+   ]
+  },
+  {
+   "begin": "179.800",
+   "children": [],
+   "end": "181.480",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "That's the goal."
+   ]
+  },
+  {
+   "begin": "181.480",
+   "children": [],
+   "end": "184.800",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "Now, how do we achieve it is the most critical component of it."
+   ]
+  },
+  {
+   "begin": "184.800",
+   "children": [],
+   "end": "195.360",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "I believe that this president, regrettably, rushed us into a war, made decisions about foreign policy, pushed alliances away."
+   ]
+  },
+  {
+   "begin": "195.360",
+   "children": [],
+   "end": "203.080",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And, as a result, America is now bearing this extraordinary burden where we are not as safe as we ought to be."
+   ]
+  },
+  {
+   "begin": "203.080",
+   "children": [],
+   "end": "205.600",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "The measurement is not: Are we safer?"
+   ]
+  },
+  {
+   "begin": "205.600",
+   "children": [],
+   "end": "209.160",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "The measurement is: Are we as safe as we ought to be?"
+   ]
+  },
+  {
+   "begin": "209.160",
+   "children": [],
+   "end": "217.800",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "And there are a host of options that this president had available to him, like making sure that at all our ports in America containers are inspected."
+   ]
+  },
+  {
+   "begin": "217.800",
+   "children": [],
+   "end": "222.520",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "Only 95 percent of them -- 95 percent come in today uninspected."
+   ]
+  },
+  {
+   "begin": "222.520",
+   "children": [],
+   "end": "223.600",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "That's not good enough."
+   ]
+  },
+  {
+   "begin": "223.600",
+   "children": [],
+   "end": "229.720",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "People who fly on airplanes today, the cargo hold is not X-rayed, but the baggage is."
+   ]
+  },
+  {
+   "begin": "229.720",
+   "children": [],
+   "end": "231.160",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "That's not good enough."
+   ]
+  },
+  {
+   "begin": "231.160",
+   "children": [],
+   "end": "233.400",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Firehouses don't have enough firefighters in them."
+   ]
+  },
+  {
+   "begin": "233.400",
+   "children": [],
+   "end": "239.600",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Police officers are being cut from the streets of America because the president decided to cut the COPS program."
+   ]
+  },
+  {
+   "begin": "239.600",
+   "children": [],
+   "end": "242.480",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "So we can do a better job of homeland security."
+   ]
+  },
+  {
+   "begin": "242.480",
+   "children": [],
+   "end": "248.680",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "I can do a better job of waging a smarter, more effective war on terror and guarantee that we will go after the terrorists."
+   ]
+  },
+  {
+   "begin": "248.680",
+   "children": [],
+   "end": "251.640",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "I will hunt them down, and we'll kill them, we'll capture them."
+   ]
+  },
+  {
+   "begin": "251.640",
+   "children": [],
+   "end": "253.400",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "We'll do whatever is necessary to be safe."
+   ]
+  },
+  {
+   "begin": "253.400",
+   "children": [],
+   "end": "269.400",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "But I pledge this to you, America: I will do it in the way that Franklin Roosevelt and Ronald Reagan and John Kennedy and others did, where we build the strongest alliances, where the world joins together, where we have the best intelligence and where we are able, ultimately, to be more safe and secure."
+   ]
+  },
+  {
+   "begin": "269.400",
+   "children": [],
+   "end": "270.800",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Mr. President, you have 90 seconds."
+   ]
+  },
+  {
+   "begin": "270.800",
+   "children": [],
+   "end": "271.840",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "Bob, thank you very much."
+   ]
+  },
+  {
+   "begin": "271.840",
+   "children": [],
+   "end": "274.200",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "I want to thank Arizona State as well."
+   ]
+  },
+  {
+   "begin": "274.200",
+   "children": [],
+   "end": "284.160",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Yes, we can be safe and secure, if we stay on the offense against the terrorists and if we spread freedom and liberty around the world."
+   ]
+  },
+  {
+   "begin": "284.160",
+   "children": [],
+   "end": "300.720",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "I have got a comprehensive strategy to not only chase down the Al Qaida, wherever it exists -- and we're making progress; three-quarters of Al Qaida leaders have been brought to justice -- but to make sure that countries that harbor terrorists are held to account."
+   ]
+  },
+  {
+   "begin": "300.720",
+   "children": [],
+   "end": "308.600",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "As a result of securing ourselves and ridding the Taliban out of Afghanistan, the Afghan people had elections this weekend."
+   ]
+  },
+  {
+   "begin": "308.600",
+   "children": [],
+   "end": "312.840",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "And the first voter was a 19-year-old woman."
+   ]
+  },
+  {
+   "begin": "312.840",
+   "children": [],
+   "end": "313.640",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Think about that."
+   ]
+  },
+  {
+   "begin": "313.640",
+   "children": [],
+   "end": "316.080",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Freedom is on the march."
+   ]
+  },
+  {
+   "begin": "316.080",
+   "children": [],
+   "end": "319.960",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "We held to account a terrorist regime in Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "319.960",
+   "children": [],
+   "end": "324.520",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "In other words, in order to make sure we're secure, there must be a comprehensive plan."
+   ]
+  },
+  {
+   "begin": "324.520",
+   "children": [],
+   "end": "333.400",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "My opponent just this weekend talked about how terrorism could be reduced to a nuisance, comparing it to prostitution, illegal gambling."
+   ]
+  },
+  {
+   "begin": "333.400",
+   "children": [],
+   "end": "336.960",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "I think that attitude and that point of view is dangerous."
+   ]
+  },
+  {
+   "begin": "336.960",
+   "children": [],
+   "end": "343.720",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "I don't think you can secure America for the long run if you don't have a comprehensive view as to how to defeat these people."
+   ]
+  },
+  {
+   "begin": "343.720",
+   "children": [],
+   "end": "345.840",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "At home, we'll do everything we can to protect the homeland."
+   ]
+  },
+  {
+   "begin": "345.840",
+   "children": [],
+   "end": "350.320",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "I signed the homeland security bill to better align our assets and resources."
+   ]
+  },
+  {
+   "begin": "350.320",
+   "children": [],
+   "end": "352.360",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "My opponent voted against it."
+   ]
+  },
+  {
+   "begin": "352.360",
+   "children": [],
+   "end": "355.320",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "We're doing everything we can to protect our borders and ports."
+   ]
+  },
+  {
+   "begin": "355.320",
+   "children": [],
+   "end": "357.360",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "But absolutely we can be secure in the long run."
+   ]
+  },
+  {
+   "begin": "357.360",
+   "children": [],
+   "end": "359.480",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "It just takes good, strong leadership."
+   ]
+  },
+  {
+   "begin": "359.480",
+   "children": [],
+   "end": "361.240",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "Anything to add, Senator Kerry?"
+   ]
+  },
+  {
+   "begin": "361.240",
+   "children": [],
+   "end": "362.280",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "362.280",
+   "children": [],
+   "end": "372.640",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "When the president had an opportunity to capture or kill Osama bin Laden, he took his focus off of them, outsourced the job to Afghan warlords, and Osama bin Laden escaped."
+   ]
+  },
+  {
+   "begin": "372.640",
+   "children": [],
+   "end": "379.960",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Six months after he said Osama bin Laden must be caught dead or alive, this president was asked, \"Where is Osama bin Laden? \""
+   ]
+  },
+  {
+   "begin": "379.960",
+   "children": [],
+   "end": "381.200",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "He said, \"I don't know."
+   ]
+  },
+  {
+   "begin": "381.200",
+   "children": [],
+   "end": "382.920",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "I don't really think about him very much."
+   ]
+  },
+  {
+   "begin": "382.920",
+   "children": [],
+   "end": "384.520",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "I'm not that concerned. \""
+   ]
+  },
+  {
+   "begin": "384.520",
+   "children": [],
+   "end": "388.720",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "We need a president who stays deadly focused on the real war on terror."
+   ]
+  },
+  {
+   "begin": "388.720",
+   "children": [],
+   "end": "390.120",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Mr. President?"
+   ]
+  },
+  {
+   "begin": "390.120",
+   "children": [],
+   "end": "394.120",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Gosh, I just don't think I ever said I'm not worried about Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "394.120",
+   "children": [],
+   "end": "397.360",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "It's kind of one of those exaggerations."
+   ]
+  },
+  {
+   "begin": "397.360",
+   "children": [],
+   "end": "399.480",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Of course we're worried about Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "399.480",
+   "children": [],
+   "end": "401.120",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "We're on the hunt after Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "401.120",
+   "children": [],
+   "end": "404.800",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "We're using every asset at our disposal to get Osama bin Laden."
+   ]
+  },
+  {
+   "begin": "404.800",
+   "children": [],
+   "end": "410.040",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "My opponent said this war is a matter of intelligence and law enforcement."
+   ]
+  },
+  {
+   "begin": "410.040",
+   "children": [],
+   "end": "417.080",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "No, this war is a matter of using every asset at our disposal to keep the American people protected."
+   ]
+  },
+  {
+   "begin": "417.080",
+   "children": [],
+   "end": "420.960",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "New question, Mr. President, to you."
+   ]
+  },
+  {
+   "begin": "420.960",
+   "children": [],
+   "end": "427.000",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "We are talking about protecting ourselves from the unexpected, but the flu season is suddenly upon us."
+   ]
+  },
+  {
+   "begin": "427.000",
+   "children": [],
+   "end": "429.400",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Flu kills thousands of people every year."
+   ]
+  },
+  {
+   "begin": "429.400",
+   "children": [],
+   "end": "434.040",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Suddenly we find ourselves with a severe shortage of flu vaccine."
+   ]
+  },
+  {
+   "begin": "434.040",
+   "children": [],
+   "end": "437.360",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "How did that happen?"
+   ]
+  },
+  {
+   "begin": "437.360",
+   "children": [],
+   "end": "452.320",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "Bob, we relied upon a company out of England to provide about half of the flu vaccines for the United States citizen, and it turned out that the vaccine they were producing was contaminated."
+   ]
+  },
+  {
+   "begin": "452.320",
+   "children": [],
+   "end": "458.640",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "And so we took the right action and didn't allow contaminated medicine into our country."
+   ]
+  },
+  {
+   "begin": "458.640",
+   "children": [],
+   "end": "472.640",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "We're working with Canada to hopefully -- that they'll produce a -- help us realize the vaccine necessary to make sure our citizens have got flu vaccinations during this upcoming season."
+   ]
+  },
+  {
+   "begin": "472.640",
+   "children": [],
+   "end": "480.160",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "My call to our fellow Americans is if you're healthy, if you're younger, don't get a flu shot this year."
+   ]
+  },
+  {
+   "begin": "480.160",
+   "children": [],
+   "end": "488.440",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "Help us prioritize those who need to get the flu shot, the elderly and the young."
+   ]
+  },
+  {
+   "begin": "488.440",
+   "children": [],
+   "end": "497.760",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "The CDC, responsible for health in the United States, is setting those priorities and is allocating the flu vaccine accordingly."
+   ]
+  },
+  {
+   "begin": "497.760",
+   "children": [],
+   "end": "507.240",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "I haven't gotten a flu shot, and I don't intend to because I want to make sure those who are most vulnerable get treated."
+   ]
+  },
+  {
+   "begin": "507.240",
+   "children": [],
+   "end": "510.680",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "We have a problem with litigation in the United States of America."
+   ]
+  },
+  {
+   "begin": "510.680",
+   "children": [],
+   "end": "521.080",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Vaccine manufacturers are worried about getting sued, and therefore they have backed off from providing this kind of vaccine."
+   ]
+  },
+  {
+   "begin": "521.080",
+   "children": [],
+   "end": "537.160",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "One of the reasons I'm such a strong believer in legal reform is so that people aren't afraid of producing a product that is necessary for the health of our citizens and then end up getting sued in a court of law."
+   ]
+  },
+  {
+   "begin": "537.160",
+   "children": [],
+   "end": "548.040",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "But the best thing we can do now, Bob, given the circumstances with the company in England is for those of us who are younger and healthy, don't get a flu shot."
+   ]
+  },
+  {
+   "begin": "548.040",
+   "children": [],
+   "end": "549.640",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "Senator Kerry?"
+   ]
+  },
+  {
+   "begin": "549.640",
+   "children": [],
+   "end": "555.840",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "This really underscores the problem with the American health-care system."
+   ]
+  },
+  {
+   "begin": "555.840",
+   "children": [],
+   "end": "557.920",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "It's not working for the American family."
+   ]
+  },
+  {
+   "begin": "557.920",
+   "children": [],
+   "end": "562.560",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "And it's gotten worse under President Bush over the course of the last years."
+   ]
+  },
+  {
+   "begin": "562.560",
+   "children": [],
+   "end": "567.560",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Five million Americans have lost their health insurance in this country."
+   ]
+  },
+  {
+   "begin": "567.560",
+   "children": [],
+   "end": "575.880",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "You've got about a million right here in Arizona, just shy, 950,000, who have no health insurance at all."
+   ]
+  },
+  {
+   "begin": "575.880",
+   "children": [],
+   "end": "581.160",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "82,000 Arizonians lost their health insurance under President Bush's watch."
+   ]
+  },
+  {
+   "begin": "581.160",
+   "children": [],
+   "end": "585.920",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "223,000 kids in Arizona have no health insurance at all."
+   ]
+  },
+  {
+   "begin": "585.920",
+   "children": [],
+   "end": "589.280",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "All across our country -- go to Ohio, 1."
+   ]
+  },
+  {
+   "begin": "589.280",
+   "children": [],
+   "end": "600.600",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "4 million Ohioans have no health insurance, 114,000 of them lost it under President Bush; Wisconsin, 82,000 Wisconsinites lost it under President Bush."
+   ]
+  },
+  {
+   "begin": "600.600",
+   "children": [],
+   "end": "605.600",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "This president has turned his back on the wellness of America."
+   ]
+  },
+  {
+   "begin": "605.600",
+   "children": [],
+   "end": "607.720",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "And there is no system."
+   ]
+  },
+  {
+   "begin": "607.720",
+   "children": [],
+   "end": "620.600",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "In fact, it's starting to fall apart not because of lawsuits -- though they are a problem, and John Edwards and I are committed to fixing them -- but because of the larger issue that we don't cover Americans."
+   ]
+  },
+  {
+   "begin": "620.600",
+   "children": [],
+   "end": "623.520",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Children across our country don't have health care."
+   ]
+  },
+  {
+   "begin": "623.520",
+   "children": [],
+   "end": "629.080",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "We're the richest country on the face of the planet, the only industrialized nation in the world not to do it."
+   ]
+  },
+  {
+   "begin": "629.080",
+   "children": [],
+   "end": "631.640",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "I have a plan to cover all Americans."
+   ]
+  },
+  {
+   "begin": "631.640",
+   "children": [],
+   "end": "633.440",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "We're going to make it affordable and accessible."
+   ]
+  },
+  {
+   "begin": "633.440",
+   "children": [],
+   "end": "638.320",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "We're going to let everybody buy into the same health-care plan senators and congressmen give themselves."
+   ]
+  },
+  {
+   "begin": "638.320",
+   "children": [],
+   "end": "640.040",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Mr. President, would you like to add something?"
+   ]
+  },
+  {
+   "begin": "640.040",
+   "children": [],
+   "end": "641.120",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "I would."
+   ]
+  },
+  {
+   "begin": "641.120",
+   "children": [],
+   "end": "641.360",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "641.360",
+   "children": [],
+   "end": "652.360",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "I want to remind people listening tonight that a plan is not a litany of complaints, and a plan is not to lay out programs that you can't pay for."
+   ]
+  },
+  {
+   "begin": "652.360",
+   "children": [],
+   "end": "658.160",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "He just said he wants everybody to be able to buy in to the same plan that senators and congressmen get."
+   ]
+  },
+  {
+   "begin": "658.160",
+   "children": [],
+   "end": "661.720",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "That costs the government $7,700 per family."
+   ]
+  },
+  {
+   "begin": "661.720",
+   "children": [],
+   "end": "668.440",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "If every family in America signed up, like the senator suggested, if would cost us $5 trillion over 10 years."
+   ]
+  },
+  {
+   "begin": "668.440",
+   "children": [],
+   "end": "669.600",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "It's an empty promise."
+   ]
+  },
+  {
+   "begin": "669.600",
+   "children": [],
+   "end": "671.160",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "It's called bait and switch."
+   ]
+  },
+  {
+   "begin": "671.160",
+   "children": [],
+   "end": "672.320",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Time's up."
+   ]
+  },
+  {
+   "begin": "672.320",
+   "children": [],
+   "end": "673.200",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "673.200",
+   "children": [],
+   "end": "676.040",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Actually, it's not an empty promise."
+   ]
+  },
+  {
+   "begin": "676.040",
+   "children": [],
+   "end": "685.200",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "It's really interesting, because the president used that very plan as a reason for seniors to accept his prescription drug plan."
+   ]
+  },
+  {
+   "begin": "685.200",
+   "children": [],
+   "end": "691.240",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "He said, if it's good enough for the congressmen and senators to have choice, seniors ought to have choice."
+   ]
+  },
+  {
+   "begin": "691.240",
+   "children": [],
+   "end": "692.880",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "What we do is we have choice."
+   ]
+  },
+  {
+   "begin": "692.880",
+   "children": [],
+   "end": "694.640",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "I choose Blue Cross/Blue Shield."
+   ]
+  },
+  {
+   "begin": "694.640",
+   "children": [],
+   "end": "697.240",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "Other senators, other congressmen choose other programs."
+   ]
+  },
+  {
+   "begin": "697.240",
+   "children": [],
+   "end": "700.720",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "But the fact is, we're going to help Americans be able to buy into it."
+   ]
+  },
+  {
+   "begin": "700.720",
+   "children": [],
+   "end": "702.600",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Those that can afford it are going to buy in themselves."
+   ]
+  },
+  {
+   "begin": "702.600",
+   "children": [],
+   "end": "704.120",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "We're not giving this away for nothing."
+   ]
+  },
+  {
+   "begin": "704.120",
+   "children": [],
+   "end": "705.760",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "705.760",
+   "children": [],
+   "end": "707.240",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Senator Kerry, a new question."
+   ]
+  },
+  {
+   "begin": "707.240",
+   "children": [],
+   "end": "710.400",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "Let's talk about economic security."
+   ]
+  },
+  {
+   "begin": "710.400",
+   "children": [],
+   "end": "717.720",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "You pledged during the last debate that you would not raise taxes on those making less than $200,000 a year."
+   ]
+  },
+  {
+   "begin": "717.720",
+   "children": [],
+   "end": "721.080",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "But the price of everything is going up, and we all know it."
+   ]
+  },
+  {
+   "begin": "721.080",
+   "children": [],
+   "end": "725.520",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "Health-care costs, as you are talking about, is skyrocketing, the cost of the war."
+   ]
+  },
+  {
+   "begin": "725.520",
+   "children": [],
+   "end": "739.440",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "My question is, how can you or any president, whoever is elected next time, keep that pledge without running this country deeper into debt and passing on more of the bills that we're running up to our children?"
+   ]
+  },
+  {
+   "begin": "739.440",
+   "children": [],
+   "end": "748.720",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "I'll tell you exactly how I can do it: by reinstating what President Bush took away, which is called pay as you go."
+   ]
+  },
+  {
+   "begin": "748.720",
+   "children": [],
+   "end": "752.400",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "During the 1990s, we had pay-as-you-go rules."
+   ]
+  },
+  {
+   "begin": "752.400",
+   "children": [],
+   "end": "756.720",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "If you were going to pass something in the Congress, you had to show where you are going to pay for it and how."
+   ]
+  },
+  {
+   "begin": "756.720",
+   "children": [],
+   "end": "761.960",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "President Bush has taken -- he's the only president in history to do this."
+   ]
+  },
+  {
+   "begin": "761.960",
+   "children": [],
+   "end": "767.920",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "He's also the only president in 72 years to lose jobs -- 1."
+   ]
+  },
+  {
+   "begin": "767.920",
+   "children": [],
+   "end": "769.440",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "6 million jobs lost."
+   ]
+  },
+  {
+   "begin": "769.440",
+   "children": [],
+   "end": "781.400",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "He's the only president to have incomes of families go down for the last three years; the only president to see exports go down; the only president to see the lowest level of business investment in our country as it is today."
+   ]
+  },
+  {
+   "begin": "781.400",
+   "children": [],
+   "end": "782.680",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "Now, I'm going to reverse that."
+   ]
+  },
+  {
+   "begin": "782.680",
+   "children": [],
+   "end": "784.320",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "I'm going to change that."
+   ]
+  },
+  {
+   "begin": "784.320",
+   "children": [],
+   "end": "788.160",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "We're going to restore the fiscal discipline we had in the 1990s."
+   ]
+  },
+  {
+   "begin": "788.160",
+   "children": [],
+   "end": "799.200",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Every plan that I have laid out -- my health-care plan, my plan for education, my plan for kids to be able to get better college loans -- I've shown exactly how I'm going to pay for those."
+   ]
+  },
+  {
+   "begin": "799.200",
+   "children": [],
+   "end": "817.160",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "And we start -- we don't do it exclusively -- but we start by rolling back George Bush's unaffordable tax cut for the wealthiest people, people earning more than $200,000 a year, and we pass, hopefully, the McCain-Kerry Commission which identified some $60 billion that we can get."
+   ]
+  },
+  {
+   "begin": "817.160",
+   "children": [],
+   "end": "824.360",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "We shut the loophole which has American workers actually subsidizing the loss of their own job."
+   ]
+  },
+  {
+   "begin": "824.360",
+   "children": [],
+   "end": "835.680",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "They just passed an expansion of that loophole in the last few days: $43 billion of giveaways, including favors to the oil and gas industry and the people importing ceiling fans from China."
+   ]
+  },
+  {
+   "begin": "835.680",
+   "children": [],
+   "end": "838.680",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "I'm going to stand up and fight for the American worker."
+   ]
+  },
+  {
+   "begin": "838.680",
+   "children": [],
+   "end": "841.280",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "And I am going to do it in a way that's fiscally sound."
+   ]
+  },
+  {
+   "begin": "841.280",
+   "children": [],
+   "end": "845.000",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "I show how I pay for the health care, how we pay for the education."
+   ]
+  },
+  {
+   "begin": "845.000",
+   "children": [],
+   "end": "846.960",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "I have a manufacturing jobs credit."
+   ]
+  },
+  {
+   "begin": "846.960",
+   "children": [],
+   "end": "850.200",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "We pay for it by shutting that loophole overseas."
+   ]
+  },
+  {
+   "begin": "850.200",
+   "children": [],
+   "end": "851.760",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "We raise the student loans."
+   ]
+  },
+  {
+   "begin": "851.760",
+   "children": [],
+   "end": "854.480",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "I pay for it by changing the relationship with the banks."
+   ]
+  },
+  {
+   "begin": "854.480",
+   "children": [],
+   "end": "860.520",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "This president has never once vetoed one bill; the first president in a hundred years not to do that."
+   ]
+  },
+  {
+   "begin": "860.520",
+   "children": [],
+   "end": "861.760",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Mr. President?"
+   ]
+  },
+  {
+   "begin": "861.760",
+   "children": [],
+   "end": "864.080",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Well, his rhetoric doesn't match his record."
+   ]
+  },
+  {
+   "begin": "864.080",
+   "children": [],
+   "end": "867.640",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "He been a senator for 20 years."
+   ]
+  },
+  {
+   "begin": "867.640",
+   "children": [],
+   "end": "871.360",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "He voted to increase taxes 98 times."
+   ]
+  },
+  {
+   "begin": "871.360",
+   "children": [],
+   "end": "876.760",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "When they tried to reduce taxes, he voted against that 127 times."
+   ]
+  },
+  {
+   "begin": "876.760",
+   "children": [],
+   "end": "891.000",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "He talks about being a fiscal conservative, or fiscally sound, but he voted over -- he voted 277 times to waive the budget caps, which would have cost the taxpayers $4."
+   ]
+  },
+  {
+   "begin": "891.000",
+   "children": [],
+   "end": "892.760",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "2 trillion."
+   ]
+  },
+  {
+   "begin": "892.760",
+   "children": [],
+   "end": "895.360",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "He talks about PAYGO."
+   ]
+  },
+  {
+   "begin": "895.360",
+   "children": [],
+   "end": "907.200",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "I'll tell you what PAYGO means, when you're a senator from Massachusetts, when you're a colleague of Ted Kennedy, pay go means: You pay, and he goes ahead and spends."
+   ]
+  },
+  {
+   "begin": "907.200",
+   "children": [],
+   "end": "909.000",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "He's proposed $2."
+   ]
+  },
+  {
+   "begin": "909.000",
+   "children": [],
+   "end": "923.320",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "2 trillion of new spending, and yet the so-called tax on the rich, which is also a tax on many small-business owners in America, raises $600 million by our account -- billion, $800 billion by his account."
+   ]
+  },
+  {
+   "begin": "923.320",
+   "children": [],
+   "end": "925.160",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "There is a tax gap."
+   ]
+  },
+  {
+   "begin": "925.160",
+   "children": [],
+   "end": "928.400",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "And guess who usually ends up filling the tax gap?"
+   ]
+  },
+  {
+   "begin": "928.400",
+   "children": [],
+   "end": "930.360",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "The middle class."
+   ]
+  },
+  {
+   "begin": "930.360",
+   "children": [],
+   "end": "933.400",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "I propose a detailed budget, Bob."
+   ]
+  },
+  {
+   "begin": "933.400",
+   "children": [],
+   "end": "941.120",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "I sent up my budget man to the Congress, and he says, here's how we're going to reduce the deficit in half by five years."
+   ]
+  },
+  {
+   "begin": "941.120",
+   "children": [],
+   "end": "947.520",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "It requires pro-growth policies that grow our economy and fiscal sanity in the halls of Congress."
+   ]
+  },
+  {
+   "begin": "947.520",
+   "children": [],
+   "end": "951.560",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "Let's go to a new question, Mr. President."
+   ]
+  },
+  {
+   "begin": "951.560",
+   "children": [],
+   "end": "952.440",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "Two minutes."
+   ]
+  },
+  {
+   "begin": "952.440",
+   "children": [],
+   "end": "954.080",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "And let's continue on jobs."
+   ]
+  },
+  {
+   "begin": "954.080",
+   "children": [],
+   "end": "959.600",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "You know, there are all kind of statistics out there, but I want to bring it down to an individual."
+   ]
+  },
+  {
+   "begin": "959.600",
+   "children": [],
+   "end": "972.920",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "Mr. President, what do you say to someone in this country who has lost his job to someone overseas who's being paid a fraction of what that job paid here in the United States?"
+   ]
+  },
+  {
+   "begin": "972.920",
+   "children": [],
+   "end": "980.200",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "I'd say, Bob, I've got policies to continue to grow our economy and create the jobs of the 21st century."
+   ]
+  },
+  {
+   "begin": "980.200",
+   "children": [],
+   "end": "983.760",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "And here's some help for you to go get an education."
+   ]
+  },
+  {
+   "begin": "983.760",
+   "children": [],
+   "end": "986.720",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "Here's some help for you to go to a community college."
+   ]
+  },
+  {
+   "begin": "986.720",
+   "children": [],
+   "end": "989.280",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "We've expanded trade adjustment assistance."
+   ]
+  },
+  {
+   "begin": "989.280",
+   "children": [],
+   "end": "994.960",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "We want to help pay for you to gain the skills necessary to fill the jobs of the 21st century."
+   ]
+  },
+  {
+   "begin": "994.960",
+   "children": [],
+   "end": "997.840",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "You know, there's a lot of talk about how to keep the economy growing."
+   ]
+  },
+  {
+   "begin": "997.840",
+   "children": [],
+   "end": "999.520",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "We talk about fiscal matters."
+   ]
+  },
+  {
+   "begin": "999.520",
+   "children": [],
+   "end": "1007.400",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "But perhaps the best way to keep jobs here in America and to keep this economy growing is to make sure our education system works."
+   ]
+  },
+  {
+   "begin": "1007.400",
+   "children": [],
+   "end": "1011.400",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "I went to Washington to solve problems."
+   ]
+  },
+  {
+   "begin": "1011.400",
+   "children": [],
+   "end": "1015.400",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "And I saw a problem in the public education system in America."
+   ]
+  },
+  {
+   "begin": "1015.400",
+   "children": [],
+   "end": "1020.640",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "They were just shuffling too many kids through the system, year after year, grade after grade, without learning the basics."
+   ]
+  },
+  {
+   "begin": "1020.640",
+   "children": [],
+   "end": "1023.200",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "And so we said: Let's raise the standards."
+   ]
+  },
+  {
+   "begin": "1023.200",
+   "children": [],
+   "end": "1029.080",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "We're spending more money, but let's raise the standards and measure early and solve problems now, before it's too late."
+   ]
+  },
+  {
+   "begin": "1029.080",
+   "children": [],
+   "end": "1033.400",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "No, education is how to help the person who's lost a job."
+   ]
+  },
+  {
+   "begin": "1033.400",
+   "children": [],
+   "end": "1038.880",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Education is how to make sure we've got a workforce that's productive and competitive."
+   ]
+  },
+  {
+   "begin": "1038.880",
+   "children": [],
+   "end": "1060.600",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "Got four more years, I've got more to do to continue to raise standards, to continue to reward teachers and school districts that are working, to emphasize math and science in the classrooms, to continue to expand Pell Grants to make sure that people have an opportunity to start their career with a college diploma."
+   ]
+  },
+  {
+   "begin": "1060.600",
+   "children": [],
+   "end": "1075.040",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "And so the person you talked to, I say, here's some help, here's some trade adjustment assistance money for you to go a community college in your neighborhood, a community college which is providing the skills necessary to fill the jobs of the 21st century."
+   ]
+  },
+  {
+   "begin": "1075.040",
+   "children": [],
+   "end": "1077.360",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "And that's what I would say to that person."
+   ]
+  },
+  {
+   "begin": "1077.360",
+   "children": [],
+   "end": "1080.400",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "Senator Kerry?"
+   ]
+  },
+  {
+   "begin": "1080.400",
+   "children": [],
+   "end": "1087.520",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "I want you to notice how the president switched away from jobs and started talking about education principally."
+   ]
+  },
+  {
+   "begin": "1087.520",
+   "children": [],
+   "end": "1094.520",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "Let me come back in one moment to that, but I want to speak for a second, if I can, to what the president said about fiscal responsibility."
+   ]
+  },
+  {
+   "begin": "1094.520",
+   "children": [],
+   "end": "1103.000",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "Being lectured by the president on fiscal responsibility is a little bit like Tony Soprano talking to me about law and order in this country."
+   ]
+  },
+  {
+   "begin": "1103.000",
+   "children": [],
+   "end": "1106.480",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "(LAUGHTER)  This president has taken a $5."
+   ]
+  },
+  {
+   "begin": "1106.480",
+   "children": [],
+   "end": "1111.120",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "6 trillion surplus and turned it into deficits as far as the eye can see."
+   ]
+  },
+  {
+   "begin": "1111.120",
+   "children": [],
+   "end": "1125.440",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "Health-care costs for the average American have gone up 64 percent; tuitions have gone up 35 percent; gasoline prices up 30 percent; Medicare premiums went up 17 percent a few days ago; prescription drugs are up 12 percent a year."
+   ]
+  },
+  {
+   "begin": "1125.440",
+   "children": [],
+   "end": "1126.680",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "But guess what, America?"
+   ]
+  },
+  {
+   "begin": "1126.680",
+   "children": [],
+   "end": "1129.200",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "The wages of Americans have gone down."
+   ]
+  },
+  {
+   "begin": "1129.200",
+   "children": [],
+   "end": "1137.480",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "The jobs that are being created in Arizona right now are paying about $13,700 less than the jobs that we're losing."
+   ]
+  },
+  {
+   "begin": "1137.480",
+   "children": [],
+   "end": "1140.320",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "And the president just walks on by this problem."
+   ]
+  },
+  {
+   "begin": "1140.320",
+   "children": [],
+   "end": "1143.200",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "The fact is that he's cut job-training money."
+   ]
+  },
+  {
+   "begin": "1143.200",
+   "children": [],
+   "end": "1144.040",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "$1 billion was cut."
+   ]
+  },
+  {
+   "begin": "1144.040",
+   "children": [],
+   "end": "1147.200",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "They only added a little bit back this year because it's an election year."
+   ]
+  },
+  {
+   "begin": "1147.200",
+   "children": [],
+   "end": "1151.960",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "They've cut the Pell Grants and the Perkins loans to help kids be able to go to college."
+   ]
+  },
+  {
+   "begin": "1151.960",
+   "children": [],
+   "end": "1153.640",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "They've cut the training money."
+   ]
+  },
+  {
+   "begin": "1153.640",
+   "children": [],
+   "end": "1160.960",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "They've wound up not even extending unemployment benefits and not even extending health care to those people who are unemployed."
+   ]
+  },
+  {
+   "begin": "1160.960",
+   "children": [],
+   "end": "1167.880",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "I'm going to do those things, because that's what's right in America: Help workers to transition in every respect."
+   ]
+  },
+  {
+   "begin": "1167.880",
+   "children": [],
+   "end": "1170.440",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "New question to you, Senator Kerry, two minutes."
+   ]
+  },
+  {
+   "begin": "1170.440",
+   "children": [],
+   "end": "1172.160",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "And it's still on jobs."
+   ]
+  },
+  {
+   "begin": "1172.160",
+   "children": [],
+   "end": "1176.920",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "You know, many experts say that a president really doesn't have much control over jobs."
+   ]
+  },
+  {
+   "begin": "1176.920",
+   "children": [],
+   "end": "1183.280",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "For example, if someone invents a machine that does the work of five people, that's progress."
+   ]
+  },
+  {
+   "begin": "1183.280",
+   "children": [],
+   "end": "1185.080",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "That's not the president's fault."
+   ]
+  },
+  {
+   "begin": "1185.080",
+   "children": [],
+   "end": "1191.360",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "So I ask you, is it fair to blame the administration entirely for this loss of jobs?"
+   ]
+  },
+  {
+   "begin": "1191.360",
+   "children": [],
+   "end": "1192.880",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "I don't blame them entirely for it."
+   ]
+  },
+  {
+   "begin": "1192.880",
+   "children": [],
+   "end": "1198.480",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "I blame the president for the things the president could do that has an impact on it."
+   ]
+  },
+  {
+   "begin": "1198.480",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "Outsourcing"
+   ]
+  }
+ ]
+}

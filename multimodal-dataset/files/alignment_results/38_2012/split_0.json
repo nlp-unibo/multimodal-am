@@ -1,0 +1,2784 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "9.320",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening, and welcome to the first and only vice presidential debate of 2012, sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "9.320",
+   "children": [],
+   "end": "18.600",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Martha Raddatz of ABC News, and I am honored to moderate this debate between two men who have dedicated much of their lives to public service."
+   ]
+  },
+  {
+   "begin": "18.600",
+   "children": [],
+   "end": "23.160",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Tonight's debate is divided between domestic and foreign policy issues."
+   ]
+  },
+  {
+   "begin": "23.160",
+   "children": [],
+   "end": "29.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "And I'm going to move back and forth between foreign and domestic, since that is what a vice president or president would have to do."
+   ]
+  },
+  {
+   "begin": "29.800",
+   "children": [],
+   "end": "32.240",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "We will have nine different segments."
+   ]
+  },
+  {
+   "begin": "32.240",
+   "children": [],
+   "end": "39.040",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "At the beginning of each segment, I will ask both candidates a question, and they will each have two minutes to answer."
+   ]
+  },
+  {
+   "begin": "39.040",
+   "children": [],
+   "end": "43.760",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Then I will encourage a discussion between the candidates with follow-up questions."
+   ]
+  },
+  {
+   "begin": "43.760",
+   "children": [],
+   "end": "50.440",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "By coin toss, it has been determined that Vice President Biden will be first to answer the opening question."
+   ]
+  },
+  {
+   "begin": "50.440",
+   "children": [],
+   "end": "53.200",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "We have a wonderful audience here at Centre College tonight."
+   ]
+  },
+  {
+   "begin": "53.200",
+   "children": [],
+   "end": "62.600",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "You will no doubt hear their enthusiasm at the end of the debate -- and right now, as we welcome Vice President Joe Biden and Congressman Paul Ryan."
+   ]
+  },
+  {
+   "begin": "62.600",
+   "children": [],
+   "end": "90.440",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  OK, you got your little wave to the families in."
+   ]
+  },
+  {
+   "begin": "90.440",
+   "children": [],
+   "end": "91.680",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "It's great."
+   ]
+  },
+  {
+   "begin": "91.680",
+   "children": [],
+   "end": "92.640",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Good evening, gentlemen."
+   ]
+  },
+  {
+   "begin": "92.640",
+   "children": [],
+   "end": "95.880",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "It really is an honor to be here with both of you."
+   ]
+  },
+  {
+   "begin": "95.880",
+   "children": [],
+   "end": "98.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "I would like to begin with Libya."
+   ]
+  },
+  {
+   "begin": "98.040",
+   "children": [],
+   "end": "110.560",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "On a rather somber note, one month ago tonight, on the anniversary of 9/11, Ambassador Chris Stevens and three other brave Americans were killed in a terrorist attack in Benghazi."
+   ]
+  },
+  {
+   "begin": "110.560",
+   "children": [],
+   "end": "115.040",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "The State Department has now made clear, there were no protesters there."
+   ]
+  },
+  {
+   "begin": "115.040",
+   "children": [],
+   "end": "119.280",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "it was a pre-planned assault by heavily armed men."
+   ]
+  },
+  {
+   "begin": "119.280",
+   "children": [],
+   "end": "123.600",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Wasn't this a massive intelligence failure, Vice President Biden?"
+   ]
+  },
+  {
+   "begin": "123.600",
+   "children": [],
+   "end": "125.440",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "What is was, it was a tragedy, Martha."
+   ]
+  },
+  {
+   "begin": "125.440",
+   "children": [],
+   "end": "128.880",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "It -- Chris Stevens was one of our best."
+   ]
+  },
+  {
+   "begin": "128.880",
+   "children": [],
+   "end": "130.760",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "We lost three other brave Americans."
+   ]
+  },
+  {
+   "begin": "130.760",
+   "children": [],
+   "end": "135.240",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "I can make absolutely two commitments to you and all the American people tonight."
+   ]
+  },
+  {
+   "begin": "135.240",
+   "children": [],
+   "end": "141.080",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "One, we will find and bring to justice the men who did this."
+   ]
+  },
+  {
+   "begin": "141.080",
+   "children": [],
+   "end": "151.600",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "And secondly, we will get to the bottom of it, and whatever -- wherever the facts lead us, wherever they lead us, we will make clear to the American public, because whatever mistakes were made will not be made again."
+   ]
+  },
+  {
+   "begin": "151.600",
+   "children": [],
+   "end": "158.280",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "When you're looking at a president, Martha, it seems to me that you should take a look at his most important responsibility."
+   ]
+  },
+  {
+   "begin": "158.280",
+   "children": [],
+   "end": "161.000",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "That's caring for the national security of the country."
+   ]
+  },
+  {
+   "begin": "161.000",
+   "children": [],
+   "end": "165.360",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "And the best way to do that is take a look at how he's handled the issues of the day."
+   ]
+  },
+  {
+   "begin": "165.360",
+   "children": [],
+   "end": "168.600",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "On Iraq, the president said he would end the war."
+   ]
+  },
+  {
+   "begin": "168.600",
+   "children": [],
+   "end": "173.560",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Governor Romney said that was a tragic mistake, we should have left 30,000 -- he ended it."
+   ]
+  },
+  {
+   "begin": "173.560",
+   "children": [],
+   "end": "177.960",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "Governor Romney said that was a tragic mistake, we should have left 30,000 troops there."
+   ]
+  },
+  {
+   "begin": "177.960",
+   "children": [],
+   "end": "182.040",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "With regard to Afghanistan, he said he will end the war in 2014."
+   ]
+  },
+  {
+   "begin": "182.040",
+   "children": [],
+   "end": "185.360",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Governor Romney said we should not set a date, number one."
+   ]
+  },
+  {
+   "begin": "185.360",
+   "children": [],
+   "end": "188.960",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "And number two, with regard to 2014, it depends."
+   ]
+  },
+  {
+   "begin": "188.960",
+   "children": [],
+   "end": "199.720",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "When it came to Osama bin Laden, the president the first day in office, I was sitting with him in the Oval Office, he called in the CIA and signed an order saying, \"My highest priority is to get bin Laden.\""
+   ]
+  },
+  {
+   "begin": "199.720",
+   "children": [],
+   "end": "206.760",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Prior to the election, prior to the -- him being sworn in, Governor Romney was asked the question about how he would proceed."
+   ]
+  },
+  {
+   "begin": "206.760",
+   "children": [],
+   "end": "211.920",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "He said, \"I wouldn't move heaven and earth to get bin Laden.\""
+   ]
+  },
+  {
+   "begin": "211.920",
+   "children": [],
+   "end": "214.280",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "He didn't understand it was more than about taking a murderer off the battlefield."
+   ]
+  },
+  {
+   "begin": "214.280",
+   "children": [],
+   "end": "224.240",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "It was about restoring America's heart and letting terrorists around the world know, if you do harm to America, we will track you to the gates of hell if need be."
+   ]
+  },
+  {
+   "begin": "224.240",
+   "children": [],
+   "end": "231.840",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "And lastly, the president of the United States has -- has led with a steady hand and clear vision."
+   ]
+  },
+  {
+   "begin": "231.840",
+   "children": [],
+   "end": "233.600",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Governor Romney, the opposite."
+   ]
+  },
+  {
+   "begin": "233.600",
+   "children": [],
+   "end": "236.640",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "The last thing we need now is another war."
+   ]
+  },
+  {
+   "begin": "236.640",
+   "children": [],
+   "end": "240.400",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "Congressman Ryan?"
+   ]
+  },
+  {
+   "begin": "240.400",
+   "children": [],
+   "end": "244.800",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "We mourn the loss of these four Americans who were murdered."
+   ]
+  },
+  {
+   "begin": "244.800",
+   "children": [],
+   "end": "254.480",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "When you take a look at what has happened just in the last few weeks, they sent the U.N. ambassador out to say that this was because of a protest and a YouTube video."
+   ]
+  },
+  {
+   "begin": "254.480",
+   "children": [],
+   "end": "259.960",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "It took the president two weeks to acknowledge that this was a terrorist attack."
+   ]
+  },
+  {
+   "begin": "259.960",
+   "children": [],
+   "end": "265.280",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "He went to the U.N. and in his speech at the U.N. he said six times -- he talked about the YouTube video."
+   ]
+  },
+  {
+   "begin": "265.280",
+   "children": [],
+   "end": "271.440",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "Look, if we're hit by terrorists we're going to call it for what it is, a terrorist attack."
+   ]
+  },
+  {
+   "begin": "271.440",
+   "children": [],
+   "end": "274.720",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Our ambassador in Paris has a Marine detachment guarding him."
+   ]
+  },
+  {
+   "begin": "274.720",
+   "children": [],
+   "end": "287.080",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "Shouldn't we have a Marine detachment guarding our ambassador in Benghazi, a place where we knew that there was an Al Qaida cell with arms?"
+   ]
+  },
+  {
+   "begin": "287.080",
+   "children": [],
+   "end": "289.400",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "This is becoming more troubling by the day."
+   ]
+  },
+  {
+   "begin": "289.400",
+   "children": [],
+   "end": "290.800",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "They first blamed the YouTube video."
+   ]
+  },
+  {
+   "begin": "290.800",
+   "children": [],
+   "end": "295.040",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "Now they're trying to blame the Romney-Ryan ticket for making this an issue."
+   ]
+  },
+  {
+   "begin": "295.040",
+   "children": [],
+   "end": "303.800",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "With respect to Iraq, we had the same position before the withdrawal, which was we agreed with the Obama administration."
+   ]
+  },
+  {
+   "begin": "303.800",
+   "children": [],
+   "end": "307.320",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "Let's have a status of forces agreement to make sure that we secure our gains."
+   ]
+  },
+  {
+   "begin": "307.320",
+   "children": [],
+   "end": "314.200",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "The vice president was put in charge of those negotiations by President Obama and they failed to get the agreement."
+   ]
+  },
+  {
+   "begin": "314.200",
+   "children": [],
+   "end": "317.840",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "We don't have a status of forces agreement because they failed to get one."
+   ]
+  },
+  {
+   "begin": "317.840",
+   "children": [],
+   "end": "319.760",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "That's what we are talking about."
+   ]
+  },
+  {
+   "begin": "319.760",
+   "children": [],
+   "end": "327.520",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Now, when it comes to our veterans, we owe them a great debt of gratitude for what they've done for us, including your son Beau."
+   ]
+  },
+  {
+   "begin": "327.520",
+   "children": [],
+   "end": "332.160",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "But we also want to make sure that we don't lose the things we fought so hard to get."
+   ]
+  },
+  {
+   "begin": "332.160",
+   "children": [],
+   "end": "336.280",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Now, with respect to Afghanistan, the 2014 deadline, we agree with a 2014 transition."
+   ]
+  },
+  {
+   "begin": "336.280",
+   "children": [],
+   "end": "343.400",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "But what we also want it do is make sure that we're not projecting weakness abroad, and that's what's happening here."
+   ]
+  },
+  {
+   "begin": "343.400",
+   "children": [],
+   "end": "350.160",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "This Benghazi issue would be a tragedy in and of itself, but unfortunately it's indicative of a broader problem."
+   ]
+  },
+  {
+   "begin": "350.160",
+   "children": [],
+   "end": "359.800",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "And that is what we are watching on our TV screens is the unraveling of the Obama foreign policy, which is making the (inaudible) more chaotic us less safe."
+   ]
+  },
+  {
+   "begin": "359.800",
+   "children": [],
+   "end": "363.360",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I just want to you about right in the middle of the crisis."
+   ]
+  },
+  {
+   "begin": "363.360",
+   "children": [],
+   "end": "371.760",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Governor Romney, and you're talking about this again tonight, talked about the weakness; talked about apologies from the Obama administration."
+   ]
+  },
+  {
+   "begin": "371.760",
+   "children": [],
+   "end": "375.800",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Was that really appropriate right in the middle of the crisis?"
+   ]
+  },
+  {
+   "begin": "375.800",
+   "children": [],
+   "end": "379.800",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "On that same day, the Obama administration had the exact same position."
+   ]
+  },
+  {
+   "begin": "379.800",
+   "children": [],
+   "end": "384.680",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "Let's recall that they disavowed their own statement that they had put out earlier in the day in Cairo."
+   ]
+  },
+  {
+   "begin": "384.680",
+   "children": [],
+   "end": "390.680",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "So we had the same position, but we will -- it's never too early to speak out for our values."
+   ]
+  },
+  {
+   "begin": "390.680",
+   "children": [],
+   "end": "397.760",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "We should have spoken out right away when the green revolution was up and starting; when the mullahs in Iran were attacking their people."
+   ]
+  },
+  {
+   "begin": "397.760",
+   "children": [],
+   "end": "404.160",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "We should not have called Bashar Assad a reformer when he was turning his Russian-provided guns on his own people."
+   ]
+  },
+  {
+   "begin": "404.160",
+   "children": [],
+   "end": "409.240",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "We should always stand up for peace, for democracy, for individual rights."
+   ]
+  },
+  {
+   "begin": "409.240",
+   "children": [],
+   "end": "419.760",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "And we should not be imposing these devastating defense cuts, because what that does when we equivocate on our values, when we show that we're cutting down on defense, it makes us more weak."
+   ]
+  },
+  {
+   "begin": "419.760",
+   "children": [],
+   "end": "420.400",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "It projects weakness."
+   ]
+  },
+  {
+   "begin": "420.400",
+   "children": [],
+   "end": "424.040",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "And when we look weak, our adversaries are much more willing to test us."
+   ]
+  },
+  {
+   "begin": "424.040",
+   "children": [],
+   "end": "427.160",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "They're more brazen in their attacks, and are allies are less willing to...  (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "427.160",
+   "children": [],
+   "end": "429.000",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "With all due respect, that's a bunch of malarkey."
+   ]
+  },
+  {
+   "begin": "429.000",
+   "children": [],
+   "end": "430.480",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "And why is that so?"
+   ]
+  },
+  {
+   "begin": "430.480",
+   "children": [],
+   "end": "432.720",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Because not a single thing he said is accurate."
+   ]
+  },
+  {
+   "begin": "432.720",
+   "children": [],
+   "end": "433.360",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "First of all..."
+   ]
+  },
+  {
+   "begin": "433.360",
+   "children": [],
+   "end": "434.160",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Be specific."
+   ]
+  },
+  {
+   "begin": "434.160",
+   "children": [],
+   "end": "435.560",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "I will be very specific."
+   ]
+  },
+  {
+   "begin": "435.560",
+   "children": [],
+   "end": "448.680",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "Number one, the -- this lecture on embassy security -- the congressman here cut embassy security in his budget by $300 million below what we asked for, number one."
+   ]
+  },
+  {
+   "begin": "448.680",
+   "children": [],
+   "end": "450.720",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "So much for the embassy security piece."
+   ]
+  },
+  {
+   "begin": "450.720",
+   "children": [],
+   "end": "462.960",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Number two, Governor Romney, before he knew the facts, before he even knew that our ambassador was killed, he was out making a political statement which was panned by the media around the world."
+   ]
+  },
+  {
+   "begin": "462.960",
+   "children": [],
+   "end": "466.360",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "And this talk about this -- this weakness."
+   ]
+  },
+  {
+   "begin": "466.360",
+   "children": [],
+   "end": "469.600",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "I -- I don't understand what my friend's talking about here."
+   ]
+  },
+  {
+   "begin": "469.600",
+   "children": [],
+   "end": "474.320",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "We -- this is a president who's gone out and done everything he has said he was going to do."
+   ]
+  },
+  {
+   "begin": "474.320",
+   "children": [],
+   "end": "478.200",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "This is a guy who's repaired our alliances so the rest of the world follows us again."
+   ]
+  },
+  {
+   "begin": "478.200",
+   "children": [],
+   "end": "494.800",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "This is the guy who brought the entire world, including Russia and China, to bring about the most devastating -- most devastating -- the most devastating efforts on Iran to make sure that they in fact stop (inaudible)."
+   ]
+  },
+  {
+   "begin": "494.800",
+   "children": [],
+   "end": "498.600",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "Look, I -- I just -- I mean, these guys bet against America all the time."
+   ]
+  },
+  {
+   "begin": "498.600",
+   "children": [],
+   "end": "500.880",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Can we talk -- let me go back to Libya."
+   ]
+  },
+  {
+   "begin": "500.880",
+   "children": [],
+   "end": "502.240",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "Yeah, sure."
+   ]
+  },
+  {
+   "begin": "502.240",
+   "children": [],
+   "end": "505.160",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "What were you first told about the attack?"
+   ]
+  },
+  {
+   "begin": "505.160",
+   "children": [],
+   "end": "508.560",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "Why -- why were people talking about protests?"
+   ]
+  },
+  {
+   "begin": "508.560",
+   "children": [],
+   "end": "514.040",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "When people in the consulate first saw armed men attacking with guns, there were no protesters."
+   ]
+  },
+  {
+   "begin": "514.040",
+   "children": [],
+   "end": "515.680",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Why did that go on (inaudible)?"
+   ]
+  },
+  {
+   "begin": "515.680",
+   "children": [],
+   "end": "520.640",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Because that was exactly what we were told by the intelligence community."
+   ]
+  },
+  {
+   "begin": "520.640",
+   "children": [],
+   "end": "523.160",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "The intelligence community told us that."
+   ]
+  },
+  {
+   "begin": "523.160",
+   "children": [],
+   "end": "528.240",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "As they learned more facts about exactly what happened, they changed their assessment."
+   ]
+  },
+  {
+   "begin": "528.240",
+   "children": [],
+   "end": "540.640",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "That's why there's also an investigation headed by Tom Pickering, a leading diplomat from the Reagan years, who is doing an investigation as to whether or not there are any lapses, what the lapses were, so that they will never happen again."
+   ]
+  },
+  {
+   "begin": "540.640",
+   "children": [],
+   "end": "542.320",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "And they wanted more security there."
+   ]
+  },
+  {
+   "begin": "542.320",
+   "children": [],
+   "end": "545.240",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "Well, we weren't told they wanted more security there."
+   ]
+  },
+  {
+   "begin": "545.240",
+   "children": [],
+   "end": "547.800",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "We did not know they wanted more security again."
+   ]
+  },
+  {
+   "begin": "547.800",
+   "children": [],
+   "end": "555.600",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "And by the way, at the time we were told exactly -- we said exactly what the intelligence community told us that they knew."
+   ]
+  },
+  {
+   "begin": "555.600",
+   "children": [],
+   "end": "557.520",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "That was the assessment."
+   ]
+  },
+  {
+   "begin": "557.520",
+   "children": [],
+   "end": "561.720",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "And as the intelligence community changed their view, we made it clear they changed their view."
+   ]
+  },
+  {
+   "begin": "561.720",
+   "children": [],
+   "end": "564.680",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "That's why I said we will get to the bottom of this."
+   ]
+  },
+  {
+   "begin": "564.680",
+   "children": [],
+   "end": "567.000",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "You know, usually when there's a crisis, we pull together."
+   ]
+  },
+  {
+   "begin": "567.000",
+   "children": [],
+   "end": "568.760",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "We pull together as a nation."
+   ]
+  },
+  {
+   "begin": "568.760",
+   "children": [],
+   "end": "575.840",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "But as I said, even before we knew what happened to the ambassador, the governor was holding a press conference -- was holding a press conference."
+   ]
+  },
+  {
+   "begin": "575.840",
+   "children": [],
+   "end": "578.440",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "That's not presidential leadership."
+   ]
+  },
+  {
+   "begin": "578.440",
+   "children": [],
+   "end": "583.840",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Mr. Ryan, I want to ask you about -- the Romney campaign talks a lot about no apologies."
+   ]
+  },
+  {
+   "begin": "583.840",
+   "children": [],
+   "end": "585.880",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "He has a book called called \"No Apologies.\""
+   ]
+  },
+  {
+   "begin": "585.880",
+   "children": [],
+   "end": "590.800",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Should the U.S. have apologized for Americans burning Korans in Afghanistan?"
+   ]
+  },
+  {
+   "begin": "590.800",
+   "children": [],
+   "end": "596.000",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "Should the U.S. apologize for U.S. Marines urinating on Taliban corpses?"
+   ]
+  },
+  {
+   "begin": "596.000",
+   "children": [],
+   "end": "597.920",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "Oh, gosh, yes."
+   ]
+  },
+  {
+   "begin": "597.920",
+   "children": [],
+   "end": "599.720",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "Urinating on Taliban corpses?"
+   ]
+  },
+  {
+   "begin": "599.720",
+   "children": [],
+   "end": "601.520",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "What we should not apologize for..."
+   ]
+  },
+  {
+   "begin": "601.520",
+   "children": [],
+   "end": "602.400",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Burning Korans, immediately?"
+   ]
+  },
+  {
+   "begin": "602.400",
+   "children": [],
+   "end": "605.680",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "What -- what we should not be apologizing for are standing up for our values."
+   ]
+  },
+  {
+   "begin": "605.680",
+   "children": [],
+   "end": "615.680",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "What we should not be doing is saying to the Egyptian people, while Mubarak is cracking down on them, that he's a good guy and, in the next week, say he ought to go."
+   ]
+  },
+  {
+   "begin": "615.680",
+   "children": [],
+   "end": "628.240",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "What we should not be doing is rejecting claims for -- for calls for more security in our barracks, in our Marine -- we need Marines in Benghazi when the commander on the ground says we need more forces for security."
+   ]
+  },
+  {
+   "begin": "628.240",
+   "children": [],
+   "end": "632.520",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "There were requests for extra security; those requests were not honored."
+   ]
+  },
+  {
+   "begin": "632.520",
+   "children": [],
+   "end": "634.960",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "Look, this was the anniversary of 9/11."
+   ]
+  },
+  {
+   "begin": "634.960",
+   "children": [],
+   "end": "644.600",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "It was Libya, a country we knew we had Al Qaida cells there, as we know Al Qaida and its affiliates are on the rise in Northern Africa."
+   ]
+  },
+  {
+   "begin": "644.600",
+   "children": [],
+   "end": "648.720",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "And we did not give our ambassador in Benghazi a Marine detachment?"
+   ]
+  },
+  {
+   "begin": "648.720",
+   "children": [],
+   "end": "657.080",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "Of course there's an investigation, so we can make sure that this never happens again, but when it comes to speaking up for our values, we should not apologize for those."
+   ]
+  },
+  {
+   "begin": "657.080",
+   "children": [],
+   "end": "659.240",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Here's the problem."
+   ]
+  },
+  {
+   "begin": "659.240",
+   "children": [],
+   "end": "662.400",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Look at all the various issues out there, and it's unraveling before our eyes."
+   ]
+  },
+  {
+   "begin": "662.400",
+   "children": [],
+   "end": "664.720",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "The vice president talks about sanctions on Iran."
+   ]
+  },
+  {
+   "begin": "664.720",
+   "children": [],
+   "end": "666.400",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "They got -- we've had four..."
+   ]
+  },
+  {
+   "begin": "666.400",
+   "children": [],
+   "end": "667.440",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "Let's move to Iran."
+   ]
+  },
+  {
+   "begin": "667.440",
+   "children": [],
+   "end": "672.120",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "I'd actually like to move to Iran, because there's really no bigger national security..."
+   ]
+  },
+  {
+   "begin": "672.120",
+   "children": [],
+   "end": "672.360",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "Absolutely."
+   ]
+  },
+  {
+   "begin": "672.360",
+   "children": [],
+   "end": "673.760",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "... this country is facing."
+   ]
+  },
+  {
+   "begin": "673.760",
+   "children": [],
+   "end": "682.440",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Both President Obama and Governor Romney have said they will prevent Iran from getting a nuclear weapon, even if that means military action."
+   ]
+  },
+  {
+   "begin": "682.440",
+   "children": [],
+   "end": "693.480",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "Last week, former Defense Secretary Bob Gates said a strike on Iran's facilities would not work and, quote, \"could prove catastrophic, haunting us for generations.\""
+   ]
+  },
+  {
+   "begin": "693.480",
+   "children": [],
+   "end": "702.280",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Can the two of you be absolutely clear and specific to the American people how effective would a military strike be?"
+   ]
+  },
+  {
+   "begin": "702.280",
+   "children": [],
+   "end": "703.400",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "Congressman Ryan?"
+   ]
+  },
+  {
+   "begin": "703.400",
+   "children": [],
+   "end": "707.160",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "We cannot allow Iran to gain a nuclear weapons capability."
+   ]
+  },
+  {
+   "begin": "707.160",
+   "children": [],
+   "end": "711.040",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Now, let's take a look at where we've gone -- come from."
+   ]
+  },
+  {
+   "begin": "711.040",
+   "children": [],
+   "end": "717.600",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "When Barack Obama was elected, they had enough fissile material -- nuclear material to make one bomb."
+   ]
+  },
+  {
+   "begin": "717.600",
+   "children": [],
+   "end": "718.600",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Now they have enough for five."
+   ]
+  },
+  {
+   "begin": "718.600",
+   "children": [],
+   "end": "720.360",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "They're racing toward a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "720.360",
+   "children": [],
+   "end": "722.920",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "They're four years closer toward a nuclear weapons capability."
+   ]
+  },
+  {
+   "begin": "722.920",
+   "children": [],
+   "end": "728.240",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "We've had four different sanctions, the U.N. on Iran, three from the Bush administration, one here."
+   ]
+  },
+  {
+   "begin": "728.240",
+   "children": [],
+   "end": "734.320",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "And the only reason we got it is because Russia watered it down and prevented the -- the sanctions from hitting the central bank."
+   ]
+  },
+  {
+   "begin": "734.320",
+   "children": [],
+   "end": "737.360",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Mitt Romney proposed these sanctions in 2007."
+   ]
+  },
+  {
+   "begin": "737.360",
+   "children": [],
+   "end": "739.920",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "In Congress, I've been fighting for these sanctions since 2009."
+   ]
+  },
+  {
+   "begin": "739.920",
+   "children": [],
+   "end": "742.800",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "The administration was blocking us every step of the way."
+   ]
+  },
+  {
+   "begin": "742.800",
+   "children": [],
+   "end": "750.880",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "Only because we had strong bipartisan support for these tough sanctions were we able to overrule their objections and put them in spite of the administration."
+   ]
+  },
+  {
+   "begin": "750.880",
+   "children": [],
+   "end": "754.240",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "Imagine what would have happened if we had these sanctions in place earlier."
+   ]
+  },
+  {
+   "begin": "754.240",
+   "children": [],
+   "end": "756.360",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "You think Iran's not brazen?"
+   ]
+  },
+  {
+   "begin": "756.360",
+   "children": [],
+   "end": "757.520",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Look at what they're doing."
+   ]
+  },
+  {
+   "begin": "757.520",
+   "children": [],
+   "end": "759.560",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "They're stepping up their terrorist attacks."
+   ]
+  },
+  {
+   "begin": "759.560",
+   "children": [],
+   "end": "768.000",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "They tried a terrorist attack in the United States last year when they tried to blow up the Saudi ambassador at a restaurant in Washington, D.C.  And talk about credibility?"
+   ]
+  },
+  {
+   "begin": "768.000",
+   "children": [],
+   "end": "775.960",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "When this administration says that all options are on the table, they send out senior administration officials that send all these mixed signals."
+   ]
+  },
+  {
+   "begin": "775.960",
+   "children": [],
+   "end": "783.680",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "And so, in order to solve this peacefully -- which is everybody's goal -- you have to have the ayatollahs change their minds."
+   ]
+  },
+  {
+   "begin": "783.680",
+   "children": [],
+   "end": "785.120",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Look at where they are."
+   ]
+  },
+  {
+   "begin": "785.120",
+   "children": [],
+   "end": "787.080",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "They're moving faster toward a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "787.080",
+   "children": [],
+   "end": "790.080",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "It's because this administration has no credibility on this issue."
+   ]
+  },
+  {
+   "begin": "790.080",
+   "children": [],
+   "end": "796.680",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "It's because this administration watered down sanctions, delayed sanctions, tried to stop us for putting the tough sanctions in place."
+   ]
+  },
+  {
+   "begin": "796.680",
+   "children": [],
+   "end": "798.600",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Now we have them in place because of Congress."
+   ]
+  },
+  {
+   "begin": "798.600",
+   "children": [],
+   "end": "802.320",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "They say the military option's on the table, but it's not being viewed as credible."
+   ]
+  },
+  {
+   "begin": "802.320",
+   "children": [],
+   "end": "807.160",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "And the key is to do this peacefully, is to make sure that we have credibility."
+   ]
+  },
+  {
+   "begin": "807.160",
+   "children": [],
+   "end": "810.600",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Under a Romney administration, we will have credibility on this issue."
+   ]
+  },
+  {
+   "begin": "810.600",
+   "children": [],
+   "end": "812.600",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Vice President Biden?"
+   ]
+  },
+  {
+   "begin": "812.600",
+   "children": [],
+   "end": "813.440",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "It's incredible."
+   ]
+  },
+  {
+   "begin": "813.440",
+   "children": [],
+   "end": "819.800",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "Look, imagine had we let the Republican Congress work out the sanctions."
+   ]
+  },
+  {
+   "begin": "819.800",
+   "children": [],
+   "end": "827.680",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "You think there's any possibility the entire world would have joined us, Russia and China, all of our allies?"
+   ]
+  },
+  {
+   "begin": "827.680",
+   "children": [],
+   "end": "832.160",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "These are the most crippling sanctions in the history of sanctions, period."
+   ]
+  },
+  {
+   "begin": "832.160",
+   "children": [],
+   "end": "833.200",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "Period."
+   ]
+  },
+  {
+   "begin": "833.200",
+   "children": [],
+   "end": "837.680",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "When Governor Romney's asked about it, he said, \"We gotta keep these sanctions.\""
+   ]
+  },
+  {
+   "begin": "837.680",
+   "children": [],
+   "end": "841.520",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "When he said, \"Well, you're talking about doing more,\" what are you -- you're going to go to war?"
+   ]
+  },
+  {
+   "begin": "841.520",
+   "children": [],
+   "end": "842.960",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Is that what you want to do?"
+   ]
+  },
+  {
+   "begin": "842.960",
+   "children": [],
+   "end": "843.840",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "We want to prevent war."
+   ]
+  },
+  {
+   "begin": "843.840",
+   "children": [],
+   "end": "846.040",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "And the interesting thing is, how are they going to prevent war?"
+   ]
+  },
+  {
+   "begin": "846.040",
+   "children": [],
+   "end": "853.520",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "How are they going to prevent war if they say there's nothing more that we -- that they say we should do than what we've already done, number one."
+   ]
+  },
+  {
+   "begin": "853.520",
+   "children": [],
+   "end": "863.440",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "And number two, with regard to the ability of the United States to take action militarily, it is -- it is not in my purview to talk about classified information."
+   ]
+  },
+  {
+   "begin": "863.440",
+   "children": [],
+   "end": "868.720",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "But we feel quite confident we could deal a serious blow to the Iranians."
+   ]
+  },
+  {
+   "begin": "868.720",
+   "children": [],
+   "end": "883.960",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "But number two, the Iranians are -- the Israelis and the United States, our military and intelligence communities are absolutely the same exact place in terms of how close -- how close the Iranians are to getting a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "883.960",
+   "children": [],
+   "end": "886.480",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "They are a good way away."
+   ]
+  },
+  {
+   "begin": "886.480",
+   "children": [],
+   "end": "890.200",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "There is no difference between our view and theirs."
+   ]
+  },
+  {
+   "begin": "890.200",
+   "children": [],
+   "end": "900.640",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "When my friend talks about fissile material, they have to take this highly enriched uranium, get it from 20 percent up, then they have to be able to have something to put it in."
+   ]
+  },
+  {
+   "begin": "900.640",
+   "children": [],
+   "end": "905.000",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "There is no weapon that the Iranians have at this point."
+   ]
+  },
+  {
+   "begin": "905.000",
+   "children": [],
+   "end": "909.960",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "Both the Israelis and we know -- we'll know if they start the process of building a weapon."
+   ]
+  },
+  {
+   "begin": "909.960",
+   "children": [],
+   "end": "916.160",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "So all this bluster I keep hearing, all this loose talk, what are they talking about?"
+   ]
+  },
+  {
+   "begin": "916.160",
+   "children": [],
+   "end": "932.120",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "Are you talking about, to be more credible -- what more can the president do, stand before the United Nations, tell the whole world, directly communicate to the ayatollah, we will not let them acquire a nuclear weapon, period, unless he's talking about going to war."
+   ]
+  },
+  {
+   "begin": "932.120",
+   "children": [],
+   "end": "932.480",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "Martha?"
+   ]
+  },
+  {
+   "begin": "932.480",
+   "children": [],
+   "end": "933.600",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "Let's..."
+   ]
+  },
+  {
+   "begin": "933.600",
+   "children": [],
+   "end": "934.800",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "Congressman Ryan?"
+   ]
+  },
+  {
+   "begin": "934.800",
+   "children": [],
+   "end": "937.440",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "Let's look at this from the view of the ayatollahs."
+   ]
+  },
+  {
+   "begin": "937.440",
+   "children": [],
+   "end": "938.640",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "What do they see?"
+   ]
+  },
+  {
+   "begin": "938.640",
+   "children": [],
+   "end": "943.680",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "They see this administration trying to water down sanctions in Congress for over two years."
+   ]
+  },
+  {
+   "begin": "943.680",
+   "children": [],
+   "end": "946.600",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "They're moving faster toward a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "946.600",
+   "children": [],
+   "end": "948.800",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "They're spinning the centrifuges faster."
+   ]
+  },
+  {
+   "begin": "948.800",
+   "children": [],
+   "end": "955.000",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "They see us saying when we come into the administration, when they're sworn in, we need more space with our ally, Israel."
+   ]
+  },
+  {
+   "begin": "955.000",
+   "children": [],
+   "end": "963.760",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "They see President Obama in New York City the same day Bibi Netanyahu is and he, instead of meeting with him, goes on a -- on a daily talk show."
+   ]
+  },
+  {
+   "begin": "963.760",
+   "children": [],
+   "end": "970.800",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "They see, when we say that these options are on the table, the secretary of defense walked them back."
+   ]
+  },
+  {
+   "begin": "970.800",
+   "children": [],
+   "end": "974.120",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "They are not changing their mind."
+   ]
+  },
+  {
+   "begin": "974.120",
+   "children": [],
+   "end": "979.760",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "That's what we have to do, is change their mind so they stop pursuing nuclear weapons, and they're going faster."
+   ]
+  },
+  {
+   "begin": "979.760",
+   "children": [],
+   "end": "980.360",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "How do you do it so quickly?"
+   ]
+  },
+  {
+   "begin": "980.360",
+   "children": [],
+   "end": "989.560",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "Look, you -- you both saw Benjamin Netanyahu hold up that picture of a bomb with a red line and talking about the red line being in spring."
+   ]
+  },
+  {
+   "begin": "989.560",
+   "children": [],
+   "end": "1000.760",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "So can you solve this, if the Romney-Ryan ticket is elected, can you solve this in two months before spring and avoid nuclear -- nuclear... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1000.760",
+   "children": [],
+   "end": "1002.400",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "We can debate a time line."
+   ]
+  },
+  {
+   "begin": "1002.400",
+   "children": [],
+   "end": "1006.240",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "We can debate the time line, whether there's -- it's that short a time or longer."
+   ]
+  },
+  {
+   "begin": "1006.240",
+   "children": [],
+   "end": "1007.720",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "I agree that it's probably longer."
+   ]
+  },
+  {
+   "begin": "1007.720",
+   "children": [],
+   "end": "1011.000",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "Number two, it's all about...  (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1011.000",
+   "children": [],
+   "end": "1015.360",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "You don't agree with that bomb and whether the Israelis... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1015.360",
+   "children": [],
+   "end": "1017.680",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "I don't want to go into classified stuff."
+   ]
+  },
+  {
+   "begin": "1017.680",
+   "children": [],
+   "end": "1020.840",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "But we both agree that to do this peacefully you've got to get them to change their minds."
+   ]
+  },
+  {
+   "begin": "1020.840",
+   "children": [],
+   "end": "1022.560",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "They're not changing their minds."
+   ]
+  },
+  {
+   "begin": "1022.560",
+   "children": [],
+   "end": "1024.120",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "And look at what this administration..."
+   ]
+  },
+  {
+   "begin": "1024.120",
+   "children": [],
+   "end": "1025.520",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "But what -- what do... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1025.520",
+   "children": [],
+   "end": "1027.680",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "Let me tell you what the ayatollah sees."
+   ]
+  },
+  {
+   "begin": "1027.680",
+   "children": [],
+   "end": "1029.480",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "You have to have credibility."
+   ]
+  },
+  {
+   "begin": "1029.480",
+   "children": [],
+   "end": "1031.000",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "The ayatollah sees his economy being crippled."
+   ]
+  },
+  {
+   "begin": "1031.000",
+   "children": [],
+   "end": "1034.560",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "The ayatollah sees that there are 50 percent fewer exports of oil."
+   ]
+  },
+  {
+   "begin": "1034.560",
+   "children": [],
+   "end": "1038.200",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "He sees the currency going into the tank."
+   ]
+  },
+  {
+   "begin": "1038.200",
+   "children": [],
+   "end": "1040.480",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "He sees the economy going into freefall."
+   ]
+  },
+  {
+   "begin": "1040.480",
+   "children": [],
+   "end": "1046.040",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "And he sees the world for the first time totally united in opposition to him getting a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "1046.040",
+   "children": [],
+   "end": "1052.280",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "Now, with regard to Bibi, who's been my friend 39 years, the president has met with Bibi a dozen times."
+   ]
+  },
+  {
+   "begin": "1052.280",
+   "children": [],
+   "end": "1055.880",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "He's spoken to Bibi Netanyahu as much as he's spoken to anybody."
+   ]
+  },
+  {
+   "begin": "1055.880",
+   "children": [],
+   "end": "1070.040",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "The idea that we're not -- I was in a, just before he went to the U.N., I was in a conference call with the -- with the president, with him talking to Bibi for well over an hour, in -- in -- in stark relief and detail of what was going on."
+   ]
+  },
+  {
+   "begin": "1070.040",
+   "children": [],
+   "end": "1071.840",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "This is a bunch of stuff."
+   ]
+  },
+  {
+   "begin": "1071.840",
+   "children": [],
+   "end": "1072.880",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "Look, here's the deal."
+   ]
+  },
+  {
+   "begin": "1072.880",
+   "children": [],
+   "end": "1074.480",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "What does that mean, a bunch of stuff?"
+   ]
+  },
+  {
+   "begin": "1074.480",
+   "children": [],
+   "end": "1076.040",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "Well, it means it's simply inaccurate."
+   ]
+  },
+  {
+   "begin": "1076.040",
+   "children": [],
+   "end": "1076.560",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "It's Irish."
+   ]
+  },
+  {
+   "begin": "1076.560",
+   "children": [],
+   "end": "1076.600",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "It -- it is."
+   ]
+  },
+  {
+   "begin": "1076.600",
+   "children": [],
+   "end": "1078.720",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "(LAUGHTER)  We Irish call it malarkey."
+   ]
+  },
+  {
+   "begin": "1078.720",
+   "children": [],
+   "end": "1079.960",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "Thanks for the translation."
+   ]
+  },
+  {
+   "begin": "1079.960",
+   "children": [],
+   "end": "1081.080",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "OK. (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1081.080",
+   "children": [],
+   "end": "1082.480",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "We Irish call it malarkey."
+   ]
+  },
+  {
+   "begin": "1082.480",
+   "children": [],
+   "end": "1083.520",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "But last thing."
+   ]
+  },
+  {
+   "begin": "1083.520",
+   "children": [],
+   "end": "1090.680",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "The secretary of defense has made it absolutely clear, we didn't walk anything back."
+   ]
+  },
+  {
+   "begin": "1090.680",
+   "children": [],
+   "end": "1093.680",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "We will not allow the Iranians to get a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "1093.680",
+   "children": [],
+   "end": "1100.680",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "What Bibi held up there was when they get to the point where they can enrich uranium enough to put into a weapon."
+   ]
+  },
+  {
+   "begin": "1100.680",
+   "children": [],
+   "end": "1104.040",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "They don't have a weapon to put it into."
+   ]
+  },
+  {
+   "begin": "1104.040",
+   "children": [],
+   "end": "1106.760",
+   "id": "f000242",
+   "language": "en",
+   "lines": [
+    "Let's all calm down a little bit here."
+   ]
+  },
+  {
+   "begin": "1106.760",
+   "children": [],
+   "end": "1110.000",
+   "id": "f000243",
+   "language": "en",
+   "lines": [
+    "Iran is more isolated today than when we took office."
+   ]
+  },
+  {
+   "begin": "1110.000",
+   "children": [],
+   "end": "1112.680",
+   "id": "f000244",
+   "language": "en",
+   "lines": [
+    "It was on the ascendancy when we took office."
+   ]
+  },
+  {
+   "begin": "1112.680",
+   "children": [],
+   "end": "1113.840",
+   "id": "f000245",
+   "language": "en",
+   "lines": [
+    "It is totally isolated."
+   ]
+  },
+  {
+   "begin": "1113.840",
+   "children": [],
+   "end": "1114.640",
+   "id": "f000246",
+   "language": "en",
+   "lines": [
+    "Congressman Ryan?"
+   ]
+  },
+  {
+   "begin": "1114.640",
+   "children": [],
+   "end": "1116.760",
+   "id": "f000247",
+   "language": "en",
+   "lines": [
+    "I don't know what world this guy's living in."
+   ]
+  },
+  {
+   "begin": "1116.760",
+   "children": [],
+   "end": "1118.360",
+   "id": "f000248",
+   "language": "en",
+   "lines": [
+    "Thank heavens we had these sanctions in place."
+   ]
+  },
+  {
+   "begin": "1118.360",
+   "children": [],
+   "end": "1120.680",
+   "id": "f000249",
+   "language": "en",
+   "lines": [
+    "It's in spite of their opposition."
+   ]
+  },
+  {
+   "begin": "1120.680",
+   "children": [],
+   "end": "1120.760",
+   "id": "f000250",
+   "language": "en",
+   "lines": [
+    "Oh, god."
+   ]
+  },
+  {
+   "begin": "1120.760",
+   "children": [],
+   "end": "1123.080",
+   "id": "f000251",
+   "language": "en",
+   "lines": [
+    "They've given 20 waivers to this sanction."
+   ]
+  },
+  {
+   "begin": "1123.080",
+   "children": [],
+   "end": "1126.720",
+   "id": "f000252",
+   "language": "en",
+   "lines": [
+    "And all I have to point to are the results."
+   ]
+  },
+  {
+   "begin": "1126.720",
+   "children": [],
+   "end": "1129.000",
+   "id": "f000253",
+   "language": "en",
+   "lines": [
+    "They're four years closer toward a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "1129.000",
+   "children": [],
+   "end": "1130.480",
+   "id": "f000254",
+   "language": "en",
+   "lines": [
+    "I think that case speaks for itself."
+   ]
+  },
+  {
+   "begin": "1130.480",
+   "children": [],
+   "end": "1131.320",
+   "id": "f000255",
+   "language": "en",
+   "lines": [
+    "Can you tell the American people..."
+   ]
+  },
+  {
+   "begin": "1131.320",
+   "children": [],
+   "end": "1132.320",
+   "id": "f000256",
+   "language": "en",
+   "lines": [
+    "By the way, they... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1132.320",
+   "children": [],
+   "end": "1134.120",
+   "id": "f000257",
+   "language": "en",
+   "lines": [
+    "What's worse, another war in the Middle East..."
+   ]
+  },
+  {
+   "begin": "1134.120",
+   "children": [],
+   "end": "1135.600",
+   "id": "f000258",
+   "language": "en",
+   "lines": [
+    "... they are not four years closer to a nuclear weapon."
+   ]
+  },
+  {
+   "begin": "1135.600",
+   "children": [],
+   "end": "1136.200",
+   "id": "f000259",
+   "language": "en",
+   "lines": [
+    "Of course they are."
+   ]
+  },
+  {
+   "begin": "1136.200",
+   "children": [],
+   "end": "1141.920",
+   "id": "f000260",
+   "language": "en",
+   "lines": [
+    "They're -- they're closer to being able to get enough fissile material to put in a weapon if they had a weapon."
+   ]
+  },
+  {
+   "begin": "1141.920",
+   "children": [],
+   "end": "1144.200",
+   "id": "f000261",
+   "language": "en",
+   "lines": [
+    "You are acting a little bit like they don't want one."
+   ]
+  },
+  {
+   "begin": "1144.200",
+   "children": [],
+   "end": "1145.840",
+   "id": "f000262",
+   "language": "en",
+   "lines": [
+    "Oh, I didn't say -- no, I'm not saying that."
+   ]
+  },
+  {
+   "begin": "1145.840",
+   "children": [],
+   "end": "1147.600",
+   "id": "f000263",
+   "language": "en",
+   "lines": [
+    "But facts matter, Martha."
+   ]
+  },
+  {
+   "begin": "1147.600",
+   "children": [],
+   "end": "1149.400",
+   "id": "f000264",
+   "language": "en",
+   "lines": [
+    "You're a foreign policy expert."
+   ]
+  },
+  {
+   "begin": "1149.400",
+   "children": [],
+   "end": "1150.640",
+   "id": "f000265",
+   "language": "en",
+   "lines": [
+    "Facts matter."
+   ]
+  },
+  {
+   "begin": "1150.640",
+   "children": [],
+   "end": "1158.960",
+   "id": "f000266",
+   "language": "en",
+   "lines": [
+    "All this loose talk about them, \"All they have to do is get to enrich uranium in a certain amount and they have a weapon,\" not true."
+   ]
+  },
+  {
+   "begin": "1158.960",
+   "children": [],
+   "end": "1160.000",
+   "id": "f000267",
+   "language": "en",
+   "lines": [
+    "Not true."
+   ]
+  },
+  {
+   "begin": "1160.000",
+   "children": [],
+   "end": "1168.960",
+   "id": "f000268",
+   "language": "en",
+   "lines": [
+    "They are more -- and if we ever have to take action, unlike when we took office, we will have the world behind us, and that matters."
+   ]
+  },
+  {
+   "begin": "1168.960",
+   "children": [],
+   "end": "1170.320",
+   "id": "f000269",
+   "language": "en",
+   "lines": [
+    "That matters."
+   ]
+  },
+  {
+   "begin": "1170.320",
+   "children": [],
+   "end": "1172.320",
+   "id": "f000270",
+   "language": "en",
+   "lines": [
+    "What about Bob Gates' statement?"
+   ]
+  },
+  {
+   "begin": "1172.320",
+   "children": [],
+   "end": "1177.960",
+   "id": "f000271",
+   "language": "en",
+   "lines": [
+    "Let me read that again, \"could prove catastrophic, haunting us for generations.\""
+   ]
+  },
+  {
+   "begin": "1177.960",
+   "children": [],
+   "end": "1179.000",
+   "id": "f000272",
+   "language": "en",
+   "lines": [
+    "He is right."
+   ]
+  },
+  {
+   "begin": "1179.000",
+   "children": [],
+   "end": "1182.520",
+   "id": "f000273",
+   "language": "en",
+   "lines": [
+    "It could prove catastrophic, if we didn't do it with precision."
+   ]
+  },
+  {
+   "begin": "1182.520",
+   "children": [],
+   "end": "1182.960",
+   "id": "f000274",
+   "language": "en",
+   "lines": [
+    "Congressman Ryan?"
+   ]
+  },
+  {
+   "begin": "1182.960",
+   "children": [],
+   "end": "1189.800",
+   "id": "f000275",
+   "language": "en",
+   "lines": [
+    "And what it does is it undermines our credibility by backing up the point when we make it that all options are on the table."
+   ]
+  },
+  {
+   "begin": "1189.800",
+   "children": [],
+   "end": "1190.360",
+   "id": "f000276",
+   "language": "en",
+   "lines": [
+    "That's the point."
+   ]
+  },
+  {
+   "begin": "1190.360",
+   "children": [],
+   "end": "1195.840",
+   "id": "f000277",
+   "language": "en",
+   "lines": [
+    "The ayatollahs see these kinds of statements and they think, \"I'm going to get a nuclear weapon.\""
+   ]
+  },
+  {
+   "begin": "1195.840",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000278",
+   "language": "en",
+   "lines": [
+    "When -- when we see"
+   ]
+  }
+ ]
+}

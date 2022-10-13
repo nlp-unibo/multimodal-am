@@ -1,0 +1,7 @@
+He did not say that. : 4
+You were wrong. : 4
+They said, let us win. : 4
+That's not true. : 16
+And it's going to be tough. : 4
+Sure. : 4
+And... : 4

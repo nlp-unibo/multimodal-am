@@ -1,0 +1,2334 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.080",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Magness Arena at the University of Denver in Denver, Colorado."
+   ]
+  },
+  {
+   "begin": "6.080",
+   "children": [],
+   "end": "22.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Jim Lehrer of the \"PBS NewsHour,\" and I welcome you to the first of the 2012 presidential debates between President Barack Obama, the Democratic nominee, and former Massachusetts Governor Mitt Romney, the Republican nominee."
+   ]
+  },
+  {
+   "begin": "22.120",
+   "children": [],
+   "end": "30.760",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "This debate and the next three -- two presidential, one vice presidential -- are sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "30.760",
+   "children": [],
+   "end": "38.920",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Tonight's 90 minutes will be about domestic issues and will follow a format designed by the commission."
+   ]
+  },
+  {
+   "begin": "38.920",
+   "children": [],
+   "end": "50.080",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "There will be six roughly 15-minute segments with two-minute answers for the first question, then open discussion for the remainder of each segment."
+   ]
+  },
+  {
+   "begin": "50.080",
+   "children": [],
+   "end": "59.120",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "Thousands of people offered suggestions on segment subjects or questions via the Internet and other means, but I made the final selections."
+   ]
+  },
+  {
+   "begin": "59.120",
+   "children": [],
+   "end": "65.440",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "And for the record, they were not submitted for approval to the commission or the candidates."
+   ]
+  },
+  {
+   "begin": "65.440",
+   "children": [],
+   "end": "82.320",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "The segments as I announced in advance will be three on the economy and one each on health care, the role of government and governing, with an emphasis throughout on differences, specifics and choices."
+   ]
+  },
+  {
+   "begin": "82.320",
+   "children": [],
+   "end": "86.760",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Both candidates will also have two-minute closing statements."
+   ]
+  },
+  {
+   "begin": "86.760",
+   "children": [],
+   "end": "101.480",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "The audience here in the hall has promised to remain silent -- no cheers, applause, boos, hisses, among other noisy distracting things, so we may all concentrate on what the candidates have to say."
+   ]
+  },
+  {
+   "begin": "101.480",
+   "children": [],
+   "end": "110.040",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "There is a noise exception right now, though, as we welcome President Obama and Governor Romney."
+   ]
+  },
+  {
+   "begin": "110.040",
+   "children": [],
+   "end": "140.040",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "(APPLAUSE)  Gentlemen, welcome to you both."
+   ]
+  },
+  {
+   "begin": "140.040",
+   "children": [],
+   "end": "146.280",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Let's start the economy, segment one, and let's begin with jobs."
+   ]
+  },
+  {
+   "begin": "146.280",
+   "children": [],
+   "end": "157.560",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "What are the major differences between the two of you about how you would go about creating new jobs?"
+   ]
+  },
+  {
+   "begin": "157.560",
+   "children": [],
+   "end": "158.360",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "You have two minutes."
+   ]
+  },
+  {
+   "begin": "158.360",
+   "children": [],
+   "end": "160.360",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Each of you have two minutes to start."
+   ]
+  },
+  {
+   "begin": "160.360",
+   "children": [],
+   "end": "163.440",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "A coin toss has determined, Mr. President, you go first."
+   ]
+  },
+  {
+   "begin": "163.440",
+   "children": [],
+   "end": "165.760",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Well, thank you very much, Jim, for this opportunity."
+   ]
+  },
+  {
+   "begin": "165.760",
+   "children": [],
+   "end": "169.960",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "I want to thank Governor Romney and the University of Denver for your hospitality."
+   ]
+  },
+  {
+   "begin": "169.960",
+   "children": [],
+   "end": "180.680",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "There are a lot of points I want to make tonight, but the most important one is that 20 years ago I became the luckiest man on Earth because Michelle Obama agreed to marry me."
+   ]
+  },
+  {
+   "begin": "180.680",
+   "children": [],
+   "end": "190.360",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "And so I just want to wish, Sweetie, you happy anniversary and let you know that a year from now we will not be celebrating it in front of 40 million people."
+   ]
+  },
+  {
+   "begin": "190.360",
+   "children": [],
+   "end": "198.760",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "(LAUGHTER)  You know, four years ago we went through the worst financial crisis since the Great Depression."
+   ]
+  },
+  {
+   "begin": "198.760",
+   "children": [],
+   "end": "203.480",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Millions of jobs were lost, the auto industry was on the brink of collapse."
+   ]
+  },
+  {
+   "begin": "203.480",
+   "children": [],
+   "end": "206.320",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "The financial system had frozen up."
+   ]
+  },
+  {
+   "begin": "206.320",
+   "children": [],
+   "end": "212.600",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "And because of the resilience and the determination of the American people, we've begun to fight our way back."
+   ]
+  },
+  {
+   "begin": "212.600",
+   "children": [],
+   "end": "217.960",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "Over the last 30 months, we've seen 5 million jobs in the private sector created."
+   ]
+  },
+  {
+   "begin": "217.960",
+   "children": [],
+   "end": "221.280",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "The auto industry has come roaring back."
+   ]
+  },
+  {
+   "begin": "221.280",
+   "children": [],
+   "end": "224.040",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "And housing has begun to rise."
+   ]
+  },
+  {
+   "begin": "224.040",
+   "children": [],
+   "end": "227.400",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "But we all know that we've still got a lot of work to do."
+   ]
+  },
+  {
+   "begin": "227.400",
+   "children": [],
+   "end": "232.920",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "And so the question here tonight is not where we've been, but where we're going."
+   ]
+  },
+  {
+   "begin": "232.920",
+   "children": [],
+   "end": "243.680",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "Governor Romney has a perspective that says if we cut taxes, skewed towards the wealthy, and roll back regulations, that we'll be better off."
+   ]
+  },
+  {
+   "begin": "243.680",
+   "children": [],
+   "end": "244.960",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "I've got a different view."
+   ]
+  },
+  {
+   "begin": "244.960",
+   "children": [],
+   "end": "247.800",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "I think we've got to invest in education and training."
+   ]
+  },
+  {
+   "begin": "247.800",
+   "children": [],
+   "end": "270.680",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "I think it's important for us to develop new sources of energy here in America, that we change our tax code to make sure that we're helping small businesses and companies that are investing here in the United States, that we take some of the money that we're saving as we wind down two wars to rebuild America and that we reduce our deficit in a balanced way that allows us to make these critical investments."
+   ]
+  },
+  {
+   "begin": "270.680",
+   "children": [],
+   "end": "275.640",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Now, it ultimately is going to be up to the voters -- to you -- which path we should take."
+   ]
+  },
+  {
+   "begin": "275.640",
+   "children": [],
+   "end": "287.920",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Are we going to double on top-down economic policies that helped to get us into this mess or do we embrace a new economic patriotism that says America does best when the middle class does best?"
+   ]
+  },
+  {
+   "begin": "287.920",
+   "children": [],
+   "end": "290.120",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "And I'm looking forward to having that debate."
+   ]
+  },
+  {
+   "begin": "290.120",
+   "children": [],
+   "end": "291.480",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "Governor Romney, two minutes."
+   ]
+  },
+  {
+   "begin": "291.480",
+   "children": [],
+   "end": "292.320",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Thank you, Jim."
+   ]
+  },
+  {
+   "begin": "292.320",
+   "children": [],
+   "end": "295.960",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "It's an honor to be here with you, and I appreciate the chance to be with the president."
+   ]
+  },
+  {
+   "begin": "295.960",
+   "children": [],
+   "end": "301.920",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "I'm pleased to be at the University of Denver, appreciate their welcome, and also the Presidential Commission on these debates."
+   ]
+  },
+  {
+   "begin": "301.920",
+   "children": [],
+   "end": "305.080",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "And congratulations to you, Mr. President, on your anniversary."
+   ]
+  },
+  {
+   "begin": "305.080",
+   "children": [],
+   "end": "308.840",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "I'm sure this was the most romantic place you could imagine, here -- here with me."
+   ]
+  },
+  {
+   "begin": "308.840",
+   "children": [],
+   "end": "312.760",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "So I...  (LAUGHTER)  Congratulations."
+   ]
+  },
+  {
+   "begin": "312.760",
+   "children": [],
+   "end": "315.080",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "This is obviously a very tender topic."
+   ]
+  },
+  {
+   "begin": "315.080",
+   "children": [],
+   "end": "319.160",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "I've had the occasion over the last couple of years of meeting people across the country."
+   ]
+  },
+  {
+   "begin": "319.160",
+   "children": [],
+   "end": "324.080",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "I was in Dayton, Ohio, and a woman grabbed my arm and she said, \"I've been out of work since May."
+   ]
+  },
+  {
+   "begin": "324.080",
+   "children": [],
+   "end": "326.160",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "Can you help me?\""
+   ]
+  },
+  {
+   "begin": "326.160",
+   "children": [],
+   "end": "336.440",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Ann yesterday was at a rally in Denver and a woman came up to her with a baby in her arms and said, \"Ann, my husband has had four jobs in three years, part-time jobs."
+   ]
+  },
+  {
+   "begin": "336.440",
+   "children": [],
+   "end": "340.480",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "He's lost his most recent job and we've now just lost our home."
+   ]
+  },
+  {
+   "begin": "340.480",
+   "children": [],
+   "end": "342.120",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "Can you help us?\""
+   ]
+  },
+  {
+   "begin": "342.120",
+   "children": [],
+   "end": "347.120",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "And the answer is, yes, we can help, but it's going to take a different path."
+   ]
+  },
+  {
+   "begin": "347.120",
+   "children": [],
+   "end": "353.320",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "Not the one we've been on, not the one the president describes as a top-down, cut taxes for the rich."
+   ]
+  },
+  {
+   "begin": "353.320",
+   "children": [],
+   "end": "354.760",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "That's not what I'm going to do."
+   ]
+  },
+  {
+   "begin": "354.760",
+   "children": [],
+   "end": "357.000",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "My plan has five basic parts."
+   ]
+  },
+  {
+   "begin": "357.000",
+   "children": [],
+   "end": "360.000",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "One, get us energy independent, North American energy independent."
+   ]
+  },
+  {
+   "begin": "360.000",
+   "children": [],
+   "end": "362.360",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "That creates about 4 million jobs."
+   ]
+  },
+  {
+   "begin": "362.360",
+   "children": [],
+   "end": "366.000",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Number two, open up more trade, particularly in Latin America."
+   ]
+  },
+  {
+   "begin": "366.000",
+   "children": [],
+   "end": "368.520",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Crack down on China, if and when they cheat."
+   ]
+  },
+  {
+   "begin": "368.520",
+   "children": [],
+   "end": "373.320",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "Number three, make sure our people have the skills they need to succeed and the best schools in the world."
+   ]
+  },
+  {
+   "begin": "373.320",
+   "children": [],
+   "end": "375.240",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "We're far away from that now."
+   ]
+  },
+  {
+   "begin": "375.240",
+   "children": [],
+   "end": "377.680",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Number four, get to us a balanced budget."
+   ]
+  },
+  {
+   "begin": "377.680",
+   "children": [],
+   "end": "380.680",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Number five, champion small business."
+   ]
+  },
+  {
+   "begin": "380.680",
+   "children": [],
+   "end": "393.440",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "It's small business that creates the jobs in America, and over the last four years, small business people have decided that America may not be the place to open a new business because new business startups are down to a 30-year low."
+   ]
+  },
+  {
+   "begin": "393.440",
+   "children": [],
+   "end": "401.920",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Now, I'm concerned that the path that we're on has just been unsuccessful."
+   ]
+  },
+  {
+   "begin": "401.920",
+   "children": [],
+   "end": "413.480",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "The president has a view very similar to the view he had when he ran four years, that a bigger government, spending more, taxing more, regulating more -- if you will, trickle-down government -- would work."
+   ]
+  },
+  {
+   "begin": "413.480",
+   "children": [],
+   "end": "415.560",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "That's not the right answer for America."
+   ]
+  },
+  {
+   "begin": "415.560",
+   "children": [],
+   "end": "418.840",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "I'll restore the vitality that gets America working again."
+   ]
+  },
+  {
+   "begin": "418.840",
+   "children": [],
+   "end": "420.160",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "420.160",
+   "children": [],
+   "end": "429.840",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "Mr. President, please respond directly to what the governor just said about trickle-down -- his trick-down approach, as he said yours is."
+   ]
+  },
+  {
+   "begin": "429.840",
+   "children": [],
+   "end": "434.640",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "Well, let me talk specifically about what I think we need to do."
+   ]
+  },
+  {
+   "begin": "434.640",
+   "children": [],
+   "end": "448.480",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "First, we've got to improve our education system and we've made enormous progress drawing on ideas both from Democrats and Republicans that are already starting to show gains in some of the toughest to deal with schools."
+   ]
+  },
+  {
+   "begin": "448.480",
+   "children": [],
+   "end": "458.280",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "We've got a program called Race to the Top that has prompted reforms in 46 states around the country, raising standards, improving how we train teachers."
+   ]
+  },
+  {
+   "begin": "458.280",
+   "children": [],
+   "end": "470.400",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "So now I want to hire another 100,000 new math and science teachers, and create 2 million more slots in our community colleges so that people can get trained for the jobs that are out there right now."
+   ]
+  },
+  {
+   "begin": "470.400",
+   "children": [],
+   "end": "474.960",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "And I want to make sure that we keep tuition low for our young people."
+   ]
+  },
+  {
+   "begin": "474.960",
+   "children": [],
+   "end": "486.000",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "When it comes to our tax code, Governor Romney and I both agree that our corporate tax rate is too high, so I want to lower it, particularly for manufacturing, taking it down to 25 percent."
+   ]
+  },
+  {
+   "begin": "486.000",
+   "children": [],
+   "end": "493.920",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "But I also want to close those loopholes that are giving incentives for companies that are shipping jobs overseas."
+   ]
+  },
+  {
+   "begin": "493.920",
+   "children": [],
+   "end": "498.120",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "I want to provide tax breaks for companies that are investing here in the United States."
+   ]
+  },
+  {
+   "begin": "498.120",
+   "children": [],
+   "end": "510.000",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "On energy, Governor Romney and I, we both agree that we've got to boost American energy production, and oil and natural gas production are higher than they've been in years."
+   ]
+  },
+  {
+   "begin": "510.000",
+   "children": [],
+   "end": "518.760",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "But I also believe that we've got to look at the energy sources of the future, like wind and solar and biofuels, and make those investments."
+   ]
+  },
+  {
+   "begin": "518.760",
+   "children": [],
+   "end": "520.200",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "So all of this is possible."
+   ]
+  },
+  {
+   "begin": "520.200",
+   "children": [],
+   "end": "527.280",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Now, in order for us to do it, we do have to close our deficit, and one of the things I'm sure we'll be discussing tonight is, how do we deal with our tax code?"
+   ]
+  },
+  {
+   "begin": "527.280",
+   "children": [],
+   "end": "533.840",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "And how do we make sure that we are reducing spending in a responsible way, but also, how do we have enough revenue to make those investments?"
+   ]
+  },
+  {
+   "begin": "533.840",
+   "children": [],
+   "end": "549.480",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "And this is where there's a difference, because Governor Romney's central economic plan calls for a $5 trillion tax cut -- on top of the extension of the Bush tax cuts -- that's another trillion dollars -- and $2 trillion in additional military spending that the military hasn't asked for."
+   ]
+  },
+  {
+   "begin": "549.480",
+   "children": [],
+   "end": "550.840",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "That's $8 trillion."
+   ]
+  },
+  {
+   "begin": "550.840",
+   "children": [],
+   "end": "562.720",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "How we pay for that, reduce the deficit, and make the investments that we need to make, without dumping those costs onto middle-class Americans, I think is one of the central questions of this campaign."
+   ]
+  },
+  {
+   "begin": "562.720",
+   "children": [],
+   "end": "570.600",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Both of you have spoken about a lot of different things, and we're going to try to get through them in as specific a way as we possibly can."
+   ]
+  },
+  {
+   "begin": "570.600",
+   "children": [],
+   "end": "576.520",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "But, first, Governor Romney, do you have a question that you'd like to ask the president directly about something he just said?"
+   ]
+  },
+  {
+   "begin": "576.520",
+   "children": [],
+   "end": "576.960",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "Well, sure."
+   ]
+  },
+  {
+   "begin": "576.960",
+   "children": [],
+   "end": "579.240",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "I'd like to clear up the record and go through it piece by piece."
+   ]
+  },
+  {
+   "begin": "579.240",
+   "children": [],
+   "end": "582.000",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "First of all, I don't have a $5 trillion tax cut."
+   ]
+  },
+  {
+   "begin": "582.000",
+   "children": [],
+   "end": "585.200",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "I don't have a tax cut of a scale that you're talking about."
+   ]
+  },
+  {
+   "begin": "585.200",
+   "children": [],
+   "end": "589.520",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "My view is that we ought to provide tax relief to people in the middle class."
+   ]
+  },
+  {
+   "begin": "589.520",
+   "children": [],
+   "end": "592.680",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "But I'm not going to reduce the share of taxes paid by high-income people."
+   ]
+  },
+  {
+   "begin": "592.680",
+   "children": [],
+   "end": "595.400",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "High-income people are doing just fine in this economy."
+   ]
+  },
+  {
+   "begin": "595.400",
+   "children": [],
+   "end": "597.760",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "They'll do fine whether you're president or I am."
+   ]
+  },
+  {
+   "begin": "597.760",
+   "children": [],
+   "end": "601.760",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "The people who are having the hard time right now are middle- income Americans."
+   ]
+  },
+  {
+   "begin": "601.760",
+   "children": [],
+   "end": "605.360",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "Under the president's policies, middle-income Americans have been buried."
+   ]
+  },
+  {
+   "begin": "605.360",
+   "children": [],
+   "end": "607.120",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "They're just being crushed."
+   ]
+  },
+  {
+   "begin": "607.120",
+   "children": [],
+   "end": "612.520",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Middle- income Americans have seen their income come down by $4,300."
+   ]
+  },
+  {
+   "begin": "612.520",
+   "children": [],
+   "end": "614.800",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "This is a -- this is a tax in and of itself."
+   ]
+  },
+  {
+   "begin": "614.800",
+   "children": [],
+   "end": "616.680",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I'll call it the economy tax."
+   ]
+  },
+  {
+   "begin": "616.680",
+   "children": [],
+   "end": "618.000",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "It's been crushing."
+   ]
+  },
+  {
+   "begin": "618.000",
+   "children": [],
+   "end": "621.240",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "At the same time, gasoline prices have doubled under the president."
+   ]
+  },
+  {
+   "begin": "621.240",
+   "children": [],
+   "end": "622.600",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Electric rates are up."
+   ]
+  },
+  {
+   "begin": "622.600",
+   "children": [],
+   "end": "624.040",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Food prices are up."
+   ]
+  },
+  {
+   "begin": "624.040",
+   "children": [],
+   "end": "627.560",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "Health care costs have gone up by $2,500 a family."
+   ]
+  },
+  {
+   "begin": "627.560",
+   "children": [],
+   "end": "630.280",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "Middle-income families are being crushed."
+   ]
+  },
+  {
+   "begin": "630.280",
+   "children": [],
+   "end": "632.120",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "And so the question is how to get them going again."
+   ]
+  },
+  {
+   "begin": "632.120",
+   "children": [],
+   "end": "633.120",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "And I've described it."
+   ]
+  },
+  {
+   "begin": "633.120",
+   "children": [],
+   "end": "638.920",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "It's energy and trade, the right kind of training programs, balancing our budget and helping small business."
+   ]
+  },
+  {
+   "begin": "638.920",
+   "children": [],
+   "end": "641.280",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Those are the -- the cornerstones of my plan."
+   ]
+  },
+  {
+   "begin": "641.280",
+   "children": [],
+   "end": "644.320",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "But the president mentioned a couple of other ideas I'll just note."
+   ]
+  },
+  {
+   "begin": "644.320",
+   "children": [],
+   "end": "645.320",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "First, education."
+   ]
+  },
+  {
+   "begin": "645.320",
+   "children": [],
+   "end": "649.040",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "I agree: Education is key, particularly the future of our economy."
+   ]
+  },
+  {
+   "begin": "649.040",
+   "children": [],
+   "end": "656.000",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "But our training programs right now, we've got 47 of them, housed in the federal government, reporting to eight different agencies."
+   ]
+  },
+  {
+   "begin": "656.000",
+   "children": [],
+   "end": "657.720",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "Overhead is overwhelming."
+   ]
+  },
+  {
+   "begin": "657.720",
+   "children": [],
+   "end": "666.080",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "We've got to get those dollars back to the states and go to the workers so they can create their own pathways to get in the training they need for jobs that will really help them."
+   ]
+  },
+  {
+   "begin": "666.080",
+   "children": [],
+   "end": "669.920",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "The second area, taxation, we agree, we ought to bring the tax rates down."
+   ]
+  },
+  {
+   "begin": "669.920",
+   "children": [],
+   "end": "673.000",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "And I do, both for corporations and for individuals."
+   ]
+  },
+  {
+   "begin": "673.000",
+   "children": [],
+   "end": "683.520",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "But in order for us not to lose revenue, have the government run out of money, I also lower deductions and credits and exemptions, so that we keep taking in the same money when you also account for growth."
+   ]
+  },
+  {
+   "begin": "683.520",
+   "children": [],
+   "end": "685.600",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "The third area, energy."
+   ]
+  },
+  {
+   "begin": "685.600",
+   "children": [],
+   "end": "691.680",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "Energy is critical, and the president pointed out correctly that production of oil and gas in the U.S. is up."
+   ]
+  },
+  {
+   "begin": "691.680",
+   "children": [],
+   "end": "693.880",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "But not due to his policies."
+   ]
+  },
+  {
+   "begin": "693.880",
+   "children": [],
+   "end": "695.240",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "In spite of his policies."
+   ]
+  },
+  {
+   "begin": "695.240",
+   "children": [],
+   "end": "703.120",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "Mr. President, all of the increase in natural gas and oil has happened on private land, not on government land."
+   ]
+  },
+  {
+   "begin": "703.120",
+   "children": [],
+   "end": "708.680",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "On government land, your administration has cut the number of permits and licenses in half."
+   ]
+  },
+  {
+   "begin": "708.680",
+   "children": [],
+   "end": "714.680",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "If I'm president, I'll double them, and also get the -- the oil from offshore and Alaska."
+   ]
+  },
+  {
+   "begin": "714.680",
+   "children": [],
+   "end": "716.720",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "And I'll bring that pipeline in from Canada."
+   ]
+  },
+  {
+   "begin": "716.720",
+   "children": [],
+   "end": "718.520",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "And, by the way, I like coal."
+   ]
+  },
+  {
+   "begin": "718.520",
+   "children": [],
+   "end": "721.400",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "I'm going to make sure we can continue to burn clean coal."
+   ]
+  },
+  {
+   "begin": "721.400",
+   "children": [],
+   "end": "724.960",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "People in the coal industry feel like it's getting crushed by your policies."
+   ]
+  },
+  {
+   "begin": "724.960",
+   "children": [],
+   "end": "730.640",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "I want to get America and North America energy independent so we can create those jobs."
+   ]
+  },
+  {
+   "begin": "730.640",
+   "children": [],
+   "end": "738.640",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "And finally, with regards to that tax cut, look, I'm not looking to cut massive taxes and to reduce the -- the revenues going to the government."
+   ]
+  },
+  {
+   "begin": "738.640",
+   "children": [],
+   "end": "743.440",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "My -- my number-one principal is, there will be no tax cut that adds to the deficit."
+   ]
+  },
+  {
+   "begin": "743.440",
+   "children": [],
+   "end": "746.680",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "I want to underline that: no tax cut that adds to the deficit."
+   ]
+  },
+  {
+   "begin": "746.680",
+   "children": [],
+   "end": "751.120",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "But I do want to reduce the burden being paid by middle-income Americans."
+   ]
+  },
+  {
+   "begin": "751.120",
+   "children": [],
+   "end": "756.680",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "And I -- and to do that, that also means I cannot reduce the burden paid by high-income Americans."
+   ]
+  },
+  {
+   "begin": "756.680",
+   "children": [],
+   "end": "760.080",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "So any -- any language to the contrary is simply not accurate."
+   ]
+  },
+  {
+   "begin": "760.080",
+   "children": [],
+   "end": "761.120",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "LEHRER: Mr. President?"
+   ]
+  },
+  {
+   "begin": "761.120",
+   "children": [],
+   "end": "765.920",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "Well, I think -- let's talk about taxes, because I think it's instructive."
+   ]
+  },
+  {
+   "begin": "765.920",
+   "children": [],
+   "end": "774.320",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "Now, four years ago, when I stood on this stage, I said that I would cut taxes for middle-class families."
+   ]
+  },
+  {
+   "begin": "774.320",
+   "children": [],
+   "end": "776.360",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "And that's exactly what I did."
+   ]
+  },
+  {
+   "begin": "776.360",
+   "children": [],
+   "end": "781.240",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "We cut taxes for middle-class families by about $3,600."
+   ]
+  },
+  {
+   "begin": "781.240",
+   "children": [],
+   "end": "786.800",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "And the reason is, because I believe that we do best when the middle class is doing well."
+   ]
+  },
+  {
+   "begin": "786.800",
+   "children": [],
+   "end": "794.840",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "And by giving them those tax cuts, they had a little more money in their pocket, and so maybe they can buy a new car."
+   ]
+  },
+  {
+   "begin": "794.840",
+   "children": [],
+   "end": "800.600",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "They are certainly in a better position to weather the extraordinary recession that we went through."
+   ]
+  },
+  {
+   "begin": "800.600",
+   "children": [],
+   "end": "809.640",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "They can buy a computer for their kid who's going off to college, which means they're spending more money, businesses have more customers, businesses make more profits, and then hire more workers."
+   ]
+  },
+  {
+   "begin": "809.640",
+   "children": [],
+   "end": "821.440",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "Now, Governor Romney's proposal that he has been promoting for 18 months calls for a $5 trillion tax cut, on top of $2 trillion of additional spending for our military."
+   ]
+  },
+  {
+   "begin": "821.440",
+   "children": [],
+   "end": "827.840",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "And he is saying that he is going to pay for it by closing loopholes and deductions."
+   ]
+  },
+  {
+   "begin": "827.840",
+   "children": [],
+   "end": "836.640",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "The problem is that he's been asked over 100 times how you would close those deductions and loopholes, and he hasn't been able to identify them."
+   ]
+  },
+  {
+   "begin": "836.640",
+   "children": [],
+   "end": "838.400",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "But I'm going to make an important point here, Jim."
+   ]
+  },
+  {
+   "begin": "838.400",
+   "children": [],
+   "end": "838.640",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "838.640",
+   "children": [],
+   "end": "854.440",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "When you add up all the loopholes and deductions that upper-income individuals can -- are currently taking advantage of, you take those all away, you don't come close to paying for $5 trillion in tax cuts and $2 trillion in additional military spending."
+   ]
+  },
+  {
+   "begin": "854.440",
+   "children": [],
+   "end": "869.120",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "And that's why independent studies looking at this said the only way to meet Governor Romney's pledge of not reducing the deficit or -- or -- or not adding to the deficit is by burdening middle-class families."
+   ]
+  },
+  {
+   "begin": "869.120",
+   "children": [],
+   "end": "873.080",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "The average middle-class family with children would pay about $2,000 more."
+   ]
+  },
+  {
+   "begin": "873.080",
+   "children": [],
+   "end": "874.280",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "Now, that's not my analysis."
+   ]
+  },
+  {
+   "begin": "874.280",
+   "children": [],
+   "end": "877.320",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "That's the analysis of economists who have looked at this."
+   ]
+  },
+  {
+   "begin": "877.320",
+   "children": [],
+   "end": "894.320",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "And -- and that kind of top -- top-down economics, where folks at the top are doing well, so the average person making $3 million is getting a $250,000 tax break, while middle-class families are burdened further, that's not what I believe is a recipe for economic growth."
+   ]
+  },
+  {
+   "begin": "894.320",
+   "children": [],
+   "end": "894.640",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "894.640",
+   "children": [],
+   "end": "895.880",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "What is the difference?"
+   ]
+  },
+  {
+   "begin": "895.880",
+   "children": [],
+   "end": "897.680",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Let's just stay on taxes."
+   ]
+  },
+  {
+   "begin": "897.680",
+   "children": [],
+   "end": "898.240",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "898.240",
+   "children": [],
+   "end": "900.560",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Just -- let's just stay on taxes for (inaudible)."
+   ]
+  },
+  {
+   "begin": "900.560",
+   "children": [],
+   "end": "900.840",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "900.840",
+   "children": [],
+   "end": "901.440",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "What is the difference..."
+   ]
+  },
+  {
+   "begin": "901.440",
+   "children": [],
+   "end": "904.720",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Well, but -- but virtually -- virtually everything he just said about my tax plan is inaccurate."
+   ]
+  },
+  {
+   "begin": "904.720",
+   "children": [],
+   "end": "905.080",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "905.080",
+   "children": [],
+   "end": "911.240",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "So if the tax plan he described were a tax plan I was asked to support, I'd say absolutely not."
+   ]
+  },
+  {
+   "begin": "911.240",
+   "children": [],
+   "end": "913.600",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "I'm not looking for a $5 trillion tax cut."
+   ]
+  },
+  {
+   "begin": "913.600",
+   "children": [],
+   "end": "917.720",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "What I've said is I won't put in place a tax cut that adds to the deficit."
+   ]
+  },
+  {
+   "begin": "917.720",
+   "children": [],
+   "end": "918.720",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "That's part one."
+   ]
+  },
+  {
+   "begin": "918.720",
+   "children": [],
+   "end": "926.080",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "So there's no economist that can say Mitt Romney's tax plan adds $5 trillion if I say I will not add to the deficit with my tax plan."
+   ]
+  },
+  {
+   "begin": "926.080",
+   "children": [],
+   "end": "930.800",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "Number two, I will not reduce the share paid by high-income individuals."
+   ]
+  },
+  {
+   "begin": "930.800",
+   "children": [],
+   "end": "936.800",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "I know that you and your running mate keep saying that and I know it's a popular thing to say with a lot of people, but it's just not the case."
+   ]
+  },
+  {
+   "begin": "936.800",
+   "children": [],
+   "end": "938.560",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "Look, I've got five boys."
+   ]
+  },
+  {
+   "begin": "938.560",
+   "children": [],
+   "end": "944.400",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "I'm used to people saying something that's not always true, but just keep on repeating it and ultimately hoping I'll believe it."
+   ]
+  },
+  {
+   "begin": "944.400",
+   "children": [],
+   "end": "946.320",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "But that -- that is not the case."
+   ]
+  },
+  {
+   "begin": "946.320",
+   "children": [],
+   "end": "946.840",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "All right?"
+   ]
+  },
+  {
+   "begin": "946.840",
+   "children": [],
+   "end": "951.080",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "I will not reduce the taxes paid by high-income Americans."
+   ]
+  },
+  {
+   "begin": "951.080",
+   "children": [],
+   "end": "956.800",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "And number three, I will not under any circumstances raise taxes on middle-income families."
+   ]
+  },
+  {
+   "begin": "956.800",
+   "children": [],
+   "end": "958.920",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "I will lower taxes on middle-income families."
+   ]
+  },
+  {
+   "begin": "958.920",
+   "children": [],
+   "end": "960.520",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Now, you cite a study."
+   ]
+  },
+  {
+   "begin": "960.520",
+   "children": [],
+   "end": "964.760",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "There are six other studies that looked at the study you describe and say it's completely wrong."
+   ]
+  },
+  {
+   "begin": "964.760",
+   "children": [],
+   "end": "971.680",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "I saw a study that came out today that said you're going to raise taxes by $3,000 to $4,000 on middle-income families."
+   ]
+  },
+  {
+   "begin": "971.680",
+   "children": [],
+   "end": "973.000",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "There are all these studies out there."
+   ]
+  },
+  {
+   "begin": "973.000",
+   "children": [],
+   "end": "974.960",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "But let's get at the bottom line."
+   ]
+  },
+  {
+   "begin": "974.960",
+   "children": [],
+   "end": "976.960",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "That is, I want to bring down rates."
+   ]
+  },
+  {
+   "begin": "976.960",
+   "children": [],
+   "end": "984.120",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "I want to bring the rates down, at the same time lower deductions and exemptions and credits and so forth, so we keep getting the revenue we need."
+   ]
+  },
+  {
+   "begin": "984.120",
+   "children": [],
+   "end": "986.680",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "And you'd think, well, then why lower the rates?"
+   ]
+  },
+  {
+   "begin": "986.680",
+   "children": [],
+   "end": "999.800",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "And the reason is because small business pays that individual rate; 54 percent of America's workers work in businesses that are taxed not at the corporate tax rate, but at the individual tax rate."
+   ]
+  },
+  {
+   "begin": "999.800",
+   "children": [],
+   "end": "1004.080",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "And if we lower that rate, they will be able to hire more people."
+   ]
+  },
+  {
+   "begin": "1004.080",
+   "children": [],
+   "end": "1006.760",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "For me, this is about jobs."
+   ]
+  },
+  {
+   "begin": "1006.760",
+   "children": [],
+   "end": "1009.160",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "This is about getting jobs for the American people."
+   ]
+  },
+  {
+   "begin": "1009.160",
+   "children": [],
+   "end": "1009.640",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "(CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1009.640",
+   "children": [],
+   "end": "1010.360",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "That's where we started."
+   ]
+  },
+  {
+   "begin": "1010.360",
+   "children": [],
+   "end": "1010.520",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "Yeah."
+   ]
+  },
+  {
+   "begin": "1010.520",
+   "children": [],
+   "end": "1013.320",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "Do you challenge what the governor just said about his own plan?"
+   ]
+  },
+  {
+   "begin": "1013.320",
+   "children": [],
+   "end": "1017.320",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "Well, for 18 months he's been running on this tax plan."
+   ]
+  },
+  {
+   "begin": "1017.320",
+   "children": [],
+   "end": "1024.080",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "And now, five weeks before the election, he's saying that his big, bold idea is, \"Never mind.\""
+   ]
+  },
+  {
+   "begin": "1024.080",
+   "children": [],
+   "end": "1043.960",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "And the fact is that if you are lowering the rates the way you described, Governor, then it is not possible to come up with enough deductions and loopholes that only affect high-income individuals to avoid either raising the deficit or burdening the middle class."
+   ]
+  },
+  {
+   "begin": "1043.960",
+   "children": [],
+   "end": "1045.600",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "It's -- it's math."
+   ]
+  },
+  {
+   "begin": "1045.600",
+   "children": [],
+   "end": "1046.600",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "It's arithmetic."
+   ]
+  },
+  {
+   "begin": "1046.600",
+   "children": [],
+   "end": "1052.640",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Now, Governor Romney and I do share a deep interest in encouraging small-business growth."
+   ]
+  },
+  {
+   "begin": "1052.640",
+   "children": [],
+   "end": "1066.320",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "So at the same time that my tax plan has already lowered taxes for 98 percent of families, I also lowered taxes for small businesses 18 times."
+   ]
+  },
+  {
+   "begin": "1066.320",
+   "children": [],
+   "end": "1073.360",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "And what I want to do is continue the tax rates -- the tax cuts that we put into place for small businesses and families."
+   ]
+  },
+  {
+   "begin": "1073.360",
+   "children": [],
+   "end": "1089.440",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "But I have said that for incomes over $250,000 a year, that we should go back to the rates that we had when Bill Clinton was president, when we created 23 million new jobs, went from deficit to surplus, and created a whole lot of millionaires to boot."
+   ]
+  },
+  {
+   "begin": "1089.440",
+   "children": [],
+   "end": "1103.440",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "And the reason this is important is because by doing that, we cannot only reduce the deficit, we cannot only encourage job growth through small businesses, but we're also able to make the investments that are necessary in education or in energy."
+   ]
+  },
+  {
+   "begin": "1103.440",
+   "children": [],
+   "end": "1107.960",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "And we do have a difference, though, when it comes to definitions of small business."
+   ]
+  },
+  {
+   "begin": "1107.960",
+   "children": [],
+   "end": "1114.960",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "Under -- under my plan, 97 percent of small businesses would not see their income taxes go up."
+   ]
+  },
+  {
+   "begin": "1114.960",
+   "children": [],
+   "end": "1119.960",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "Governor Romney says, well, those top 3 percent, they're the job creators, they'd be burdened."
+   ]
+  },
+  {
+   "begin": "1119.960",
+   "children": [],
+   "end": "1126.800",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "But under Governor Romney's definition, there are a whole bunch of millionaires and billionaires who are small businesses."
+   ]
+  },
+  {
+   "begin": "1126.800",
+   "children": [],
+   "end": "1128.800",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "Donald Trump is a small business."
+   ]
+  },
+  {
+   "begin": "1128.800",
+   "children": [],
+   "end": "1137.840",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "Now, I know Donald Trump doesn't like to think of himself as small anything, but -- but that's how you define small businesses if you're getting business income."
+   ]
+  },
+  {
+   "begin": "1137.840",
+   "children": [],
+   "end": "1162.360",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "And that kind of approach, I believe, will not grow our economy, because the only way to pay for it without either burdening the middle class or blowing up our deficit is to make drastic cuts in things like education, making sure that we are continuing to invest in basic science and research, all the things that are helping America grow."
+   ]
+  },
+  {
+   "begin": "1162.360",
+   "children": [],
+   "end": "1164.040",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "And I think that would be a mistake."
+   ]
+  },
+  {
+   "begin": "1164.040",
+   "children": [],
+   "end": "1165.160",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "1165.160",
+   "children": [],
+   "end": "1167.720",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "Jim, let me just come back on that -- on that point, which is these..."
+   ]
+  },
+  {
+   "begin": "1167.720",
+   "children": [],
+   "end": "1168.440",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "Just for the -- just for record... (CROSSTALK)"
+   ]
+  },
+  {
+   "begin": "1168.440",
+   "children": [],
+   "end": "1169.480",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "... the small businesses we're talking about..."
+   ]
+  },
+  {
+   "begin": "1169.480",
+   "children": [],
+   "end": "1169.920",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "Excuse me."
+   ]
+  },
+  {
+   "begin": "1169.920",
+   "children": [],
+   "end": "1170.240",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "Excuse me."
+   ]
+  },
+  {
+   "begin": "1170.240",
+   "children": [],
+   "end": "1174.680",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "Just so everybody understands, we're way over our first 15 minutes."
+   ]
+  },
+  {
+   "begin": "1174.680",
+   "children": [],
+   "end": "1175.000",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "It's fun, isn't it?"
+   ]
+  },
+  {
+   "begin": "1175.000",
+   "children": [],
+   "end": "1175.760",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "It's OK, it's great."
+   ]
+  },
+  {
+   "begin": "1175.760",
+   "children": [],
+   "end": "1176.440",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "No problem."
+   ]
+  },
+  {
+   "begin": "1176.440",
+   "children": [],
+   "end": "1181.280",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "Well, you all don't have -- you don't have a problem, I don't have a problem, because we're still on the economy."
+   ]
+  },
+  {
+   "begin": "1181.280",
+   "children": [],
+   "end": "1183.360",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "We're going to come back to taxes."
+   ]
+  },
+  {
+   "begin": "1183.360",
+   "children": [],
+   "end": "1186.560",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "I want move on to the deficit and a lot of other things, too."
+   ]
+  },
+  {
+   "begin": "1186.560",
+   "children": [],
+   "end": "1187.440",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "OK, but go ahead, sir."
+   ]
+  },
+  {
+   "begin": "1187.440",
+   "children": [],
+   "end": "1188.160",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "You bet."
+   ]
+  },
+  {
+   "begin": "1188.160",
+   "children": [],
+   "end": "1198.040",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "Well, President, you're -- Mr. President, you're absolutely right, which is that, with regards to 97 percent of the businesses are not -- not taxed at the 35 percent tax rate, they're taxed at a lower rate."
+   ]
+  },
+  {
+   "begin": "1198.040",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "But those businesses that are in the last"
+   ]
+  }
+ ]
+}

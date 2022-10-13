@@ -1,0 +1,2414 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.200",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Bushnell Theatre in Hartford, Connecticut."
+   ]
+  },
+  {
+   "begin": "4.200",
+   "children": [],
+   "end": "7.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Jim Lehrer of the News Hour on PBS."
+   ]
+  },
+  {
+   "begin": "7.240",
+   "children": [],
+   "end": "16.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Welcome to the first of the 1996 Presidential debates between President Bill Clinton, the Democratic nominee, and Senator Bob Dole, the Republican nominee."
+   ]
+  },
+  {
+   "begin": "16.880",
+   "children": [],
+   "end": "20.400",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "This event is sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "20.400",
+   "children": [],
+   "end": "26.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "It will last 90 minutes following a format and rules worked out by the two campaigns."
+   ]
+  },
+  {
+   "begin": "26.280",
+   "children": [],
+   "end": "29.840",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "There will be two-minute opening and closing statements."
+   ]
+  },
+  {
+   "begin": "29.840",
+   "children": [],
+   "end": "34.400",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "In between, a series of questions, each having three parts."
+   ]
+  },
+  {
+   "begin": "34.400",
+   "children": [],
+   "end": "39.840",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "A 90-second answer, a 60-second rebuttal, and a 30-second response."
+   ]
+  },
+  {
+   "begin": "39.840",
+   "children": [],
+   "end": "46.400",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "I will assist the candidates in adhering to those time limits with the help of a series of lights visible to both."
+   ]
+  },
+  {
+   "begin": "46.400",
+   "children": [],
+   "end": "51.560",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Under their rules, the candidates are not allowed to question each other directly."
+   ]
+  },
+  {
+   "begin": "51.560",
+   "children": [],
+   "end": "53.160",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "I will ask the questions."
+   ]
+  },
+  {
+   "begin": "53.160",
+   "children": [],
+   "end": "55.880",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "There are no limitations on the subjects."
+   ]
+  },
+  {
+   "begin": "55.880",
+   "children": [],
+   "end": "60.280",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "The order for everything tonight was determined by coin toss."
+   ]
+  },
+  {
+   "begin": "60.280",
+   "children": [],
+   "end": "63.680",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Now, to the opening statements and to President Clinton."
+   ]
+  },
+  {
+   "begin": "63.680",
+   "children": [],
+   "end": "65.400",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Mr. President."
+   ]
+  },
+  {
+   "begin": "65.400",
+   "children": [],
+   "end": "66.600",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Thank you, Jim."
+   ]
+  },
+  {
+   "begin": "66.600",
+   "children": [],
+   "end": "69.520",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "And thank you to the people of Hartford, our hosts."
+   ]
+  },
+  {
+   "begin": "69.520",
+   "children": [],
+   "end": "81.840",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "I want to begin by saying again how much I respect Senator Dole and his record of public service and how hard I will try to make this campaign and this debate one of ideas, not insults."
+   ]
+  },
+  {
+   "begin": "81.840",
+   "children": [],
+   "end": "88.280",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Four years ago I ran for president at a time of high unemployment and rising frustration."
+   ]
+  },
+  {
+   "begin": "88.280",
+   "children": [],
+   "end": "98.880",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "I wanted to turn this country around with a program of opportunity for all, responsibility from all, and an American community where everybody has a role to play."
+   ]
+  },
+  {
+   "begin": "98.880",
+   "children": [],
+   "end": "105.880",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "I wanted a government that was smaller and less bureaucratic to help people make the most of their own lives."
+   ]
+  },
+  {
+   "begin": "105.880",
+   "children": [],
+   "end": "109.640",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Four years ago you took me on faith."
+   ]
+  },
+  {
+   "begin": "109.640",
+   "children": [],
+   "end": "121.120",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Now there's a record: Ten and a half million more jobs, rising incomes, falling crime rates and welfare rolls, a strong America at peace."
+   ]
+  },
+  {
+   "begin": "121.120",
+   "children": [],
+   "end": "124.720",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "We are better off than we were four years ago."
+   ]
+  },
+  {
+   "begin": "124.720",
+   "children": [],
+   "end": "126.720",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Let's keep it going."
+   ]
+  },
+  {
+   "begin": "126.720",
+   "children": [],
+   "end": "129.200",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "We cut the deficit by 60 percent."
+   ]
+  },
+  {
+   "begin": "129.200",
+   "children": [],
+   "end": "134.080",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "Now, let's balance the budget and protect Medicare, Medicaid, education and the environment."
+   ]
+  },
+  {
+   "begin": "134.080",
+   "children": [],
+   "end": "137.120",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "We cut taxes for 15 million working Americans."
+   ]
+  },
+  {
+   "begin": "137.120",
+   "children": [],
+   "end": "143.280",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Now let's pass the tax cuts for education and child rearing, help with medical emergencies, and buying a home."
+   ]
+  },
+  {
+   "begin": "143.280",
+   "children": [],
+   "end": "145.320",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "We passed family and medical leave."
+   ]
+  },
+  {
+   "begin": "145.320",
+   "children": [],
+   "end": "149.800",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "Now let's expand it so more people can succeed as parents and in the work force."
+   ]
+  },
+  {
+   "begin": "149.800",
+   "children": [],
+   "end": "154.320",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "We passed 100,000 police, the assault weapons ban, the Brady Bill."
+   ]
+  },
+  {
+   "begin": "154.320",
+   "children": [],
+   "end": "160.760",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Now let's keep going by finishing the work of putting the police on the street and tackling juvenile gangs."
+   ]
+  },
+  {
+   "begin": "160.760",
+   "children": [],
+   "end": "162.120",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "We passed welfare reform."
+   ]
+  },
+  {
+   "begin": "162.120",
+   "children": [],
+   "end": "164.840",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Now let's move a million people from welfare to work."
+   ]
+  },
+  {
+   "begin": "164.840",
+   "children": [],
+   "end": "175.600",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "And most important, let's make education our highest priority so that every eight-year-old will be able to read, every 12-year-old can log onto the Internet, every 18-year-old can go to college."
+   ]
+  },
+  {
+   "begin": "175.600",
+   "children": [],
+   "end": "178.240",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "We can build that bridge to the 21st Century."
+   ]
+  },
+  {
+   "begin": "178.240",
+   "children": [],
+   "end": "183.640",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "And I look forward to discussing exactly how we're going to do it."
+   ]
+  },
+  {
+   "begin": "183.640",
+   "children": [],
+   "end": "184.960",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Senator Dole, two minutes."
+   ]
+  },
+  {
+   "begin": "184.960",
+   "children": [],
+   "end": "185.120",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "185.120",
+   "children": [],
+   "end": "190.040",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. President, for those kind words."
+   ]
+  },
+  {
+   "begin": "190.040",
+   "children": [],
+   "end": "197.760",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "Thank the people of Hartford, the Commission, and all those out here who may be listening or watching."
+   ]
+  },
+  {
+   "begin": "197.760",
+   "children": [],
+   "end": "202.560",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "It's a great honor for me to be here standing here as the Republican nominee."
+   ]
+  },
+  {
+   "begin": "202.560",
+   "children": [],
+   "end": "207.960",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "I'm very proud to be the Republican nominee reaching out to Democrats and Independents."
+   ]
+  },
+  {
+   "begin": "207.960",
+   "children": [],
+   "end": "226.400",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "I have three very special people with me tonight: My wife, Elizabeth; my daughter, Robin, who has never let me down, and a fellow named Frank Carafa from New York, along with Ollie Manninen who helped me out in the mountains of Italy a few years back."
+   ]
+  },
+  {
+   "begin": "226.400",
+   "children": [],
+   "end": "231.280",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "I've learned from them that people do have tough times."
+   ]
+  },
+  {
+   "begin": "231.280",
+   "children": [],
+   "end": "234.680",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "And sometimes you can't go it alone."
+   ]
+  },
+  {
+   "begin": "234.680",
+   "children": [],
+   "end": "237.960",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "And that's what America is all about."
+   ]
+  },
+  {
+   "begin": "237.960",
+   "children": [],
+   "end": "245.160",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "I remember getting my future back from doctors and nurses and a doctor in Chicago named Dr. Kalikian ."
+   ]
+  },
+  {
+   "begin": "245.160",
+   "children": [],
+   "end": "255.680",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "And ever since that time, I've tried to give something back to my country, to the people who are watching us tonight."
+   ]
+  },
+  {
+   "begin": "255.680",
+   "children": [],
+   "end": "259.880",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "America is the greatest place on the face of the earth."
+   ]
+  },
+  {
+   "begin": "259.880",
+   "children": [],
+   "end": "264.640",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Now, I know millions of you still have anxieties."
+   ]
+  },
+  {
+   "begin": "264.640",
+   "children": [],
+   "end": "270.480",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "You work harder and harder to make ends meet and put food on the table."
+   ]
+  },
+  {
+   "begin": "270.480",
+   "children": [],
+   "end": "274.840",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "You worry about the quality and the safety of your children, and the quality of education."
+   ]
+  },
+  {
+   "begin": "274.840",
+   "children": [],
+   "end": "283.320",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "But even more importantly, you worry about the future and will they have the same opportunities that you and I have had."
+   ]
+  },
+  {
+   "begin": "283.320",
+   "children": [],
+   "end": "287.440",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "And Jack Kemp and I want to share with you some ideas tonight."
+   ]
+  },
+  {
+   "begin": "287.440",
+   "children": [],
+   "end": "291.560",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Jack Kemp is my running mate, doing an outstanding job."
+   ]
+  },
+  {
+   "begin": "291.560",
+   "children": [],
+   "end": "296.400",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "Now, I'm a plain-speaking man and I learned long ago that your word was your bond."
+   ]
+  },
+  {
+   "begin": "296.400",
+   "children": [],
+   "end": "303.640",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "And I promise you tonight that I'll try to address your concerns and not try to exploit them."
+   ]
+  },
+  {
+   "begin": "303.640",
+   "children": [],
+   "end": "310.600",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "It's a tall order, but I've been running against the odds for a long time and, again, I'm honored to be here this evening."
+   ]
+  },
+  {
+   "begin": "310.600",
+   "children": [],
+   "end": "313.680",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Mr. President, first question."
+   ]
+  },
+  {
+   "begin": "313.680",
+   "children": [],
+   "end": "319.680",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "There is a major difference in your view of the role of the Federal government and that of Senator Dole."
+   ]
+  },
+  {
+   "begin": "319.680",
+   "children": [],
+   "end": "324.280",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "How would you define the difference?"
+   ]
+  },
+  {
+   "begin": "324.280",
+   "children": [],
+   "end": "333.920",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Well, Jim, I believe that the Federal government should give people the tools and try to establish the conditions in which they can make the most of their own lives."
+   ]
+  },
+  {
+   "begin": "333.920",
+   "children": [],
+   "end": "335.600",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "That, to me, is the key."
+   ]
+  },
+  {
+   "begin": "335.600",
+   "children": [],
+   "end": "339.240",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "And that leads me to some different conclusions from Senator Dole."
+   ]
+  },
+  {
+   "begin": "339.240",
+   "children": [],
+   "end": "344.760",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "For example, we have reduced the size of the Federal government to its smallest size in 30 years."
+   ]
+  },
+  {
+   "begin": "344.760",
+   "children": [],
+   "end": "349.480",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "We reduced more regulations, eliminated more programs than my two Republican predecessors."
+   ]
+  },
+  {
+   "begin": "349.480",
+   "children": [],
+   "end": "361.280",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "But I have worked hard for things like the Family and Medical Leave Law, the Brady Bill, the assault weapons ban, the program to put 100,000 police on the street."
+   ]
+  },
+  {
+   "begin": "361.280",
+   "children": [],
+   "end": "370.600",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "All of these are programs that Senator Dole opposed that I supported, because I felt they were a legitimate effort to help people make the most of their own lives."
+   ]
+  },
+  {
+   "begin": "370.600",
+   "children": [],
+   "end": "373.800",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "I've worked hard to help families impart values to their own children."
+   ]
+  },
+  {
+   "begin": "373.800",
+   "children": [],
+   "end": "385.080",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "I supported the V-chip so that parents would be able to control what their kids watch on television when they're young, along with the ratings systems for television and educational television."
+   ]
+  },
+  {
+   "begin": "385.080",
+   "children": [],
+   "end": "391.800",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "I supported strong action against the tobacco companies to stop the marketing, advertising, and sale of tobacco to young people."
+   ]
+  },
+  {
+   "begin": "391.800",
+   "children": [],
+   "end": "395.440",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "I supported a big increase in the safe and drug-free schools program."
+   ]
+  },
+  {
+   "begin": "395.440",
+   "children": [],
+   "end": "410.280",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "These were areas on which Senator Dole and I differed, but I believed they were the right areas for America to be acting together as one country to help individuals and families make the most of their own lives and raise their kids with good values and a good future."
+   ]
+  },
+  {
+   "begin": "410.280",
+   "children": [],
+   "end": "411.760",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Senator Dole, one minute."
+   ]
+  },
+  {
+   "begin": "411.760",
+   "children": [],
+   "end": "421.280",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "I think the basic difference is, and I have had some experience in this, I think the basic difference, I trust the people."
+   ]
+  },
+  {
+   "begin": "421.280",
+   "children": [],
+   "end": "424.080",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "The President trusts the government."
+   ]
+  },
+  {
+   "begin": "424.080",
+   "children": [],
+   "end": "429.680",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "We go back and look at the healthcare plan that he wanted to impose on the American people."
+   ]
+  },
+  {
+   "begin": "429.680",
+   "children": [],
+   "end": "437.160",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "One seventh the total economy, 17 new taxes, price controls, 35 to 50 new bureaucracies that cost $1.5 trillion."
+   ]
+  },
+  {
+   "begin": "437.160",
+   "children": [],
+   "end": "440.760",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "Don't forget that, that happened in 1993."
+   ]
+  },
+  {
+   "begin": "440.760",
+   "children": [],
+   "end": "445.200",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "A tax increase, a tax on everybody in America."
+   ]
+  },
+  {
+   "begin": "445.200",
+   "children": [],
+   "end": "447.400",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "Not just the rich."
+   ]
+  },
+  {
+   "begin": "447.400",
+   "children": [],
+   "end": "452.120",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "If you made 25,000 as the original proposal, you got your Social Security taxes increased."
+   ]
+  },
+  {
+   "begin": "452.120",
+   "children": [],
+   "end": "459.800",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "We had a BTU tax we turned into a $35 million gas tax, a $265 billion tax increase."
+   ]
+  },
+  {
+   "begin": "459.800",
+   "children": [],
+   "end": "461.600",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "I guess I rely more on the individual."
+   ]
+  },
+  {
+   "begin": "461.600",
+   "children": [],
+   "end": "465.680",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "I carry a little card in my pocket called the Tenth Amendment."
+   ]
+  },
+  {
+   "begin": "465.680",
+   "children": [],
+   "end": "470.320",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Where possible, I want to give power back to the states and back to the people."
+   ]
+  },
+  {
+   "begin": "470.320",
+   "children": [],
+   "end": "471.640",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "That's my difference with the President."
+   ]
+  },
+  {
+   "begin": "471.640",
+   "children": [],
+   "end": "473.560",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "We'll have specific differences later."
+   ]
+  },
+  {
+   "begin": "473.560",
+   "children": [],
+   "end": "476.440",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "He noted a few, but there are others."
+   ]
+  },
+  {
+   "begin": "476.440",
+   "children": [],
+   "end": "478.560",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "Mr. President, 30 seconds."
+   ]
+  },
+  {
+   "begin": "478.560",
+   "children": [],
+   "end": "481.040",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "I trust the people."
+   ]
+  },
+  {
+   "begin": "481.040",
+   "children": [],
+   "end": "485.440",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "We've done a lot to give the people more powers to make their own decisions over their own lives."
+   ]
+  },
+  {
+   "begin": "485.440",
+   "children": [],
+   "end": "496.800",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "But I do think we are right when we try to, for example, give mothers and newborns 48 hours before they can be kicked out of the hospital, ending these drive-by deliveries."
+   ]
+  },
+  {
+   "begin": "496.800",
+   "children": [],
+   "end": "505.360",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "I think we were right to pass the Kassebaum-Kennedy bill, which says you can't lose your health insurance just because you change jobs or because someone in your family's been sick."
+   ]
+  },
+  {
+   "begin": "505.360",
+   "children": [],
+   "end": "512.360",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Our government is smaller and less bureaucratic and has given more authority to the states than its two predecessors under Republican presidents."
+   ]
+  },
+  {
+   "begin": "512.360",
+   "children": [],
+   "end": "516.640",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "But I do believe we have to help our people get ready to succeed in the 21st Century."
+   ]
+  },
+  {
+   "begin": "516.640",
+   "children": [],
+   "end": "523.680",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Senator Dole, the President said in his opening statement we are better off today than we were four years ago."
+   ]
+  },
+  {
+   "begin": "523.680",
+   "children": [],
+   "end": "527.080",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Do you agree?"
+   ]
+  },
+  {
+   "begin": "527.080",
+   "children": [],
+   "end": "529.360",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "Well, he's better off than he was four years ago."
+   ]
+  },
+  {
+   "begin": "529.360",
+   "children": [],
+   "end": "532.080",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I agree with that."
+   ]
+  },
+  {
+   "begin": "532.080",
+   "children": [],
+   "end": "534.040",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "That's right."
+   ]
+  },
+  {
+   "begin": "534.040",
+   "children": [],
+   "end": "539.160",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "And I may be better off four years from now, but I don't know."
+   ]
+  },
+  {
+   "begin": "539.160",
+   "children": [],
+   "end": "542.800",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "I looked at the slowest growth in the century."
+   ]
+  },
+  {
+   "begin": "542.800",
+   "children": [],
+   "end": "548.720",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "He inherited a growth of 4.7 4.8 percent, now it's down to about 2.4 percent."
+   ]
+  },
+  {
+   "begin": "548.720",
+   "children": [],
+   "end": "553.120",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "We're going to pass a million bankruptcies this year for the first time in history."
+   ]
+  },
+  {
+   "begin": "553.120",
+   "children": [],
+   "end": "555.440",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "We've got stagnant wages."
+   ]
+  },
+  {
+   "begin": "555.440",
+   "children": [],
+   "end": "558.360",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "In fact, women's wages have dropped 2.2 percent."
+   ]
+  },
+  {
+   "begin": "558.360",
+   "children": [],
+   "end": "561.040",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "Men's wages haven't gone up, gone down."
+   ]
+  },
+  {
+   "begin": "561.040",
+   "children": [],
+   "end": "562.960",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "So we have stagnation."
+   ]
+  },
+  {
+   "begin": "562.960",
+   "children": [],
+   "end": "566.080",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "We have the highest foreign debt in history."
+   ]
+  },
+  {
+   "begin": "566.080",
+   "children": [],
+   "end": "572.680",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "And it seems to me that if you take a look, are you better off?"
+   ]
+  },
+  {
+   "begin": "572.680",
+   "children": [],
+   "end": "575.400",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Well, I guess some may be better off."
+   ]
+  },
+  {
+   "begin": "575.400",
+   "children": [],
+   "end": "579.560",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Saddam Hussein is probably better off than he was four years ago."
+   ]
+  },
+  {
+   "begin": "579.560",
+   "children": [],
+   "end": "582.160",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "Renee Proval (ph) is probably better off than he was four years ago."
+   ]
+  },
+  {
+   "begin": "582.160",
+   "children": [],
+   "end": "583.680",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "But are the American people?"
+   ]
+  },
+  {
+   "begin": "583.680",
+   "children": [],
+   "end": "587.600",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "They're working harder and higher and harder paying more taxes."
+   ]
+  },
+  {
+   "begin": "587.600",
+   "children": [],
+   "end": "592.720",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "For the first time in history, you pay about 40 percent of what you earn."
+   ]
+  },
+  {
+   "begin": "592.720",
+   "children": [],
+   "end": "598.480",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "More than you spend for food, clothing and shelter combined for taxes under this administration."
+   ]
+  },
+  {
+   "begin": "598.480",
+   "children": [],
+   "end": "600.520",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "So some may be better off."
+   ]
+  },
+  {
+   "begin": "600.520",
+   "children": [],
+   "end": "602.440",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "They talk about family income being up."
+   ]
+  },
+  {
+   "begin": "602.440",
+   "children": [],
+   "end": "605.280",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "That's not true in Connecticut, family income is down."
+   ]
+  },
+  {
+   "begin": "605.280",
+   "children": [],
+   "end": "609.000",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "And it's up in some cases because both parents are working."
+   ]
+  },
+  {
+   "begin": "609.000",
+   "children": [],
+   "end": "613.400",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "One works for the family, and one works to pay taxes for the government."
+   ]
+  },
+  {
+   "begin": "613.400",
+   "children": [],
+   "end": "618.280",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "We're going to give them tax cuts so they can spend more time with their children, maybe even take a vacation."
+   ]
+  },
+  {
+   "begin": "618.280",
+   "children": [],
+   "end": "620.280",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "That's what America is all about."
+   ]
+  },
+  {
+   "begin": "620.280",
+   "children": [],
+   "end": "622.120",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "One minute, Mr. President."
+   ]
+  },
+  {
+   "begin": "622.120",
+   "children": [],
+   "end": "631.480",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "Well, let me say, first of all, in February Senator Dole acknowledged that the American economy was in the best shape it's been in in 30 years."
+   ]
+  },
+  {
+   "begin": "631.480",
+   "children": [],
+   "end": "639.080",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "We have ten and a half million more jobs, a faster job growth rate than under any Republican administration since the 1920s."
+   ]
+  },
+  {
+   "begin": "639.080",
+   "children": [],
+   "end": "641.760",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Wages are goings up for the first time in a decade."
+   ]
+  },
+  {
+   "begin": "641.760",
+   "children": [],
+   "end": "644.160",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "We have record numbers of new small businesses."
+   ]
+  },
+  {
+   "begin": "644.160",
+   "children": [],
+   "end": "648.080",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "We have the biggest drop in the number of people in poverty in 27 years."
+   ]
+  },
+  {
+   "begin": "648.080",
+   "children": [],
+   "end": "649.800",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "All groups of people are growing."
+   ]
+  },
+  {
+   "begin": "649.800",
+   "children": [],
+   "end": "654.560",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "We had the biggest drop in income inequality in 27 years in 1995."
+   ]
+  },
+  {
+   "begin": "654.560",
+   "children": [],
+   "end": "660.560",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "The average family's income has gone up over $1600 just since our economic plan passed."
+   ]
+  },
+  {
+   "begin": "660.560",
+   "children": [],
+   "end": "663.720",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "So I think it's clear that we're better off than we were four years ago."
+   ]
+  },
+  {
+   "begin": "663.720",
+   "children": [],
+   "end": "667.840",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Now we need to focus on what do we need to do to be better off still."
+   ]
+  },
+  {
+   "begin": "667.840",
+   "children": [],
+   "end": "675.880",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "How can we help people as we are to get their retirements when they work for small businesses, to be able to afford health insurance, to be able to educate their children."
+   ]
+  },
+  {
+   "begin": "675.880",
+   "children": [],
+   "end": "677.720",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "That's what I want to focus on."
+   ]
+  },
+  {
+   "begin": "677.720",
+   "children": [],
+   "end": "682.160",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "But we are clearly better off than we were four years ago, as Senator Dole acknowledged this year."
+   ]
+  },
+  {
+   "begin": "682.160",
+   "children": [],
+   "end": "683.920",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "Senator Dole."
+   ]
+  },
+  {
+   "begin": "683.920",
+   "children": [],
+   "end": "685.840",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "I doubt that I acknowledged that this year."
+   ]
+  },
+  {
+   "begin": "685.840",
+   "children": [],
+   "end": "689.600",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "But in any event, I think we just look at the facts."
+   ]
+  },
+  {
+   "begin": "689.600",
+   "children": [],
+   "end": "693.280",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "We ask the people that are viewing tonight, are you better off than you were four years ago."
+   ]
+  },
+  {
+   "begin": "693.280",
+   "children": [],
+   "end": "695.560",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "It's not whether we're better off, it's whether they're better off."
+   ]
+  },
+  {
+   "begin": "695.560",
+   "children": [],
+   "end": "698.760",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "Are you working harder to put food on the table, feed your children."
+   ]
+  },
+  {
+   "begin": "698.760",
+   "children": [],
+   "end": "701.240",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Are your children getting a better education."
+   ]
+  },
+  {
+   "begin": "701.240",
+   "children": [],
+   "end": "706.200",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "Drug use has doubled the past 44 months all across America."
+   ]
+  },
+  {
+   "begin": "706.200",
+   "children": [],
+   "end": "713.760",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "Crime has gone down but it's because the mayors like Rudy Giuliani where one third of the drop happened in one city, New York City."
+   ]
+  },
+  {
+   "begin": "713.760",
+   "children": [],
+   "end": "716.480",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "So, yes, some may be better off."
+   ]
+  },
+  {
+   "begin": "716.480",
+   "children": [],
+   "end": "725.200",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "But of the people listening tonight, the working families who will benefit from economic packages, they'll be better off when Bob Dole is president and Jack Kemp is vice president."
+   ]
+  },
+  {
+   "begin": "725.200",
+   "children": [],
+   "end": "734.080",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "Mr. President, Senator Dole has come pretty close in the last few days to accusing you of lying about his position on Medicare reform."
+   ]
+  },
+  {
+   "begin": "734.080",
+   "children": [],
+   "end": "735.200",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "Have you done so?"
+   ]
+  },
+  {
+   "begin": "735.200",
+   "children": [],
+   "end": "736.560",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "Absolutely not."
+   ]
+  },
+  {
+   "begin": "736.560",
+   "children": [],
+   "end": "738.760",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Let's look at the position."
+   ]
+  },
+  {
+   "begin": "738.760",
+   "children": [],
+   "end": "750.600",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "First of all, remember that in this campaign season, since Senator Dole's been a candidate, he has bragged about the fact that he voted against Medicare in the beginning, in 1965, one of only 12 members."
+   ]
+  },
+  {
+   "begin": "750.600",
+   "children": [],
+   "end": "753.480",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "He said he did the right thing then, he knew it wouldn't work at the time."
+   ]
+  },
+  {
+   "begin": "753.480",
+   "children": [],
+   "end": "755.560",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "That's what he said."
+   ]
+  },
+  {
+   "begin": "755.560",
+   "children": [],
+   "end": "764.480",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "Then his budget that he passed along with Speaker Gingrich cut Medicare $270 billion, more than was necessary to repair the Medicare trust fund."
+   ]
+  },
+  {
+   "begin": "764.480",
+   "children": [],
+   "end": "770.840",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "It would have charged seniors more for out-of-pocket costs as well as more in premiums because doctors could have charged them more."
+   ]
+  },
+  {
+   "begin": "770.840",
+   "children": [],
+   "end": "784.600",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "The American Medical, Hospital Association, the Nurses Association, the Catholic Hospital Association all said hundreds of hospitals could close and people would be hurt badly under the Dole-Gingrich Medicare plan that I vetoed."
+   ]
+  },
+  {
+   "begin": "784.600",
+   "children": [],
+   "end": "801.960",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "And now with this risky $550 billion tax scheme of Senator Dole's, even his own friends, his campaign co-chair, Senator D'Amato, says that they can't possibly pay for it without cutting Medicare more and cutting Social Security as well, according to him."
+   ]
+  },
+  {
+   "begin": "801.960",
+   "children": [],
+   "end": "808.120",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "Now, my balanced budget plan adds ten years to the life of the Medicare trust fund, ten years."
+   ]
+  },
+  {
+   "begin": "808.120",
+   "children": [],
+   "end": "811.840",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "And we'll have time to deal with the long-term problems of the baby boomers."
+   ]
+  },
+  {
+   "begin": "811.840",
+   "children": [],
+   "end": "820.080",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "But it was simply wrong to finance their last scheme to cut Medicare $270 billion to run the risk of it withering on the vine."
+   ]
+  },
+  {
+   "begin": "820.080",
+   "children": [],
+   "end": "825.480",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "We always had to reform it over the years, but we need somebody who believes it in to reform it."
+   ]
+  },
+  {
+   "begin": "825.480",
+   "children": [],
+   "end": "826.960",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "Senator Dole."
+   ]
+  },
+  {
+   "begin": "826.960",
+   "children": [],
+   "end": "839.960",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Well, I must say, I look back at the vote on Medicare in 1965, we had a program called Eldercare that also provided drugs and means tests to people who needed medical attention received it."
+   ]
+  },
+  {
+   "begin": "839.960",
+   "children": [],
+   "end": "841.440",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "I thought it was a good program."
+   ]
+  },
+  {
+   "begin": "841.440",
+   "children": [],
+   "end": "843.720",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "But I've supported Medicare ever since."
+   ]
+  },
+  {
+   "begin": "843.720",
+   "children": [],
+   "end": "850.600",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "In fact, I used to go home, my mother would tell me, Bob, all I've got is my Social Security and my Medicare, don't cut it."
+   ]
+  },
+  {
+   "begin": "850.600",
+   "children": [],
+   "end": "853.680",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "I wouldn't violate anything my mother said."
+   ]
+  },
+  {
+   "begin": "853.680",
+   "children": [],
+   "end": "859.400",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "In fact, we had a conversation about our mothers one day, a very poignant conversation in the White House."
+   ]
+  },
+  {
+   "begin": "859.400",
+   "children": [],
+   "end": "862.400",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "I'm concerned about healthcare."
+   ]
+  },
+  {
+   "begin": "862.400",
+   "children": [],
+   "end": "869.400",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "I've had the best healthcare from government hospitals, Army hospitals and I know its importance, but we've got to fix it."
+   ]
+  },
+  {
+   "begin": "869.400",
+   "children": [],
+   "end": "873.680",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "It's his trustees, the President's trustees, not mine, who says it's going to go broke."
+   ]
+  },
+  {
+   "begin": "873.680",
+   "children": [],
+   "end": "875.600",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "He doesn't fix it for ten years."
+   ]
+  },
+  {
+   "begin": "875.600",
+   "children": [],
+   "end": "887.400",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "We ought to appoint a commission, just as we did in Social Security in 1983, when we rescued Social Security, and I was proud to be on that commission, along with Claude Pepper, the champion of senior citizens from Florida."
+   ]
+  },
+  {
+   "begin": "887.400",
+   "children": [],
+   "end": "890.200",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "And we can do it again, if we take politics out of it."
+   ]
+  },
+  {
+   "begin": "890.200",
+   "children": [],
+   "end": "893.000",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "Stop scaring the seniors, Mr. President."
+   ]
+  },
+  {
+   "begin": "893.000",
+   "children": [],
+   "end": "898.480",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "You've already spent $45 million scaring seniors and tearing me apart."
+   ]
+  },
+  {
+   "begin": "898.480",
+   "children": [],
+   "end": "900.440",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "I think it's time to have a truce."
+   ]
+  },
+  {
+   "begin": "900.440",
+   "children": [],
+   "end": "901.640",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "Mr. President."
+   ]
+  },
+  {
+   "begin": "901.640",
+   "children": [],
+   "end": "908.880",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "Well, let me say, first of all, I'd be happy to have a commission deal with this and I appreciate what Senator Dole did on the '83 Social Security commission."
+   ]
+  },
+  {
+   "begin": "908.880",
+   "children": [],
+   "end": "922.040",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "But it won't be possible to do, if his tax scheme passes because even his own campaign co-chair, Senator D'Amato, says he'll have to cut Medicare even more than was cut in the bill that I vetoed."
+   ]
+  },
+  {
+   "begin": "922.040",
+   "children": [],
+   "end": "928.360",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "I vetoed that bill because it cut more Medicare and and basically ran the risk of breaking up the system."
+   ]
+  },
+  {
+   "begin": "928.360",
+   "children": [],
+   "end": "931.600",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "My balanced budget plan puts ten years on the Medicare."
+   ]
+  },
+  {
+   "begin": "931.600",
+   "children": [],
+   "end": "934.200",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "We ought to do that, then we can have a commission."
+   ]
+  },
+  {
+   "begin": "934.200",
+   "children": [],
+   "end": "937.120",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "But Senator Dole's plans are not good for the country."
+   ]
+  },
+  {
+   "begin": "937.120",
+   "children": [],
+   "end": "943.040",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "Senator Dole, speaking of your tax plan, do you still think that's a good idea, the 15 percent across the board tax cut?"
+   ]
+  },
+  {
+   "begin": "943.040",
+   "children": [],
+   "end": "943.480",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "Oh, yes."
+   ]
+  },
+  {
+   "begin": "943.480",
+   "children": [],
+   "end": "944.560",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "And you'll be eligible."
+   ]
+  },
+  {
+   "begin": "944.560",
+   "children": [],
+   "end": "945.760",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "Me too?"
+   ]
+  },
+  {
+   "begin": "945.760",
+   "children": [],
+   "end": "952.080",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "And so will the former President, yes."
+   ]
+  },
+  {
+   "begin": "952.080",
+   "children": [],
+   "end": "953.040",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "I need it."
+   ]
+  },
+  {
+   "begin": "953.040",
+   "children": [],
+   "end": "956.560",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "Well, the people need it, that's the point."
+   ]
+  },
+  {
+   "begin": "956.560",
+   "children": [],
+   "end": "958.760",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "This is not a Wall Street tax cut."
+   ]
+  },
+  {
+   "begin": "958.760",
+   "children": [],
+   "end": "960.200",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "This is a family tax cut."
+   ]
+  },
+  {
+   "begin": "960.200",
+   "children": [],
+   "end": "967.440",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "This is a Main Street tax cut, 15 percent across -- let's take a family making $30,000 a year, that's $1261."
+   ]
+  },
+  {
+   "begin": "967.440",
+   "children": [],
+   "end": "983.240",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "Now, maybe to some in this Bushnell Memorial that it's not a lot of money, but people watching tonight with a couple of kids, a working family, that's four or five months of day care, maybe a personal computer; it's may be three or four months of mortgage payments."
+   ]
+  },
+  {
+   "begin": "983.240",
+   "children": [],
+   "end": "987.400",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "This economic package is about families but it's a six-point package."
+   ]
+  },
+  {
+   "begin": "987.400",
+   "children": [],
+   "end": "992.280",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "First of all, it's a balanced budget amendment to the Constitution which President Clinton defeated."
+   ]
+  },
+  {
+   "begin": "992.280",
+   "children": [],
+   "end": "996.440",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "He twisted arms and got six Democrats to vote the other way, but we lost by one vote."
+   ]
+  },
+  {
+   "begin": "996.440",
+   "children": [],
+   "end": "999.320",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "It's balancing a budget by the year 2002."
+   ]
+  },
+  {
+   "begin": "999.320",
+   "children": [],
+   "end": "1002.720",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "It's a tax cut, cutting capital gains 50 percent."
+   ]
+  },
+  {
+   "begin": "1002.720",
+   "children": [],
+   "end": "1005.720",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "So you can go out and create more jobs and more opportunities."
+   ]
+  },
+  {
+   "begin": "1005.720",
+   "children": [],
+   "end": "1007.480",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "It's a state tax relief."
+   ]
+  },
+  {
+   "begin": "1007.480",
+   "children": [],
+   "end": "1010.160",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "It's a $500 per child tax credit."
+   ]
+  },
+  {
+   "begin": "1010.160",
+   "children": [],
+   "end": "1011.520",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "It's about litigation reforms."
+   ]
+  },
+  {
+   "begin": "1011.520",
+   "children": [],
+   "end": "1015.480",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "Now that the President gets millions of dollars from the trial lawyers, he probably doesn't like this provision."
+   ]
+  },
+  {
+   "begin": "1015.480",
+   "children": [],
+   "end": "1025.200",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "In fact, when I fell off the podium in Chico, before I lit the ground, hit the ground I had call on my cell phone from a trial lawyer saying I think we've got a case here."
+   ]
+  },
+  {
+   "begin": "1025.200",
+   "children": [],
+   "end": "1028.560",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "And it's also regulatory reform."
+   ]
+  },
+  {
+   "begin": "1028.560",
+   "children": [],
+   "end": "1030.880",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "It's a good package, Mr. President."
+   ]
+  },
+  {
+   "begin": "1030.880",
+   "children": [],
+   "end": "1032.360",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "We'd like to have your support."
+   ]
+  },
+  {
+   "begin": "1032.360",
+   "children": [],
+   "end": "1033.640",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "Mr. President."
+   ]
+  },
+  {
+   "begin": "1033.640",
+   "children": [],
+   "end": "1052.480",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "Well, here's the problem with it: It sounds very good, but there's a reason that 500 economists, including seven Nobel prize winners and business periodicals like Business Week, and even Senator Dole's friends, Senator Warren Rudman, former Republican senator from New Hampshire, says it's not a practical program."
+   ]
+  },
+  {
+   "begin": "1052.480",
+   "children": [],
+   "end": "1069.080",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "It's a $550 billion tax scheme that will cause a big hole in the deficit which will raise interest rates and slow down the economy and cause people to pay more for home mortgages, car payments, credit card payments, college loans, and small business loans."
+   ]
+  },
+  {
+   "begin": "1069.080",
+   "children": [],
+   "end": "1070.680",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "It's not good to raise the deficit."
+   ]
+  },
+  {
+   "begin": "1070.680",
+   "children": [],
+   "end": "1072.200",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "We worked too hard to lower it."
+   ]
+  },
+  {
+   "begin": "1072.200",
+   "children": [],
+   "end": "1084.400",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "It will actually raise taxes on nine million people and, in addition to that, it will force bigger cuts in Medicare, Medicaid, education and the environment than the ones that he and Mr. Gingrich passed that I vetoed last year."
+   ]
+  },
+  {
+   "begin": "1084.400",
+   "children": [],
+   "end": "1097.920",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "So it sounds great, but our targeted tax cut for education, child rearing, healthcare and home buying, which is paid for in my balanced budget plan, something that he has not done, certified by the Congressional budget office, that's the right way to go."
+   ]
+  },
+  {
+   "begin": "1097.920",
+   "children": [],
+   "end": "1102.160",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "The President wants to increase spending 20 percent over the next six years."
+   ]
+  },
+  {
+   "begin": "1102.160",
+   "children": [],
+   "end": "1105.840",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "I want to increase spending 14 percent, that's how simple it is."
+   ]
+  },
+  {
+   "begin": "1105.840",
+   "children": [],
+   "end": "1109.760",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "I want the government to pinch pennies for a change instead of the American families."
+   ]
+  },
+  {
+   "begin": "1109.760",
+   "children": [],
+   "end": "1116.240",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "We're talking about six percentage points over six years, and with that money you give it back to the working people."
+   ]
+  },
+  {
+   "begin": "1116.240",
+   "children": [],
+   "end": "1123.440",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "You also provide opportunity scholarships so low income parents will have the same choice that others have in sending their children to better schools."
+   ]
+  },
+  {
+   "begin": "1123.440",
+   "children": [],
+   "end": "1128.120",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "It will work, and when it does work, Mr. President, I know you'll congratulate me."
+   ]
+  },
+  {
+   "begin": "1128.120",
+   "children": [],
+   "end": "1135.520",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "Mr. President, the Senator mentioned trial lawyers and campaign, that means campaign financing."
+   ]
+  },
+  {
+   "begin": "1135.520",
+   "children": [],
+   "end": "1142.640",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "How do you personally avoid being unduly influenced by people who give you money or give you services in your campaigns?"
+   ]
+  },
+  {
+   "begin": "1142.640",
+   "children": [],
+   "end": "1151.680",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "Well, I try to articulate my positions as clearly as possible, tell people what I stand for and let them decide whether they're going to support me or not."
+   ]
+  },
+  {
+   "begin": "1151.680",
+   "children": [],
+   "end": "1154.320",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "The Senator mentioned the trial lawyers."
+   ]
+  },
+  {
+   "begin": "1154.320",
+   "children": [],
+   "end": "1161.240",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "In the case of the product liability bill, which they passed and I vetoed, I think that's what he's talking about, I actually wanted to sign that bill."
+   ]
+  },
+  {
+   "begin": "1161.240",
+   "children": [],
+   "end": "1165.520",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "And I told the people exactly what the Congress exactly what kind of bill I would sign."
+   ]
+  },
+  {
+   "begin": "1165.520",
+   "children": [],
+   "end": "1174.680",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "Now, a lot of the trial lawyers didn't want me to sign any bill at all, but I had thought we ought to do what we could to cut frivolous lawsuits, but they wouldn't make some of the changes that I thought should be made."
+   ]
+  },
+  {
+   "begin": "1174.680",
+   "children": [],
+   "end": "1177.800",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "Now, let me just give you an example."
+   ]
+  },
+  {
+   "begin": "1177.800",
+   "children": [],
+   "end": "1187.800",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "I had a person in the Oval Office who lost a child in a school bus accident where a drunk driver caused the accident directly, but there were problems with the school bus."
+   ]
+  },
+  {
+   "begin": "1187.800",
+   "children": [],
+   "end": "1189.360",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "The drunk driver had no money."
+   ]
+  },
+  {
+   "begin": "1189.360",
+   "children": [],
+   "end": "1194.560",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "Under the new bill, if I had signed it, a person like that could never have had any recovery."
+   ]
+  },
+  {
+   "begin": "1194.560",
+   "children": [],
+   "end": "1195.840",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "I thought that was wrong."
+   ]
+  },
+  {
+   "begin": "1195.840",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "So I gave four or five specific examples to the Congress and said, prove to me that these people could"
+   ]
+  }
+ ]
+}

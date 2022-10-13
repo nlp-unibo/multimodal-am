@@ -1,0 +1,1494 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Good evening from the Kentucky Center for the Arts in Louisville, Kentucky."
+   ]
+  },
+  {
+   "begin": "4.400",
+   "children": [],
+   "end": "17.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Dorothy Ridings, president of the League of Women Voters, the sponsor of tonight's first Presidential debate between Republican Ronald Reagan and Democrat Walter Mondale."
+   ]
+  },
+  {
+   "begin": "17.160",
+   "children": [],
+   "end": "26.960",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Tonight's debate marks the third consecutive Presidential election in which the League is presenting the candidates for the Nation's highest office in face-to-face debate."
+   ]
+  },
+  {
+   "begin": "26.960",
+   "children": [],
+   "end": "44.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Our panelists are James Wieghart, national political correspondent for Scripps-Howard News Service; Diane Sawyer, correspondent for the CBS program ``60 Minutes;'' and Fred Barnes, national political correspondent for the Baltimore Sun."
+   ]
+  },
+  {
+   "begin": "44.800",
+   "children": [],
+   "end": "51.040",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Barbara Walters of ABC News, who is appearing in her fourth Presidential debate, is our moderator."
+   ]
+  },
+  {
+   "begin": "51.040",
+   "children": [],
+   "end": "52.480",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "Barbara."
+   ]
+  },
+  {
+   "begin": "52.480",
+   "children": [],
+   "end": "53.800",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Thank you, Dorothy."
+   ]
+  },
+  {
+   "begin": "53.800",
+   "children": [],
+   "end": "57.760",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "A few words as we begin tonight's debate about the format."
+   ]
+  },
+  {
+   "begin": "57.760",
+   "children": [],
+   "end": "66.640",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "The position of the candidates -- that is, who answers questions first and who gives the last statement -- was determined by a toss of a coin between the two candidates."
+   ]
+  },
+  {
+   "begin": "66.640",
+   "children": [],
+   "end": "71.920",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale won, and that means that he chose to give the final closing statement."
+   ]
+  },
+  {
+   "begin": "71.920",
+   "children": [],
+   "end": "76.280",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "It means, too, that the President will answer the first question first."
+   ]
+  },
+  {
+   "begin": "76.280",
+   "children": [],
+   "end": "77.200",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "I hope that's clear."
+   ]
+  },
+  {
+   "begin": "77.200",
+   "children": [],
+   "end": "79.560",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "If it isn't, it will become clear as the debate goes on."
+   ]
+  },
+  {
+   "begin": "79.560",
+   "children": [],
+   "end": "85.840",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Further, the candidates will be addressed as they each wanted and will, therefore, be called \"Mr. President'' and \"Mr."
+   ]
+  },
+  {
+   "begin": "85.840",
+   "children": [],
+   "end": "87.080",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "Mondale.''"
+   ]
+  },
+  {
+   "begin": "87.080",
+   "children": [],
+   "end": "96.800",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Since there will also be a second debate between the two Presidential candidates, tonight will focus primarily on the economy and other domestic issues."
+   ]
+  },
+  {
+   "begin": "96.800",
+   "children": [],
+   "end": "100.840",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "The debate, itself, is built around questions from the panel."
+   ]
+  },
+  {
+   "begin": "100.840",
+   "children": [],
+   "end": "105.960",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "In each of its segments, a reporter will ask the candidates the same general question."
+   ]
+  },
+  {
+   "begin": "105.960",
+   "children": [],
+   "end": "112.560",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Then -- and this is important -- each candidate will have the chance to rebut what the other has said."
+   ]
+  },
+  {
+   "begin": "112.560",
+   "children": [],
+   "end": "120.360",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "And the final segment of the debate will be the closing segment, and the candidates will each have 4 minutes for their closing statements."
+   ]
+  },
+  {
+   "begin": "120.360",
+   "children": [],
+   "end": "125.600",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "And as I have said, Mr. Mondale will be the last person on the program to speak."
+   ]
+  },
+  {
+   "begin": "125.600",
+   "children": [],
+   "end": "129.600",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "And now I would like to add a personal note if I may."
+   ]
+  },
+  {
+   "begin": "129.600",
+   "children": [],
+   "end": "137.400",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "As Dorothy Ridings pointed out, I have been involved now in four Presidential debates, either as a moderator or as a panelist."
+   ]
+  },
+  {
+   "begin": "137.400",
+   "children": [],
+   "end": "140.560",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "In the past, there was no problem in selecting panelists."
+   ]
+  },
+  {
+   "begin": "140.560",
+   "children": [],
+   "end": "146.880",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Tonight, however, there were to have been four panelists participating in this debate."
+   ]
+  },
+  {
+   "begin": "146.880",
+   "children": [],
+   "end": "157.840",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "The candidates were given a list of almost 100 qualified journalists from all the media and could agree on only these three fine journalists."
+   ]
+  },
+  {
+   "begin": "157.840",
+   "children": [],
+   "end": "168.280",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "As moderator, and on behalf of my fellow journalists, I very much regret, as does the League of Women Voters, that this situation has occurred."
+   ]
+  },
+  {
+   "begin": "168.280",
+   "children": [],
+   "end": "172.080",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "And now let us begin the debate with the first question from James Wieghart."
+   ]
+  },
+  {
+   "begin": "172.080",
+   "children": [],
+   "end": "173.640",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "Mr. Wieghart."
+   ]
+  },
+  {
+   "begin": "173.640",
+   "children": [],
+   "end": "174.000",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "The Nation's Economy"
+   ]
+  },
+  {
+   "begin": "174.000",
+   "children": [],
+   "end": "182.440",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "Mr. President, in 1980 you promised the American people -- in your campaign -- a balanced budget by 1983."
+   ]
+  },
+  {
+   "begin": "182.440",
+   "children": [],
+   "end": "188.680",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "We've now had more and bigger deficits in the 4 years you've been in office."
+   ]
+  },
+  {
+   "begin": "188.680",
+   "children": [],
+   "end": "200.960",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "Mr. President, do you have a secret plan to balance the budget sometime in a second term, and if so, would you lay out that plan for us tonight?"
+   ]
+  },
+  {
+   "begin": "200.960",
+   "children": [],
+   "end": "202.480",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "I have a plan -- not a secret plan."
+   ]
+  },
+  {
+   "begin": "202.480",
+   "children": [],
+   "end": "210.360",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, it is the economic recovery program that we presented when I took office in 1981."
+   ]
+  },
+  {
+   "begin": "210.360",
+   "children": [],
+   "end": "234.520",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "It is true that earlier, working with some very prominent economists, I had come up, during the campaign, with an economic program that I thought could rectify the great problems confronting us -- the double-digit inflation, the high tax rates that I think were hurting the economy, the stagflation that we were undergoing."
+   ]
+  },
+  {
+   "begin": "234.520",
+   "children": [],
+   "end": "252.920",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "Before even the election day, something that none of those economists had even predicted had happened, that the economy was so worsened that I was openly saying that what we had thought on the basis of our plan could have brought a balanced budget -- no, that was no longer possible."
+   ]
+  },
+  {
+   "begin": "252.920",
+   "children": [],
+   "end": "279.280",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "So, the plan that we have had and that we are following is a plan that is based on growth in the economy, recovery without inflation, and reducing the share that the Government is taking from the gross national product, which has become a drag on the economy."
+   ]
+  },
+  {
+   "begin": "279.280",
+   "children": [],
+   "end": "286.120",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Already, we have a recovery that has been going on for about 21 months to the point that we can now call it an expansion."
+   ]
+  },
+  {
+   "begin": "286.120",
+   "children": [],
+   "end": "298.920",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Under that, this year, we have seen a $21 billion reduction in the deficit from last year, based mainly on the increased revenues the Government is getting without raising tax rates."
+   ]
+  },
+  {
+   "begin": "298.920",
+   "children": [],
+   "end": "306.400",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "Our tax cut, we think, was very instrumental in bringing about this economic recovery."
+   ]
+  },
+  {
+   "begin": "306.400",
+   "children": [],
+   "end": "313.440",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "We have reduced inflation to about a third of what it was."
+   ]
+  },
+  {
+   "begin": "313.440",
+   "children": [],
+   "end": "319.520",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "The interest rates have come down about 9 or 10 points and, we think, must come down further."
+   ]
+  },
+  {
+   "begin": "319.520",
+   "children": [],
+   "end": "336.880",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "In the last 21 months, more than 6 million people have gotten jobs -- there have been created new jobs for those people to where there are now 105 million civilians working, where there were only 99 million before; 107, if you count the military."
+   ]
+  },
+  {
+   "begin": "336.880",
+   "children": [],
+   "end": "357.720",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "So, we believe that as we continue to reduce the level of government spending -- the increase, rate of increase in government spending, which has come down from 17 to 6 percent, and, at the same time, as the growth in the economy increases the revenues the Government gets, without raising taxes, those two lines will meet."
+   ]
+  },
+  {
+   "begin": "357.720",
+   "children": [],
+   "end": "361.120",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "And when they meet, that is a balanced budget."
+   ]
+  },
+  {
+   "begin": "361.120",
+   "children": [],
+   "end": "365.920",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "Mr. President, the Congressional Budget Office has some bad news."
+   ]
+  },
+  {
+   "begin": "365.920",
+   "children": [],
+   "end": "369.560",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "The lines aren't about to meet, according to their projections."
+   ]
+  },
+  {
+   "begin": "369.560",
+   "children": [],
+   "end": "374.400",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "They project that the budget deficit will continue to climb."
+   ]
+  },
+  {
+   "begin": "374.400",
+   "children": [],
+   "end": "381.080",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "In the year 1989 they project a budget deficit of $273 billion."
+   ]
+  },
+  {
+   "begin": "381.080",
+   "children": [],
+   "end": "398.840",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "In view of that, and in view of the economic recovery we are now enjoying, would it make sense to propose a tax increase or take some other fiscal measures to reduce that deficit now, when times are relatively good?"
+   ]
+  },
+  {
+   "begin": "398.840",
+   "children": [],
+   "end": "402.040",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "The deficit is the result of excessive government spending."
+   ]
+  },
+  {
+   "begin": "402.040",
+   "children": [],
+   "end": "414.920",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "I do not, very frankly, take seriously the Congressional Budget Office projections, because they have been wrong on virtually all of them, including the fact that our recovery wasn't going to take place to begin with."
+   ]
+  },
+  {
+   "begin": "414.920",
+   "children": [],
+   "end": "415.920",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "But it has taken place."
+   ]
+  },
+  {
+   "begin": "415.920",
+   "children": [],
+   "end": "421.600",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "But, as I said, we have the rate of increase in government spending down to 6 percent."
+   ]
+  },
+  {
+   "begin": "421.600",
+   "children": [],
+   "end": "433.080",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "If the rate of increase in government spending can be held at 5 percent -- we're not far from there -- by 1989 that would have reduced the budget deficits down to a $30 or $40 billion level."
+   ]
+  },
+  {
+   "begin": "433.080",
+   "children": [],
+   "end": "448.680",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "At the same time, if we can have a 4-percent recovery continue through that same period of time, that will mean -- without an increase in tax rates -- that will mean $400 billion more in government revenues."
+   ]
+  },
+  {
+   "begin": "448.680",
+   "children": [],
+   "end": "452.000",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "And so, I think that the lines can meet."
+   ]
+  },
+  {
+   "begin": "452.000",
+   "children": [],
+   "end": "464.840",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Actually, in constant dollars, in the domestic side of the budget, there has been no spending increase in the 4 years that we have been here."
+   ]
+  },
+  {
+   "begin": "464.840",
+   "children": [],
+   "end": "479.440",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale, the Carter-Mondale administration didn't come close to balancing the budget in its 4 years in office either, despite the fact that President Carter did promise a balanced budget during his term."
+   ]
+  },
+  {
+   "begin": "479.440",
+   "children": [],
+   "end": "499.240",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "You have proposed a plan combining tax increases and budgetary cuts and other changes in the administration of the Government that would reduce the projected budget deficit by two-thirds, to approximately $87 billion in 1989."
+   ]
+  },
+  {
+   "begin": "499.240",
+   "children": [],
+   "end": "504.640",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "That still is an enormous deficit that will be running for these 4 years."
+   ]
+  },
+  {
+   "begin": "504.640",
+   "children": [],
+   "end": "520.920",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "What other steps do you think should be taken to reduce this deficit and position the country for economic growth?"
+   ]
+  },
+  {
+   "begin": "520.920",
+   "children": [],
+   "end": "528.360",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "One of the key tests of leadership is whether one sees clearly the nature of the problems confronted by our nation."
+   ]
+  },
+  {
+   "begin": "528.360",
+   "children": [],
+   "end": "537.720",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "And perhaps the dominant domestic issue of our times is what do we do about these enormous deficits."
+   ]
+  },
+  {
+   "begin": "537.720",
+   "children": [],
+   "end": "543.280",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "I respect the President; I respect the Presidency, and I think he knows that."
+   ]
+  },
+  {
+   "begin": "543.280",
+   "children": [],
+   "end": "553.080",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "But the fact of it is, every estimate by this administration about the size of the deficit has been off by billions and billions of dollars."
+   ]
+  },
+  {
+   "begin": "553.080",
+   "children": [],
+   "end": "558.080",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, over 4 years, they've missed the mark by nearly $600 billion."
+   ]
+  },
+  {
+   "begin": "558.080",
+   "children": [],
+   "end": "563.560",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "We were told we would have a balanced budget in 1983."
+   ]
+  },
+  {
+   "begin": "563.560",
+   "children": [],
+   "end": "567.920",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "It was $200 billion deficit instead."
+   ]
+  },
+  {
+   "begin": "567.920",
+   "children": [],
+   "end": "581.160",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "And now we have a major question facing the American people as to whether we'll deal with this deficit and get it down for the sake of a healthy recovery."
+   ]
+  },
+  {
+   "begin": "581.160",
+   "children": [],
+   "end": "602.200",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Virtually every economic analysis that I've heard of, including the distinguished Congressional Budget Office, which is respected by, I think, almost everyone, says that even with historically high levels of economic growth, we will suffer a $263 billion deficit."
+   ]
+  },
+  {
+   "begin": "602.200",
+   "children": [],
+   "end": "606.200",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "In other words, it doesn't converge as the President suggests."
+   ]
+  },
+  {
+   "begin": "606.200",
+   "children": [],
+   "end": "607.960",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "It gets larger even with growth."
+   ]
+  },
+  {
+   "begin": "607.960",
+   "children": [],
+   "end": "619.360",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "What that means is that we will continue to have devastating problems with foreign trade."
+   ]
+  },
+  {
+   "begin": "619.360",
+   "children": [],
+   "end": "621.720",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "This is the worst trade year in American history by far."
+   ]
+  },
+  {
+   "begin": "621.720",
+   "children": [],
+   "end": "627.320",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Our rural and farm friends will have continued devastation."
+   ]
+  },
+  {
+   "begin": "627.320",
+   "children": [],
+   "end": "641.880",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Real interest rates -- the real cost of interest -- will remain very, very high, and many economists are predicting that we're moving into a period of very slow growth because the economy is tapering off and may be a recession."
+   ]
+  },
+  {
+   "begin": "641.880",
+   "children": [],
+   "end": "649.440",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "I get it down to a level below 2 percent of gross national product with a policy that's fair."
+   ]
+  },
+  {
+   "begin": "649.440",
+   "children": [],
+   "end": "660.360",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "I've stood up and told the American people that I think it's a real problem, that it can destroy long-term economic growth, and I've told you what I think should be done."
+   ]
+  },
+  {
+   "begin": "660.360",
+   "children": [],
+   "end": "668.520",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "I think this is a test of leadership, and I think the American people know the difference."
+   ]
+  },
+  {
+   "begin": "668.520",
+   "children": [],
+   "end": "675.760",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale, one other way to attack the deficit is further reductions in spending."
+   ]
+  },
+  {
+   "begin": "675.760",
+   "children": [],
+   "end": "686.000",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "The President has submitted a number of proposals to Congress to do just that, and in many instances the House, controlled by the Democrats, has opposed them."
+   ]
+  },
+  {
+   "begin": "686.000",
+   "children": [],
+   "end": "695.560",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "Isn't it one aspect of leadership for prominent Democrats such as yourself to encourage responsible reductions in spending, and thereby reduce the deficit?"
+   ]
+  },
+  {
+   "begin": "695.560",
+   "children": [],
+   "end": "713.200",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Absolutely, and I proposed over a hundred billion dollars in cuts in Federal spending over 4 years, but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need."
+   ]
+  },
+  {
+   "begin": "713.200",
+   "children": [],
+   "end": "720.680",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "These people depend upon all of us for the little security that they have, and I'm not going to do it that way."
+   ]
+  },
+  {
+   "begin": "720.680",
+   "children": [],
+   "end": "724.040",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "The rate of defense spending increase can be slowed."
+   ]
+  },
+  {
+   "begin": "724.040",
+   "children": [],
+   "end": "729.480",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Certainly we can find a coffeepot that costs something less than $7,000."
+   ]
+  },
+  {
+   "begin": "729.480",
+   "children": [],
+   "end": "737.520",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "And there are other ways of squeezing this budget without constantly picking on our senior citizens and the most vulnerable in American life."
+   ]
+  },
+  {
+   "begin": "737.520",
+   "children": [],
+   "end": "743.800",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "And that's why the Congress, including the Republicans, have not gone along with the President's recommendations."
+   ]
+  },
+  {
+   "begin": "743.800",
+   "children": [],
+   "end": "751.720",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "I would like to ask the audience please to refrain from applauding either side; it just takes away from the time for your candidates."
+   ]
+  },
+  {
+   "begin": "751.720",
+   "children": [],
+   "end": "752.960",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "And now it is time for the rebuttal."
+   ]
+  },
+  {
+   "begin": "752.960",
+   "children": [],
+   "end": "754.520",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "Mr. President, 1 minute for rebuttal."
+   ]
+  },
+  {
+   "begin": "754.520",
+   "children": [],
+   "end": "755.800",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "755.800",
+   "children": [],
+   "end": "762.600",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "I don't believe that Mr. Mondale has a plan for balancing the budget; he has a plan for raising taxes."
+   ]
+  },
+  {
+   "begin": "762.600",
+   "children": [],
+   "end": "769.720",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "And, as a matter of fact, the biggest single tax increase in our nation's history took place 1977."
+   ]
+  },
+  {
+   "begin": "769.720",
+   "children": [],
+   "end": "778.440",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "And for the 5 years previous to our taking office, taxes doubled in the United States, and the budgets increased $318 billion."
+   ]
+  },
+  {
+   "begin": "778.440",
+   "children": [],
+   "end": "785.120",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "So, there is no ratio between taxing and balancing a budget."
+   ]
+  },
+  {
+   "begin": "785.120",
+   "children": [],
+   "end": "796.640",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Whether you borrow the money or whether you simply tax it away from the people, you're taking the same amount of money out of the private sector, unless and until you bring down government's share of what it is taking."
+   ]
+  },
+  {
+   "begin": "796.640",
+   "children": [],
+   "end": "805.640",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "With regard to Social Security, I hope there'll be more time than just this minute to mention that, but I will say this: A President should never say \"never.''"
+   ]
+  },
+  {
+   "begin": "805.640",
+   "children": [],
+   "end": "811.400",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "But I'm going to violate that rule and say \"never.''"
+   ]
+  },
+  {
+   "begin": "811.400",
+   "children": [],
+   "end": "817.200",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I will never stand for a reduction of the Social Security benefits to the people that are now getting them."
+   ]
+  },
+  {
+   "begin": "817.200",
+   "children": [],
+   "end": "821.480",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "Mr. Mondale?"
+   ]
+  },
+  {
+   "begin": "821.480",
+   "children": [],
+   "end": "827.760",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "Well, that's exactly the commitment that was made to the American people in 1980: He would never reduce benefits."
+   ]
+  },
+  {
+   "begin": "827.760",
+   "children": [],
+   "end": "849.880",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "And of course, what happened right after the election is they proposed to cut Social Security benefits by 25 percent -- reducing the adjustment for inflation, cutting out minimum benefits for the poorest on Social Security, removing educational benefits for dependents whose widows were trying -- with widows trying to get them through college."
+   ]
+  },
+  {
+   "begin": "849.880",
+   "children": [],
+   "end": "854.080",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Everybody remembers that; people know what happened."
+   ]
+  },
+  {
+   "begin": "854.080",
+   "children": [],
+   "end": "855.440",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "There's a difference."
+   ]
+  },
+  {
+   "begin": "855.440",
+   "children": [],
+   "end": "866.880",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "I have fought for Social Security and Medicare and for things to help people who are vulnerable all my life, and I will do it as President of the United States."
+   ]
+  },
+  {
+   "begin": "866.880",
+   "children": [],
+   "end": "868.240",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "Thank you very much."
+   ]
+  },
+  {
+   "begin": "868.240",
+   "children": [],
+   "end": "871.640",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "We'll now begin with segment number two with my colleague, Diane Sawyer."
+   ]
+  },
+  {
+   "begin": "871.640",
+   "children": [],
+   "end": "872.920",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Ms. Sawyer?"
+   ]
+  },
+  {
+   "begin": "872.920",
+   "children": [],
+   "end": "873.960",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "Leadership Qualities"
+   ]
+  },
+  {
+   "begin": "873.960",
+   "children": [],
+   "end": "887.160",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "Mr. President, Mr. Mondale, the public opinion polls do suggest that the American people are most concerned about the personal leadership characteristics of the two candidates, and each of you has questioned the other's leadership ability."
+   ]
+  },
+  {
+   "begin": "887.160",
+   "children": [],
+   "end": "899.000",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Mr. President, you have said that Mr. Mondale's leadership would take the country down the path of defeatism and despair, and Vice President Bush has called him whining and hoping for bad news."
+   ]
+  },
+  {
+   "begin": "899.000",
+   "children": [],
+   "end": "909.280",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "And, Mr. Mondale, you have said that President Reagan offers showmanship, not leadership, that he has not mastered what he must know to command his government."
+   ]
+  },
+  {
+   "begin": "909.280",
+   "children": [],
+   "end": "914.520",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "I'd like to ask each of you to substantiate your claims -- Mr. Mondale first."
+   ]
+  },
+  {
+   "begin": "914.520",
+   "children": [],
+   "end": "929.400",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "Give us specifics to support your claim that President Reagan is a showman, not a leader; has not mastered what he must know to be President after 4 years, and then, second, tell us what personal leadership characteristics you have that he does not."
+   ]
+  },
+  {
+   "begin": "929.400",
+   "children": [],
+   "end": "935.480",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "Well, first of all, I think the first answer this evening suggests exactly what I'm saying."
+   ]
+  },
+  {
+   "begin": "935.480",
+   "children": [],
+   "end": "948.320",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "There is no question that we face this massive deficit, and almost everybody agrees unless we get it down, the chances for long-term, healthy growth are nil."
+   ]
+  },
+  {
+   "begin": "948.320",
+   "children": [],
+   "end": "954.080",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "And it's also unfair to dump these tremendous bills on our children."
+   ]
+  },
+  {
+   "begin": "954.080",
+   "children": [],
+   "end": "960.200",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "The President says it will disappear overnight because of some reason."
+   ]
+  },
+  {
+   "begin": "960.200",
+   "children": [],
+   "end": "962.360",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "No one else believes that's the case."
+   ]
+  },
+  {
+   "begin": "962.360",
+   "children": [],
+   "end": "967.040",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "I do, and I'm standing up to the issue with an answer that's fair."
+   ]
+  },
+  {
+   "begin": "967.040",
+   "children": [],
+   "end": "969.760",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "I think that's what leadership is all about."
+   ]
+  },
+  {
+   "begin": "969.760",
+   "children": [],
+   "end": "978.680",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "There's a difference between being a quarterback and a cheerleader, and when there's a real problem, a President must confront it."
+   ]
+  },
+  {
+   "begin": "978.680",
+   "children": [],
+   "end": "985.520",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "What I was referring to, of course, in the comment that you referred to was the situation in Lebanon."
+   ]
+  },
+  {
+   "begin": "985.520",
+   "children": [],
+   "end": "996.640",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "Now, for three occasions, one after another, our Embassies were assaulted in the same way by a truck with demolitions."
+   ]
+  },
+  {
+   "begin": "996.640",
+   "children": [],
+   "end": "1009.640",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "The first time -- and I did not criticize the President, because these things can happen -- once, and sometimes twice -- the second time the barracks in Lebanon were assaulted, as we all remember."
+   ]
+  },
+  {
+   "begin": "1009.640",
+   "children": [],
+   "end": "1024.040",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "There was two or three commission reports, recommendations by the CIA, the State Department, and the others, and the third time there was even a warning from the terrorists themselves."
+   ]
+  },
+  {
+   "begin": "1024.040",
+   "children": [],
+   "end": "1033.280",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "Now, I believe that a President must command that White House and those who work for him."
+   ]
+  },
+  {
+   "begin": "1033.280",
+   "children": [],
+   "end": "1041.360",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "It's the toughest job on Earth, and you must master the facts and insist that things that must be done are done."
+   ]
+  },
+  {
+   "begin": "1041.360",
+   "children": [],
+   "end": "1052.640",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "I believe that the way in which I will approach the Presidency is what's needed, because all my life that has been the way in which I have sought to lead."
+   ]
+  },
+  {
+   "begin": "1052.640",
+   "children": [],
+   "end": "1056.640",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "And that's why in this campaign I'm telling you exactly what I want to do."
+   ]
+  },
+  {
+   "begin": "1056.640",
+   "children": [],
+   "end": "1058.760",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "I am answering your questions."
+   ]
+  },
+  {
+   "begin": "1058.760",
+   "children": [],
+   "end": "1065.600",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "I am trying to provide leadership now, before the election, so that the American people can participate in that decision."
+   ]
+  },
+  {
+   "begin": "1065.600",
+   "children": [],
+   "end": "1077.120",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "You have said, Mr. Mondale, that the polls have given you lower ratings on leadership than President Reagan because your message has failed to get through."
+   ]
+  },
+  {
+   "begin": "1077.120",
+   "children": [],
+   "end": "1083.200",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Given that you have been in public office for so many years, what accounts for the failure of your message to get through?"
+   ]
+  },
+  {
+   "begin": "1083.200",
+   "children": [],
+   "end": "1085.160",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "Well, I think we're getting better all the time."
+   ]
+  },
+  {
+   "begin": "1085.160",
+   "children": [],
+   "end": "1104.480",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "And I think tonight, as we contrast for the first time our differing approach to government, to values, to the leadership in this country, I think as this debate goes forward, the American people will have for the first time a chance to weigh the two of us against each other."
+   ]
+  },
+  {
+   "begin": "1104.480",
+   "children": [],
+   "end": "1119.080",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "And I think, as a part of that process, what I am trying to say will come across, and that is that we must lead, we must command, we must direct, and a President must see it like it is."
+   ]
+  },
+  {
+   "begin": "1119.080",
+   "children": [],
+   "end": "1132.920",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "He must stand for the values of decency that the American people stand for, and he must use the power of the White House to try to control these nuclear weapons and lead this world toward a safer world."
+   ]
+  },
+  {
+   "begin": "1132.920",
+   "children": [],
+   "end": "1138.800",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "Mr. President, the issue is leadership in personal terms."
+   ]
+  },
+  {
+   "begin": "1138.800",
+   "children": [],
+   "end": "1146.200",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "First, do you think, as Vice President Bush said, that Mr. Mondale's campaign is one of whining and hoping for bad news?"
+   ]
+  },
+  {
+   "begin": "1146.200",
+   "children": [],
+   "end": "1150.760",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "And second, what leadership characteristics do you possess that Mr. Mondale does not?"
+   ]
+  },
+  {
+   "begin": "1150.760",
+   "children": [],
+   "end": "1158.600",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "Well, whether he does or not, let me suggest my own idea about the leadership factor, since you've asked it."
+   ]
+  },
+  {
+   "begin": "1158.600",
+   "children": [],
+   "end": "1181.800",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "And, incidentally, I might say that with regard to the 25-percent cut in Social Security -- before I get to the answer to your question -- the only 25-percent cut that I know of was accompanying that huge 1977 tax increase, was a cut of 25 percent in the benefits for every American who was born after 1916."
+   ]
+  },
+  {
+   "begin": "1181.800",
+   "children": [],
+   "end": "1184.840",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "Now, leadership."
+   ]
+  },
+  {
+   "begin": "1184.840",
+   "children": [],
+   "end": "1189.360",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "First of all, I think you must have some principles you believe in."
+   ]
+  },
+  {
+   "begin": "1189.360",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "In mine, I happen to believe in the people and believe that the people are supposed to be dominant in our society -- that they, not government, are to"
+   ]
+  }
+ ]
+}

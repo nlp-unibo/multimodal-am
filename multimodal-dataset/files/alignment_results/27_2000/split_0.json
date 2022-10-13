@@ -1,0 +1,1924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.320",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Carolina."
+   ]
+  },
+  {
+   "begin": "1.320",
+   "children": [],
+   "end": "4.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "I'm Jim Lehrer of the News Hour on PBS."
+   ]
+  },
+  {
+   "begin": "4.280",
+   "children": [],
+   "end": "9.840",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Welcome to this second election 2000 debate between the Republican candidate for president, Gov."
+   ]
+  },
+  {
+   "begin": "9.840",
+   "children": [],
+   "end": "14.880",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "George W. Bush of Texas, and the Democratic candidate, Vice President Al Gore."
+   ]
+  },
+  {
+   "begin": "14.880",
+   "children": [],
+   "end": "18.360",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "These debates are sponsored by the Commission on Presidential Debates."
+   ]
+  },
+  {
+   "begin": "18.360",
+   "children": [],
+   "end": "23.760",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "The format and the rules are those negotiated by representatives of the two campaigns."
+   ]
+  },
+  {
+   "begin": "23.760",
+   "children": [],
+   "end": "27.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Only the subjects tonight and the questions are mine."
+   ]
+  },
+  {
+   "begin": "27.040",
+   "children": [],
+   "end": "29.800",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "The format tonight is that of a conversation."
+   ]
+  },
+  {
+   "begin": "29.800",
+   "children": [],
+   "end": "37.120",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "The only prevailing rule is that no single response can ever, ever exceed two minutes."
+   ]
+  },
+  {
+   "begin": "37.120",
+   "children": [],
+   "end": "43.400",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "The prevailing rule for the audience here in the hall is as always, absolute quiet, please."
+   ]
+  },
+  {
+   "begin": "43.400",
+   "children": [],
+   "end": "47.440",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Good evening, Governor Bush, Vice President Gore."
+   ]
+  },
+  {
+   "begin": "47.440",
+   "children": [],
+   "end": "54.280",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "The end of our 90 minutes last week in Boston, the total time each of you took was virtually the same."
+   ]
+  },
+  {
+   "begin": "54.280",
+   "children": [],
+   "end": "57.560",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "Let's see if we can do the same tonight, or come close."
+   ]
+  },
+  {
+   "begin": "57.560",
+   "children": [],
+   "end": "61.920",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "Governor Bush, the first question goes to you."
+   ]
+  },
+  {
+   "begin": "61.920",
+   "children": [],
+   "end": "75.000",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "One of you is about to be elected the leader of the single-most powerful nation in the world, economically, financially, militarily, diplomatically, you name it."
+   ]
+  },
+  {
+   "begin": "75.000",
+   "children": [],
+   "end": "81.520",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Have you formed any guiding principles for exercising this enormous power?"
+   ]
+  },
+  {
+   "begin": "81.520",
+   "children": [],
+   "end": "82.880",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "I have, I have."
+   ]
+  },
+  {
+   "begin": "82.880",
+   "children": [],
+   "end": "87.200",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "First question is what's in the best interests of the United States?"
+   ]
+  },
+  {
+   "begin": "87.200",
+   "children": [],
+   "end": "90.560",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "What's in the best interests of our people?"
+   ]
+  },
+  {
+   "begin": "90.560",
+   "children": [],
+   "end": "95.160",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "When it comes to foreign policy that will be my guiding question."
+   ]
+  },
+  {
+   "begin": "95.160",
+   "children": [],
+   "end": "97.560",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Is it in our nation's interests?"
+   ]
+  },
+  {
+   "begin": "97.560",
+   "children": [],
+   "end": "100.720",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Peace in the Middle East is in our nation's interests."
+   ]
+  },
+  {
+   "begin": "100.720",
+   "children": [],
+   "end": "108.440",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Having a hemisphere that is free for trade and peaceful is in our nation's interests."
+   ]
+  },
+  {
+   "begin": "108.440",
+   "children": [],
+   "end": "111.560",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Strong relations in Europe is in our nation's interest."
+   ]
+  },
+  {
+   "begin": "111.560",
+   "children": [],
+   "end": "113.600",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "I've thought a lot about what it means to be the president."
+   ]
+  },
+  {
+   "begin": "113.600",
+   "children": [],
+   "end": "139.400",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "I also understand that an administration is not one person, but an administration is dedicated citizens who are called by the president to serve the country, to serve a cause greater than self, and so I've thought about an administration of people who represent all America, but people who understand my compassionate and conservative philosophy."
+   ]
+  },
+  {
+   "begin": "139.400",
+   "children": [],
+   "end": "148.240",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "I haven't started naming names except for one person, and that's Mr. Richard Cheney who I thought did a great job the other night."
+   ]
+  },
+  {
+   "begin": "148.240",
+   "children": [],
+   "end": "154.600",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "He's a vice presidential nominee who represents -- I think people got to see why I picked him."
+   ]
+  },
+  {
+   "begin": "154.600",
+   "children": [],
+   "end": "158.760",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "He's man of solid judgment and he's going to be a person to stand by my side."
+   ]
+  },
+  {
+   "begin": "158.760",
+   "children": [],
+   "end": "163.600",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "One of the things I've done in Texas is I've been able to put together a good team of people."
+   ]
+  },
+  {
+   "begin": "163.600",
+   "children": [],
+   "end": "165.120",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "I've been able to set clear goals."
+   ]
+  },
+  {
+   "begin": "165.120",
+   "children": [],
+   "end": "180.280",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "The goals ought to be an education system that leaves no child behind, Medicare for our seniors, a Social Security system that's safe and secure, foreign policy that's in our nation's interest, and a strong military, and then bring people together to achieve those goals."
+   ]
+  },
+  {
+   "begin": "180.280",
+   "children": [],
+   "end": "182.280",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "That's what a Chief Executive Officer does."
+   ]
+  },
+  {
+   "begin": "182.280",
+   "children": [],
+   "end": "187.560",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "So I've thought long and hard about the honor of being the President of the United States."
+   ]
+  },
+  {
+   "begin": "187.560",
+   "children": [],
+   "end": "189.000",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Vice President Gore?"
+   ]
+  },
+  {
+   "begin": "189.000",
+   "children": [],
+   "end": "189.400",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Yes, Jim."
+   ]
+  },
+  {
+   "begin": "189.400",
+   "children": [],
+   "end": "200.000",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "I've thought a lot about that particular question, and I see our greatest national strength coming from what we stand for in the world."
+   ]
+  },
+  {
+   "begin": "200.000",
+   "children": [],
+   "end": "204.360",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "I see it as a question of values."
+   ]
+  },
+  {
+   "begin": "204.360",
+   "children": [],
+   "end": "222.560",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "It is a great tribute to our founders that 224 years later this nation is now looked to by the peoples on every other continent and the peoples from every part of this earth as a kind of model for what their future could be."
+   ]
+  },
+  {
+   "begin": "222.560",
+   "children": [],
+   "end": "228.320",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "And I don't think that's just the kind of exaggeration that we take pride in as Americans."
+   ]
+  },
+  {
+   "begin": "228.320",
+   "children": [],
+   "end": "232.760",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "It's really true, even the ones that sometimes shake their fists at us."
+   ]
+  },
+  {
+   "begin": "232.760",
+   "children": [],
+   "end": "248.000",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "As soon as they have a change that allows the people to speak freely, they're wanting to develop some kind of blueprint that will help them be like us more, freedom, free markets, political freedom."
+   ]
+  },
+  {
+   "begin": "248.000",
+   "children": [],
+   "end": "255.880",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "So I think first and foremost our power ought to be wielded to in ways that form a more perfect union."
+   ]
+  },
+  {
+   "begin": "255.880",
+   "children": [],
+   "end": "261.360",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "The power of example is America's greatest power in the world."
+   ]
+  },
+  {
+   "begin": "261.360",
+   "children": [],
+   "end": "264.560",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "And that means, for example, standing up for human rights."
+   ]
+  },
+  {
+   "begin": "264.560",
+   "children": [],
+   "end": "286.120",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "It means addressing the problems of injustice and inequity, along the lines of race and ethnicity here at home, because in all these other places around the world where they're having these terrible problems, when they feel hope, it is often because they see in us a reflection of their potential."
+   ]
+  },
+  {
+   "begin": "286.120",
+   "children": [],
+   "end": "288.680",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "So we've got to enforce our civil rights laws."
+   ]
+  },
+  {
+   "begin": "288.680",
+   "children": [],
+   "end": "292.000",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "We've got to deal with things like racial profiling."
+   ]
+  },
+  {
+   "begin": "292.000",
+   "children": [],
+   "end": "293.760",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "And we have to keep our military strong."
+   ]
+  },
+  {
+   "begin": "293.760",
+   "children": [],
+   "end": "301.480",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "We have the strongest military, and I'll do whatever is necessary, if I'm president, to make sure that it stays that way."
+   ]
+  },
+  {
+   "begin": "301.480",
+   "children": [],
+   "end": "305.960",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "But our real power comes, I think, from our values."
+   ]
+  },
+  {
+   "begin": "305.960",
+   "children": [],
+   "end": "316.640",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Should the people of the world look at the United States, Governor, and say, should they fear us, should they welcome our involvement, should they see us as a friend, everybody in the world?"
+   ]
+  },
+  {
+   "begin": "316.640",
+   "children": [],
+   "end": "320.800",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "How would you project us around the world, as president?"
+   ]
+  },
+  {
+   "begin": "320.800",
+   "children": [],
+   "end": "331.120",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "Well, I think they ought to look at us as a country that understands freedom where it doesn't matter who you are or how you're raised or where you're from, that you can succeed."
+   ]
+  },
+  {
+   "begin": "331.120",
+   "children": [],
+   "end": "334.040",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "I don't think they'll look at us with envy."
+   ]
+  },
+  {
+   "begin": "334.040",
+   "children": [],
+   "end": "337.600",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "It really depends upon how our nation conducts itself in foreign policy."
+   ]
+  },
+  {
+   "begin": "337.600",
+   "children": [],
+   "end": "340.600",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "If we're an arrogant nation, they'll resent us."
+   ]
+  },
+  {
+   "begin": "340.600",
+   "children": [],
+   "end": "344.280",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "If we're a humble nation, but strong, they'll welcome us."
+   ]
+  },
+  {
+   "begin": "344.280",
+   "children": [],
+   "end": "353.320",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "And it's -- our nation stands alone right now in the world in terms of power, and that's why we have to be humble."
+   ]
+  },
+  {
+   "begin": "353.320",
+   "children": [],
+   "end": "357.320",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And yet project strength in a way that promotes freedom."
+   ]
+  },
+  {
+   "begin": "357.320",
+   "children": [],
+   "end": "361.440",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "So I don't think they ought to look at us in any way other than what we are."
+   ]
+  },
+  {
+   "begin": "361.440",
+   "children": [],
+   "end": "368.360",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "We're a freedom-loving nation and if we're an arrogant nation they'll view us that way, but if we're a humble nation they'll respect us."
+   ]
+  },
+  {
+   "begin": "368.360",
+   "children": [],
+   "end": "369.240",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "A humble nation."
+   ]
+  },
+  {
+   "begin": "369.240",
+   "children": [],
+   "end": "370.280",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "I agree with that."
+   ]
+  },
+  {
+   "begin": "370.280",
+   "children": [],
+   "end": "372.320",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "I agree with that."
+   ]
+  },
+  {
+   "begin": "372.320",
+   "children": [],
+   "end": "388.680",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "I think that one of the problems that we have faced in the world is that we are so much more powerful than any single nation has been in relationship to the rest of the world than at any time in history, that I know about, anyway."
+   ]
+  },
+  {
+   "begin": "388.680",
+   "children": [],
+   "end": "393.040",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "That there is some resentment of U.S. power."
+   ]
+  },
+  {
+   "begin": "393.040",
+   "children": [],
+   "end": "399.680",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "So I think that the idea of humility is an important one."
+   ]
+  },
+  {
+   "begin": "399.680",
+   "children": [],
+   "end": "404.680",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "But I think that we also have to have a sense of mission in the world."
+   ]
+  },
+  {
+   "begin": "404.680",
+   "children": [],
+   "end": "410.280",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "We have to protect our capacity to push forward what America's all about."
+   ]
+  },
+  {
+   "begin": "410.280",
+   "children": [],
+   "end": "416.840",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "That means not only military strength and our values, it also means keeping our economy strong."
+   ]
+  },
+  {
+   "begin": "416.840",
+   "children": [],
+   "end": "434.360",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "You know, in the last, or two decades ago, it was routine for leaders of foreign countries to come over here and say you guys have got to do something about these horrendous deficits because it's causing tremendous problems for the rest of the world, and we were lectured to all the time."
+   ]
+  },
+  {
+   "begin": "434.360",
+   "children": [],
+   "end": "438.600",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "The fact that we have the strongest economy in history today is not good enough."
+   ]
+  },
+  {
+   "begin": "438.600",
+   "children": [],
+   "end": "439.560",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "We need to do more."
+   ]
+  },
+  {
+   "begin": "439.560",
+   "children": [],
+   "end": "447.360",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "But the fact that it is so strong enables us to project the power for good that America can represent."
+   ]
+  },
+  {
+   "begin": "447.360",
+   "children": [],
+   "end": "456.240",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Does that give us -- does our wealth, our good economy, our power, bring with it special obligations to the rest of the world?"
+   ]
+  },
+  {
+   "begin": "456.240",
+   "children": [],
+   "end": "458.080",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "Yes, it does."
+   ]
+  },
+  {
+   "begin": "458.080",
+   "children": [],
+   "end": "461.600",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Take, for example, Third World debt."
+   ]
+  },
+  {
+   "begin": "461.600",
+   "children": [],
+   "end": "465.840",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "I think we ought to be forgiving Third World debt under certain conditions."
+   ]
+  },
+  {
+   "begin": "465.840",
+   "children": [],
+   "end": "488.640",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "I think, for example, if we're convinced that a Third World country that's got a lot of debt would reform itself, that the money wouldn't go into the hands of a few but would go to help people, I think it makes sense for us to use our wealth in that way, or to trade debt for valuable rain forest lands, makes that much sense, yes."
+   ]
+  },
+  {
+   "begin": "488.640",
+   "children": [],
+   "end": "492.080",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "We do have an obligation, but we can't be all things to all people."
+   ]
+  },
+  {
+   "begin": "492.080",
+   "children": [],
+   "end": "497.880",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "We can help build coalitions but we can't put our troops all around the world."
+   ]
+  },
+  {
+   "begin": "497.880",
+   "children": [],
+   "end": "500.280",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "We can lend money but we have to do it wisely."
+   ]
+  },
+  {
+   "begin": "500.280",
+   "children": [],
+   "end": "503.960",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "We shouldn't be lending money to corrupt officials."
+   ]
+  },
+  {
+   "begin": "503.960",
+   "children": [],
+   "end": "506.640",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "So we got to be guarded in our generosity."
+   ]
+  },
+  {
+   "begin": "506.640",
+   "children": [],
+   "end": "509.240",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "Let's go through some of the specifics now."
+   ]
+  },
+  {
+   "begin": "509.240",
+   "children": [],
+   "end": "509.920",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "New question."
+   ]
+  },
+  {
+   "begin": "509.920",
+   "children": [],
+   "end": "514.920",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Vice President Gore, the governor mentioned the Middle East."
+   ]
+  },
+  {
+   "begin": "514.920",
+   "children": [],
+   "end": "520.160",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "Here we're talking at this stage in the game about diplomatic power that we have."
+   ]
+  },
+  {
+   "begin": "520.160",
+   "children": [],
+   "end": "525.520",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "What do you think the United States should do right now to resolve that conflict over there?"
+   ]
+  },
+  {
+   "begin": "525.520",
+   "children": [],
+   "end": "533.760",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "The first priority has to be on ending the violence, dampening down the tensions that have arisen there."
+   ]
+  },
+  {
+   "begin": "533.760",
+   "children": [],
+   "end": "541.320",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "We need to call upon Syria to release the three Israeli soldiers who have been captured."
+   ]
+  },
+  {
+   "begin": "541.320",
+   "children": [],
+   "end": "553.560",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "We need to insist that Arafat send out instructions to halt some of the provocative acts of violence that have been going on."
+   ]
+  },
+  {
+   "begin": "553.560",
+   "children": [],
+   "end": "577.040",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "I think that we also have to keep a weather eye toward Saddam Hussein because he is taking advantage of this situation to once again make threats, and he needs to understand that he's not only dealing with Israel, he is dealing -- he's dealing with us if he is making the kind of threats that he's talking about there."
+   ]
+  },
+  {
+   "begin": "577.040",
+   "children": [],
+   "end": "584.880",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "The use of diplomacy in this situation has already, well, it goes hour-by-hour and day-by-day now."
+   ]
+  },
+  {
+   "begin": "584.880",
+   "children": [],
+   "end": "587.240",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "It's a very tense situation there."
+   ]
+  },
+  {
+   "begin": "587.240",
+   "children": [],
+   "end": "592.960",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "But in the last 24 hours there has been some subsiding of the violence there."
+   ]
+  },
+  {
+   "begin": "592.960",
+   "children": [],
+   "end": "599.920",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "It's too much to hope that this is going to continue, but I do hope that it will continue."
+   ]
+  },
+  {
+   "begin": "599.920",
+   "children": [],
+   "end": "608.760",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "Our country has been very active with regular conversations with the leaders there."
+   ]
+  },
+  {
+   "begin": "608.760",
+   "children": [],
+   "end": "612.920",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "And we just have to take it day-to-day right now."
+   ]
+  },
+  {
+   "begin": "612.920",
+   "children": [],
+   "end": "625.840",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "But one thing I would say where diplomacy is concerned, Israel should feel absolutely secure about one thing."
+   ]
+  },
+  {
+   "begin": "625.840",
+   "children": [],
+   "end": "634.320",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "Our bonds with Israel are larger than agreements or disagreements on some details of diplomatic initiatives."
+   ]
+  },
+  {
+   "begin": "634.320",
+   "children": [],
+   "end": "637.520",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "They are historic, they are strong, and they are enduring."
+   ]
+  },
+  {
+   "begin": "637.520",
+   "children": [],
+   "end": "642.360",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "And our ability to serve as an honest broker is something that we need to shepherd."
+   ]
+  },
+  {
+   "begin": "642.360",
+   "children": [],
+   "end": "642.960",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "Governor?"
+   ]
+  },
+  {
+   "begin": "642.960",
+   "children": [],
+   "end": "654.480",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "Well, I think during the campaign, particularly now during this difficult period, we ought to be speaking with one voice, and I appreciate the way the administration has worked hard to calm the tensions."
+   ]
+  },
+  {
+   "begin": "654.480",
+   "children": [],
+   "end": "662.600",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "Like the vice president, I call on Chairman Arafat to have his people pull back to make the peace."
+   ]
+  },
+  {
+   "begin": "662.600",
+   "children": [],
+   "end": "666.000",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "I think credibility is going to be very important in the future in the Middle East."
+   ]
+  },
+  {
+   "begin": "666.000",
+   "children": [],
+   "end": "670.600",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "I want everybody to know should I be the president Israel's going to be our friend."
+   ]
+  },
+  {
+   "begin": "670.600",
+   "children": [],
+   "end": "672.080",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "I'm going to stand by Israel."
+   ]
+  },
+  {
+   "begin": "672.080",
+   "children": [],
+   "end": "682.560",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Secondly, that I think it's important to reach out to moderate Arab nations, like Jordan and Egypt, Saudi Arabia and Kuwait."
+   ]
+  },
+  {
+   "begin": "682.560",
+   "children": [],
+   "end": "689.320",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "It's important to be friends with people when you don't need each other so that when you do there's a strong bond of friendship."
+   ]
+  },
+  {
+   "begin": "689.320",
+   "children": [],
+   "end": "695.800",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "And that's going to be particularly important in dealing not only with situations such as now occurring in Israel, but with Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "695.800",
+   "children": [],
+   "end": "701.840",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "The coalition against Saddam has fallen apart or it's unraveling, let's put it that way."
+   ]
+  },
+  {
+   "begin": "701.840",
+   "children": [],
+   "end": "704.080",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "The sanctions are being violated."
+   ]
+  },
+  {
+   "begin": "704.080",
+   "children": [],
+   "end": "707.360",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "We don't know whether he's developing weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "707.360",
+   "children": [],
+   "end": "710.280",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "He better not be or there's going to be a consequence should I be the president."
+   ]
+  },
+  {
+   "begin": "710.280",
+   "children": [],
+   "end": "717.280",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "But it's important to have credibility and credibility is formed by being strong with your friends and resolute in your determination."
+   ]
+  },
+  {
+   "begin": "717.280",
+   "children": [],
+   "end": "733.520",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "One of the reasons why I think it's important for this nation to develop an anti-ballistic missile system that we can share with our allies in the Middle East if need be to keep the peace to be able to say to the Saddam Hussein\u00e2\u20ac\u2122s of the world or the Iranians, don't dare threaten our friends."
+   ]
+  },
+  {
+   "begin": "733.520",
+   "children": [],
+   "end": "742.040",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "It's also important to keep strong ties in the Middle East, credible ties, because of the energy crisis we're now in."
+   ]
+  },
+  {
+   "begin": "742.040",
+   "children": [],
+   "end": "748.400",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "After all, a lot of the energy is produced from the Middle East, and so I appreciate what the administration is doing."
+   ]
+  },
+  {
+   "begin": "748.400",
+   "children": [],
+   "end": "753.800",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "I hope to get a sense of should I be fortunate to be the president how my administration will react to the Middle East."
+   ]
+  },
+  {
+   "begin": "753.800",
+   "children": [],
+   "end": "761.800",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "So you don't believe, Vice President Gore, that we should take sides and resolve this right now?"
+   ]
+  },
+  {
+   "begin": "761.800",
+   "children": [],
+   "end": "769.240",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "A lot of people pushing hey, the United States should declare itself and not be so neutral in this particular situation."
+   ]
+  },
+  {
+   "begin": "769.240",
+   "children": [],
+   "end": "774.360",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Well, we stand with Israel, but we have maintained the ability to serve as an honest broker."
+   ]
+  },
+  {
+   "begin": "774.360",
+   "children": [],
+   "end": "789.080",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "And one of the reasons that's important is that Israel cannot have direct dialogue with some of the people on the other side of conflicts, especially during times of tension, unless that dialogue comes through us."
+   ]
+  },
+  {
+   "begin": "789.080",
+   "children": [],
+   "end": "802.160",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "And if we throw away that ability to serve as an honest broker, then we have thrown -- we will have thrown away a strategic asset that's important not only to us but also to Israel."
+   ]
+  },
+  {
+   "begin": "802.160",
+   "children": [],
+   "end": "803.040",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "You agree with that, Governor?"
+   ]
+  },
+  {
+   "begin": "803.040",
+   "children": [],
+   "end": "803.440",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "I do."
+   ]
+  },
+  {
+   "begin": "803.440",
+   "children": [],
+   "end": "805.040",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "I do think this, though."
+   ]
+  },
+  {
+   "begin": "805.040",
+   "children": [],
+   "end": "811.000",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "When it comes to timetables it can't be the United States timetable as to how discussions take place."
+   ]
+  },
+  {
+   "begin": "811.000",
+   "children": [],
+   "end": "816.280",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "It's got to be a timetable that all parties can agree to, like the Palestinians and Israelis."
+   ]
+  },
+  {
+   "begin": "816.280",
+   "children": [],
+   "end": "821.560",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Secondly, any lasting peace is going to have to be a peace that's good for both sides."
+   ]
+  },
+  {
+   "begin": "821.560",
+   "children": [],
+   "end": "825.000",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "And therefore, the term honest broker makes sense."
+   ]
+  },
+  {
+   "begin": "825.000",
+   "children": [],
+   "end": "830.800",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "This current administration's worked hard to keep the parties at the table."
+   ]
+  },
+  {
+   "begin": "830.800",
+   "children": [],
+   "end": "833.000",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "I will try to do the same thing."
+   ]
+  },
+  {
+   "begin": "833.000",
+   "children": [],
+   "end": "838.840",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "But it won't be on my timetable, it will be on the timetable that people are comfortable with in the Middle East."
+   ]
+  },
+  {
+   "begin": "838.840",
+   "children": [],
+   "end": "851.760",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "People watching here tonight are very interested in Middle East policy, and they are so interested they want to base their vote on differences between the two of you as president how you would handle Middle East policy."
+   ]
+  },
+  {
+   "begin": "851.760",
+   "children": [],
+   "end": "852.640",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "Is there any difference?"
+   ]
+  },
+  {
+   "begin": "852.640",
+   "children": [],
+   "end": "859.160",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "I haven't heard a big difference in the last few exchanges."
+   ]
+  },
+  {
+   "begin": "859.160",
+   "children": [],
+   "end": "860.680",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "That's hard to tell."
+   ]
+  },
+  {
+   "begin": "860.680",
+   "children": [],
+   "end": "868.280",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "I think that, you know, I would hope to be able to convince people I could handle the Iraqi situation better."
+   ]
+  },
+  {
+   "begin": "868.280",
+   "children": [],
+   "end": "871.280",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Saddam Hussein, you mean, get him out of there?"
+   ]
+  },
+  {
+   "begin": "871.280",
+   "children": [],
+   "end": "876.000",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "I would like to, of course, and I presume this administration would as well."
+   ]
+  },
+  {
+   "begin": "876.000",
+   "children": [],
+   "end": "883.880",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "We don't know -- there are no inspectors now in Iraq, the coalition that was in place isn't as strong as it used to be."
+   ]
+  },
+  {
+   "begin": "883.880",
+   "children": [],
+   "end": "886.680",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "He is a danger."
+   ]
+  },
+  {
+   "begin": "886.680",
+   "children": [],
+   "end": "889.600",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "We don't want him fishing in troubled waters in the Middle East."
+   ]
+  },
+  {
+   "begin": "889.600",
+   "children": [],
+   "end": "894.800",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "And it's going to be hard, it's going to be important to rebuild that coalition to keep the pressure on him."
+   ]
+  },
+  {
+   "begin": "894.800",
+   "children": [],
+   "end": "897.320",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "You feel that is a failure of the Clinton administration?"
+   ]
+  },
+  {
+   "begin": "897.320",
+   "children": [],
+   "end": "898.000",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "I do."
+   ]
+  },
+  {
+   "begin": "898.000",
+   "children": [],
+   "end": "928.000",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "Well, when I got to be a part of the current administration, it was right after -- I was one of the few members of my political party to support former President Bush in the Persian Gulf War resolution, and at the end of that war, for whatever reason, it was not finished in a way that removed Saddam Hussein from power."
+   ]
+  },
+  {
+   "begin": "928.000",
+   "children": [],
+   "end": "931.160",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "I know there are all kinds of circumstances and explanations."
+   ]
+  },
+  {
+   "begin": "931.160",
+   "children": [],
+   "end": "939.240",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "But the fact is that that's the situation that was left when I got there."
+   ]
+  },
+  {
+   "begin": "939.240",
+   "children": [],
+   "end": "942.280",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "And we have maintained the sanctions."
+   ]
+  },
+  {
+   "begin": "942.280",
+   "children": [],
+   "end": "943.960",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "Now I want to go further."
+   ]
+  },
+  {
+   "begin": "943.960",
+   "children": [],
+   "end": "993.800",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "I want to give robust support to the groups that are trying to overthrow Saddam Hussein, and I know there are allegations that they're too weak to do it, but that's what they said about the forces that were opposing Milosevic in Serbia, and you know, the policy of enforcing sanctions against Serbia has just resulted in a spectacular victory for democracy just in the past week, and it seems to me that having taken so long to see the sanctions work there, building upon the policy of containment that was successful over a much longer period of time against the former Soviet Union in the communist block, seems a little early to declare that we should give up on the sanctions."
+   ]
+  },
+  {
+   "begin": "993.800",
+   "children": [],
+   "end": "1013.400",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "I know the governor's not necessarily saying that but, you know, all of these flights that have come in, all of them have been in accordance with the sanctions regime, I'm told, except for three where they notified, and they're trying to break out of the box, there's no question about it."
+   ]
+  },
+  {
+   "begin": "1013.400",
+   "children": [],
+   "end": "1017.240",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "I don't think they should be allowed to."
+   ]
+  },
+  {
+   "begin": "1017.240",
+   "children": [],
+   "end": "1022.400",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "Did he state your position correctly, you're not calling for eliminating the sanctions, are you?"
+   ]
+  },
+  {
+   "begin": "1022.400",
+   "children": [],
+   "end": "1025.520",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "No, of course not, absolutely not, I want them to be tougher."
+   ]
+  },
+  {
+   "begin": "1025.520",
+   "children": [],
+   "end": "1032.320",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Let's go on to Milosevic and Yugoslavia, and it falls under the area of our military power."
+   ]
+  },
+  {
+   "begin": "1032.320",
+   "children": [],
+   "end": "1034.280",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Governor, new question."
+   ]
+  },
+  {
+   "begin": "1034.280",
+   "children": [],
+   "end": "1039.080",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Should the fall of Milosevic be seen as a triumph for U.S. military intervention?"
+   ]
+  },
+  {
+   "begin": "1039.080",
+   "children": [],
+   "end": "1041.520",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "I think it's a triumph."
+   ]
+  },
+  {
+   "begin": "1041.520",
+   "children": [],
+   "end": "1048.960",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "I thought the president made the right decision in joining NATO and bombing Serbia."
+   ]
+  },
+  {
+   "begin": "1048.960",
+   "children": [],
+   "end": "1051.200",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "I supported them when they did so."
+   ]
+  },
+  {
+   "begin": "1051.200",
+   "children": [],
+   "end": "1070.720",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "I called upon the Congress not to hamstring the administration, and in terms of forcing troop withdrawals on a timetable that wasn't necessarily in our best interest or fit our nation's strategy, and so I think it's good public policy, I think it worked, and I'm pleased I took -- made the decision I made."
+   ]
+  },
+  {
+   "begin": "1070.720",
+   "children": [],
+   "end": "1072.680",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "I'm pleased the president made the decision he made."
+   ]
+  },
+  {
+   "begin": "1072.680",
+   "children": [],
+   "end": "1081.160",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "Because freedom took hold in that part of the world, but there's a lot of work left to be done, however."
+   ]
+  },
+  {
+   "begin": "1081.160",
+   "children": [],
+   "end": "1088.960",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "But you think it would not have happened -- do you think that Milosevic would not have fallen if the United States and NATO had not intervened militarily?"
+   ]
+  },
+  {
+   "begin": "1088.960",
+   "children": [],
+   "end": "1091.320",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "Is this a legitimate use of our military power?"
+   ]
+  },
+  {
+   "begin": "1091.320",
+   "children": [],
+   "end": "1092.400",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "Yes, I think it is."
+   ]
+  },
+  {
+   "begin": "1092.400",
+   "children": [],
+   "end": "1092.920",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Absolutely."
+   ]
+  },
+  {
+   "begin": "1092.920",
+   "children": [],
+   "end": "1095.000",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "I don't think he would have fallen had we not used the force."
+   ]
+  },
+  {
+   "begin": "1095.000",
+   "children": [],
+   "end": "1098.680",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "And I know there are some in our party that disagree with that sentiment."
+   ]
+  },
+  {
+   "begin": "1098.680",
+   "children": [],
+   "end": "1100.400",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "I supported the president."
+   ]
+  },
+  {
+   "begin": "1100.400",
+   "children": [],
+   "end": "1101.760",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "I thought he made the right decision to do so."
+   ]
+  },
+  {
+   "begin": "1101.760",
+   "children": [],
+   "end": "1109.840",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "I didn't think he necessarily made the right decision to take land troops off the table right before we committed ourselves offensively, but nevertheless, it worked."
+   ]
+  },
+  {
+   "begin": "1109.840",
+   "children": [],
+   "end": "1113.440",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "The administration deserves credit for having made it work."
+   ]
+  },
+  {
+   "begin": "1113.440",
+   "children": [],
+   "end": "1115.520",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "It is important for NATO to have it work."
+   ]
+  },
+  {
+   "begin": "1115.520",
+   "children": [],
+   "end": "1119.680",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "It's important for NATO to be strong and confident and to help keep the peace in Europe."
+   ]
+  },
+  {
+   "begin": "1119.680",
+   "children": [],
+   "end": "1130.200",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "And one of the reasons I felt so strongly that the United States needed to participate was because of our relations with NATO, and NATO is going to be an important part of keeping the peace in the future."
+   ]
+  },
+  {
+   "begin": "1130.200",
+   "children": [],
+   "end": "1133.160",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Now, there's more work to do."
+   ]
+  },
+  {
+   "begin": "1133.160",
+   "children": [],
+   "end": "1139.480",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "Remains to be seen, however, whether or not there's going to be a political settlement in Kosovo, and I certainly hope there is one."
+   ]
+  },
+  {
+   "begin": "1139.480",
+   "children": [],
+   "end": "1147.000",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "I\u00e2\u20ac\u2122m on record as saying at some point in time I hope our European friends become the peacekeepers in Bosnia and in the Balkans."
+   ]
+  },
+  {
+   "begin": "1147.000",
+   "children": [],
+   "end": "1155.920",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "I hope that they put the troops on the ground so that we can withdraw our troops and focus our military on fighting and winning war."
+   ]
+  },
+  {
+   "begin": "1155.920",
+   "children": [],
+   "end": "1162.760",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "Well, I've been kind of a hard-liner on this issue for more than eight years."
+   ]
+  },
+  {
+   "begin": "1162.760",
+   "children": [],
+   "end": "1169.680",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "When I was in the senate before I became vice president I was pushing for stronger action against Milosevic."
+   ]
+  },
+  {
+   "begin": "1169.680",
+   "children": [],
+   "end": "1172.120",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "He caused the death of so many people."
+   ]
+  },
+  {
+   "begin": "1172.120",
+   "children": [],
+   "end": "1183.240",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "He was the last communist party boss there and then he became a dictator that by some other label he was still essentially a communist dictator."
+   ]
+  },
+  {
+   "begin": "1183.240",
+   "children": [],
+   "end": "1187.880",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "And unfortunately now he is trying to reassert himself in Serbian politics."
+   ]
+  },
+  {
+   "begin": "1187.880",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "Already just today the members of his political party said that they were going to ignore the orders of the new president of Serbia, and that they"
+   ]
+  }
+ ]
+}

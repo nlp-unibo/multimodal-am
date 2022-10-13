@@ -1,0 +1,857 @@
+T1	Claim 1710 1719	Yes, I do
+T2	Claim 2053 2110	I can make American safer than President Bush has made us
+T3	Claim 2117 2177	I believe President Bush and I both love our country equally
+T4	Claim 2183 2258	we just have a different set of convictions about how you make America safe
+T5	Claim 2261 2368	I believe America is safest and strongest when we are leading the world and we are leading strong alliances
+T6	Premise 2371 2426	I'll never give a veto to any country over our security
+T7	Claim 2432 2471	I also know how to lead those alliances
+T8	Premise 2474 2531	This president has left them in shatters across the globe
+T9	Premise 2537 2611	we're now 90 percent of the casualties in Iraq and 90 percent of the costs
+T10	Claim 2614 2634	I think that's wrong
+T11	Claim 2640 2664	I think we can do better
+T12	Claim 2667 2709	I have a better plan for homeland security
+T13	Claim 2711 2769	I have a better plan to be able to fight the war on terror
+T14	Premise 2770 2799	by strengthening our military
+T15	Premise 2801 2831	strengthening our intelligence
+T16	Premise 2833 2882	by going after the financing more authoritatively
+T17	Premise 2884 2936	by doing what we need to do to rebuild the alliances
+T18	Premise 2938 2973	by reaching out to the Muslim world
+T19	Premise 2975 3014	which the president has almost not done
+T20	Premise 3020 3068	beginning to isolate the radical Islamic Muslims
+T21	Premise 3070 3120	not have them isolate the United States of America
+T22	Claim 3123 3159	I know I can do a better job in Iraq
+T23	Premise 3161 3214	I have a plan to have a summit with all of the allies
+T24	Premise 3216 3261	something this president has not yet achieved
+T25	Premise 3263 3315	not yet been able to do to bring people to the table
+T26	Claim 3318 3390	We can do a better job of training the Iraqi forces to defend themselves
+T27	Claim 3396 3457	I know that we can do a better job of preparing for elections
+T28	Claim 4489 4527	America and the world are safer for it
+T29	Premise 4447 4487	Saddam Hussein now sits in a prison cell
+T30	Claim 4714 4767	we're pursuing a strategy of freedom around the world
+T31	Premise 3819 3892	our nation has been on a multi-pronged strategy to keep our country safer
+T32	Premise 3736 3798	September the 11th changed how America must look at the world.
+T33	Claim 5165 5201	I don't believe it's going to happen
+T34	Claim 5203 5230	I believe I'm going to win,
+T35	Claim 5239 5282	the American people know I know how to lead
+T36	Claim 5284 5333	I've shown the American people I know how to lead
+T37	Premise 5345 5426	I understand everybody in this country doesn't agree with the decisions I've made
+T38	Claim 5432 5459	I made some tough decisions
+T39	Premise 5465 5490	people know where I stand
+T40	Claim 5493 5539	People out there listening know what I believe
+T41	Claim 3895 3946	We pursued Al Qaida wherever Al Qaida tries to hide
+T42	Claim 3948 4023	Seventy-five percent of known Al Qaida leaders have been brought to justice
+T43	Claim 4025 4063	The rest of them know we're after them
+T44	Premise 4181 4211	Taliban are no longer in power
+T45	Premise 4066 4170	We've upheld the doctrine that said if you harbor a terrorist, you're equally as guilty as the terrorist
+T46	Premise 4213 4308	Ten million people have registered to vote in Afghanistan in the upcoming presidential election
+T47	Premise 4311 4445	In Iraq, we saw a threat, and we realized that after September the 11th, we must take threats seriously, before they fully materialize
+T48	Claim 4529 4625	We continue to pursue our policy of disrupting those who proliferate weapons of mass destruction
+T50	Premise 4648 4697	The A.Q. Khan network has been brought to justice
+T51	Premise 4777 4821	I understand free nations will reject terror
+T52	Premise 4823 4889	Free nations will answer the hopes and aspirations of their people
+T53	Premise 4891 4946	Free nations will help us achieve the peace we all want
+T54	Claim 5545 5584	that's how best it is to keep the peace
+T55	Claim 5587 5660	This nation of ours has got a solemn duty to defeat this ideology of hate
+T56	Claim 5666 5686	that's what they are
+T57	Premise 5688 5771	This is a group of killers who will not only kill here, but kill children in Russia
+T58	Premise 5773 5834	that'll attack unmercifully in Iraq, hoping to shake our will
+T59	Claim 5837 5872	We have a duty to defeat this enemy
+T60	Claim 5874 5930	We have a duty to protect our children and grandchildren
+T61	Claim 5933 6106	The best way to defeat them is to never waver, to be strong, to use every asset at our disposal, is to constantly stay on the offensive and, at the same time, spread liberty
+T49	Premise 4628 4646	Libya has disarmed
+T62	Claim 6113 6174	that's what people are seeing now is happening in Afghanistan
+T63	Premise 6177 6221	Ten million citizens have registered to vote
+T64	Premise 6223 6250	It's a phenomenal statistic
+T65	Claim 6287 6317	they will show up at the polls
+T66	Premise 6257 6285	if given a chance to be free
+T67	Premise 6319 6366	Forty-one percent of those 10 million are women
+T68	Claim 6369 6407	In Iraq, no doubt about it, it's tough
+T70	Claim 6425 6445	It's incredibly hard
+T71	Premise 6469 6497	an enemy realizes the stakes
+T72	Premise 6499 6583	The enemy understands a free Iraq will be a major defeat in their ideology of hatred
+T73	Claim 6596 6628	they're fighting so vociferously
+T74	Claim 6631 6681	They showed up in Afghanistan when they were there
+T75	Premise 6691 6728	they tried to beat us and they didn't
+T76	Claim 6734 6780	they're showing up in Iraq for the same reason
+T77	Claim 6782 6809	They're trying to defeat us
+T78	Claim 6884 6909	we will defeat this enemy
+T79	Premise 6850 6882	if we remain strong and resolute
+T80	Claim 6837 6844	we lose
+T81	Premise 6816 6835	if we lose our will
+T82	Claim 7027 7086	I will hunt down and kill the terrorists, wherever they are
+T83	Premise 7127 7234	smart means not diverting your attention from the real war on terror in Afghanistan against Osama bin Laden
+T84	Premise 7239 7353	taking if off to Iraq where the 9/11 Commission confirms there was no connection to 9/11 itself and Saddam Hussein
+T85	Premise 7359 7459	where the reason for going to war was weapons of mass destruction, not the removal of Saddam Hussein
+T86	Claim 7462 7485;7504 7532	This president has made a colossal error of judgment
+T87	Premise 7538 7615	judgment is what we look for in the president of the United States of America
+T88	Premise 7618 7948	I'm proud that important military figures who are supporting me in this race: former Chairman of the Joint Chiefs of Staff John Shalikashvili; just yesterday, General Eisenhower's son, General John Eisenhower, endorsed me; General Admiral William Crown; General Tony McBeak, who ran the Air Force war so effectively for his father
+T89	Claim 8012 8027	they believe it
+T90	Claim 8036 8102	they know I would not take my eye off of the goal: Osama bin Laden
+T91	Premise 8105 8160	Unfortunately, he escaped in the mountains of Tora Bora
+T92	Premise 8162 8183	We had him surrounded
+T93	Premise 8189 8265	we didn't use American forces, the best trained in the world, to go kill him
+T94	Premise 8267 8337	The president relied on Afghan warlords and he outsourced that job too
+T95	Claim 8339 8351	That's wrong
+T96	Claim 8575 8662	he made the misjudgment of saying to America that he was going to build a true alliance
+T97	Claim 8669 8751	he would exhaust the remedies of the United Nations and go through the inspections
+T98	Premise 8763 8799	he first didn't even want to do that
+T99	Premise 8805 8988	it wasn't until former Secretary of State Jim Baker and General Scowcroft and others pushed publicly and said you've got to go to the U.N., that the president finally changed his mind
+T100	Premise 9066 9119	once there, we could have continued those inspections
+T101	Premise 9122 9151	We had Saddam Hussein trapped
+T102	Claim 9154 9219	He also promised America that he would go to war as a last resort
+T103	Premise 9222 9290	Those words mean something to me, as somebody who has been in combat
+T104	Premise 9292 9471	"Last resort." You've got to be able to look in the eyes of families and say to those parents, "I tried to do everything in my power to prevent the loss of your son and daughter."
+T105	Claim 9473 9515	I don't believe the United States did that
+T106	Premise 9522 9548	we pushed our allies aside
+T107	Claim 9559 9628	today, we are 90 percent of the casualties and 90 percent of the cost
+T108	Claim 9646 9785	$200 billion that could have been used for health care, for schools, for construction, for prescription drugs for seniors, and it's in Iraq
+T109	Claim 9792 9853	Iraq is not even the center of the focus of the war on terror
+T110	Claim 9855 9880	The center is Afghanistan
+T111	Premise 9903 9966	there were more Americans killed last year than the year before
+T112	Premise 9968 10040	where the opium production is 75 percent of the world's opium production
+T113	Premise 10042 10112	where 40 to 60 percent of the economy of Afghanistan is based on opium
+T114	Premise 10114 10165	where the elections have been postponed three times
+T115	Premise 10168 10302	The president moved the troops, so he's got 10 times the number of troops in Iraq than he has in Afghanistan, where Osama bin Laden is
+T116	Claim 10408 10476	Saddam Hussein more important than Osama bin Laden? I don't think so
+T117	Claim 10534 10649	My opponent looked at the same intelligence I looked at and declared in 2002 that Saddam Hussein was a grave threat
+T118	Premise 10651 10796	He also said in December of 2003 that anyone who doubts that the world is safer without Saddam Hussein does not have the judgment to be president
+T119	Claim 10817 10863	The world is better off without Saddam Hussein
+T120	Claim 10799 10815	I agree with him
+T121	Claim 10866 10899	I was hoping diplomacy would work
+T122	Claim 10901 10979	I understand the serious consequences of committing our troops into harm's way
+T123	Claim 10982 11025	It's the hardest decision a president makes
+T124	Claim 11030 11058	I went to the United Nations
+T125	Claim 11060 11120	I didn't need anybody to tell me to go to the United Nations
+T126	Claim 11122 11150	I decided to go there myself
+T127	Claim 11157 11283	I went there hoping that, once and for all, the free world would act in concert to get Saddam Hussein to listen to our demands
+T128	Premise 11285 11372	They passed the resolution that said, "Disclose, disarm, or face serious consequences."
+T129	Claim 11373 11444	I believe, when an international body speaks, it must mean what it says
+T130	Claim 11447 11491	Saddam Hussein had no intention of disarming
+T131	Premise 11508 11558	He had 16 other resolutions and nothing took place
+T132	Premise 11617 11682	The facts are that he was systematically deceiving the inspectors
+T133	Claim 11712 11859	That's kind of a pre-September 10th mentality, the hope that somehow resolutions and failed inspections would make this world a more peaceful place
+T134	Premise 11861 11889	He was hoping we'd turn away
+T135	Premise 11895 11979	there was fortunately others beside myself who believed that we ought to take action
+T136	Claim 11982 11988	We did
+T137	Claim 11990 12031	The world is safer without Saddam Hussein
+T138	Claim 12241 12279	we've got the capability of doing both
+T139	Premise 12302 12325	this is a global effort
+T140	Premise 12328 12434	We're facing a group of folks who have such hatred in their heart, they'll strike anywhere, with any means
+T141	Claim 12521 12635	it's essential that we make sure that we keep weapons of mass destruction out of the hands of people like Al Qaida
+T142	Claim 12656 12769	to say that there's only one focus on the war on terror doesn't really understand the nature of the war on terror
+T143	Claim 12782 12828	we're after Saddam Hussein -- I mean bin Laden
+T144	Premise 12830 12843	He's isolated
+T145	Premise 12845 12908	Seventy-five percent of his people have been brought to justice
+T146	Premise 12910 13005	The killer -- the mastermind of the September 11th attacks, Khalid Sheik Mohammed, is in prison
+T147	Claim 13008 13029	We're making progress
+T148	Claim 13036 13085	the front on this war is more than just one place
+T149	Claim 13087 13206	The Philippines -- we've got help -- we're helping them there to bring -- to bring Al Qaida affiliates to justice there
+T150	Claim 13281 13326	Zarqawi and his people are trying to fight us
+T151	Claim 13328 13373	Their hope is that we grow weary and we leave
+T152	Claim 13376 13445	The biggest disaster that could happen is that we not succeed in Iraq
+T153	Claim 13447 13462	We will succeed
+T154	Claim 13464 13489	We've got a plan to do so
+T155	Premise 13536 13562	the Iraqis want to be free
+T156	Premise 13565 13701	I had the honor of visiting with Prime Minister Allawi. He's a strong, courageous leader. He believes in the freedom of the Iraqi people
+T158	Claim 13806 13891	He believes, like I believe, that the Iraqis are ready to fight for their own freedom
+T159	Claim 13893 13930	They just need the help to be trained
+T160	Premise 13932 13966	There will be elections in January
+T161	Premise 13968 14003	We're spending reconstruction money
+T162	Claim 14009 14031	our alliance is strong
+T163	Claim 14068 14114	when Iraq if free, America will be more secure
+T164	Claim 14034 14061	That's the plan for victory
+T165	Claim 14232 14322	Iraq was not even close to the center of the war on terror before the president invaded it
+T166	Premise 14324 14499	The president made the judgment to divert forces from under General Tommy Franks from Afghanistan before the Congress even approved it to begin to prepare to go to war in Iraq
+T167	Claim 14506 14563	he rushed the war in Iraq without a plan to win the peace
+T168	Claim 14570 14646	that is not the judgment that a president of the United States ought to make
+T169	Claim 14648 14715	You don't take America to war unless have the plan to win the peace
+T170	Claim 14717 14783	You don't send troops to war without the body armor that they need
+T171	Premise 14786 14943	I've met kids in Ohio, parents in Wisconsin places, Iowa, where they're going out on the Internet to get the state-of-the-art body gear to send to their kids
+T172	Claim 14990 15010	I think that's wrong
+T173	Premise 14945 14987	Some of them got it for a birthday present
+T174	Premise 15012 15086	Humvees -- 10,000 out of 12,000 Humvees that are over there aren't armored
+T175	Premise 15092 15199	you go visit some of those kids in the hospitals today who were maimed because they don't have the armament
+T176	Claim 15202 15282	This president just -- I don't know if he sees what's really happened over there
+T177	Claim 15288 15317	it's getting worse by the day
+T178	Premise 15319 15359	More soldiers killed in June than before
+T179	Premise 15361 15383	More in July than June
+T180	Premise 15385 15409	More in August than July
+T181	Premise 15411 15443	More in September than in August
+T182	Premise 15450 15471	now we see beheadings
+T183	Premise 15477 15548	we got weapons of mass destruction crossing the border every single day
+T184	Premise 15554 15579	they're blowing people up
+T185	Premise 15585 15618	we don't have enough troops there
+T186	Claim 15768 15846	my opponent wants you to forget is that he voted to authorize the use of force
+T187	Claim 15855 15915	says it's the wrong war at the wrong time at the wrong place
+T188	Claim 15917 16023	I don't see how you can lead this country to succeed in Iraq if you say wrong war, wrong time, wrong place
+T189	Claim 16153 16262	the way to win this is to be steadfast and resolved and to follow through on the plan that I've just outlined
+T190	Claim 16312 16348	we have to be steadfast and resolved
+T191	Claim 16354 16358	I am
+T192	Claim 16364 16417	I will succeed for those troops, now that we're there
+T193	Claim 16419 16437	We have to succeed
+T194	Premise 16439 16467	We can't leave a failed Iraq
+T195	Claim 16473 16576	that doesn't mean it wasn't a mistake of judgment to go there and take the focus off of Osama bin Laden
+T196	Claim 16578 16584	It was
+T197	Claim 16591 16605	we can succeed
+T198	Claim 16611 16645	I don't believe this president can
+T199	Claim 16778 16808	America isn't doing this alone
+T200	Claim 16647 16774	I think we need a president who has the credibility to bring the allies back to the table and to do what's necessary to make it
+T201	Premise 17239 17428	what kind of mixed message does it send when you have $500 million going over to Iraq to put police officers in the streets of Iraq, and the president is cutting the COPS program in America
+T202	Premise 17430 17510	What kind of message does it send to be sending money to open firehouses in Iraq
+T203	Premise 17516 17587	we're shutting firehouses who are the first- responders here in America
+T204	Claim 17590 17728	The president hasn't put one nickel, not one nickel into the effort to fix some of our tunnels and bridges and most exposed subway systems
+T205	Premise 17741 17827	they had to close down the subway in New York when the Republican Convention was there
+T206	Claim 17829 17874	We hadn't done the work that ought to be done
+T207	Premise 17894 17989	95 percent of the containers that come into the ports, right here in Florida, are not inspected
+T208	Premise 17991 18084	Civilians get onto aircraft, and their luggage is X-rayed, but the cargo hold is not X- rayed
+T209	Claim 18130 18265	This president thought it was more important to give the wealthiest people in America a tax cut rather than invest in homeland security
+T210	Claim 18291 18328	I believe in protecting America first
+T211	Claim 18267 18289	Those aren't my values
+T212	Claim 18430 18470	I'm going to invest in homeland security
+T213	Claim 18475 18540	I'm going to make sure we're not cutting COPS programs in America
+T214	Claim 18545 18634	we're fully staffed in our firehouses and that we protect the nuclear and chemical plants
+T215	Premise 18637 18702	The president also unfortunately gave in to the chemical industry
+T216	Claim 18704 18798	which didn't want to do some of the things necessary to strengthen our chemical plant exposure
+T217	Claim 18805 18922	there's an enormous undone job to protect the loose nuclear materials in the world that are able to get to terrorists
+T218	Claim 19049 19153	the president will not secure the loose material in the Soviet Union -- former Soviet Union for 13 years
+T219	Claim 19155 19187	I'm going to do it in four years
+T220	Claim 19193 19246	we're going to keep it out of the hands of terrorists
+T221	Claim 19304 19380	I don't think we want to get to how he's going to pay for all these promises
+T222	Claim 19382 19406	It's like a huge tax gap
+T223	Claim 19443 19550	My administration has tripled the amount of money we're spending on homeland security to $30 billion a year
+T224	Claim 19645 19693	we could better coordinate our borders and ports
+T225	Claim 19553 19641	My administration worked with the Congress to create the Department of Homeland Security
+T226	Premise 19695 19753	We've got 1,000 extra border patrol on the southern border
+T227	Premise 19755 19788	want 1,000 on the northern border
+T228	Premise 19790 19819	We're modernizing our borders
+T229	Premise 19822 19877	We spent $3.1 billion for fire and police, $3.1 billion
+T230	Claim 19880 19923	We're doing our duty to provide the funding
+T231	Claim 19930 19993	the best way to protect this homeland is to stay on the offense
+T232	Claim 20006 20049	we have to be right 100 percent of the time
+T233	Claim 20055 20101	the enemy only has to be right once to hurt us
+T234	Claim 20164 20257	we've also changed the culture of the FBI to have counterterrorism as its number one priority
+T235	Claim 20259 20285	We're communicating better
+T236	Claim 20287 20390	We're going to reform our intelligence services to make sure that we get the best intelligence possible
+T237	Claim 20393 20417	The Patriot Act is vital
+T238	Claim 20421 20469	is vital that the Congress renew the Patriot Act
+T239	Claim 20476 20527	enables our law enforcement to disrupt terror cells
+T240	Claim 20573 20625	the best way to protection is to stay on the offense
+T241	Premise 20688 20743	The president just said the FBI had changed its culture
+T242	Premise 20745 20854	We just read on the front pages of America's papers that there are over 100,000 hours of tapes, unlistened to
+T243	Claim 20856 20920	On one of those tapes may be the enemy being right the next time
+T244	Claim 20926 20976	the test is not whether you're spending more money
+T245	Claim 20978 21045	The test is, are you doing everything possible to make America safe
+T246	Claim 21077 21102	America needed to be safe
+T247	Claim 21048 21075	We didn't need that tax cut
+T248	Claim 21122 21170	we're doing everything we can to protect America
+T249	Claim 21172 21234	I wake up every day thinking about how best to protect America
+T250	Premise 21251 21380	I work with Director Mueller of the FBI; comes in my office when I'm in Washington every morning, talking about how to protect us
+T251	Premise 21382 21439	There's a lot of really good people working hard to do so
+T252	Premise 21442 21456	It's hard work
+T253	Claim 21549 21661	you better have a president who chases these terrorists down and bring them to justice before they hurt us again
+T254	Claim 21842 21935	the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job
+T255	Claim 21941 21964	that's what we're doing
+T256	Premise 21966 21995	We've got 100,000 trained now
+T257	Premise 21997 22028	125,000 by the end of this year
+T258	Premise 22030 22061	200,000 by the end of next year
+T259	Claim 22063 22083	That is the best way
+T260	Claim 22085 22205	We'll never succeed in Iraq if the Iraqi citizens do not want to take matters into their own hands to protect themselves
+T261	Claim 22207 22229	I believe they want to
+T262	Premise 22231 22274	Prime Minister Allawi believes they want to
+T263	Claim 22460 22487	we've achieved an objective
+T264	Claim 22284 22343	the best indication about when we can bring our troops home
+T265	Claim 22491 22573	is to see the Iraqis perform and to see the Iraqis step up and take responsibility
+T266	Premise 22616 22743	When our general is on the ground and Ambassador Negroponte tells me that Iraq is ready to defend herself from these terrorists
+T267	Premise 22745 22787	that elections will have been held by then
+T268	Premise 22794 22842;22854 22874	their stability and that they're on their way to a nation that's free
+T269	Claim 22894 22925	I hope it's as soon as possible
+T270	Claim 22931 22977	I know putting artificial deadlines won't work
+T271	Claim 22979 23075	My opponent at one time said, "Well, get me elected, I'll have them out of there in six months."
+T272	Claim 23076 23129	You can't do that and expect to win the war on terror
+T273	Claim 23273 23321	we'll get you home as soon as the mission's done
+T274	Claim 23331 23354	this is a vital mission
+T275	Claim 23358 23406	A free Iraq will be an ally in the war on terror
+T276	Claim 23412 23428	that's essential
+T277	Claim 23430 23524	A free Iraq will set a powerful example in the part of the world that is desperate for freedom
+T278	Claim 23526 23561	A free Iraq will help secure Israel
+T279	Claim 23563 23650	A free Iraq will enforce the hopes and aspirations of the reformers in places like Iran
+T280	Claim 23652 23709	A free Iraq is essential for the security of this country
+T281	Premise 24427 24460	there was no viable exit strategy
+T282	Premise 24282 24353	the president's father did not go into Iraq, into Baghdad, beyond Basra
+T283	Premise 24466 24530	he said our troops would be occupiers in a bitterly hostile land
+T284	Claim 24533 24577	That's exactly where we find ourselves today
+T285	Claim 24229 24270	I believe there's a better way to do this
+T286	Claim 24190 24222	You've got to help us over there
+T287	Premise 23984 24188	I was in a rope line just the other day, coming out here from Wisconsin, a couple of young returnees were in the line, one active duty, one from the Guard. And they both looked at me and said: We need you
+T288	Claim 23878 23948	I believe those troops deserve better than what they are getting today
+T289	Claim 24579 24617	There's a sense of American occupation
+T290	Premise 24619 24708	The only building that was guarded when the troops when into Baghdad was the oil ministry
+T291	Premise 24710 24748	We didn't guard the nuclear facilities
+T292	Premise 24751 24859	We didn't guard the foreign office, where you might have found information about weapons of mass destruction
+T293	Premise 24861 24888	We didn't guard the borders
+T294	Claim 24891 24990	Almost every step of the way, our troops have been left on these extraordinarily difficult missions
+T295	Claim 25100 25146	I believe our troops need other allies helping
+T296	Claim 25148 25177	I'm going to hold that summit
+T297	Claim 25179 25258	I will bring fresh credibility, a new start, and we will get the job done right
+T298	Premise 25426 25461	My opponent says help is on the way
+T299	Premise 25467 25565	what kind of message does it say to our troops in harm's way, "wrong war, wrong place, wrong time"
+T300	Claim 25567 25607	Not a message a commander in chief gives
+T301	Claim 25612 25640	this is a "great diversion."
+T302	Premise 25674 25791	it's certainly hard to tell it when he voted against the $87-billion supplemental to provide equipment for our troops
+T303	Premise 25802 25861	said he actually did vote for it before he voted against it
+T304	Claim 25864 25932	Not what a commander in chief does when you're trying to lead troops
+T305	Claim 26082 26127	the president made a mistake in invading Iraq
+T306	Claim 25995 26076	when I talked about the $87 billion, I made a mistake in how I talk about the war
+T307	Claim 26145 26216	I believe that when you know something's going wrong, you make it right
+T308	Premise 26218 26250	That's what I learned in Vietnam
+T309	Claim 26252 26306	When I came back from that war I saw that it was wrong
+T310	Claim 26420 26461	I'm going to lead those troops to victory
+T311	Claim 26762 26847	they don't have to, providing we have the leadership that we put -- that I'm offering
+T312	Claim 26849 26883	I believe that we have to win this
+T313	Claim 26885 26930	The president and I have always agreed on tha
+T314	Claim 26957 26989	I did vote to give the authority
+T315	Premise 26999 27036	I thought Saddam Hussein was a threat
+T316	Premise 27042 27072	I did accept that intelligence
+T317	Premise 27079 27189	I also laid out a very strict series of things we needed to do in order to proceed from a position of strength
+T318	Premise 27191 27233	Then the president, in fact, promised them
+T319	Premise 27235 27319	He went to Cincinnati and he gave a speech in which he said, "We will plan carefully
+T320	Premise 27321 27347	We will proceed cautiously
+T321	Premise 27349 27380	We will not make war inevitable
+T322	Premise 27382 27408	We will go with our allies
+T323	Claim 27412 27444	He didn't do any of those things
+T324	Claim 27446 27473	They didn't do the planning
+T325	Claim 27475 27551	They left the planning of the State Department in the State Department desks
+T326	Claim 27553 27602	They avoided even the advice of their own general
+T327	Premise 27604 27705	General Shinsheki, the Army chief of staff, said you're going to need several hundred thousand troops
+T328	Premise 27707 27752	Instead of listening to him, they retired him
+T329	Premise 27754 27949	The terrorism czar, who has worked for every president since Ronald Reagan, said, "Invading Iraq in response to 9/11 would be like Franklin Roosevelt invading Mexico in response to Pearl Harbor."
+T330	Claim 27981 28106	what we need now is a president who understands how to bring these other countries together to recognize their stakes in this
+T331	Claim 28108 28133	They do have stakes in it
+T332	Claim 28135 28166	They've always had stakes in it
+T333	Claim 28169 28226	The Arab countries have a stake in not having a civil war
+T334	Claim 28228 28310	The European countries have a stake in not having total disorder on their doorstep
+T335	Claim 28317 28448	this president hasn't even held the kind of statesman-like summits that pull people together and get them to invest in those states
+T336	Claim 28459 28481	he's done the opposite
+T337	Claim 28483 28502	He pushed them away
+T338	Premise 28505 28613	When the Secretary General Kofi Annan offered the United Nations, he said, "No, no, we'll go do this alone."
+T339	Premise 28615 28812	To save for Halliburton the spoils of the war, they actually issued a memorandum from the Defense Department saying, "If you weren't with us in the war, don't bother applying for any construction."
+T340	Claim 28814 28847	That's not a way to invite people
+T341	Claim 28882 28903	That's totally absurd
+T342	Claim 28945 28978	we support the U.N. efforts there
+T343	Claim 29034 29076	they're now back in helping with elections
+T344	Claim 29078 29132	My opponent says we didn't have any allies in this war
+T345	Premise 29134 29161	What's he say to Tony Blair
+T346	Premise 29163 29211	What's he say to Alexander Kwasniewski of Poland
+T347	Claim 29213 29354	You can't expect to build an alliance when you denigrate the contributions of those who are serving side by side with American troops in Iraq
+T348	Claim 29363 29450	he says the cornerstone of his plan to succeed in Iraq is to call upon nations to serve
+T349	Claim 29615 29644	I know how these people think
+T350	Premise 29646 29675	I deal with them all the time
+T351	Premise 29677 29762	I sit down with the world leaders frequently and talk to them on the phone frequently
+T352	Claim 29764 29872	They're not going to follow somebody who says, "This is the wrong war at the wrong place at the wrong time."
+T353	Claim 29874 29978	They're not going to follow somebody who says this is the wrong war at the wrong place at the wrong time
+T354	Claim 29980 30084	They're not going to follow somebody whose core convictions keep changing because of politics in America
+T355	Claim 30100 30133	he says we ought to have a summit
+T356	Claim 30141 30169	there are summits being held
+T357	Premise 30171 30238	Japan is going to have a summit for the donors; $14 billion pledged
+T358	Premise 30244 30331	Prime Minister Koizumi is going to call countries to account, to get them to contribute
+T359	Premise 30338 30403	there's going to be an Arab summit, of the neighborhood countries
+T360	Premise 30409 30447	Colin Powell helped set up that summit
+T361	Premise 30488 30549	The United Nations, Kofi Annan offered help after Baghdad fel
+T362	Claim 30556 30666	we never picked him up on that and did what was necessary to transfer authority and to transfer reconstruction
+T363	Premise 30668 30694	It was always American-run
+T364	Premise 30706 30797	when we went in, there were three countries: Great Britain, Australia and the United States
+T365	Claim 30799 30827	That's not a grand coalition
+T366	Claim 30829 30845	We can do better
+T367	Premise 30911 30927	he forgot Poland
+T368	Premise 30933 31012	now there's 30 nations involved, standing side by side with our American troops
+T369	Claim 31048 31153	I don't appreciate it when a candidate for president denigrates the contributions of these brave soldiers
+T370	Claim 31156 31244	You cannot lead the world if you do not honor the contributions of those who are with us
+T371	Premise 31246 31283	He called them coerced and the bribed
+T372	Claim 31285 31325	That's not how you bring people together
+T373	Claim 31328 31351	Our coalition is strong
+T374	Claim 31353 31404	It will remain strong, so long as I'm the president
+T375	Claim 31458 31558	You have said there was a, quote, "miscalculation," of what the conditions would be in post-war Iraq
+T376	Claim 31653 31685	we achieved such a rapid victory
+T377	Claim 31687 31727	more of the Saddam loyalists were around
+T378	Claim 31729 31779	I mean, we thought we'd whip more of them going in
+T379	Premise 31793 31853	Tommy Franks did such a great job in planning the operations
+T380	Premise 31855 31871	we moved rapidly
+T381	Premise 31877 31957	a lot of the Baathists and Saddam loyalists laid down their arms and disappeared
+T382	Claim 32022 32045	we're fighting them now
+T383	Claim 32051 32065	it's hard work
+T384	Claim 32067 32094	I understand how hard it is
+T385	Premise 32096 32132	I get the casualty reports every day
+T386	Premise 32134 32172	I see on the TV screens how hard it is
+T387	Claim 32287 32315	I'm optimistic we'll achieve
+T388	Claim 32319 32367	I know we won't achieve if we send mixed signals
+T389	Claim 32369 32488	I know we're not going to achieve our objective if we send mixed signals to our troops, our friends, the Iraqi citizens
+T390	Premise 32518 32566	The plan says there will be elections in January
+T391	Premise 32587 32656	The plan says we'll train Iraqi soldiers so they can do the hard work
+T392	Claim 32675 32701	it's not only just America
+T393	Claim 32662 32668	we are
+T394	Claim 32572 32585	there will be
+T395	Premise 32707 32726	NATO is now helping
+T396	Premise 32728 32757	Jordan's helping train police
+T397	Premise 32759 32786	UAE is helping train police
+T398	Premise 32789 32863	We've allocated $7 billion over the next months for reconstruction efforts
+T399	Claim 32869 32896	we're making progress there
+T400	Claim 32903 32925	our alliance is strong
+T401	Premise 32951 32999	there's going to be a summit of the Arab nations
+T402	Premise 33001 33031	Japan will be hosting a summit
+T403	Claim 33033 33054	We're making progress
+T405	Claim 33074 33125	It is hard work to go from a tyranny to a democracy
+T406	Claim 33127 33244	It's hard work to go from a place where people get their hands cut off, or executed, to a place where people are free
+T407	Claim 33251 33270	it's necessary work
+T408	Claim 33276 33337	a free Iraq is going to make this world a more peaceful place
+T409	Claim 33393 33509	I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake
+T411	Premise 33742 33761	Those are his words
+T412	Claim 33768 33779	I would not
+T413	Claim 33948 34000	The president says that I'm denigrating these troops
+T414	Claim 34002 34056	I have nothing but respect for the British, Tony Blair
+T415	Premise 34062 34097	for what they've been willing to do
+T416	Claim 34324 34372	we have a genuine coalition to get this job done
+T417	Premise 34266 34317	below that, there isn't anybody out of the hundreds
+T418	Premise 34218 34260	below that the four others are below 4,000
+T419	Premise 34132 34212	the most troops any other country has on the ground is Great Britain, with 8,300
+T420	Premise 34398 34543	on the day that we went into that war and it started -- it was principally the United States, the America and Great Britain and one or two others
+T421	Claim 34560 34630	today, we are 90 percent of the casualties and 90 percent of the costs
+T422	Claim 34636 34682	meanwhile, North Korea has got nuclear weapons
+T423	Premise 34711 34797	The president is the one that said, "We can't allow countries to get nuclear weapons."
+T424	Claim 34798 34807	They have
+T425	Claim 34809 34825	I'll change that
+T157	Premise 13704 13803	He doesn't want U.S. leadership, however, to send mixed signals, to not stand with the Iraqi people
+T69	Claim 6409 6423	It's hard work
+T404	Claim 33057 33072	It is hard work
+T427	Claim 35290 35345	I think he has not been candid with the American people
+T426	Premise 35392 35502	we all know that in his state of the union message, he told Congress about nuclear materials that didn't exist
+T428	Premise 35518 35579	he promised America that he was going to build this coalition
+T429	Premise 35613 35705	It is not the kind of coalition we were described when we were talking about voting for this
+T430	Premise 35708 35822	The president said he would exhaust the remedies of the United Nations and go through that full process. He didn't
+T431	Premise 35824 35858	He cut if off, sort of arbitrarily
+T432	Premise 35927 36038	They just decided the time for diplomacy is over and rushed to war without planning for what happens afterwards
+T433	Claim 36046 36125	he misled the American people in his speech when he said we will plan carefully
+T434	Claim 36127 36148	They obviously didn't
+T435	Claim 36150 36224	He misled the American people when he said we'd go to war as a last resort
+T436	Claim 36226 36256	We did not go as a last resort
+T437	Premise 36262 36296	most Americans know the difference
+T438	Claim 36304 36340	this has cost us deeply in the world
+T439	Claim 36342 36413	I believe that it is important to tell the truth to the American people
+T440	Claim 36545 36579	I know what many of them say today
+T441	Claim 36585 36627	I know how to bring them back to the table
+T442	Premise 36415 36471	I've worked with those leaders the president talks about
+T443	Premise 36473 36539	I've worked with them for 20 years, for longer than this president
+T444	Premise 36811 36928	Osama bin Laden uses the invasion of Iraq in order to go out to people and say that America has declared war on Islam
+T445	Claim 36931 36987	We need to be smarter about now we wage a war on terror.
+T446	Claim 36988 37021	We need to deny them the recruits
+T447	Claim 37023 37059	We need to deny them the safe havens
+T448	Claim 37061 37093	We need to rebuild our alliances
+T449	Claim 37096 37180	I believe that Ronald Reagan, John Kennedy, and the others did that more effectively
+T450	Claim 37186 37231	I'm going to try to follow in their footsteps
+T451	Claim 37322 37413	He said Osama bin Laden uses the invasion of Iraq as an excuse to spread hatred for America
+T452	Claim 37415 37479	Osama bin Laden isn't going to determine how we defend ourselves
+T453	Claim 37481 37518	Osama bin Laden doesn't get to decide
+T454	Claim 37520 37546	The American people decide
+T455	Claim 37549 37587	I decided the right action was in Iraq
+T456	Claim 37589 37619	My opponent calls it a mistake
+T457	Claim 37621 37640	It wasn't a mistake
+T458	Premise 37643 37667	He said I misled on Iraq
+T459	Claim 37669 37755	I don't think he was misleading when he called Iraq a grave threat in the fall of 2002
+T460	Claim 37758 37857	I don't think he was misleading when he said that it was right to disarm Iraq in the spring of 2003
+T461	Claim 37860 37905	I don't think he misled you when he said that
+T462	Claim 37917 38041	anyone who doubted whether the world was better off without Saddam Hussein in power didn't have the judgment to be president
+T463	Claim 38043 38074	I don't think he was misleading
+T464	Claim 38077 38194	I think what is misleading is to say you can lead and succeed in Iraq if you keep changing your positions on this war
+T465	Claim 38208 38252	As the politics change, his positions change
+T466	Claim 38258 38298	that's not how a commander in chief acts
+T467	Claim 38652 38699	I wasn't misleading when I said he was a threat
+T468	Claim 38701 38772	Nor was I misleading on the day that the president decided to go to war
+T469	Claim 38773 38844	when I said that he had made a mistake in not building strong alliances
+T470	Claim 38854 38903	I would have preferred that he did more diplomacy
+T471	Claim 38958 38985	Saddam Hussein was a threat
+T472	Claim 38987 39077	There was a right way to disarm him and a wrong way. And the president chose the wrong way
+T473	Claim 39127 39212	The only thing consistent about my opponent's position is that he's been inconsistent
+T474	Claim 39214 39234	He changes positions
+T475	Claim 39240 39310	you cannot change positions in this war on terror if you expect to win
+T476	Claim 39316 39331	I expect to win
+T477	Claim 39333 39354	It's necessary we win
+T478	Claim 39357 39397	We're being challenged like never before
+T479	Claim 39403 39565	we have a duty to our country and to future generations of America to achieve a free Iraq, a free Afghanistan, and to rid the world of weapons of mass destruction
+T480	Claim 39783 39978	the hardest part of the job is to know that I committed the troops in harm's way and then do the best I can to provide comfort for the loved ones who lost a son or a daughter or a husband or wife
+T481	Claim 40401 40455	I thought her husband's sacrifice was noble and worthy
+T482	Premise 40465 40510	I understand the stakes of this war on terror
+T483	Premise 40512 40570	I understand that we must find Al Qaida wherever they hide
+T484	Premise 40573 40628	We must deal with threats before they fully materialize
+T485	Claim 40634 40661	Saddam Hussein was a threat
+T486	Claim 40672 40694	we must spread liberty
+T487	Claim 40703 40792	in the long run, the way to defeat hatred and tyranny and oppression is to spread freedom
+T488	Claim 40989 41010	I think it's worth it
+T489	Claim 41018 41039	I think it's worth it
+T490	Premise 41060 41201	I know in the long term a free Iraq, a free Afghanistan, will set such a powerful example in a part of the world that's desperate for freedom
+T491	Claim 41203 41232	It will help change the world
+T492	Claim 41239 41279	we can look back and say we did our duty
+T493	Claim 41320 41368	I understand what the president is talking about
+T494	Premise 41378 41423	I know what it means to lose people in combat
+T495	Claim 41562 41628	it is vital for us not to confuse the war, ever, with the warriors
+T496	Claim 41687 41720	I believe I can get this job done
+T497	Premise 41730 41835	I am determined for those soldiers and for those families, for those kids who put their lives on the line
+T498	Claim 41853 41900	That's the most noble thing that anybody can do
+T499	Claim 41906 41958	I want to make sure the outcome honors that nobility
+T500	Claim 41989 42055	I've laid out a plan by which I think we can be successful in Iraq
+T501	Premise 42057 42190	with a summit, by doing better training, faster, by cutting -- by doing what we need to do with respect to the U.N. and the elections
+T502	Premise 42241 42278	They can't have an election right now
+T503	Premise 42193 42239	There's only 25 percent of the people in there
+T504	Claim 42281 42321	The president's not getting the job done
+T505	Claim 42327 42407	the choice for America is, you can have a plan that I've laid out in four points
+T506	Claim 42574 42599	I think my plan is better
+T507	Claim 42606 42678	my plan has a better chance of standing up and fighting for those troops
+T508	Claim 42681 42715	I will never let those troops down
+T509	Claim 42721 42772	will hunt and kill the terrorists wherever they are
+T510	Claim 43033 43066	You cannot lead the war on terror
+T511	Premise 43067 43179	if you keep changing positions on the war on terror and say things like, "Well, this is just a grand diversion."
+T512	Claim 43180 43206	It's not a grand diversion
+T513	Claim 43208 43249	This is an essential that we get it right
+T514	Claim 43260 43301	the plan he talks about simply won't work
+T515	Claim 43687 43711	There's no inconsistency
+T516	Claim 43660 43685	that's what we have to do
+T517	Claim 43608 43653	you've got to fix it and do something with it
+T518	Claim 43555 43597	It's the wrong thing to do. But you own it
+T519	Premise 43518 43553	if you break it, you made a mistake
+T520	Premise 43409 43511	Secretary of State Colin Powell told this president the Pottery Barn rule: If you break it, you fix it
+T521	Claim 43713 43774	Soldiers know over there that this isn't being done right yet
+T522	Claim 43776 43820	I'm going to get it right for those soldiers
+T523	Premise 43830 43854	it's important to Israel
+T524	Premise 43856 43881	it's important to America
+T525	Premise 43883 43910	it's important to the world
+T526	Premise 43912 43949	it's important to the fight on terror
+T527	Claim 43956 43978	I have a plan to do it
+T528	Claim 43980 43990	He doesn't
+T529	Claim 44339 44390	I didn't say I would bring troops out in six months
+T530	Premise 44392 44513	I said, if we do the things that I've set out and we are successful, we could begin to draw the troops down in six months
+T531	Claim 44519 44682	I think a critical component of success in Iraq is being able to convince the Iraqis and the Arab world that the United States doesn't have long-term designs on it
+T532	Claim 44758 44820	some people say they've got a rather permanent concept to them
+T533	Premise 44705 44752	we're building some 14 military bases there now
+T534	Premise 44823 44854	When you guard the oil ministry
+T535	Premise 44860 44898	you don't guard the nuclear facilities
+T536	Claim 44900 44984	the message to a lot of people is maybe, "Wow, maybe they're interested in our oil."
+T537	Claim 44991 45058	the problem is that they didn't think these things through properly
+T538	Claim 45064 45110	these are the things you have to think through
+T539	Claim 45113 45167	What I want to do is change the dynamics on the ground
+T540	Claim 45173 45301	you have to do that by beginning to not back off of the Fallujahs and other places, and send the wrong message to the terrorists
+T541	Claim 45303 45332	You have to close the borders
+T542	Claim 45335 45383	You've got to show you're serious in that regard
+T543	Claim 45389 45489	you've also got to show that you are prepared to bring the rest of the world in and share the stakes
+T544	Claim 45522 45594	The United States of America has no long-term designs on staying in Iraq
+T545	Claim 45601 45825	our goal in my administration would be to get all of the troops out of there with a minimal amount you need for training and logistics as we do in some other countries in the world after a war to be able to sustain the peace
+T546	Claim 45832 45914	that's how we're going to win the peace, by rapidly training the Iraqis themselves
+T547	Claim 45917 45984	Even the administration has admitted they haven't done the training
+T548	Premise 45994 46088	they came back to Congress a few weeks ago and asked for a complete reprogramming of the money
+T549	Premise 46322 46399	There are 100,000 troops trained, police, guard, special units, border patrol
+T550	Premise 46401 46460	There's going to be 125,000 trained by the end of this year
+T551	Claim 46467 46493	we're getting the job done
+T552	Claim 46495 46509	It's hard work
+T553	Claim 46511 46541	Everybody knows it's hard work
+T554	Premise 46551 46604	there's a determined enemy that's trying to defeat us
+T555	Claim 46611 46682	my opponent says he's going to try to change the dynamics on the ground
+T556	Claim 46875 46964	You can't change the dynamics on the ground if you've criticized the brave leader of Iraq
+T557	Premise 46690 46872	Prime Minister Allawi was here. He is the leader of that country. He's a brave, brave man. When he came, after giving a speech to the Congress, my opponent questioned his credibility
+T558	Premise 46967 47046	One of his campaign people alleged that Prime Minister Allawi was like a puppet
+T559	Claim 47048 47150	That's no way to treat somebody who's courageous and brave, that is trying to lead his country forward
+T560	Claim 47153 47358	The way to make sure that we succeed is to send consistent, sound messages to the Iraqi people that when we give our word, we will keep our word, that we stand with you, that we believe you want to be free
+T561	Claim 47371 47446	I believe that 25 million people, the vast majority, long to have elections
+T562	Claim 47449 47469	I reject this notion
+T563	Claim 47513 47609	I reject the notion that some say that if you're Muslim you can't free, you don't desire freedom
+T564	Claim 47611 47650	I disagree, strongly disagree with that
+T565	Claim 47686 47767	I couldn't agree more that the Iraqis want to be free and that they could be free
+T566	Claim 47773 47865	I think the president, again, still hasn't shown how he's going to go about it the right way
+T567	Premise 47898 47985	Prime Minister Allawi came here, and he said the terrorists are pouring over the border
+T568	Premise 47987 48013	That's Allawi's assessment
+T569	Premise 48016 48188	The national intelligence assessment that was given to the president in July said, best-case scenario, more of the same of what we see today; worst-case scenario, civil war
+T570	Claim 48191 48206	I can do better
+T571	Claim 48279 48338	Prime Minister Allawi said they're coming across the border
+T572	Premise 48350 48412	he recognizes that this is a central part of the war on terror
+T573	Claim 48414 48433	They're fighting us
+T574	Premise 48442 48466	they're fighting freedom
+T575	Premise 48468 48554	They understand that a free Afghanistan or a free Iraq will be a major defeat for them
+T576	Claim 48560 48580	those are the stakes
+T577	Claim 48598 48626	it is essential we not leave
+T578	Claim 48639 48670	it's essential we hold the line
+T579	Claim 48683 48704	it's essential we win
+T580	Claim 48719 48774	Under my leadership we're going to win this war in Iraq
+T581	Claim 48974 49002	I would hope I never have to
+T582	Premise 49004 49048	I understand how hard it is to commit troops
+T583	Premise 49050 49079	Never wanted to commit troops
+T584	Premise 49171 49192	the enemy attacked us
+T585	Claim 49203 49292	I have a solemn duty to protect the American people, to do everything I can to protect us
+T586	Claim 49295 49429	I think that by speaking clearly and doing what we say and not sending mixed messages, it is less likely we'll ever have to use troops
+T587	Claim 49516 49558	I was hopeful diplomacy would work in Iraq
+T588	Premise 49582 49680	There was no doubt in my mind that Saddam Hussein was hoping that the world would turn a blind eye
+T589	Premise 49687 49856	if he had been in power, in other words, if we would have said, "Let the inspectors work, or let's, you know, hope to talk him out. Maybe an 18th resolution would work,"
+T590	Claim 49857 49896	he would have been stronger and tougher
+T591	Claim 49902 49943	the world would have been a lot worse off
+T592	Claim 49945 50032	There's just no doubt in my mind we would rue the day, had Saddam Hussein been in power
+T593	Claim 50038 50086	we use diplomacy every chance we get, believe me
+T594	Claim 50092 50131	I would hope to never have to use force
+T595	Claim 50138 50247	by speaking clearly and sending messages that we mean what we say, we've affected the world in a positive way
+T596	Premise 50265 50283	Libya was a threat
+T597	Premise 50285 50341	Libya is now peacefully dismantling its weapons programs
+T598	Premise 50344 50442	Libya understood that America and others will enforce doctrine and that the world is better for it
+T599	Claim 50473 50502	I would hope we never have to
+T600	Claim 50504 50596	I think by acting firmly and decisively, it will mean it is less likely we have to use force
+T601	Claim 50858 50889	Saddam Hussein didn't attack us
+T602	Claim 50891 50918	Osama bin Laden attacked us
+T603	Claim 50920 50940	Al Qaida attacked us
+T604	Premise 51123 51230	we didn't use the best trained troops in the world to go kill the world's number one criminal and terrorist
+T605	Premise 51233 51383	They outsourced the job to Afghan warlords, who only a week earlier had been on the other side fighting against us, neither of whom trusted each other
+T606	Claim 51386 51419	That's the enemy that attacked us
+T607	Claim 51558 51610	He also said Saddam Hussein would have been stronger
+T608	Claim 51612 51644	That is just factually incorrect
+T609	Premise 51421 51485	That's the enemy that was allowed to walk out of those mountains
+T610	Premise 51487 51555	That's the enemy that is now in 60 countries, with stronger recruits
+T611	Premise 51646 51714	Two-thirds of the country was a no-fly zone when we started this war
+T612	Claim 51716 51743	We would have had sanctions
+T613	Claim 51745 51782	We would have had the U.N. inspectors
+T614	Claim 51784 51836	Saddam Hussein would have been continually weakening
+T615	Claim 51839 52084	If the president had shown the patience to go through another round of resolution, to sit down with those leaders, say, "What do you need, what do you need now, how much more will it take to get you to join us?" we'd be in a stronger place today
+T616	Claim 52206 52382	to think that another round of resolutions would have caused Saddam Hussein to disarm, disclose, is ludicrous, in my judgment. It just shows a significant difference of opinion
+T617	Premise 52385 52403	We tried diplomacy
+T618	Claim 52405 52420	We did our best
+T619	Premise 52422 52455	He was hoping to turn a blind eye
+T620	Claim 52467 52520	he would have been stronger had we not dealt with him
+T621	Claim 52522 52561	He had the capability of making weapons
+T622	Claim 52567 52593	he would have made weapons
+T623	Claim 52638 52780	Thirty-five to forty countries in the world had a greater capability of making weapons at the moment the president invaded than Saddam Hussein
+T624	Claim 52786 53001	while he's been diverted, with 9 out of 10 active duty divisions of our Army, either going to Iraq, coming back from Iraq, or getting ready to go, North Korea's gotten nuclear weapons and the world is more dangerous
+T625	Claim 53003 53072	Iran is moving toward nuclear weapons and the world is more dangerous
+T626	Premise 53074 53095	Darfur has a genocide
+T627	Claim 53097 53124	The world is more dangerous
+T628	Claim 53126 53155	I'd have made a better choice
+T629	Claim 54657 54693	Iran and Iraq are now more dangerous
+T630	Claim 54697 54740	Iran and North Korea are now more dangerous
+T631	Claim 54843 54893	As president, I'll never take my eye off that ball
+T632	Premise 54895 55011	I've been fighting for proliferation the entire time -- anti-proliferation the entire time I've been in the Congress
+T633	Premise 55017 55113	we've watched this president actually turn away from some of the treaties that were on the table
+T634	Premise 55116 55284	You don't help yourself with other nations when you turn away from the global warming treaty, for instance, or when you refuse to deal at length with the United Nations
+T635	Claim 55322 55365	I think we have a lot of earning back to do
+T636	Claim 55526 55607	My attitude is you take preemptive action in order to protect the American people
+T637	Claim 55614 55658	you act in order to make this country secure
+T638	Claim 55661 55716	My opponent talks about me not signing certain treaties
+T639	Claim 55854 55902	I wouldn't join the International Criminal Court
+T640	Claim 55763 55839	I think it shows the difference of our opinion -- the difference of opinions
+T641	Premise 55904 56026	This is a body based in The Hague where unaccountable judges and prosecutors can pull our troops or diplomats up for trial
+T642	Claim 56057 56143	I understand that in certain capitals around the world that that wasn't a popular move
+T643	Claim 56149 56247	it's the right move not to join a foreign court that could -- where our people could be prosecuted
+T644	Claim 56250 56309	My opponent is for joining the International Criminal Court
+T645	Claim 56311 56374	I just think trying to be popular, kind of, in the global sense
+T646	Claim 56376 56423	if it's not in our best interest makes no sense
+T647	Claim 56425 56486	I'm interested in working with our nations and do a lot of it
+T648	Claim 56492 56558	I'm not going to make decisions that I think are wrong for America
+T649	Claim 56749 56773	North Korea, first, I do
+T650	Claim 57050 57150	I decided that a better way to approach the issue was to get other nations involved, just besides us
+T651	Premise 56920 57040	we signed an agreement with North Korea that my administration found out that was not being honored by the North Koreans
+T652	Premise 57156 57321	in Crawford, Texas, Jiang Zemin and I agreed that the nuclear-weapons-free peninsula, Korean Peninsula, was in his interest and our interest and the world's interest
+T653	Claim 57331 57432	we began a new dialogue with North Korea, one that included not only the United States, but now China
+T654	Premise 57438 57514	China's a got a lot of influence over North Korea, some ways more than we do
+T655	Premise 57526 57567	we included South Korea, Japan and Russia
+T656	Premise 57572 57635	now there are five voices speaking to Kim Jong Il, not just one
+T657	Claim 57645 57741	if Kim Jong Il decides again to not honor an agreement, he's not only doing injustice to America
+T658	Claim 57743 57784	he'd be doing injustice to China, as well
+T659	Claim 57791 57813	I think this will work
+T660	Claim 57815 57879	It's not going to work if we open up a dialogue with Kim Jong Il
+T661	Claim 57881 57903	Thatâ€™s what he wants
+T662	Claim 57905 58010	He wants to unravel the six- party talks, or the five-nation coalition that's sending him a clear message
+T663	Claim 58013 58153	On Iran, I hope we can do the same thing, continue to work with the world to convince the Iranian mullahs to abandon their nuclear ambitions
+T664	Claim 58521 58546	we've got a good strategy
+T665	Premise 58418 58493	There's a special protocol recently been passed that allows for inspections
+T666	Premise 58396 58416	The IAEA is involved
+T667	Claim 58793 58828	I believe we could have done better
+T668	Claim 58830 59006	I think the United States should have offered the opportunity to provide the nuclear fuel, test them, see whether or not they were actually looking for it for peaceful purposes
+T669	Claim 59008 59089	If they weren't willing to work a deal, then we could have put sanctions together
+T670	Claim 59091 59116	The president did nothing
+T671	Premise 59118 59241	With respect to North Korea, the real story: We had inspectors and television cameras in the nuclear reactor in North Korea
+T672	Premise 59243 59303	Secretary Bill Perry negotiated that under President Clinton
+T673	Premise 59309 59341	we knew where the fuel rods were
+T674	Premise 59347 59388	we knew the limits on their nuclear power
+T675	Premise 59524 59602	The president reversed it publicly while the president of South Korea was here
+T676	Claim 59609 59689	the president of South Korea went back to South Korea bewildered and embarrassed
+T677	Premise 59698 59724	it went against his policy
+T678	Premise 59730 59798	for two years, this administration didn't talk at all to North Korea
+T679	Premise 59801 59926	While they didn't talk at all, the fuel rods came out, the inspectors were kicked out, the television cameras were kicked out
+T680	Premise 59932 60006	today, there are four to seven nuclear weapons in the hands of North Korea
+T681	Premise 60009 60048	That happened on this president's watch
+T682	Claim 60062 60164	I think, is one of the most serious, sort of, reversals or mixed messages that you could possibly send
+T683	Claim 60740 60807	The minute we have bilateral talks, the six-party talks will unwind
+T684	Claim 60809 60846	That's exactly what Kim Jong Il wants
+T685	Premise 60864 60917	the breach on the agreement was not through plutonium
+T686	Premise 60919 60973	The breach on the agreement is highly enriched uranium
+T687	Premise 60975 61006	That's what we caught him doing
+T688	Claim 61008 61050	That's where he was breaking the agreement
+T689	Claim 61073 61130	my opponent said where he worked to put sanctions on Iran
+T690	Claim 61134 61163	we've already sanctioned Iran
+T691	Claim 61165 61196	We can't sanction them any more
+T692	Claim 61198 61234	There are sanctions in place on Iran
+T693	Claim 61250 61378	we were a party to the convention -- to working with Germany, France and Great Britain to send their foreign ministers into Iran
+T694	Claim 61900 61949	Only the United States put the sanctions on alone
+T695	Claim 61995 62123	In order for the sanctions to be effective, we should have been working with the British, French and Germans and other countries
+T696	Claim 62129 62179	that's the difference between the president and me
+T697	Claim 62239 62284	with respect to Darfur, yes, it is a genocide
+T698	Claim 62340 62433	I think the reason that we're not saying send American troops in at this point is severalfold
+T699	Claim 62448 62535	we can do this through the African Union, providing we give them the logistical support
+T700	Claim 62537 62601	Right now all the president is providing is humanitarian support
+T701	Claim 62603 62631	We need to do more than that
+T702	Claim 62633 62706	They've got to have the logistical capacity to go in and stop the killing
+T703	Claim 62770 62854	I also believe that it is -- one of the reasons we can't do it is we're overextended
+T704	Premise 62899 62956	We've got Guards and Reserves who are doing double duties
+T705	Claim 62958 63014	We've got a backdoor draft taking place in America today
+T706	Premise 63016 63099	people with stop-loss programs where they're told you can't get out of the military
+T707	Premise 63101 63215	nine out of our 10 active duty divisions committed to Iraq one way or the other, either going, coming or preparing
+T708	Claim 63221 63285	this is the way the president has overextended the United States
+T709	Claim 63300 63429	in my plan, I add two active duty divisions to the United States Army, not for Iraq, but for our general demands across the globe
+T710	Claim 63431 63483	I also intend to double the number of special forces
+T711	Claim 63492 63577	we can do the job we need to do with respect fighting the terrorists around the world
+T712	Claim 63684 63795	as president, if it took American forces to some degree to coalesce the African Union, I'd be prepared to do it
+T713	Premise 63804 63839	we could never allow another Rwanda
+T714	Premise 63842 63890	It's a moral responsibility for us and the world
+T715	Premise 63958 64017	It was not my administration that put the sanctions on Iran
+T716	Premise 64019 64073	That happened long before I arrived in Washington, D.C
+T717	Claim 64076 64117	In terms of Darfur, I agree it's genocide
+T718	Premise 64123 64145	Colin Powell so stated
+T719	Claim 64559 64622	I agree with my opponent that we shouldn't be committing troops
+T720	Claim 64624 64678	We ought to be working with the African Union to do so
+T721	Claim 64682 64714	precisely what we did in Liberia
+T723	Premise 64716 64818	We helped stabilize the situation with some troops, and when the African Union came, we moved them out
+T722	Claim 65966 66005	he changes positions on the war in Iraq
+T724	Claim 66134 66176	You cannot lead if you send mixed messages
+T725	Premise 66178 66229	Mixed messages send the wrong signals to our troops
+T726	Premise 66231 66282	Mixed messages send the wrong signals to our allies
+T727	Premise 66284 66343	Mixed messages send the wrong signals to the Iraqi citizens
+T728	Premise 66556 66586	we change tactics when need to
+T729	Premise 66592 66619	we never change our beliefs
+T730	Premise 66621 66698	the strategic beliefs that are necessary to protect this country in the world
+T731	Claim 68077 68161	I worry about with the president is that he's not acknowledging what's on the ground
+T732	Claim 68163 68214	he's not acknowledging the realities of North Korea
+T733	Claim 68216 68323	he's not acknowledging the truth of the science of stem-cell research or of global warming and other issues
+T734	Claim 68432 68497	I fully agree that one should shift tactics, and we will, in Iraq
+T735	Claim 68499 68577	Our commanders have got all the flexibility to do what is necessary to succeed
+T736	Claim 68583 68666	what I won't do is change my core values because of politics or because of pressure
+T737	Claim 68786 68820	he cannot wilt under that pressure
+T738	Claim 68898 68928	I have no intention of wilting
+T739	Premise 68930 68958	I've never wilted in my life
+T740	Premise 68964 68993	I've never wavered in my life
+T741	Claim 68995 69036	I know exactly what we need to do in Iraq
+T742	Claim 69042 69073	my position has been consistent
+T743	Claim 69075 69101	Saddam Hussein is a threat
+T744	Claim 69103 69127	He needed to be disarmed
+T745	Claim 69129 69155	We needed to go to the U.N
+T746	Claim 69157 69251	The president needed the authority to use force in order to be able to get him to do something
+T747	Premise 69261 69304	he never did it without the threat of force
+T748	Claim 69311 69372	we didn't need to rush to war without a plan to win the peace
+T749	Claim 69612 69633	Nuclear proliferation
+T750	Premise 69635 69727	There's some 600-plus tons of unsecured material still in the former Soviet Union and Russia
+T751	Claim 69729 69815	At the rate that the president is currently securing it, it'll take 13 years to get it
+T752	Claim 69817 69844	I did a lot of work on this
+T753	Premise 69846 70002	I wrote a book about it several years ago -- six, seven years ago -- called "The New War," which saw the difficulties of this international criminal network
+T754	Claim 70238 70381	this president, I regret to say, has secured less nuclear material in the last two years since 9/11 than we did in the two years preceding 9/11
+T755	Claim 70459 70502	The president actually cut the money for it
+T756	Claim 70504 70572	You have to put the money into it and the funding and the leadership
+T757	Claim 70579 70658	part of that leadership is sending the right message to places like North Korea
+T758	Claim 70661 70771	Right now the president is spending hundreds of millions of dollars to research bunker-busting nuclear weapons
+T759	Claim 70773 70831	The United States is pursuing a new set of nuclear weapons
+T760	Premise 70888 71026	We're telling other people, "You can't have nuclear weapons," but we're pursuing a new nuclear weapon that we might even contemplate using
+T761	Claim 71049 71084	I'm going to shut that program down
+T762	Claim 71090 71184	we're going to make it clear to the world we're serious about containing nuclear proliferation
+T763	Claim 71191 71289	we're going to get the job of containing all of that nuclear material in Russia done in four years
+T764	Claim 71295 71384	we're going to build the strongest international network to prevent nuclear proliferation
+T765	Premise 71387 71477	This is the scale of what President Kennedy set out to do with the nuclear test ban treaty
+T766	Premise 71479 71511	It's our generation's equivalent
+T767	Claim 71517 71540	I intend to get it done
+T768	Claim 71601 71709	e've increased funding for dealing with nuclear proliferation about 35 percent since I've been the president
+T769	Claim 71775 71910	I agree with my opponent that the biggest threat facing this country is weapons of mass destruction in the hands of a terrorist network
+T770	Claim 71927 72019	proliferation is one of the centerpieces of a multi-prong strategy to make the country safer
+T771	Premise 72021 72098	My administration started what's called the Proliferation Security Initiative
+T772	Premise 72100 72219	Over 60 nations involved with disrupting the trans-shipment of information and/or weapons of mass destruction materials
+T773	Premise 72248 72279	We busted the A.Q. Khan network
+T774	Premise 72281 72382	This was a proliferator out of Pakistan that was selling secrets to places like North Korea and Libya
+T775	Premise 72384 72412	We convinced Libya to disarm
+T776	Claim 72414 72495	It's a central part of dealing with weapons of mass destruction and proliferation
+T777	Claim 72512 72600	another way to help protect America in the long run is to continue with missile defenses
+T778	Claim 72606 72704	we've got a robust research and development program that has been ongoing during my administration
+T779	Claim 72706 72771	We'll be implementing a missile-defense system relatively quickly
+T780	Claim 72778 72860	that is another way to help deal with the threats that we face in the 21st century
+T781	Claim 72863 72903	My opponent opposed the missile defenses
+T782	Claim 73594 73626	I'm going to do it in four years
+T783	Claim 73632 73705	I'm going to immediately set out to have bilateral talks with North Korea
+T784	Claim 73754 73846	I can't tell you how big a mistake I think that is, to have bilateral talks with North Korea
+T785	Claim 73848 73885	It's precisely what Kim Jong Il wants
+T786	Claim 73887 73933	It will cause the six-party talks to evaporate
+T787	Claim 73935 74052	It will mean that China no longer is involved in convincing, along with us, for Kim Jong Il to get rid of his weapons
+T788	Claim 74054 74083	It's a big mistake to do that
+T789	Claim 74085 74148	We must have China's leverage on Kim Jong Il, besides ourselves
+T790	Claim 74155 74229	if you enter bilateral talks, they'll be happy to walk away from the table
+T791	Claim 74231 74257	I don't think that'll work
+T792	Claim 74579 74600	I don't think it's OK
+T793	Claim 74624 74689	I think that there needs to be checks and balances in a democracy
+T794	Premise 74695 74769	made that very clear that by consolidating power in the central government
+T795	Claim 74771 74886	he's sending a signal to the Western world and United States that perhaps he doesn't believe in checks and balances
+T796	Claim 75139 75198	we need to be firm and resolved in bringing them to justice
+T797	Premise 74980 75082	they went through a horrible situation in Beslan, where these terrorists gunned down young school kids
+T798	Premise 74917 74961	he's also a strong ally in the war on terror
+T799	Claim 75305 75351	it's important that we do have a good relation
+T800	Premise 75361 75401	that enables me to better comment to him
+T801	Premise 75407 75468	to better to discuss with him, some of the decisions he makes
+T802	Claim 75484 75571	in this world, that it's important to establish good personal relationships with people
+T803	Premise 75580 75659	when you have disagreements, you're able to disagree in a way that is effective
+T804	Claim 75852 76079	I think it's very important for the American president, as well as other Western leaders, to remind him of the great benefits of democracy, that democracy will best help the people realize their hopes and aspirations and dreams
+T805	Claim 75795 75846	Vladimir is going to have to make some hard choices
+T806	Claim 75760 75793	Russia is a country in transition
+T807	Claim 76228 76324	I've had an extraordinary experience of watching up close and personal that transition in Russia
+T808	Premise 76334 76376	I was there right after the transformation
+T809	Premise 76382 76582	I was probably one of the first senators, along with Senator Bob Smith of New Hampshire, a former senator, to go down into the KGB underneath Treblinka Square and see reams of files with names in them
+T810	Claim 76720 76770	I think it goes beyond just the response to terror
+T811	Premise 76772 76822	Mr. Putin now controls all the television stations
+T812	Premise 76824 76869	His political opposition is being put in jail
+T813	Claim 76876 76980	I think it's very important to the United States, obviously, to have a working relationship that is good
+T814	Claim 76982 77020	This is a very important country to us
+T815	Claim 77022 77043	We want a partnership
+T816	Claim 77050 77090	we always have to stand up for democracy
+T817	Premise 77095 77175	George Will said the other day, "Freedom on the march; not in Russia right now."
+T818	Claim 77626 77672	We could have bilateral talks with Kim Jong Il
+T819	Claim 77678 77735	we can get those weapons at the same time as we get China
+T820	Premise 77745 77786	China has an interest in the outcome, too
+T821	Claim 78273 78311	that Saddam Hussein was a grave threat
+T822	Claim 78762 78798	he didn't go to war as a last resort
+T823	Claim 78805 78857	we have this incredible mess in Iraq -- $200 billion
+T824	Claim 78859 78934	It's not what the American people thought they were getting when they voted
+T825	Claim 79373 79496	we have a different set of convictions about how we make our country stronger here at home and respected again in the world
+T826	Claim 79982 80032	I will defend it as president of the United States
+T827	Premise 79931 79976	I defended this country as a young man in war
+T828	Claim 80039 80078	I have a difference with this president
+T829	Claim 80080 80174	I believe when we're strongest when we reach out and lead the world and build strong alliances
+T830	Premise 80177 80199	I have a plan for Iraq
+T831	Claim 80201 80231	I believe we can be successful
+T832	Claim 80295 80381	we need a fresh start, a new credibility, a president who can bring allies to our side
+T833	Claim 80384 80564	I also have a plan to win the war on terror, funding homeland security, strengthening our military, cutting our finances, reaching out to the world, again building strong alliances
+T834	Claim 80566 80612	 I believe America's best days are ahead of us
+T835	Claim 80621 80678	I believe that the future belongs to freedom, not to fear
+T836	Claim 81096 81188	If America shows uncertainty or weakness in this decade, the world will drift toward tragedy
+T837	Claim 81190 81247	That's not going to happen, so long as I'm your president
+T838	Claim 81250 81322	The next four years we will continue to strengthen our homeland defenses
+T839	Claim 81324 81378	We will strengthen our intelligence-gathering services
+T840	Claim 81380 81407	We will reform our military
+T841	Claim 81409 81451	The military will be an all-volunteer army
+T842	Claim 81454 81493	We will continue to stay on the offense
+T843	Claim 81544 81584	we do not have to face them here at home
+T844	Claim 81495 81540	We will fight the terrorists around the world
+T845	Claim 81587 81624	We'll continue to build our alliances
+T846	Claim 81626 81751	I'll never turn over America's national security needs to leaders of other countries, as we continue to build those alliances
+T847	Claim 81757 81789	we'll continue to spread freedom
+T848	Claim 81791 81841	I believe in the transformational power of liberty
+T849	Claim 81843 81901	I believe that the free Iraq is in this nation's interests
+T850	Claim 81903 81960	I believe a free Afghanistan is in this nation's interest
+T851	Claim 81967 82122	I believe both a free Afghanistan and a free Iraq will serve as a powerful example for millions who plead in silence for liberty in the broader Middle East
+T852	Claim 7952 8006	all believe I would make a stronger commander in chief
+T410	Premise 33515 33595	what he has said is that, even knowing there were no weapons of mass destruction
+T853	Premise 33597 33638	even knowing there was no imminent threat
+T854	Premise 33640 33690	even knowing there was no connection with Al Qaida
+T855	Claim 33692 33740	he would still have done everything the same way
+T856	Premise 56833 56914	the policy of this government was to have bilateral negotiations with North Korea
+T857	Claim 66350 66393	that's my biggest concern about my opponent
