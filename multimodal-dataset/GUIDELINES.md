@@ -49,7 +49,7 @@
     - a _splits_ subfolder containing the new audio files after 
       splitting into chunks
     - a version of the audio file __trim.wav_ corresponding to the trimmed version of the original 
-    - audio file, and the original audio file
+    - the original audio file
     
 - The dataset will be available in the following folder [MM-USElecDeb60to16](files/MM-USElecDeb60to16). 
 
