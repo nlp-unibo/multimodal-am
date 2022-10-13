@@ -17,7 +17,7 @@ The corpora can be retrieved from the following links:
 
 * UKDebates (in this repo is named as `arg_aaai2016`): http://argumentationmining.disi.unibo.it/aaai2016.html
 * M-Arg: https://github.com/rafamestre/m-arg_multimodal-argumentation-dataset
-* MM-USElecDeb60to16: the code to reproduce the dataset can be found in the [multimodal-dataset](multimoda-dataset)
+* MM-USElecDeb60to16: the code to reproduce the dataset can be found in the [multimodal-dataset](multimodal-dataset)
   folder. Information on the dataset and how to use the code to reproduce it can be found in the 
   [GUIDELINES.md](multimodal-dataset/GUIDELINES.md) file. 
 ## Displaying Configurations
