@@ -22,6 +22,9 @@ def youtube_download(id: list, link: list) -> None:
     map_debate_link = dict(zip(id, link))
     for doc, link in tqdm(map_debate_link.items()):
         audio_path = AUDIO_FILE_PATH + doc
+        if not os.path.exists('files/debates_audio_recordings'):
+            os.makedirs('files/debates_audio_recordings')
+
         os.makedirs(audio_path, exist_ok=False)
         filename = AUDIO_FILE_PATH + doc + "/full_audio.wav"
         ydl_opts = {
@@ -236,6 +239,8 @@ def generate_clips(id: list) -> None:
         DATASET_PATH = 'files/datasets/' + FOLDER_ID + '/dataset.csv'
         DATASET_CLIP_PATH = 'files/datasets/' + FOLDER_ID + '/dataset_clip.csv'
         FULL_AUDIO_PATH = 'files/debates_audio_recordings/' + FOLDER_ID + '/full_audio_trim.wav'
+        if not os.path.exists('files/audio_clips'):
+            os.makedirs('files/audio_clips')
         AUDIO_CLIPS_PATH = 'files/audio_clips/' + FOLDER_ID
         os.mkdir(AUDIO_CLIPS_PATH)
 
