@@ -222,7 +222,7 @@ def run_aeneas(id: list) -> None:
                 parts = filename.split('.')
                 if parts[-1] == 'wav' or parts[-1] == 'txt':
                     os.system("rm " + filename)
-        os.chdir('')
+        os.chdir('..')
 
 
 def generate_clips(id: list) -> None:
