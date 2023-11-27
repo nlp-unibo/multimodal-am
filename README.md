@@ -143,5 +143,6 @@ If using this dataset, please cite the following publication:
     publisher = "International Conference on Computational Linguistics",
     url = "https://aclanthology.org/2022.argmining-1.15",
     pages = "158--170"
+}
 
 ```
