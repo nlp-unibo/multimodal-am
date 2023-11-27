@@ -126,3 +126,22 @@ These scripts are found in `deasy-speech/runnables/other/`
 
 This repository contains experimental software and is published for the sole purpose of giving additional 
 background details on the respective publication.
+
+# Citing the work 
+If using this dataset, please cite the following publication:
+
+>    Eleonora Mancini, Federico Ruggeri, Andrea Galassi, and Paolo Torroni. 2022. Multimodal Argument Mining: A Case Study in Political Debates. In Proceedings of the 9th Workshop on Argument Mining, pages 158–170, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
+
+```
+@inproceedings{mancini-etal-2022-multimodal,
+    title = "Multimodal Argument Mining: A Case Study in Political Debates",
+    author = "Mancini, Eleonora  and Ruggeri, Federico  and Galassi, Andrea  and Torroni, Paolo",
+    booktitle = "Proceedings of the 9th Workshop on Argument Mining",
+    month = oct,
+    year = "2022",
+    address = "Online and in Gyeongju, Republic of Korea",
+    publisher = "International Conference on Computational Linguistics",
+    url = "https://aclanthology.org/2022.argmining-1.15",
+    pages = "158--170"
+
+```
